@@ -1,24 +1,22 @@
 ---
-title:          "Pharetra Massa Massa Ultricies Mi Nisl Tincidunt"
-date:           2023-01-21 00:01:00 +0800
-selected:       false
-pub:            "International Conference on Learning Representations (ICLR)"
+title:          "Study of air compressibility effects on the aerodynamic performance of the IEA-15 MW offshore wind turbine"
+date:           2023-04-15 00:01:00 +0800
+selected:       true
+pub:            "Energy Conversion and Management"
 pub_date:       "2023"
-semantic_scholar_id: 11ac0b5634a282f1a0da204b98e7473d8b480dfb  # use this to retrieve citation count
 abstract: >-
-  Photo by Dessy Dimcheva on Unsplash. Please keep the description of your publication as brief as possible. 1~2 sentences is ideal. Otherwise, it will look too noisy. This is a <strong>counterexample</strong> to show how the publication will look like when the abstract is too long.
-  The tangerine is a type of citrus fruit that is orange in color, that is considered either a variety of Citrus reticulata, the mandarin orange, or a closely related species, under the name Citrus tangerina, or yet as a hybrid (Citrus × tangerina) of mandarin orange varieties, with some pomelo contribution.
-  According to the Oxford English Dictionary (OED), the word "tangerine" was originally an adjective meaning "Of or pertaining to, or native of Tangier, a seaport in Morocco, on the Strait of Gibraltar" and "a native of Tangier." The name was first used for fruit coming from Tangier, Morocco, described as a mandarin variety. The OED cites this usage from Addison's The Tatler in 1710 with similar uses from the 1800s. The adjective was applied to the fruit, once known scientifically as "Citrus nobilis var. tangeriana" which grew in the region of Tangiers. This usage appears in the 1800s.
-
-cover:          /assets/images/covers/cover2.jpg
+  This study investigates the effects of air compressibility on the aerodynamic performance of the IEA-15 MW offshore wind turbine. We analyze how compressibility influences the flow field and aerodynamic loads at the blade tips where high rotational speeds occur. The research provides important insights for the design and optimization of large-scale offshore wind turbines operating under high tip-speed conditions.
+cover:          /assets/images/covers/ECM.jpg
 authors:
-  - Charles Green (MIT)*
-  - John Doe*
-  - Robert White
-  - James Wang
-  - Your Name#
+  - Jie Cao
+  - Zhaojie Qin
+  - Yiping Ju
+  - Yuanjun Chen
+  - Wen Zhong Shen
+  - Xin Shen
+  - Shitang Ke
 links:
-  Paper: https://www.biorxiv.org
-  Code: https://github.com
-  Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o
+  Paper: https://doi.org/10.1016/j.enconman.2023.116883
+  # Code: https://github.com/yourusername/compressibility-study
+  # Slides: /assets/slides/ecm_2023.pdf
 ---
