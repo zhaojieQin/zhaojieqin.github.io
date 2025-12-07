@@ -44,13 +44,13 @@ education:
 - name: Yangzhou University
   logo: /assets/images/badges/yangzhou.png
   position: M.S. in Wind Energy
-  date: Sep. 2021 - Ju. 2024
+  date: Sep. 2021 - Jun. 2024
 
-#experience:
-# - name: Kaiquan Pump company
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+ - name: Kaiquan Pump company
+   logo: /assets/images/badges/PKU_red.png
+   position: Research Intern
+   date: Jul. 2024 - Mar. 2025
 
 awards:
 - name: Award Name 2
