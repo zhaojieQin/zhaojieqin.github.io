@@ -6,7 +6,7 @@ pub:            "Ocean Engineering"
 pub_date:       "2023"
 abstract: >-
   This study investigates the aerodynamic performance and wake effects in offshore wind farm clusters. We analyze the complex interactions between multiple wind turbines and their impact on overall energy production efficiency. The research provides insights into optimizing wind farm layouts to minimize wake-induced power losses in offshore environments.
-cover:          /assets/images/covers/ocean_engineering_2023.jpg
+cover:          /assets/images/covers/OE.jpg
 authors:
   - Jie Cao
   - Zhaojie Qin
