@@ -11,7 +11,7 @@ cover:          /assets/images/covers/OE.jpg
 authors:
   - Jie Cao
   - Zhaojie Qin
-  - Xiaoxia Gao
+  - Xiang Gao
   - Tao Pu
   - Weijun Zhu
   - Shitang Ke
