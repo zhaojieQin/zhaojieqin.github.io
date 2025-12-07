@@ -11,7 +11,7 @@ cover:          /assets/images/covers/ECM.jpg
 authors:
   - Jie Cao
   - Zhaojie Qin
-  - Yiping Ju
+  - Yi Ju
   - Yuanjun Chen
   - Wen Zhong Shen
   - Xin Shen
