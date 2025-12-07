@@ -1,22 +1,22 @@
 ---
-title:          "Publication without cover image"
-date:           2023-01-1 00:01:00 +0800
-selected:       false
-pub:            "International Conference on Learning Representations (ICLR)"
-# pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+title:          "Study of aerodynamic performance and wake effects for offshore wind farm cluster"
+date:           2023-07-01 00:01:00 +0800
+selected:       true
+pub:            "Ocean Engineering"
 pub_date:       "2023"
-
 abstract: >-
-  When the cover image is not provided, it will generate a random colorful bubble images as the cover image using the <code>bubble_visual_hash.js</code> script.
-# cover:          /assets/images/covers/cover3.jpg
+  This study investigates the aerodynamic performance and wake effects in offshore wind farm clusters. We analyze the complex interactions between multiple wind turbines and their impact on overall energy production efficiency. The research provides insights into optimizing wind farm layouts to minimize wake-induced power losses in offshore environments.
+cover:          /assets/images/covers/ocean_engineering_2023.jpg
 authors:
-  - Your Name*#
-  - James Wang*
-  - Some Other Name
-  - John Doe
+  - Jie Cao
+  - Zhaojie Qin
+  - Xiaoxia Gao
+  - Tao Pu
+  - Weijun Zhu
+  - Shitang Ke
+  - Xin Shen
 links:
-  Code: https://github.com/luost26/bubble-visual-hash
-  Demo: https://luost26.github.io/bubble-visual-hash
+  Paper: https://doi.org/10.1016/j.oceaneng.2023.114639
+  # Code: https://github.com/yourusername/wind-farm-study
+  # Slides: /assets/slides/ocean_eng_2023.pdf
 ---
