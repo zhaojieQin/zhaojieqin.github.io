@@ -10,7 +10,7 @@ abstract: >-
 cover:          /assets/images/covers/OE.jpg
 authors:
   - Jie Cao
-  - **Zhaojie Qin**
+  - Zhaojie Qin
   - Xiaoxia Gao
   - Tao Pu
   - Weijun Zhu
