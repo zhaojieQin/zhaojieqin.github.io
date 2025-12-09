@@ -48,7 +48,7 @@ education:
 
 experience:
  - name: Kaiquan Pump company
-   logo: /assets/images/badges/PKU_red.png
+   #logo: /assets/images/badges/PKU_red.png
    position: CFD Engineer
    date: Jul. 2024 - Mar. 2025
 
