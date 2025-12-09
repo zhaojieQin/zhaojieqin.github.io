@@ -25,9 +25,15 @@ short_bio: >-
     A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
   </p>
   <p>
-    I am a PhD candidate in wind energy at Uppsala University, supervised by Professor Stefan Ivanell. My research focuses on wind farm wake modeling using GPU-accelerated Lattice Boltzmann Method (LBM) solvers, with emphasis on atmospheric boundary layer effects.
-    I earned my Master's degree in Power Engineering from Yangzhou University, where I specialized in wind energy and LBM applications for wake simulations. During my master's studies, I published two papers in JCR Q1 journals and received the National Scholarship for Graduate Students. Prior to joining Uppsala University in June 2025, I worked as a CFD engineer at Kaiquan Pump Industry.
-    My current work involves developing and applying VirtueFluids, an open-source GPU-based LBM solver, for large-scale wind farm simulations, aiming to advance understanding of wake dynamics and atmospheric interactions in wind energy systems.
+    I am a PhD candidate in wind energy at Uppsala University, supervised by Professor Stefan Ivanell. My research focuses on wind farm wake modeling using GPU-accelerated Lattice Boltzmann Method (LBM) solvers, with emphasis on atmospheric boundary layer effects.wind energy systems.
+  </p>
+  
+  <p>
+  I earned my Master's degree in Power Engineering from Yangzhou University, where I specialized in wind energy and LBM applications for wake simulations. During my master's studies, I published two papers in JCR Q1 journals and received the National Scholarship for Graduate Students. Prior to joining Uppsala University in June 2025, I worked as a CFD engineer at Kaiquan Pump Industry.
+  </p>
+
+  <p>
+  My current work involves developing and applying VirtueFluids, an open-source GPU-based LBM solver, for large-scale wind farm simulations, aiming to advance understanding of wake dynamics and atmospheric interactions in wind energy systems.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
