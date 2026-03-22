@@ -1,17 +1,16 @@
 ---
 layout: default
 ---
-<!– _layouts/papers.html –>
 <div class="papers-tracker">
 
 <div class="papers-header">
   <h1>📡 Paper Tracker</h1>
   <p class="papers-meta">
-    Auto-updated daily · 
+    Auto-updated daily ·
     {% if site.data.papers_meta %}
-      Last run: <strong>{{ site.data.papers_meta.last_updated }}</strong> · 
-      <strong>{{ site.data.papers.size }}</strong> papers archived
+      Last run: <strong>{{ site.data.papers_meta.last_updated }}</strong> ·
     {% endif %}
+    <strong>{{ site.data.papers | size }}</strong> papers archived
   </p>
 </div>
 
@@ -19,23 +18,9 @@ layout: default
   <input type="text" id="search" placeholder="🔍 Search title or abstract…">
   <select id="filterJournal">
     <option value="">All journals</option>
-    <option value="Physics of Fluids">Physics of Fluids</option>
-    <option value="Journal of Fluid Mechanics">Journal of Fluid Mechanics</option>
-    <option value="Renewable Energy">Renewable Energy</option>
-    <option value="Applied Energy">Applied Energy</option>
-    <option value="Journal of Fluids and Structures">Journal of Fluids and Structures</option>
-    <option value="International Journal of Heat and Fluid Flow">Int. J. Heat and Fluid Flow</option>
   </select>
   <select id="filterKeyword">
     <option value="">All keywords</option>
-    <option value="turbulence">turbulence</option>
-    <option value="wake">wake</option>
-    <option value="vortex">vortex</option>
-    <option value="renewable energy">renewable energy</option>
-    <option value="wind turbine">wind turbine</option>
-    <option value="drag reduction">drag reduction</option>
-    <option value="heat transfer">heat transfer</option>
-    <option value="fluid structure interaction">fluid structure interaction</option>
   </select>
   <span id="count" class="papers-count"></span>
 </div>
@@ -45,7 +30,6 @@ layout: default
 </div>
 
 <script>
-// Inject Jekyll data into JS
 const PAPERS = [
   {% for paper in site.data.papers %}
   {
@@ -61,6 +45,25 @@ const PAPERS = [
   {% endfor %}
 ];
 
+// ── 动态生成期刊和关键词下拉选项 ──────────────────────
+const journals = [...new Set(PAPERS.map(p => p.journal))].sort();
+const keywords = [...new Set(PAPERS.flatMap(p => p.keywords_matched || []))].sort();
+
+const jSel = document.getElementById('filterJournal');
+journals.forEach(j => {
+  const o = document.createElement('option');
+  o.value = o.textContent = j;
+  jSel.appendChild(o);
+});
+
+const kSel = document.getElementById('filterKeyword');
+keywords.forEach(k => {
+  const o = document.createElement('option');
+  o.value = o.textContent = k;
+  kSel.appendChild(o);
+});
+
+// ── 渲染论文卡片 ──────────────────────────────────────
 function render(papers) {
   const container = document.getElementById('papers-list');
   document.getElementById('count').textContent = papers.length + ' results';
@@ -77,23 +80,23 @@ function render(papers) {
       <div class="paper-meta">${p.authors || 'Unknown authors'} · ${p.published}</div>
       <div class="paper-abstract">${p.abstract || ''}</div>
       <div class="paper-tags">
-        ${(p.keywords_matched||[]).map(k=>`<span class="paper-tag">${k}</span>`).join('')}
+        ${(p.keywords_matched || []).map(k => `<span class="paper-tag">${k}</span>`).join('')}
       </div>
     </div>
   `).join('');
 }
 
+// ── 筛选 ─────────────────────────────────────────────
 function filter() {
   const q = document.getElementById('search').value.toLowerCase();
   const j = document.getElementById('filterJournal').value;
   const k = document.getElementById('filterKeyword').value;
-  const res = PAPERS.filter(p => {
+  render(PAPERS.filter(p => {
     if (j && p.journal !== j) return false;
-    if (k && !(p.keywords_matched||[]).includes(k)) return false;
+    if (k && !(p.keywords_matched || []).includes(k)) return false;
     if (q && !(p.title + ' ' + p.abstract).toLowerCase().includes(q)) return false;
     return true;
-  });
-  render(res);
+  }));
 }
 
 document.getElementById('search').addEventListener('input', filter);
@@ -117,6 +120,7 @@ render(PAPERS);
   border-radius: 6px;
   font-size: 0.85rem;
   background: #fff;
+  color: #333;
 }
 .papers-filters input { min-width: 240px; }
 .papers-count { margin-left: auto; color: #888; font-size: 0.8rem; }
