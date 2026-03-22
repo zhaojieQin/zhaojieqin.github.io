@@ -48,7 +48,7 @@ JOURNALS = {
 }
 
 # 抓取最近多少天的文章（可通过环境变量 DAYS_BACK 覆盖）
-DAYS_BACK = int(os.environ.get("DAYS_BACK", "7"))
+DAYS_BACK = int(os.environ.get("DAYS_BACK", "30"))
 
 # 输出目录（GitHub Actions 中设置为 _data，本地测试默认当前目录）
 OUTPUT_DIR = Path(os.environ.get("OUTPUT_DIR", "_data"))
