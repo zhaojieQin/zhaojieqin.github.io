@@ -70,7 +70,7 @@ JOURNALS = {
 #  运行参数
 # ════════════════════════════════════════════════════════
 # 首次运行建议设 30，之后 Actions 每周跑自动改为 7
-DAYS_BACK       = int(os.environ.get("DAYS_BACK", "30"))
+DAYS_BACK       = int(os.environ.get("DAYS_BACK", "1"))
 OUTPUT_DIR      = Path(os.environ.get("OUTPUT_DIR", "_data"))
 MAX_PER_JOURNAL = 50
 MAX_ARCHIVE     = 500
