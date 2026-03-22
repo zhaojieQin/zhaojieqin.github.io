@@ -1,0 +1,156 @@
+---
+layout: default
+---
+<!– _layouts/papers.html –>
+<div class="papers-tracker">
+
+<div class="papers-header">
+  <h1>📡 Paper Tracker</h1>
+  <p class="papers-meta">
+    Auto-updated daily · 
+    {% if site.data.papers_meta %}
+      Last run: <strong>{{ site.data.papers_meta.last_updated }}</strong> · 
+      <strong>{{ site.data.papers.size }}</strong> papers archived
+    {% endif %}
+  </p>
+</div>
+
+<div class="papers-filters">
+  <input type="text" id="search" placeholder="🔍 Search title or abstract…">
+  <select id="filterJournal">
+    <option value="">All journals</option>
+    <option value="Physics of Fluids">Physics of Fluids</option>
+    <option value="Journal of Fluid Mechanics">Journal of Fluid Mechanics</option>
+    <option value="Renewable Energy">Renewable Energy</option>
+    <option value="Applied Energy">Applied Energy</option>
+    <option value="Journal of Fluids and Structures">Journal of Fluids and Structures</option>
+    <option value="International Journal of Heat and Fluid Flow">Int. J. Heat and Fluid Flow</option>
+  </select>
+  <select id="filterKeyword">
+    <option value="">All keywords</option>
+    <option value="turbulence">turbulence</option>
+    <option value="wake">wake</option>
+    <option value="vortex">vortex</option>
+    <option value="renewable energy">renewable energy</option>
+    <option value="wind turbine">wind turbine</option>
+    <option value="drag reduction">drag reduction</option>
+    <option value="heat transfer">heat transfer</option>
+    <option value="fluid structure interaction">fluid structure interaction</option>
+  </select>
+  <span id="count" class="papers-count"></span>
+</div>
+
+<div id="papers-list" class="papers-list"></div>
+
+</div>
+
+<script>
+// Inject Jekyll data into JS
+const PAPERS = [
+  {% for paper in site.data.papers %}
+  {
+    "journal":          {{ paper.journal | jsonify }},
+    "title":            {{ paper.title | jsonify }},
+    "doi":              {{ paper.doi | jsonify }},
+    "url":              {{ paper.url | jsonify }},
+    "abstract":         {{ paper.abstract | jsonify }},
+    "authors":          {{ paper.authors | jsonify }},
+    "published":        {{ paper.published | jsonify }},
+    "keywords_matched": {{ paper.keywords_matched | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+];
+
+function render(papers) {
+  const container = document.getElementById('papers-list');
+  document.getElementById('count').textContent = papers.length + ' results';
+  if (!papers.length) {
+    container.innerHTML = '<p class="papers-empty">No papers found for this filter.</p>';
+    return;
+  }
+  container.innerHTML = papers.map(p => `
+    <div class="paper-card">
+      <div class="paper-journal">${p.journal}</div>
+      <div class="paper-title">
+        <a href="${p.url}" target="_blank" rel="noopener">${p.title}</a>
+      </div>
+      <div class="paper-meta">${p.authors || 'Unknown authors'} · ${p.published}</div>
+      <div class="paper-abstract">${p.abstract || ''}</div>
+      <div class="paper-tags">
+        ${(p.keywords_matched||[]).map(k=>`<span class="paper-tag">${k}</span>`).join('')}
+      </div>
+    </div>
+  `).join('');
+}
+
+function filter() {
+  const q = document.getElementById('search').value.toLowerCase();
+  const j = document.getElementById('filterJournal').value;
+  const k = document.getElementById('filterKeyword').value;
+  const res = PAPERS.filter(p => {
+    if (j && p.journal !== j) return false;
+    if (k && !(p.keywords_matched||[]).includes(k)) return false;
+    if (q && !(p.title + ' ' + p.abstract).toLowerCase().includes(q)) return false;
+    return true;
+  });
+  render(res);
+}
+
+document.getElementById('search').addEventListener('input', filter);
+document.getElementById('filterJournal').addEventListener('change', filter);
+document.getElementById('filterKeyword').addEventListener('change', filter);
+
+render(PAPERS);
+</script>
+
+<style>
+.papers-tracker { max-width: 900px; margin: 0 auto; padding: 1rem 0; }
+.papers-header h1 { font-size: 1.6rem; margin-bottom: 0.3rem; }
+.papers-meta { color: #666; font-size: 0.85rem; margin-bottom: 1.5rem; }
+.papers-filters {
+  display: flex; flex-wrap: wrap; gap: 0.6rem;
+  margin-bottom: 1.5rem; align-items: center;
+}
+.papers-filters input, .papers-filters select {
+  padding: 0.45rem 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  background: #fff;
+}
+.papers-filters input { min-width: 240px; }
+.papers-count { margin-left: auto; color: #888; font-size: 0.8rem; }
+.papers-list { display: flex; flex-direction: column; gap: 1rem; }
+.paper-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 1.2rem 1.4rem;
+  background: #fff;
+  transition: box-shadow 0.15s, border-color 0.15s;
+}
+.paper-card:hover { border-color: #4a90d9; box-shadow: 0 2px 8px rgba(74,144,217,0.12); }
+.paper-journal {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #4a90d9;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+.paper-title { font-size: 0.97rem; font-weight: 600; margin-bottom: 0.35rem; line-height: 1.4; }
+.paper-title a { color: #1a1a2e; text-decoration: none; }
+.paper-title a:hover { color: #4a90d9; }
+.paper-meta { font-size: 0.75rem; color: #888; margin-bottom: 0.6rem; }
+.paper-abstract { font-size: 0.82rem; color: #555; line-height: 1.6; margin-bottom: 0.7rem; }
+.paper-tags { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+.paper-tag {
+  background: #eff6ff; color: #2563eb;
+  padding: 0.15rem 0.55rem;
+  border-radius: 4px; font-size: 0.7rem; font-weight: 500;
+}
+.papers-empty { color: #999; text-align: center; padding: 3rem; }
+@media (max-width: 600px) {
+  .papers-filters input { min-width: 100%; }
+  .papers-count { margin-left: 0; }
+}
+</style>
