@@ -2,7 +2,7 @@ name: Fetch Papers Daily
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # 每天 06:00 UTC = 北京时间 14:00
+    - cron: "0 1 * * *"   # 每天 01:00 UTC = 北京时间 09:00
   workflow_dispatch:
 
 permissions:
@@ -35,7 +35,7 @@ jobs:
             vortex,drag reduction,heat transfer,
             fluid structure interaction,
             renewable energy,ocean energy,tidal,wave energy
-          DAYS_BACK: "30"
+          DAYS_BACK: "7"
           OUTPUT_DIR: "_data"
         run: python fetch_papers.py
 
