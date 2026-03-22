@@ -34,6 +34,7 @@
     "published": "2026-03-19",
     "keywords_matched": [
       "turbulence",
+      "ABL",
       "vortex",
       "heat transfer"
     ]
@@ -214,6 +215,18 @@
     "url": "https://doi.org/10.5194/gmd-19-2111-2026",
     "abstract": "Abstract. Interactions between atmospheric chemical compounds and climate have a great impact on the earth system and atmospheric chemistry. However, the online two-way chemistry-climate coupled model, an indispensable tool for quantifying chemistry-climate interactions and projecting future air quality with climate change, remains sparse due to the considerable challenge in model complexity and computational resources. We present the development and evaluation of BCC-GEOS-Chem v2.0, which couples the GEOS-Chem chemical transport model (v14.0.1) with the Beijing Climate Centre Earth System Model (BCC-ESM). Based on the modular framework of BCC-GEOS-Chem v1.0, BCC-GEOS-Chem v2.0 further couples the Harmonized Emissions Component (HEMCO) to manage anthropogenic emission inventories and natur…",
     "authors": "Ruize Sun, Xiao Lu, Haipeng Lin, Tongwen Wu et al.",
+    "published": "2026-03-16",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Interannual Impact of the South Indian Ocean Subantarctic Front on Storm Track and the Mean‐Flow",
+    "doi": "10.1029/2025jd045901",
+    "url": "https://doi.org/10.1029/2025jd045901",
+    "abstract": "Abstract This study examines how the Subantarctic Front (SAF) in the South Indian Ocean (SIO) modulates storm track activity and the mean atmospheric circulation on interannual timescales, and elucidates the associated energy‐conversion pathways underlying midlatitude air–sea interactions. Based on 45 years (1979–2023) of ERA5 reanalysis, the SAF is identified from the meridional gradient of sea surface temperature (SST), and indices representing its intensity and latitudinal position are constructed. Lag‐regression analysis based on these new indices shows that anomalies in SAF intensity and position modulate lower‐tropospheric baroclinicity, thereby reorganizing the storm track activity. Diagnoses from the EAPE budget reveal that the dominant energy pathway follows the mean available pot…",
+    "authors": "Shiwu Zhu, Xuhua Cheng, Guidi Zhou, Jianhuang Qin",
     "published": "2026-03-16",
     "keywords_matched": [
       "ABL"
