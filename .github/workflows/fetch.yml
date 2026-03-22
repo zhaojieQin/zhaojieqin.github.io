@@ -3,7 +3,7 @@ name: Fetch Papers Daily
 on:
   schedule:
     - cron: "0 6 * * *"   # 每天 06:00 UTC = 北京时间 14:00
-  workflow_dispatch:       # 支持手动触发
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,7 +11,6 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -27,11 +26,17 @@ jobs:
       - name: Run paper fetcher
         env:
           KEYWORDS: >-
-            turbulence,wake,vortex,renewable energy,wind turbine,
-            drag reduction,heat transfer,fluid structure interaction,
-            ocean energy,tidal energy
-          DAYS_BACK: "7"
-          OUTPUT_DIR: "_data"   # ← 输出到 Jekyll 的 _data 目录
+            lattice boltzmann method,lattice boltzmann,LBM,
+            WRF,weather research and forecasting,
+            diurnal cycle,diurnal variation,
+            wind turbine,wind turbines,
+            wake,wind farm,wind energy,
+            turbulence,atmospheric boundary layer,ABL,
+            vortex,drag reduction,heat transfer,
+            fluid structure interaction,
+            renewable energy,ocean energy,tidal,wave energy
+          DAYS_BACK: "30"
+          OUTPUT_DIR: "_data"
         run: python fetch_papers.py
 
       - name: Write metadata
