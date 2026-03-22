@@ -1,0 +1,29 @@
+[
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Vortex interactions and wake transitions for flexible foil flapping in flowing soap film",
+    "doi": "10.1017/jfm.2026.11290",
+    "url": "https://doi.org/10.1017/jfm.2026.11290",
+    "abstract": "Understanding the vortex interactions and wake transitions for flapping flexible foils is important because of their increased usage in bioinspired aquatic and aerial robotic propulsors. Although wake transitions have been studied for rigid foils, we experimentally investigate how flexibility alters the transitions and vortex interactions for flexible foils, which are closer to the natural flapping foils in fish, birds and insects. We conduct the experiments in a flowing soap film on a pitching airfoil with a flexible filament at its trailing edge (TE). We find that, apart from the Strouhal number ( ${\\textit{St}}$ ), flexural rigidity ( ${\\textit{EI}}$ ) is important to determine the transitions. We vary ${\\textit{EI}}$ of the flexible filament by three orders of magnitude and also invest…",
+    "authors": "Sarthak K. Patel, Sachin Yashavant Shinde",
+    "published": "2026-03-19",
+    "keywords_matched": [
+      "wake",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Modulation of turbulence and heat transfer by finite-size particles in unstably stratified turbulent channel flows",
+    "doi": "10.1017/jfm.2026.11326",
+    "url": "https://doi.org/10.1017/jfm.2026.11326",
+    "abstract": "Direct numerical simulations of turbulent channel flows with thermally unstable stratification laden with finite-size particles are performed using the fictitious domain method. The effects of particle concentration, size and specific heat capacity on turbulence and heat transfer are investigated at the friction Reynolds number 180, the Prandtl number 0.7, the Richardson number 20 and both density ratio and thermal conductivity ratio being unity. The natural convection circulations in the unstable stratification case cause the occurrence of streamwise streaks of vortex, velocity and temperature. Compared with the neutral case, the particle-induced flow drag enhancement is more significant for the unstable stratification case, mainly because the particle-induced reduction in the fluid Reyno…",
+    "authors": "Peifei Fan, Yan Xia, Zhaowu Lin, Zhaosheng Yu",
+    "published": "2026-03-19",
+    "keywords_matched": [
+      "turbulence",
+      "vortex",
+      "heat transfer"
+    ]
+  }
+]
