@@ -1,35 +1,302 @@
 ---
 layout: default
 ---
-<div class="papers-tracker">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 
-<div class="papers-header">
-  <h1>📡 Paper Tracker</h1>
-  <p class="papers-meta">
-    Auto-updated daily ·
-    {% if site.data.papers_meta %}
-      Last run: <strong>{{ site.data.papers_meta.last_updated }}</strong> ·
-    {% endif %}
-    <strong>{{ site.data.papers | size }}</strong> papers archived
-  </p>
-</div>
+<style>
+:root {
+  --ink:    #1a1814;
+  --ink2:   #4a4640;
+  --ink3:   #8a8480;
+  --rule:   #e8e4de;
+  --paper:  #faf8f4;
+  --warm:   #f0ebe0;
+  --accent: #c0392b;
+  --accent2:#2980b9;
+  --gold:   #d4ac0d;
+  --mono:   'JetBrains Mono', monospace;
+  --serif:  'Lora', Georgia, serif;
+}
 
-<div class="papers-filters">
-  <input type="text" id="search" placeholder="🔍 Search title or abstract…">
-  <select id="filterJournal">
-    <option value="">All journals</option>
-  </select>
-  <select id="filterKeyword">
-    <option value="">All keywords</option>
-  </select>
-  <span id="count" class="papers-count"></span>
-</div>
+.pt-wrap {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2rem 1rem 4rem;
+  font-family: var(--serif);
+  color: var(--ink);
+}
 
-<div id="papers-list" class="papers-list"></div>
+/* ── Header ── */
+.pt-masthead {
+  border-top: 3px double var(--ink);
+  border-bottom: 1px solid var(--ink);
+  padding: 1.2rem 0 1rem;
+  margin-bottom: 1.6rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: .5rem;
+}
+.pt-masthead h1 {
+  font-family: var(--serif);
+  font-size: 1.9rem;
+  font-weight: 600;
+  letter-spacing: -.01em;
+  margin: 0;
+}
+.pt-masthead .pt-meta {
+  font-family: var(--mono);
+  font-size: .7rem;
+  color: var(--ink3);
+  text-align: right;
+}
+
+/* ── Tabs ── */
+.pt-tabs {
+  display: flex;
+  gap: 0;
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: 1.4rem;
+}
+.pt-tab {
+  padding: .55rem 1.2rem;
+  font-family: var(--mono);
+  font-size: .78rem;
+  color: var(--ink3);
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-bottom: none;
+  margin-bottom: -1px;
+  border-radius: 4px 4px 0 0;
+  transition: color .15s, background .15s;
+  user-select: none;
+}
+.pt-tab:hover { color: var(--ink); }
+.pt-tab.active {
+  color: var(--ink);
+  background: #fff;
+  border-color: var(--rule);
+  border-bottom-color: #fff;
+}
+.pt-tab-badge {
+  background: var(--accent);
+  color: #fff;
+  border-radius: 10px;
+  padding: 1px 6px;
+  font-size: .65rem;
+  margin-left: 4px;
+}
+
+/* ── Filters ── */
+.pt-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .55rem;
+  margin-bottom: 1.4rem;
+  align-items: center;
+}
+.pt-filters input,
+.pt-filters select {
+  font-family: var(--mono);
+  font-size: .75rem;
+  padding: .45rem .75rem;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: #fff;
+  color: var(--ink);
+  outline: none;
+  transition: border-color .15s;
+}
+.pt-filters input:focus,
+.pt-filters select:focus { border-color: var(--ink3); }
+.pt-filters input { min-width: 220px; }
+.pt-count {
+  margin-left: auto;
+  font-family: var(--mono);
+  font-size: .72rem;
+  color: var(--ink3);
+}
+
+/* ── Sort bar ── */
+.pt-sortbar {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  font-family: var(--mono);
+  font-size: .72rem;
+  color: var(--ink3);
+  align-items: center;
+}
+.pt-sortbar span { cursor: pointer; transition: color .15s; }
+.pt-sortbar span:hover { color: var(--ink); }
+.pt-sortbar span.active { color: var(--accent); font-weight: 600; }
+
+/* ── Cards ── */
+.pt-list { display: flex; flex-direction: column; gap: 0; }
+
+.pt-card {
+  border-bottom: 1px solid var(--rule);
+  padding: 1.1rem 0 1rem;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: .4rem 1rem;
+  animation: fadeUp .25s ease both;
+}
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: none; }
+}
+
+.pt-card-main { min-width: 0; }
+.pt-card-side {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: .5rem;
+  padding-top: .15rem;
+}
+
+.pt-journal {
+  font-family: var(--mono);
+  font-size: .65rem;
+  color: var(--accent2);
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  margin-bottom: .3rem;
+}
+.pt-title {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: .3rem;
+}
+.pt-title a { color: var(--ink); text-decoration: none; }
+.pt-title a:hover { color: var(--accent); }
+.pt-authors {
+  font-family: var(--mono);
+  font-size: .7rem;
+  color: var(--ink3);
+  margin-bottom: .5rem;
+}
+.pt-abstract {
+  font-size: .84rem;
+  color: var(--ink2);
+  line-height: 1.65;
+  margin-bottom: .6rem;
+  font-style: italic;
+}
+.pt-tags { display: flex; gap: .35rem; flex-wrap: wrap; }
+.pt-tag {
+  background: var(--warm);
+  color: var(--ink2);
+  padding: .15rem .55rem;
+  border-radius: 3px;
+  font-family: var(--mono);
+  font-size: .65rem;
+}
+.pt-date {
+  font-family: var(--mono);
+  font-size: .68rem;
+  color: var(--ink3);
+  white-space: nowrap;
+}
+
+/* ── Favorite button ── */
+.pt-fav {
+  background: none;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: .95rem;
+  transition: border-color .15s, background .15s;
+  flex-shrink: 0;
+}
+.pt-fav:hover { border-color: var(--gold); background: #fffbee; }
+.pt-fav.starred { border-color: var(--gold); background: #fffbee; }
+
+/* ── Empty state ── */
+.pt-empty {
+  text-align: center;
+  padding: 4rem 1rem;
+  font-family: var(--mono);
+  font-size: .82rem;
+  color: var(--ink3);
+}
+
+/* ── Stats strip ── */
+.pt-stats {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  padding: 1rem 0;
+  border-top: 1px solid var(--rule);
+  margin-top: 2rem;
+  font-family: var(--mono);
+  font-size: .72rem;
+  color: var(--ink3);
+}
+.pt-stats strong { color: var(--ink); }
+
+@media (max-width: 600px) {
+  .pt-card { grid-template-columns: 1fr; }
+  .pt-card-side { flex-direction: row; align-items: center; }
+  .pt-filters input { min-width: 100%; }
+  .pt-count { margin-left: 0; }
+}
+</style>
+
+<div class="pt-wrap">
+
+  <div class="pt-masthead">
+    <h1>Paper Tracker</h1>
+    <div class="pt-meta">
+      {% if site.data.papers_meta %}
+        Updated {{ site.data.papers_meta.last_updated }}<br>
+      {% endif %}
+      {{ site.data.papers | size }} papers archived
+    </div>
+  </div>
+
+  <!-- Tabs -->
+  <div class="pt-tabs">
+    <div class="pt-tab active" onclick="switchTab('all', this)">All papers</div>
+    <div class="pt-tab" onclick="switchTab('favs', this)">
+      Starred <span class="pt-tab-badge" id="fav-count">0</span>
+    </div>
+  </div>
+
+  <!-- Filters -->
+  <div class="pt-filters">
+    <input type="text" id="pt-search" placeholder="Search title or abstract…">
+    <select id="pt-journal"><option value="">All journals</option></select>
+    <select id="pt-keyword"><option value="">All keywords</option></select>
+    <span class="pt-count" id="pt-count"></span>
+  </div>
+
+  <!-- Sort -->
+  <div class="pt-sortbar">
+    Sort by:
+    <span class="active" data-sort="date" onclick="setSort(this)">Date ↓</span>
+    <span data-sort="journal" onclick="setSort(this)">Journal</span>
+    <span data-sort="title" onclick="setSort(this)">Title A–Z</span>
+  </div>
+
+  <!-- List -->
+  <div class="pt-list" id="pt-list"></div>
+
+  <!-- Stats -->
+  <div class="pt-stats" id="pt-stats"></div>
 
 </div>
 
 <script>
+/* ── Data injected by Jekyll ───────────────────────── */
 const PAPERS = [
   {% for paper in site.data.papers %}
   {
@@ -45,116 +312,125 @@ const PAPERS = [
   {% endfor %}
 ];
 
-// ── 动态生成期刊和关键词下拉选项 ──────────────────────
+/* ── State ─────────────────────────────────────────── */
+let currentTab  = 'all';
+let currentSort = 'date';
+let FAVS = new Set(JSON.parse(localStorage.getItem('pt_favs') || '[]'));
+
+function saveFavs() {
+  localStorage.setItem('pt_favs', JSON.stringify([...FAVS]));
+  document.getElementById('fav-count').textContent = FAVS.size;
+}
+
+function toggleFav(doi, btn) {
+  if (FAVS.has(doi)) { FAVS.delete(doi); btn.classList.remove('starred'); btn.title = 'Add to starred'; }
+  else               { FAVS.add(doi);    btn.classList.add('starred');    btn.title = 'Remove from starred'; }
+  saveFavs();
+  if (currentTab === 'favs') render();
+}
+
+/* ── Build filter dropdowns dynamically ────────────── */
 const journals = [...new Set(PAPERS.map(p => p.journal))].sort();
 const keywords = [...new Set(PAPERS.flatMap(p => p.keywords_matched || []))].sort();
 
-const jSel = document.getElementById('filterJournal');
-journals.forEach(j => {
-  const o = document.createElement('option');
-  o.value = o.textContent = j;
-  jSel.appendChild(o);
-});
+const jSel = document.getElementById('pt-journal');
+journals.forEach(j => { const o = document.createElement('option'); o.value = o.textContent = j; jSel.appendChild(o); });
 
-const kSel = document.getElementById('filterKeyword');
-keywords.forEach(k => {
-  const o = document.createElement('option');
-  o.value = o.textContent = k;
-  kSel.appendChild(o);
-});
+const kSel = document.getElementById('pt-keyword');
+keywords.forEach(k => { const o = document.createElement('option'); o.value = o.textContent = k; kSel.appendChild(o); });
 
-// ── 渲染论文卡片 ──────────────────────────────────────
-function render(papers) {
-  const container = document.getElementById('papers-list');
-  document.getElementById('count').textContent = papers.length + ' results';
-  if (!papers.length) {
-    container.innerHTML = '<p class="papers-empty">No papers found for this filter.</p>';
-    return;
-  }
-  container.innerHTML = papers.map(p => `
-    <div class="paper-card">
-      <div class="paper-journal">${p.journal}</div>
-      <div class="paper-title">
-        <a href="${p.url}" target="_blank" rel="noopener">${p.title}</a>
-      </div>
-      <div class="paper-meta">${p.authors || 'Unknown authors'} · ${p.published}</div>
-      <div class="paper-abstract">${p.abstract || ''}</div>
-      <div class="paper-tags">
-        ${(p.keywords_matched || []).map(k => `<span class="paper-tag">${k}</span>`).join('')}
-      </div>
-    </div>
-  `).join('');
-}
+/* ── Filter + sort ──────────────────────────────────── */
+function getFiltered() {
+  const q = document.getElementById('pt-search').value.toLowerCase();
+  const j = document.getElementById('pt-journal').value;
+  const k = document.getElementById('pt-keyword').value;
 
-// ── 筛选 ─────────────────────────────────────────────
-function filter() {
-  const q = document.getElementById('search').value.toLowerCase();
-  const j = document.getElementById('filterJournal').value;
-  const k = document.getElementById('filterKeyword').value;
-  render(PAPERS.filter(p => {
+  let list = currentTab === 'favs'
+    ? PAPERS.filter(p => FAVS.has(p.doi))
+    : PAPERS;
+
+  list = list.filter(p => {
     if (j && p.journal !== j) return false;
     if (k && !(p.keywords_matched || []).includes(k)) return false;
     if (q && !(p.title + ' ' + p.abstract).toLowerCase().includes(q)) return false;
     return true;
-  }));
+  });
+
+  if (currentSort === 'date')    list.sort((a, b) => b.published.localeCompare(a.published));
+  if (currentSort === 'journal') list.sort((a, b) => a.journal.localeCompare(b.journal));
+  if (currentSort === 'title')   list.sort((a, b) => a.title.localeCompare(b.title));
+  return list;
 }
 
-document.getElementById('search').addEventListener('input', filter);
-document.getElementById('filterJournal').addEventListener('change', filter);
-document.getElementById('filterKeyword').addEventListener('change', filter);
+/* ── Render ─────────────────────────────────────────── */
+function render() {
+  const papers    = getFiltered();
+  const container = document.getElementById('pt-list');
+  document.getElementById('pt-count').textContent = papers.length + ' results';
 
-render(PAPERS);
+  if (!papers.length) {
+    container.innerHTML = currentTab === 'favs'
+      ? '<div class="pt-empty">No starred papers yet.<br>Click ☆ on any paper to save it here.</div>'
+      : '<div class="pt-empty">No papers match this filter.</div>';
+    return;
+  }
+
+  container.innerHTML = papers.map((p, i) => {
+    const starred = FAVS.has(p.doi);
+    const tags    = (p.keywords_matched || []).map(k => `<span class="pt-tag">${k}</span>`).join('');
+    const abs     = p.abstract ? p.abstract.slice(0, 260) + (p.abstract.length > 260 ? '…' : '') : '';
+    return `
+    <div class="pt-card" style="animation-delay:${Math.min(i*0.03,0.4)}s">
+      <div class="pt-card-main">
+        <div class="pt-journal">${p.journal}</div>
+        <div class="pt-title"><a href="${p.url}" target="_blank" rel="noopener">${p.title}</a></div>
+        <div class="pt-authors">${p.authors || 'Unknown authors'}</div>
+        ${abs ? `<div class="pt-abstract">${abs}</div>` : ''}
+        <div class="pt-tags">${tags}</div>
+      </div>
+      <div class="pt-card-side">
+        <div class="pt-date">${p.published}</div>
+        <button class="pt-fav ${starred ? 'starred' : ''}"
+                title="${starred ? 'Remove from starred' : 'Add to starred'}"
+                onclick="toggleFav('${p.doi}', this)">
+          ${starred ? '★' : '☆'}
+        </button>
+      </div>
+    </div>`;
+  }).join('');
+
+  // Stats
+  const byJournal = {};
+  papers.forEach(p => { byJournal[p.journal] = (byJournal[p.journal] || 0) + 1; });
+  const topJ = Object.entries(byJournal).sort((a,b)=>b[1]-a[1]).slice(0,3)
+    .map(([j,n]) => `${j} (${n})`).join(' · ');
+  document.getElementById('pt-stats').innerHTML =
+    `<span>Showing <strong>${papers.length}</strong> papers</span>` +
+    `<span>Starred <strong>${FAVS.size}</strong></span>` +
+    `<span>Top journals: ${topJ}</span>`;
+}
+
+/* ── Tab switch ─────────────────────────────────────── */
+function switchTab(tab, el) {
+  currentTab = tab;
+  document.querySelectorAll('.pt-tab').forEach(t => t.classList.remove('active'));
+  el.classList.add('active');
+  render();
+}
+
+/* ── Sort ───────────────────────────────────────────── */
+function setSort(el) {
+  currentSort = el.dataset.sort;
+  document.querySelectorAll('.pt-sortbar span').forEach(s => s.classList.remove('active'));
+  el.classList.add('active');
+  render();
+}
+
+/* ── Init ───────────────────────────────────────────── */
+document.getElementById('pt-search').addEventListener('input', render);
+document.getElementById('pt-journal').addEventListener('change', render);
+document.getElementById('pt-keyword').addEventListener('change', render);
+
+saveFavs(); // init badge count
+render();
 </script>
-
-<style>
-.papers-tracker { max-width: 900px; margin: 0 auto; padding: 1rem 0; }
-.papers-header h1 { font-size: 1.6rem; margin-bottom: 0.3rem; }
-.papers-meta { color: #666; font-size: 0.85rem; margin-bottom: 1.5rem; }
-.papers-filters {
-  display: flex; flex-wrap: wrap; gap: 0.6rem;
-  margin-bottom: 1.5rem; align-items: center;
-}
-.papers-filters input, .papers-filters select {
-  padding: 0.45rem 0.75rem;
-  border: 1px solid #ddd;
-  border-radius: 6px;
-  font-size: 0.85rem;
-  background: #fff;
-  color: #333;
-}
-.papers-filters input { min-width: 240px; }
-.papers-count { margin-left: auto; color: #888; font-size: 0.8rem; }
-.papers-list { display: flex; flex-direction: column; gap: 1rem; }
-.paper-card {
-  border: 1px solid #e5e7eb;
-  border-radius: 8px;
-  padding: 1.2rem 1.4rem;
-  background: #fff;
-  transition: box-shadow 0.15s, border-color 0.15s;
-}
-.paper-card:hover { border-color: #4a90d9; box-shadow: 0 2px 8px rgba(74,144,217,0.12); }
-.paper-journal {
-  font-size: 0.7rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: #4a90d9;
-  font-weight: 600;
-  margin-bottom: 0.4rem;
-}
-.paper-title { font-size: 0.97rem; font-weight: 600; margin-bottom: 0.35rem; line-height: 1.4; }
-.paper-title a { color: #1a1a2e; text-decoration: none; }
-.paper-title a:hover { color: #4a90d9; }
-.paper-meta { font-size: 0.75rem; color: #888; margin-bottom: 0.6rem; }
-.paper-abstract { font-size: 0.82rem; color: #555; line-height: 1.6; margin-bottom: 0.7rem; }
-.paper-tags { display: flex; gap: 0.4rem; flex-wrap: wrap; }
-.paper-tag {
-  background: #eff6ff; color: #2563eb;
-  padding: 0.15rem 0.55rem;
-  border-radius: 4px; font-size: 0.7rem; font-weight: 500;
-}
-.papers-empty { color: #999; text-align: center; padding: 3rem; }
-@media (max-width: 600px) {
-  .papers-filters input { min-width: 100%; }
-  .papers-count { margin-left: 0; }
-}
-</style>
