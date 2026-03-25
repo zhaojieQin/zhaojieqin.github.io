@@ -1,6 +1,82 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Aerodynamic effects of rotor–rotor interaction on a twin-rotor system in ground effect",
+    "doi": "10.1017/jfm.2026.11347",
+    "url": "https://doi.org/10.1017/jfm.2026.11347",
+    "abstract": "This study experimentally investigates the aerodynamic effects of rotor–rotor interaction in a twin-rotor system operating in ground effect at a rotor-tip Reynolds number of $10^5$ . The strength of the ground effect and the rotor interaction were controlled by adjusting the normalised ground standoff distance and rotor separation distance, respectively. For the single-rotor configuration, ground proximity generated a stagnation region within the wake, redirecting axial momentum radially outward to form a wall jet. As the rotor approached the ground, the stagnation region moved closer to the rotor disk, increasing the thrust coefficient. In the widely spaced twin-rotor case, the opposing wall jets from both rotors converged on the ground to form a stagnation point. From this point, the flo…",
+    "authors": "Seungcheol Lee, Seokbong Chae, Yisu Shin, Jooha Kim",
+    "published": "2026-03-24",
+    "keywords_matched": [
+      "wake"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Effects of rotation on kinetic energy and enstrophy in Rayleigh–Taylor turbulence",
+    "doi": "10.1017/jfm.2026.11346",
+    "url": "https://doi.org/10.1017/jfm.2026.11346",
+    "abstract": "The study of rotating Rayleigh–Taylor (RT) turbulence is of fundamental significance for geophysical processes and certain engineering applications. This work systematically investigates the effects of rotation on RT turbulence using direct numerical simulation (DNS), focusing primarily on the generation of kinetic energy and enstrophy, as well as the scale-to-scale transfer of kinetic energy. Based on the DNS results, it is demonstrated that there is a notable delay and inhibition of the mixing layer growth with enhancing rotation (quantified as a decreasing Rossby number, $Ro$ ). That is, energy conversion efficiency drops substantially, from approximately $50\\,\\%$ in the non-rotating case $Ro = \\infty$ to only $10\\,\\%$ in the strong rotating case $Ro=0.1$ . This is because rotation ampl…",
+    "authors": "Xin Xu, Zhiye Zhao, Fenghui Lin, Chenyue Xie et al.",
+    "published": "2026-03-24",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Modification of turbulence by the movement of a spherical vortex",
+    "doi": "10.1017/jfm.2026.11270",
+    "url": "https://doi.org/10.1017/jfm.2026.11270",
+    "abstract": "This paper presents a theoretical and computational investigation into how a propagating three-dimensional vortex modifies ambient turbulence. Using rapid distortion theory and numerical simulations, the study explores both local and non-local changes in the external vorticity field resulting from fluid displacement and stretching. Cases involving structured and unstructured turbulence reveal that the vortex introduces permanent distortions along its path, and alters the far field turbulence through reflux effects. The findings extend classical models by quantifying the impact of vortex-induced strain and displacement on turbulence, offering new insights into turbulent–turbulent interfaces and the role of coherent structures in modulating external turbulent fields.",
+    "authors": "Ian Eames, Jan-Bert Flór",
+    "published": "2026-03-24",
+    "keywords_matched": [
+      "turbulence",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "The effects of section shape on the lift spectrum for a foil in turbulent flow",
+    "doi": "10.1017/jfm.2025.11059",
+    "url": "https://doi.org/10.1017/jfm.2025.11059",
+    "abstract": "The effects of section shape, specifically thickness and camber, on the lift spectrum for a foil immersed in a turbulent flow are analytically and experimentally investigated. The lift response functions to incident cross-stream vortices drifting along streamlines offset from the foil within two chord lengths are computed using an analytical solution to the Blasius force equation, achieved by way of using an expanded Joukowsky mapping function that can map a circle in the complex plane to any selected foil shape. The vortex lift responses are convolved with the vorticity wavenumber–frequency spectrum for a homogenous turbulent flow to compute the overall foil lift due to incident turbulence. Calculations of the lift spectra for a series of foils with increasing maximum thickness, NACA 651A…",
+    "authors": "Jason M. Anderson, Jonathan B. Forest",
+    "published": "2026-03-24",
+    "keywords_matched": [
+      "turbulence",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Limitations and Potential in Subseasonal Prediction of Antarctic Sea Ice Thickness for Thin Ice Regimes",
+    "doi": "10.1029/2025jd046173",
+    "url": "https://doi.org/10.1029/2025jd046173",
+    "abstract": "Abstract Subseasonal prediction systems based on coupled atmosphere‐ice‐ocean models are vital tools for polar environmental forecasting. However, their predictive skill for Antarctic sea ice thickness (SIT), which is a critical variable governing atmosphere‐ocean energy and mass exchange, remains inadequately assessed. In this study, we evaluated Antarctic SIT prediction skill in four dynamical systems (China Meteorological Administration, Environment and Climate Change Canada, European Centre for Medium‐Range Weather Forecasts, and Météo‐France) participating in the Subseasonal to Seasonal Prediction Project using the Soil Moisture and Ocean Salinity satellite‐derived thin SIT retrievals. Results indicate that dynamical systems show limited overall skill against observation‐based benchma…",
+    "authors": "Yifan Wang, Hao Luo, Yafei Nie, Yongwu Xiu et al.",
+    "published": "2026-03-24",
+    "keywords_matched": [
+      "ABL",
+      "ocean energy"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Impact of Non‐Orographic Gravity Waves on Transport and Mixing: Effects of Oblique Propagation and Coupling to Turbulence",
+    "doi": "10.1029/2025jd045270",
+    "url": "https://doi.org/10.1029/2025jd045270",
+    "abstract": "Abstract Gravity waves (GWs) are a fundamental driver of circulation, tracer transport, and mixing in the middle and upper atmosphere, but their treatment in global circulation models remains incomplete. In particular, standard parameterizations typically restrict propagation to the vertical and treat GW–turbulence interactions in only a rudimentary manner, potentially leading to systematic biases in simulated dynamics and transport. This manuscript uses the Multi‐Scale Gravity‐Wave Model (MS‐GWaM) implemented in Community Climate Icosahedral Nonhydrostatic Model UA‐ICON, together with a novel theoretical framework to quantify the impact of (a) oblique GW propagation and (b) explicit bidirectional coupling between GWs and turbulence. The Ensemble simulations for non‐orographic GWs reveal t…",
+    "authors": "T. Banerjee, Y. H. Kim, G. S. Voelker, S. Borchert et al.",
+    "published": "2026-03-24",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Streamwise evolution of drag-reduced turbulent boundary layer over a travelling wavy wall",
     "doi": "10.1017/jfm.2026.11306",
     "url": "https://doi.org/10.1017/jfm.2026.11306",
