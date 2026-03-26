@@ -1,6 +1,132 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Optimal three-dimensional perturbations in fluttering and non-fluttering bioprosthetic aortic valves",
+    "doi": "10.1017/jfm.2026.11350",
+    "url": "https://doi.org/10.1017/jfm.2026.11350",
+    "abstract": "This study examines the transition to turbulence downstream of fluttering and non-fluttering bioprosthetic aortic valves using global linear stability theory. During systole, increasing inflow velocities result in temporally evolving flow profiles downstream of the valve which are highly influenced by the leaflet kinematics. These profiles are time averaged at the sinotubular junction over successive windows and used as boundary conditions to obtain base flows for stability analysis. Three-dimensional global modes are computed for one design of each valve type across multiple time windows, revealing several unstable modes whose frequencies and growth rates increase over time. Notably, the non-fluttering valve exhibits higher growth rates than the fluttering valve. The resulting eigenspectr…",
+    "authors": "Karoline-Marie Bornemann, Mohammad Moniripiri, Dan S. Henningson, Dominik Obrist et al.",
+    "published": "2026-03-25",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Vortical similarities across laminar and turbulent extreme gust encounters",
+    "doi": "10.1017/jfm.2026.11364",
+    "url": "https://doi.org/10.1017/jfm.2026.11364",
+    "abstract": "This study uncovers a striking similarity between massively separated laminar and turbulent flows that develop over a square wing during extreme vortex gust encounters. The evolving large-scale, vortical core structures responsible for significant transient lift variations exhibit remarkable similarity across ${\\textit{Re}}=600$ and 10 000. The formation of these structures is attributed to a substantial gust-induced vorticity flux produced at the wing surface, resulting in shared large-scale topological features between the low- and high-Reynolds-number flows. Although fine-scale vortical structures quickly emerge in the ${\\textit{Re}}=$ 10 000 case, the large-scale structures identified by scale decomposition of the turbulent flow resemble those observed at ${\\textit{Re}}=600$ . These fi…",
+    "authors": "Hiroto Odaka, Barbara Lopez-Doriga, Kunihiko Taira",
+    "published": "2026-03-25",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Eddy thermal diffusivity model and mean temperature profiles in turbulent vertical convection",
+    "doi": "10.1017/jfm.2026.11343",
+    "url": "https://doi.org/10.1017/jfm.2026.11343",
+    "abstract": "In this paper, we propose a space-dependent eddy thermal diffusivity model for turbulent vertical natural convection in a fluid between two infinite vertical walls at different temperatures. Using this model, we derive analytical results for the mean temperature profile. Our results reveal that mean temperature profiles for different Rayleigh and Prandtl numbers are described by two universal scaling functions in the inner region next to the walls and the outer region near the centreline between the two walls, and the characteristic temperature scales in the inner and outer regions are expressed in terms of the two parameters of the model which determine the characteristic velocities for heat transfer in the two regions. We show that these results are in good agreement with direct numerica…",
+    "authors": "Ho Yin Ng, Emily S.C. Ching",
+    "published": "2026-03-25",
+    "keywords_matched": [
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On the compressible Beltramian vortex in a hemispherically bounded cyclonic flow field",
+    "doi": "10.1017/jfm.2026.11139",
+    "url": "https://doi.org/10.1017/jfm.2026.11139",
+    "abstract": "This work introduces closed-form solutions to describe the compressible, cyclonic motion evolving in a hemispherical chamber configuration. The analysis begins with an expansion of the compressible Bragg–Hawthorne equation in spherical coordinates. Our basic assumptions include an adiabatic and impermeable wall, a uniformly distributed stagnation enthalpy, a chamber mass balance in the equatorial plane and a vanishing centreline cross-flow velocity. Using a Rayleigh–Janzen expansion in the squared injection Mach number, the leading-order solution is seen to recover the problem’s incompressible profile as a limiting case. Meanwhile, the first-order compressible correction is shown to produce closed-form expressions for the velocity and vorticity fields, most thermodynamic properties, the lo…",
+    "authors": "Daniel S. Little, Joseph Majdalani",
+    "published": "2026-03-25",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Simulation of Water Vapor Transport to the Stratosphere by Overshooting Convection",
+    "doi": "10.1029/2025jd045083",
+    "url": "https://doi.org/10.1029/2025jd045083",
+    "abstract": "Abstract Deep convection that penetrates the tropopause (overshooting convection) transports water vapor and other tropospheric constituents to the upper troposphere and lower stratosphere (UTLS). Overshooting convection has chemical and radiative impacts on the UTLS, including the downward transport of ozone and hydration of the stratosphere. Currently, water vapor transport due to overshooting convection is not well quantified. In this study the Weather Research and Forecasting model (WRF) is used to simulate a Mesoscale Convective System (MCS) that formed on 9 June 2022 and produced multiple overshoots over the course of 12 hr, with radar echo tops reaching up to 5 km above the ERA5 tropopause. Observations from the NEXRAD radar system are used along with in situ aircraft measurements f…",
+    "authors": "Daniel R. Jellis, Kenneth P. Bowman, Anita D. Rapp, Christopher J. Nowotarski",
+    "published": "2026-03-25",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Identification of the Global Cloud‐Clear Sky Transition Zone and Its Shortwave Radiation Effects",
+    "doi": "10.1029/2025jd045352",
+    "url": "https://doi.org/10.1029/2025jd045352",
+    "abstract": "Abstract Atmospheric conditions are typically categorized as either clear‐sky or cloudy‐sky scenarios, yet a distinct Cloud‐Clear Sky Transition Zone (CCTZ) inherently exists. Current studies on CCTZ identification and its shortwave radiative effects remain constrained by limited applicability over land and insufficient consideration of cloud‐type differentiation. To bridge this gap, we integrated Moderate Resolution Imaging Spectroradiometer (MODIS) satellite observations (1 km spatial resolution) with radiative transfer modeling to develop a globally consistent CCTZ detection method applicable to both land and ocean. We subsequently analyzed its effects on direct and diffuse shortwave radiation across seven major cloud types. Key findings include: (a) The CCTZ exhibits a globally coheren…",
+    "authors": "Xinyu Yu, Qin Lang, Lunche Wang, Ming Zhang et al.",
+    "published": "2026-03-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Urban Impacts on Precipitation in the Greater Ho Chi Minh City Metropolitan Area, Vietnam",
+    "doi": "10.1029/2025jd045001",
+    "url": "https://doi.org/10.1029/2025jd045001",
+    "abstract": "Abstract Urban impacts on precipitation have been extensively studied in mid‐latitude developed countries. However, despite the recent rapid urban development, such studies focusing on Southeast Asian cities remain limited. This study evaluated urban impacts on precipitation in the Greater Ho Chi Minh City Metropolitan area (GHCM) by multi‐case numerical simulations using the Weather Research and Forecasting model (WRF) for 217 precipitation events during the rainy seasons from 2013 to 2022. We conducted each simulation with and without 2020 urban land use (URB and NO_URB), and under two different initial and boundary conditions to enhance the robustness of the results. Results show that daily precipitation over the central urban area was up to 30% greater in URB than in NO_URB, with stati…",
+    "authors": "Shun Hasebe, Hiroyuki Kusaka, Nobuyasu Suzuki, Thanh Ngo‐Duc",
+    "published": "2026-03-25",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Stable Isotope Record of Precipitation Dynamics in the Semi‐Arid Subtropics",
+    "doi": "10.1029/2025jd044431",
+    "url": "https://doi.org/10.1029/2025jd044431",
+    "abstract": "Abstract Global climate change is profoundly affecting precipitation patterns worldwide, including the exacerbation of aridity in dryland regions. Here, we examined the variability in rainfall stable hydrogen and oxygen isotope compositions ( δ 18 O and δ 2 H) at five locations in subtropical northwest Australia over 10 years (2015–2024) to better understand the mechanisms driving precipitation and to identify moisture sources. We found that precipitation with low δ 2 H and δ 18 O was predominantly observed during months with high rainfall, confirming the significant impact of the “amount effect” at most sites. δ 2 H and δ 18 O were positively correlated with the stratiform fraction of total precipitation, which indicates the importance of sub‐cloud evaporation losses during stratiform eve…",
+    "authors": "Chengwei Wan, Shawan Dogramaci, Jennifer Gleeson, Paul Hedley et al.",
+    "published": "2026-03-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Best practices in software development for robust and reproducible geoscientific models based on insights from the Global Carbon Budget's dynamic vegetation models",
+    "doi": "10.5194/gmd-19-2407-2026",
+    "url": "https://doi.org/10.5194/gmd-19-2407-2026",
+    "abstract": "Abstract. Computational models play an increasingly vital role in scientific research by enabling the numerical simulation of complex processes. Such models are also fundamental in geosciences. For instance, they offer critical insights into the impacts of global change on the Earth system today and in the future. Beyond their value as research tools, models are also software products and should therefore adhere to certain established software engineering standards. However, scientists are rarely trained as software developers, which can lead to potential deficiencies in software quality like unreadable, inefficient, or erroneous code. The complexity of models, coupled with their integration into broader workflows, also often makes it challenging to reproduce results, evaluate processes, a…",
+    "authors": "Konstantin Gregor, Benjamin F. Meyer, Tillmann Gaida, Victor Justo Vasquez et al.",
+    "published": "2026-03-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "The spatio-temporal visualization tool HMMLVis in  renewable energy applications",
+    "doi": "10.5194/gmd-19-2385-2026",
+    "url": "https://doi.org/10.5194/gmd-19-2385-2026",
+    "abstract": "Abstract. Understanding causal relationships in multivariate time series is essential across many scientific domains, especially in climatology and meteorology where complex dependencies drive extreme events. Existing tools often lack intuitive visualization, particularly for heterogeneous Granger causality applied to non-Gaussian data such as time series following exponential distributions. There is a need for an accessible, interpretable tool that helps scientists explore temporal dependencies and uncover causal structure in such settings. We present HMMLVis, an original visualization tool designed for multivariate and heterogeneous Granger causal inference (Heterogeneous Granger causality by Minimum Message Length). The tool supports causal discovery in time series with exponential dist…",
+    "authors": "Rainer Wöß, Kateřina Hlaváčková-Schindler, Irene Schicker, Petrina Papazek et al.",
+    "published": "2026-03-25",
+    "keywords_matched": [
+      "ABL",
+      "renewable energy"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Aerodynamic effects of rotor–rotor interaction on a twin-rotor system in ground effect",
     "doi": "10.1017/jfm.2026.11347",
     "url": "https://doi.org/10.1017/jfm.2026.11347",
