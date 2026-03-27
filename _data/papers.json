@@ -1,5 +1,42 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Revisiting the Inherent Assumptions Made When Heavy Water Isotopologues Are Used to Investigate Convective Heating Profiles",
+    "doi": "10.1029/2025jd045251",
+    "url": "https://doi.org/10.1029/2025jd045251",
+    "abstract": "Abstract Previous studies have demonstrated that we can use the depletion of heavy water isotopologues (HDO and O) within precipitation as proxies to the vertical profiles of convective heating. We further tested this using isotopic analysis of rainfall over the eastern Pacific during the OTREC2019 field campaign to determine if the vertical profile over the region is top‐ or bottom‐heavy. While a composite of the station observations within the domain shows results consistent with previous studies, there are significant spatial variations across individual stations. This is corroborated by isotope‐enabled Weather Research and Forecasting simulations that span the domain of the OTREC2019 field campaign. The trends of heavy‐isotope depletion are also not consistent even when we attempt to a…",
+    "authors": "N. Z. Wong, F. Lamraoui, A. M. Vesga‐Güiza, R. Sánchez‐Murillo et al.",
+    "published": "2026-03-26",
+    "keywords_matched": [
+      "weather research and forecasting",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Issue Information",
+    "doi": "10.1029/jgrd.70522",
+    "url": "https://doi.org/10.1029/jgrd.70522",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-03-26",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "The microbial community model MCoM 1.0: a scalable framework for modelling phototroph–heterotrophic interactions in diverse microbial communities",
+    "doi": "10.5194/gmd-19-2461-2026",
+    "url": "https://doi.org/10.5194/gmd-19-2461-2026",
+    "abstract": "Abstract. Microbial communities, comprising phototrophic and heterotrophic microorganisms, play a crucial role in global biogeochemical cycles. However, existing biogeochemical models rarely take into account the complex interactions between these groups, usually focusing on competition for resources instead. In this work, we introduce the Microbial Community Model (MCoM), a framework for simulating the dynamics of diverse microbial communities. MCoM incorporates a wide range of interactions, such as cross-feeding, metabolite effects, and competition for nutrients. The model differentiates between dissolved organic nutrients (DON) and carbon (DOC), accounts for phytoplankton and heterotrophic bacterial species-specific organic matter release and uptake profiles, and simulates the impacts o…",
+    "authors": "Leonhard Lücken, Michael J. Follows, Jason G. Bragg, Sinikka T. Lennartz",
+    "published": "2026-03-26",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Optimal three-dimensional perturbations in fluttering and non-fluttering bioprosthetic aortic valves",
     "doi": "10.1017/jfm.2026.11350",
@@ -123,6 +160,42 @@
     "keywords_matched": [
       "ABL",
       "renewable energy"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Non-monotonic ice-core thawing in a water pool driven by competition between anomaly-triggered chaotic flow and normal natural convection",
+    "doi": "10.1017/jfm.2026.11362",
+    "url": "https://doi.org/10.1017/jfm.2026.11362",
+    "abstract": "This study demonstrates a non-monotonic relation between pool temperature and thawing time for the ice-core thawing problem in a water pool. Numerical simulations reveal that this non-monotonicity arises from competing flow mechanisms from the non-Oberbeck–Boussinesq effect driven by the density-temperature anomaly at ${\\sim}4\\,^\\circ \\text{C}$ of water. The sides come from the anomaly-triggered chaotic flow and the normal natural convection stabilised by the buoyancy force. During the thawing process, the flow in the pool experiences a transient stable, an oscillatory, a transitional and the finally chaotic state over time. The pool size modulates the competition between chaotic flow and natural convection through the Rayleigh numbers with a critical value $\\varLambda _{c}$ . Within the c…",
+    "authors": "Hangyu Chen, Moran Wang",
+    "published": "2026-03-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Modelling and dynamics of axisymmetric thin liquid film flow along a conical surface",
+    "doi": "10.1017/jfm.2026.11317",
+    "url": "https://doi.org/10.1017/jfm.2026.11317",
+    "abstract": "This study focuses on the modelling and dynamics of gravity-driven, axisymmetric thin liquid film flow along a conical surface. Spatial linear stability analysis is performed on the basis of a Benney-type equation derived for the present configuration. In particular, streamwise curvature of the free surface is found to exert a crucial influence on the stability threshold. For simulations of surface waves, a second-order low-dimensional model is developed under the long-wave assumption, achieving accuracy comparable to direct numerical simulations at far lower cost. With this model, the characteristics of both linear and nonlinear waves are examined. A key difference from the flow over a flat plate is the dependence of the wave dynamics on the radial distance from the cone apex. At relative…",
+    "authors": "Longmin Tang, Guangzhao Zhou",
+    "published": "2026-03-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Distinguished regimes of 2-D internal gravity wave turbulence",
+    "doi": "10.1017/jfm.2026.11329",
+    "url": "https://doi.org/10.1017/jfm.2026.11329",
+    "abstract": "Using weak wave turbulence theory analysis, we distinguish three main regimes for two-dimensional (2-D) stratified fluids in the dimensionless parameter space defined by the Froude number and the Reynolds number: discrete wave turbulence, weak wave turbulence and strong nonlinear interaction. These regimes are investigated using direct numerical simulation (DNS) of the 2-D Boussinesq equations with shear modes removed. In the weak wave turbulence regime, excluding slow frequencies, we observe a spectrum that aligns with recent predictions from kinetic theory. This finding represents the first DNS-based confirmation of wave turbulence theory for internal gravity waves. At strong stratification, in both the weak and strong interaction regimes, we observe the formation of layers accompanied b…",
+    "authors": "Vincent Labarre, Michal Shavit",
+    "published": "2026-03-25",
+    "keywords_matched": [
+      "turbulence"
     ]
   },
   {
