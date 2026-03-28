@@ -1,5 +1,90 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Effect of salting-out on Marangoni spreading at a miscible interface",
+    "doi": "10.1017/jfm.2026.11181",
+    "url": "https://doi.org/10.1017/jfm.2026.11181",
+    "abstract": "Marangoni spreading is frequently observed in nature and is utilised in industrial processes, including contaminant removal, drug delivery, and fabrication of complex structures. The spreading of a hydrophilic organic droplet on the free surface of an aqueous solution represents a convenient reference process. Spreading on an infinitely miscible interface is known to reach a quasi-steady state, with the spreading diameter determined by molecular diffusion into the bulk. However, the coupled effects of the spreading flow, the interface’s solubility, and the evaporation of the volatile droplet are not well understood. In this work, we experimentally investigate the Marangoni spreading of a hydrophilic organic droplet on the surface of a saline solution. Widely available salts are often used …",
+    "authors": "Zeyu Kang, Ruiwen Huang, Yanru Huang, Yao Huang et al.",
+    "published": "2026-03-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Turbulent spots in hypersonic transitional planar and axisymmetric boundary layers",
+    "doi": "10.1017/jfm.2026.11377",
+    "url": "https://doi.org/10.1017/jfm.2026.11377",
+    "abstract": "Experiments were conducted to investigate the characteristics of turbulent spots formed in transitional boundary layers developed over a flat plate and an axisymmetric cone placed in similar hypersonic free-stream environment of Mach number 5.85. The free-stream unit Reynolds number in the present work varied in the range of $(3.0{-}6.0)\\times 10^6$ m −1 . Heat transfer measurement along the surface of both the test models was used to ascertain the state of boundary layer and to calculate the intermittency associated with the transitional boundary layer. Turbulent spots generated in the transitional boundary layer were characterised in terms of their leading–trailing-edge velocities, their streamwise length scales and their generation rates on both the test models. The leading edge of the …",
+    "authors": "Ankit Bajpai, Jagadeesh Gopalan",
+    "published": "2026-03-27",
+    "keywords_matched": [
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "The role of compressibility and vibrational excitation in hypersonic shock–turbulence interactions",
+    "doi": "10.1017/jfm.2026.11355",
+    "url": "https://doi.org/10.1017/jfm.2026.11355",
+    "abstract": "The interaction between turbulence and shock waves significantly modulates the frequency and amplitude of hydrodynamic fluctuations experienced by aerospace vehicles during low-altitude hypersonic flight. In these high-speed flows, intrinsic compressibility effects arise alongside high-enthalpy phenomena manifested through internal-energy excitation. The present study compares direct numerical simulation and linear interaction analysis (LIA) to characterise the influence of solenoidal and dilatational fluctuations, as well as endothermic processes, on a Mach 5 canonical shock–turbulence interaction (STI). Whilst the computational approach involves directly resolving all relevant length scales and potential nonlinear interactions, the LIA framework models the upstream compressible turbulenc…",
+    "authors": "Alberto Cuadra, Christopher Williams, Mario Di Renzo, César Huete",
+    "published": "2026-03-27",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "The influence of energy-containing scales on the distribution of spectral energy transfers",
+    "doi": "10.1017/jfm.2026.11357",
+    "url": "https://doi.org/10.1017/jfm.2026.11357",
+    "abstract": "We present computations of individual mode-to-mode energy transfers from direct numerical simulations of homogeneous isotropic turbulence. Unlike previous approaches based on shell-filtered velocity fields, this method distinguishes between the energy exchanged by each pair of modes within a triad. We introduce a potential function based on the energy content of the modes involved, and show that it predicts the distribution of intense energy transfers in the vicinity of the sampling mode considered. By performing simulations with forcing applied at intermediate wavenumbers, we demonstrate that the region of most intense transfers is determined by the spectral location of the energy-containing scales rather than by the local or non-local character of the triad. Direct energy exchanges with …",
+    "authors": "Arthur Couteau, Panayotis Dimopoulos Eggenschwiler, Patrick Jenny",
+    "published": "2026-03-27",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On internal wave whispering gallery modes in channels and critical-slope wave attractors",
+    "doi": "10.1017/jfm.2026.11356",
+    "url": "https://doi.org/10.1017/jfm.2026.11356",
+    "abstract": "Internal waves are an important feature of stratified fluids, both in oceanic and lake basins and in other settings. Many works have been published on the generic feature of internal wave trapping onto planar wave attractors and super-attractors in two and three dimensions and the exceptional class of standing global internal wave modes. However, most of these works did not deal with waves that escape trapping. By using continuous symmetries, we analytically prove the existence of internal wave whispering gallery modes (WGMs), internal waves that propagate continuously without getting trapped by attractors. The WGM’s neutral stability with respect to different perturbations enables whispering gallery beams, a continuum of rays propagating together coherently. The systems’ continuous symmet…",
+    "authors": "Nimrod Bratspiess, Leo Maas, Eyal Heifetz",
+    "published": "2026-03-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "An Evaluation of WRF‐Chem's Performance in Simulating PM2.5 in West African Cities",
+    "doi": "10.1029/2025jd045007",
+    "url": "https://doi.org/10.1029/2025jd045007",
+    "abstract": "Abstract West Africa experiences some of the highest particulate pollution levels globally due to Saharan dust, biomass burning and urban emissions. Despite the severe health burden, air quality monitoring remains sparse. This study evaluates WRF‐Chem's performance in simulating PM2.5 levels across seven West African cities in 2021 using newly available AirNow observational data sets. Results show that while the model effectively captures seasonal PM2.5 variability, it largely overestimates concentrations in northern landlocked cities during the dry season (November–April), including N’Djamena (mean bias (MB) = 86.2 ) and Bamako (MB = 102.3 ) due to excess dust, and underestimates PM2.5 in Lagos during the wet season (MB = −19.5 ), when dust contributions are minimal. Daily PM2.5 correlati…",
+    "authors": "Aara’L Y. Yarber, Gregory S. Jenkins",
+    "published": "2026-03-27",
+    "keywords_matched": [
+      "WRF",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "PM\n                    <sub>2.5</sub>\n                    assimilation within JEDI for NOAA's regional Air Quality Model (AQMv7): application to the September 2020 Western US wildfires",
+    "doi": "10.5194/gmd-19-2479-2026",
+    "url": "https://doi.org/10.5194/gmd-19-2479-2026",
+    "abstract": "Abstract. This paper describes efforts to establish aerosol data assimilation capabilities for NOAA's National Air Quality Forecasting Capability (NAQFC), a regional online air quality modeling (AQM) system under NOAA's Unified Forecast System (UFS), by assimilating measurements of fine particulate matter (PM2.5, particles with aerodynamic diameters less than 2.5 µm). PM2.5 assimilation is developed within the Joint Effort for Data assimilation Integration (JEDI) framework and tested using its 3D-Var data assimilation (DA) component. The PM2.5 observation operator is constructed by combining newly developed PM2.5 transformation recipes in the JEDI Variable Derivation Repository (VADER) with a general spatial interpolation operator in the Unified Forward Operator (UFO). Cycled DA and foreca…",
+    "authors": "Hongli Wang, Cory Martin, Jérôme Barré, Ruifang Li et al.",
+    "published": "2026-03-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Revisiting the Inherent Assumptions Made When Heavy Water Isotopologues Are Used to Investigate Convective Heating Profiles",
     "doi": "10.1029/2025jd045251",
