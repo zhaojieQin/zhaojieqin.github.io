@@ -1,5 +1,41 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Whole‐Atmospheric Version 1.0 of GAMIL (W‐GAMIL1.0): Description and Evaluation",
+    "doi": "10.1029/2025jd045495",
+    "url": "https://doi.org/10.1029/2025jd045495",
+    "abstract": "Abstract Based on the Grid‐point Atmospheric Model of the Institute of Atmospheric Physics LASG version 3 (GAMIL3) with 2° horizontal resolution, the whole‐atmospheric model named W‐GAMIL1.0, with a high top (approximately 0.01 hPa) and 137 vertical levels, was developed through modifying the standard stratification profile and interpolation method, incorporating non‐orographic gravity wave (NGW) parameterization schemes, and adjusting the convective processes for strong variability. Twenty‐six‐year Atmospheric Model Intercomparison Project integrations indicated that W‐GAMIL1.0 markedly improves the stratospheric dynamical variables owing to its high model lid and increased vertical resolution, including reductions in cold biases and dry biases in the tropic. When the frequency and accumu…",
+    "authors": "He Wang, Lijuan Li, Bin Wang, Ye Pu et al.",
+    "published": "2026-03-28",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "First Time‐Resolved Spectroscopic Observation of Upward Positive Leader Initiated From Tall Tower",
+    "doi": "10.1029/2025jd045621",
+    "url": "https://doi.org/10.1029/2025jd045621",
+    "abstract": "Abstract Using a slitless spectrograph operated at 14,400 frames per second (with a spatial resolution of 3.3 m per pixel), we recorded for the first time the time‐resolved spectra of an upward positive leader (UPL) from the 600‐m Canton Tower, together with synchronized current and electric field measurements. In this event, based on the evolution of ionic emissions, we divided the initial propagation of the UPL into three stages: (a) a neutral‐dominated heating stage lasting about 0.97 ms, during which the leader tip rose from 600 to 1,079 m AGL; (b) an ionization burst stage with detectable NII at the tip lasting about 1.11 ms, extending from 1,158 to 1,983 m AGL; and (c) an ionization decay stage starting at about 2,000 m AGL, during which singly ionized lines became undetectable again…",
+    "authors": "Weiqun Xu, Weitao Lyu, Xuejuan Wang, Qi Qi et al.",
+    "published": "2026-03-28",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Deforestation Impacts on Clouds and Precipitation Over Borneo Vary Across the Diurnal Cycle",
+    "doi": "10.1029/2025jd045524",
+    "url": "https://doi.org/10.1029/2025jd045524",
+    "abstract": "Abstract The impact of tropical deforestation on clouds and precipitation remains uncertain due to complex interactions between land and atmospheric processes on convective and mesoscales. Here, we examine convective‐scale processes controlling the short‐term atmospheric response to deforestation over Borneo using multi‐day large eddy simulations. Replacing tropical forests with oil palm plantations reduces surface roughness, leading to less efficient surface–atmosphere exchange, warmer soils, and a cooler but moister near‐surface atmosphere. To examine how this impacts cloud formation, we identify and track thousands of clouds to quantify shifts in tropical convection across the diurnal cycle. Overall, deforestation suppresses shallow‐to‐deep convective development, though the shallow cum…",
+    "authors": "G. Leung, S. C. van den Heever",
+    "published": "2026-03-28",
+    "keywords_matched": [
+      "diurnal cycle"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Effect of salting-out on Marangoni spreading at a miscible interface",
     "doi": "10.1017/jfm.2026.11181",
