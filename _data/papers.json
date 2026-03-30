@@ -1,5 +1,31 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Toward generalisable turbulence modelling via radial-basis-function-based corrections using data assimilation with fused multi-fidelity observations",
+    "doi": "10.1017/jfm.2026.11155",
+    "url": "https://doi.org/10.1017/jfm.2026.11155",
+    "abstract": "This paper employs the ensemble-based data assimilation method to develop a closed-form correction term for the Spalart–Allmaras (S–A) turbulence model to enhance predictive accuracy in separated flows through model-form uncertainty reduction. A compact radial-basis-function expression is proposed as correction model to supersede conventional modification procedures in classic field inversion and machine learning frameworks, achieving computational economy through spatially bounded correction regions. The correction model is derived via the Ensemble Kalman method with effective utilisation of synthesised observations based on the multi-fidelity data aggregation. The modified compact expression trained on a single case is systematically evaluated against unseen separation scenarios and the …",
+    "authors": "Lifeng Gou, Jian Ye, Zhengping Zou",
+    "published": "2026-03-30",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Flow asymmetry over a body of revolution",
+    "doi": "10.1017/jfm.2026.11221",
+    "url": "https://doi.org/10.1017/jfm.2026.11221",
+    "abstract": "This paper investigates the mean flow asymmetry about the meridional plane in crossflow over a 6 : 1 prolate spheroid using high-fidelity numerical simulations. A series of direct numerical simulations are performed at diameter-based Reynolds number $\\textit{Re}_{\\!D} = 3.0 \\times 10^3$ over a range of angles of attack. We identify a critical angle of attack for the onset of mean flow asymmetry between $40^\\circ$ and $42^\\circ$ . In cases where asymmetry eventually develops, the flow initially remains symmetric for an extended period before turbulent fluctuations in the wake perturb the symmetry. As wake turbulence becomes more vigorous at higher Reynolds numbers, this observation suggests a reduced critical angle of attack – an expectation confirmed by simulations at $\\textit{Re}_{\\!D} = …",
+    "authors": "Samuel M. Johnson, Sven Schmitz, Xiang I.A. Yang, Thomas S. Chyczewski",
+    "published": "2026-03-30",
+    "keywords_matched": [
+      "wake",
+      "turbulence"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Whole‐Atmospheric Version 1.0 of GAMIL (W‐GAMIL1.0): Description and Evaluation",
     "doi": "10.1029/2025jd045495",
