@@ -1,6 +1,18 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Aerodynamic unsteadiness from a forward-facing door over a cavity at Mach 6",
+    "doi": "10.1017/jfm.2026.11313",
+    "url": "https://doi.org/10.1017/jfm.2026.11313",
+    "abstract": "A joint experimental–computational investigation was conducted to examine the aerodynamic behaviour of a partially closed cavity model in Mach-6 flow. The model, consisting of a flat plate with a rectangular cavity and a forward-facing hinged door, resulted in a strong 500 Hz fluctuation with a 7.5 $^\\circ$ door and 25 mm cavity depth. The experiments revealed a recirculation bubble present upstream of the cavity region. The fluctuations, detected by surface pressure sensors on the upper surface, upstream cavity wall and cavity floor, were caused by oscillations of the separation bubble along the streamwise axis. Notably, this phenomenon is not explained by established empirical models for cavity flows, such as the Rossiter mechanism or closed-box acoustic resonance. To further elucidate t…",
+    "authors": "Elizabeth K. Benitez, Nicholas J. Bisek, Matthew P. Borg",
+    "published": "2026-03-31",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Toward generalisable turbulence modelling via radial-basis-function-based corrections using data assimilation with fused multi-fidelity observations",
     "doi": "10.1017/jfm.2026.11155",
     "url": "https://doi.org/10.1017/jfm.2026.11155",
@@ -23,6 +35,140 @@
     "keywords_matched": [
       "wake",
       "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Dancing fibres in a microscale Burgers-like vortex",
+    "doi": "10.1017/jfm.2026.11342",
+    "url": "https://doi.org/10.1017/jfm.2026.11342",
+    "abstract": "An important category of microscale fluid–structure interactions concerns how flexible fibres deform and interact with flows. Many experimental and numerical studies have focused on the shape dynamics of fibres in linear shear flows. Here, instead, we consider a fully three-dimensional background flow with non-constant vorticity and study the shape evolution of fibres in a zero-Reynolds-number analogue of a Burgers vortex. This flow is created by the superposition of regularised singularities of the Stokes equations. Using a Kirchhoff rod model with regularised Stokeslet segments that track both curvature and torsion evolution along the fibre, we observe novel three-dimensional deformations. The shape dynamics depends on two non-dimensional parameters: an elastoviscous number and the ratio…",
+    "authors": "Rubaiyat Bin Islam, Adnan Morshed, Ricardo Cortez, Lisa Fauci",
+    "published": "2026-03-30",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Dynamics of azimuthally oscillating cylinder wakes",
+    "doi": "10.1017/jfm.2026.11375",
+    "url": "https://doi.org/10.1017/jfm.2026.11375",
+    "abstract": "We numerically study the flow past an azimuthally oscillating cylinder at Reynolds number ${\\textit{Re}}=250$ to analyse the three-dimensionalities observed in the recent experiments of Bhattacharyya et al. ( J. Fluid Mech. , vol. 950, 2022, p. A10). Specifically, we focus on the two newly discovered three-dimensional instability modes, referred to as modes Z and Y in the experiments, by suitably varying the cylinder oscillation amplitude and forcing frequency. Our direct numerical simulations (DNS) visually confirm the unique honeycomb-like structure of mode Y, also matching its spanwise wavelength, while mode Z, also referred to as mode D elsewhere, is not found at the expected parametric space but at an oscillation amplitude three times higher. Spectral proper orthogonal decomposition m…",
+    "authors": "Ayush Boral, Pradeep Moise, Arnab Samanta",
+    "published": "2026-03-30",
+    "keywords_matched": [
+      "wake",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Onset of spiral vortex breakdown in supersonic flows",
+    "doi": "10.1017/jfm.2026.11349",
+    "url": "https://doi.org/10.1017/jfm.2026.11349",
+    "abstract": "The onset of vortex breakdown in supersonic flows remains an unsolved problem in physics. In this study, a sufficient condition for spiral vortex breakdown to occur in supersonic flows was derived from the conserved total enthalpy at the vortex axis under complete supersonic inflow conditions. The theoretical threshold was simply determined by the relationship between the magnitudes of the kinetic and internal energies (i.e. axial velocity squared and static temperature, respectively) downstream. In addition, it was found that the squared velocity and static temperature in the sufficient condition were closely related to a rapid reduction in the helicity, which indicated that vortex breakdown occurred. Numerical simulations confirmed that the theoretical threshold corresponds to the onset …",
+    "authors": "Toshihiko Hiejima",
+    "published": "2026-03-30",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "A triple source model of pressure fluctuation analysis for a mixed-flow pump",
+    "doi": "10.1017/jfm.2026.11382",
+    "url": "https://doi.org/10.1017/jfm.2026.11382",
+    "abstract": "This paper investigates the physical origins of pressure fluctuations on the stationary shroud wall of a mixed-flow pump. A novel ‘triple source model’ is developed and applied to experimental validated stress-blended eddy simulations. The model decomposes stationary-frame pressure fluctuations into three distinct rotating-frame components to disentangle complex tip leakage vortex (TLV) interactions: (i) kinematic ‘non-uniform fluctuation’ ( $p_{\\textit{NUF}}$ ) from the steady blade sweep, (ii) dynamic ‘flow synchronous fluctuation’ ( $p_{\\textit{FSF}}$ ) phase-locked to rotation, and (iii) ‘flow asynchronous fluctuation’ ( $p_{\\textit{FAF}}$ ) from all non-phase-locked phenomena. Analysis reveals that shroud unsteadiness is over 90 % dominated by the synchronous components along the TLV …",
+    "authors": "Bingfu Han, Lei Tan",
+    "published": "2026-03-30",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Thermodynamics of oriented granular gases",
+    "doi": "10.1017/jfm.2026.11359",
+    "url": "https://doi.org/10.1017/jfm.2026.11359",
+    "abstract": "We use the principles of non-equilibrium thermodynamics to rigorously formulate the transport equations for granular systems consisting of oriented particles. The state variables are taken to be the density, velocity, thermal temperature, granular temperature (particles agitation) and the orientation tensor. The evolution of the state variables is governed by the associated balance laws in terms of fluxes. The contributions of the granular agitation energy and orientation to entropy are introduced into the Gibbs equation. The balance of entropy is used to identify the entropy production as the product of thermodynamics forces and fluxes. Using classical linear non-equilibrium thermodynamics the fluxes are considered to be linear in the thermodynamic forces. The Onsager–Casimir reciprocal r…",
+    "authors": "Meitham Amereh, Henning Struchtrup, Ben Nadler",
+    "published": "2026-03-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Isotropy and homogeneity of the Taylor–Green vortex at late stages using different initial conditions",
+    "doi": "10.1017/jfm.2026.11380",
+    "url": "https://doi.org/10.1017/jfm.2026.11380",
+    "abstract": "The Taylor–Green vortex (TGV) serves as a canonical benchmark for studying the transition from laminar to turbulent flow in the absence of solid boundaries. Despite its widespread use in turbulence model validation, the degree to which the TGV exhibits true isotropy and homogeneity, particularly at late stages of decay, remains insufficiently examined. This study employs high-order numerical simulations to investigate these properties for both the standard and isotropic variants of the TGV. Statistical measures, including Reynolds stress anisotropy, coherent structure functions, homogeneity indices and integral length scales, are used to assess flow behaviour over time. Results show that the standard TGV remains anisotropic and inhomogeneous even during late decay stages, with unequal long…",
+    "authors": "Markus Klein, Artur Tyliszczak, Josef Hasslberger, Massimo Germano",
+    "published": "2026-03-30",
+    "keywords_matched": [
+      "turbulence",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Examination of Ozone Sensitivity to Stomatal Conductance in Urban Areas",
+    "doi": "10.1029/2025jd045468",
+    "url": "https://doi.org/10.1029/2025jd045468",
+    "abstract": "Abstract Stomatal conductance is a key factor in controlling ozone deposition velocity. Little is known about stomatal conductance and its impacts on air quality in urban areas because urban vegetation in developed land cover types is often omitted in global and regional models. Recent studies show that urban trees have up to three times higher rates of stomatal conductance than their rural counterparts. We update the dry deposition scheme of WRF‐Chem by linking the dry deposition losses of atmospheric species to vegetation physiology and phenology, as WRF‐Chem by default assumes zero stomatal deposition for urban land cover types. We examine ozone sensitivity to a doubled stomatal conductance of urban trees. We find that surface conductance dominates dry deposition velocity in urban areas…",
+    "authors": "Dandan Wei, Sam J. Silva, Soroush E. Neyestani, Jiachen Zhang",
+    "published": "2026-03-30",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Forecasting Rainfall Event and Rainfall Duration Directly Using GPS‐Derived Zenith Wet Delay Estimates",
+    "doi": "10.1029/2025jd045322",
+    "url": "https://doi.org/10.1029/2025jd045322",
+    "abstract": "Abstract Rainfall forecasting based on the Global Navigation Satellite System (GNSS) plays an important role in GNSS‐meteorology applications. However, traditional methods that rely on GPS‐ZTD (Zenith Total Delay) are limited by the influence of ZHD (Zenith Hydrostatic Delay), while those based on GPS‐PWV (Precipitable Water Vapor) depend heavily on external meteorological parameters. Moreover, most existing studies have not addressed the forecasting of rainfall duration. In this study, the feasibility of rainfall forecasting using GPS‐ZWD (zenith wet delay) is demonstrated through theoretical analysis and correlation assessment. A new method is proposed for forecasting light, medium, and heavy rainfall events, as well as rainfall duration, directly based on GPS‐ZWD. Data sets collected fr…",
+    "authors": "Cong Chen, Mingkun Su, Yang Gao, Tianjun Liu et al.",
+    "published": "2026-03-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Significant Contribution of Gaseous Organic Nitrogen to Wet and Dry Nitrogen Deposition: Evidence From Year‐Long Monitoring in Coastal Hong Kong",
+    "doi": "10.1029/2025jd046052",
+    "url": "https://doi.org/10.1029/2025jd046052",
+    "abstract": "Abstract Atmospheric nitrogen (N) deposition critically affects ecosystem dynamics and carbon cycling, yet organic N (ON) remains under‐monitored relative to inorganic N (IN), limiting constraints on global N budgets and impacts. We conducted year‐long dry and wet deposition measurements of water‐soluble ON (WSON) and IN at a coastal Hong Kong site using an innovative dual‐surface collector, enabling simultaneous dry deposition to pure water and to a quartz filter. Dry deposition to water exceeded that to the filter by 26.6 × (NH 4 + ‐N), 1.6 × (NO 3 − ‐N), and 4.3 × WSON, evidencing strong uptake of water‐soluble gaseous N by the water surface. We provide the first quantification of gaseous versus particulate WSON in dry ON deposition, revealing a dominant gaseous contribution reaching up…",
+    "authors": "Xu Yu, Wing Hei Marco Wong, Cong Cao, Kun Zhang et al.",
+    "published": "2026-03-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Modular wind profile retrieval software for heterogeneous Doppler lidar measurements (AtmoProKIT v1.1)",
+    "doi": "10.5194/gmd-19-2497-2026",
+    "url": "https://doi.org/10.5194/gmd-19-2497-2026",
+    "abstract": "Abstract. Retrieving wind profiles from Doppler lidar radial velocities requires processing software tools. The heterogeneity of Doppler lidar types and data acquisition settings, as well as scan patterns applied for wind profiling, makes wind profile processing challenging. Addressing this challenge, a modular open-source wind profile retrieval software tool is presented: the Atmospheric Profile Processing toolKIT (AtmoProKIT). The software calculates quality-controlled wind profiles from heterogeneous Doppler lidar data, i.e. independent of the system type, data acquisition settings, or the scan pattern applied. Ingestion of heterogeneous data is enabled by the definition of a standardized level 1 data format for the measurements, from which level 2 wind profiles are retrieved. Processin…",
+    "authors": "Anselm Erdmann, Philipp Gasch",
+    "published": "2026-03-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Issue Information",
+    "doi": "10.1029/jame.70334",
+    "url": "https://doi.org/10.1029/jame.70334",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-03-30",
+    "keywords_matched": [
+      "ABL"
     ]
   },
   {
