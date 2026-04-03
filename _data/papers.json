@@ -1,5 +1,17 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Impact of Land Friction on Surface Wind Structure During Hurricane Landfall",
+    "doi": "10.1029/2025jd045162",
+    "url": "https://doi.org/10.1029/2025jd045162",
+    "abstract": "Abstract This study employs a diagnostic three‐dimensional Hurricane Boundary Layer (HBL) wind model to understand the evolution of surface wind structure changes during hurricane landfall in an idealized setting. Our approach focuses on the role of dynamic boundary layer processes in governing the changes in surface wind structure. Model results show that offshore wind changes develop in the front‐left quadrant even when the hurricane center is relatively far (100–200 km) from the coastline. Notably, as the hurricane nears land, both its radial inflow and tangential wind speeds intensify over the ocean (by 80% and 13%, respectively) in the storm's front‐left and rear‐left quadrants. The storm's maximum surface wind speed is enhanced (by 14%) before landfall and shifts to the left of the s…",
+    "authors": "Mansur Ali Jisan, Isaac Ginis, Kun Gao",
+    "published": "2026-04-02",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Physics of Fluids",
     "title": "Similarity laws for single-nozzle retropropulsion flow structures in reusable launch vehicles",
     "doi": "10.1063/5.0323031",
@@ -391,6 +403,132 @@
     "url": "https://doi.org/10.1063/5.0316706",
     "abstract": "Understanding shock–solid interactions remains a central challenge in compressible fluid dynamics. We present JAX-Shock (just-in-time compiled, exact shock-capturing solver with automatic differentiation): a fully-differentiable, graphics processing unit-accelerated, high-order shock-capturing solver for efficient simulation of the compressible Navier–Stokes equations. Built entirely in JAX, the framework leverages automatic differentiation to enable gradient-based optimization, parameter inference, and end-to-end training of deep learning-augmented models. The solver integrates fifth-order weighted essentially non-oscillatory reconstruction with an Harten-Lax-van Leer-Contact flux to resolve shocks and discontinuities with high fidelity. To handle complex geometries, an immersed boundary …",
     "authors": "Bo Zhang",
+    "published": "2026-04-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Wave energy harvesting and motion mitigation of floating structures via oscillating water column devices",
+    "doi": "10.1063/5.0311905",
+    "url": "https://doi.org/10.1063/5.0311905",
+    "abstract": "A floating structure integrated with dual oscillating water column (OWC) wave energy converters is numerically investigated using OpenFOAM and waves2Foam to explore its potential for simultaneous wave energy harvesting and motion mitigation. The volume of fluid method for interface capturing, the six-degree-of-freedom dynamic mesh solver waveDyFoam for motion responses and the porous media layer method for power take-off (PTO) damping are adopted to systematically analyze the influence of OWCs' relative chamber width, wall draft depth, and PTO settings on integrated floating structure's motion suppression and energy capture performance under regular waves. The results show that integrating dual OWC devices substantially alters the peak values of the floating structure's motions while shift…",
+    "authors": "Zhengzhi Deng, Wei Hua, Xizeng Zhao, Pengda Cheng",
+    "published": "2026-04-01",
+    "keywords_matched": [
+      "wave energy"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Propagation mechanisms and identification of acoustic vortex affected by oceanic reflection and refraction",
+    "doi": "10.1063/5.0302278",
+    "url": "https://doi.org/10.1063/5.0302278",
+    "abstract": "Acoustic reflection and refraction caused by the ocean channel pose challenges to the stable underwater propagation and application of acoustic vortices. This paper focuses on the propagation mechanisms and effective identification of acoustic vortices in marine environments. The proposed Gaussian beam-based parallel computing and least squares (LS) channel equalization methods improve computational efficiency and topological charge identification accuracy. First, we theoretically reveal that the spacing of acoustic vortex phase interference fringes in free space depends on the frequency-to-propagation distance ratio. Subsequently, the interference patterns of acoustic vortices with opposite topological charges caused by surface reflection are investigated. Shallow sources suffer more seve…",
+    "authors": "Xiaojin Guo, Shuqing Ma, Guodong Hao, Qiang Lan et al.",
+    "published": "2026-04-01",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Double dam-break-generated swash flows on a rough planar beach",
+    "doi": "10.1063/5.0315268",
+    "url": "https://doi.org/10.1063/5.0315268",
+    "abstract": "Swash–swash interactions are investigated using a numerical model. The numerical model is based on open field operation and manipulation (OpenFOAM), which solves the Reynolds-averaged Navier–Stokes equations for two immiscible fluids with a k-ω shear stress transport turbulence closure. The numerical results are validated with laboratory data for swash flows on a rough planar beach driven by a double dam-break swash apparatus. Good agreement is obtained for free surface elevation, flow velocity, and horizontal pressure gradient. Based on the numerical results, swash–swash interactions are classified into wave merging (WM), wave capturing (WC), and backwash–uprush interaction (BUI), with distinct flow characteristics identified for each swash type. The analysis shows the potential for bed i…",
+    "authors": "Yongchim Min, Juhee Ok, Yeulwoo Kim, Marie-Pierre C. Delisle et al.",
+    "published": "2026-04-01",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Three-dimensional flow dynamics and vibration characteristics of flexible multi-stepped cylinders",
+    "doi": "10.1063/5.0311155",
+    "url": "https://doi.org/10.1063/5.0311155",
+    "abstract": "The vortex-induced vibrations (VIVs) of a flexible multi-stepped cylinder that models a buoyancy-moduled riser are investigated using 3D direct numerical simulations at Reynolds number Re = 100 across a reduced velocity range of Ur = 5.9–38.3. The structure has aspect ratio L/d = 50 and three modules (D/d = 2) arranged in a staggered pattern with 50% coverage. Space–time fields, variational mode decomposition, force–velocity phase diagnostics isolate power-delivering components from harmonic content and correlate them with wake organization. A regime map emerges with increasing Ur: (regime I) a standing 1st-mode cross-flow lock-in with 2nd-mode in-line; (regime II) dominance of 1st-mode cross-flow vibration, accompanied by a detuned second harmonic in the in-line direction and step-induced…",
+    "authors": "Cheng Lu, Zhimeng Zhang, Chunning Ji",
+    "published": "2026-04-01",
+    "keywords_matched": [
+      "wake",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Resonant spectral cascade in Womersley flow triggered by arterial geometry",
+    "doi": "10.1063/5.0319995",
+    "url": "https://doi.org/10.1063/5.0319995",
+    "abstract": "Age-related arterial remodeling is dominated by progressive loss of elastic-fiber function and concomitant stiffening, and in many vascular beds, it is also accompanied by measurable geometric remodeling (e.g., elongation and tortuosity). These changes are clinically relevant because they modify pulsatile phase relationships, near-wall shear, and axial transport, yet the precise physical mechanisms by which geometry modulates spectral energy redistribution remain insufficiently resolved. While complex geometry is known to increase viscous resistance, its active role in modulating flow dynamics is not fully understood. Here, we solve a mathematical model to show that arterial geometry can trigger a resonant transfer of energy to short-wavelength components of the flow. The investigation, co…",
+    "authors": "Khalid M. Saqr",
+    "published": "2026-04-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Flow and dispersion characteristics of sediment plumes induced by a moving vehicle in deep-sea mining",
+    "doi": "10.1063/5.0316795",
+    "url": "https://doi.org/10.1063/5.0316795",
+    "abstract": "Deep-sea mining disturbs benthic sediments, generating plumes that can mobilize heavy metal ions and pose ecotoxicological risks to marine ecosystems. Understanding the associated wake and plume dynamics is therefore crucial for environmental impact assessment. This study develops a novel particle–turbulence interacting Eulerian (PT–Euler) model, which modifies governing-equation source terms to resolve PT interactions. Model validation shows less than 5% deviation in key concentration fields and good agreement in plume morphology with experimental data. Simulations investigate the trailing plume dispersion from a mining vehicle, focusing on the dimensionless vehicle speed (Vn: the ratio of vehicle movement speed to sediment discharge speed; Vn = 0–2) and initial sediment concentration (αs…",
+    "authors": "Xiu Li, Lixin Xu, Yajiao Liu, Zhichao Hong",
+    "published": "2026-04-01",
+    "keywords_matched": [
+      "wake",
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Streamwise velocity and temperature coupling in compressible turbulent channel flow: Correlation and streak overlap analysis",
+    "doi": "10.1063/5.0323794",
+    "url": "https://doi.org/10.1063/5.0323794",
+    "abstract": "This paper employs direct numerical simulation to systematically investigate the correlation between velocity and temperature in compressible turbulent channel flows at Mach numbers 0.5, 1.5, and 3.0. The mean and fluctuating velocity and temperature fields are analyzed using relevant statistical measures. In addition to conventional statistics of velocity–temperature correlation, an image recognition algorithm based on the Intersection Over Union (IOU) metric is introduced to analyze the overlapping characteristics of near-wall streaks, enabling quantitative characterization of the overlap ratio between low-velocity and low-temperature streaks. The results show that in the near-wall region, velocity and temperature fluctuations exhibit a strong positive correlation modulated by coherent s…",
+    "authors": "Fangliang Xu, Kai Zhang, Peng Zhang",
+    "published": "2026-04-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Large-eddy simulation of flow mechanisms and wake dynamics around a wall-mounted square cylinder with façade ribs under turbulent inflow",
+    "doi": "10.1063/5.0327268",
+    "url": "https://doi.org/10.1063/5.0327268",
+    "abstract": "Façade ribs are typically investigated as a modification strategy to improve flow control performance around a square cylinder. However, the effect of façade ribs on the flow control mechanisms and wake dynamics around a wall-mounted square cylinder is poorly understood. In this study, a large-eddy simulation is used to investigate the flow structures and forces around a wall-mounted square cylinder with various rib configurations. The results indicate that façade ribs significantly alter the mean flow, turbulent kinetic energy, and vortex structures, with continuous ribs having a more distinct effect. Vertical ribs generate localized corner vortices that mitigate turbulence and vortex shedding, whereas horizontal ribs reduce sidewall suction. Horizontal ribs have a negligible impact on dr…",
+    "authors": "Jinyang Liu, Yi Hui, Qingshan Yang, Xin Guan",
+    "published": "2026-04-01",
+    "keywords_matched": [
+      "wake",
+      "turbulence",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Surrogate-based robust design of asymmetric splitter plates for aerodynamic performance efficiency of flatback airfoils",
+    "doi": "10.1063/5.0325553",
+    "url": "https://doi.org/10.1063/5.0325553",
+    "abstract": "Flatback airfoils are widely employed in the inboard regions of large wind turbine blades due to their structural advantages; however, their blunt trailing edges generate significant base drag and unsteady wake dynamics that degrade aerodynamic efficiency. While splitter plates reported in the literature are predominantly symmetric and center-mounted, this study introduces a surrogate-based optimization framework for the aerodynamic design of asymmetric trailing-edge (TE) splitter plates aimed to stabilize the wake and enhance aerodynamic performance. A parametric splitter geometry defined by length, inclination angle, vertical offset, and thickness is investigated for airfoils with 5% and 10% of chord TE thicknesses. Gaussian process regression models trained on Reynolds-averaged Navier–S…",
+    "authors": "Yunus Celik",
+    "published": "2026-04-01",
+    "keywords_matched": [
+      "wind turbine",
+      "wake"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Numerical Water Tracers in the Atmospheric Component of the Energy Exascale Earth System Model: Implementation and Changes in Moisture Origin",
+    "doi": "10.1029/2025ms005287",
+    "url": "https://doi.org/10.1029/2025ms005287",
+    "abstract": "Abstract Numerical water tracers are implemented in the Energy Exascale Earth System Model version 2. Simulations performed with the water‐tag‐enabled model for both pre‐industrial and future greenhouse gas concentrations reveal a marked increase in the role of mid‐latitude and southern subtropical regions as exporters of atmospheric moisture—to the extratropical upper troposphere and the tropical free troposphere. For the latter, the northward shift of the Intertropical Convergence Zone increases cross‐hemispheric transport of subtropical water vapor to the Northern Hemisphere. In the polar regions, most of the lower tropospheric moistening instead arises from increases in local evaporation. These findings illustrate the utility of the water tags, underscore critical changes in global hyd…",
+    "authors": "Alexandre Audette, Nicole Feldl, Hansi Singh, Kyle Heyblom et al.",
     "published": "2026-04-01",
     "keywords_matched": [
       "ABL"
