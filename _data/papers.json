@@ -1,6 +1,30 @@
 [
   {
     "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "A Transboundary Air Quality Co‐Benefit of Ecological Restoration in Mongolia",
+    "doi": "10.1029/2025jd046185",
+    "url": "https://doi.org/10.1029/2025jd046185",
+    "abstract": "Abstract Transboundary dust storms, fueled by rampant desertification in Mongolia, pose a severe environmental threat to hundreds of millions of people and to sustainable development across East Asia. While ecological restoration is a recognized solution, its potential and cross‐boundary benefits remain unquantified at a policy‐relevant scale. Here we show that even without large‐scale interventions, 67.5% of Mongolia's territory experienced a decrease in desertification severity from 2005 to 2023, yielding a net 23.0% reduction in spring dust emissions by 2023. This natural improvement alone reduced the dust column mass density over North China and Northeast China by 5.4% and 13.3%, respectively. If Mongolia had implemented proven ecological restoration measures similar to those adopted i…",
+    "authors": "Pengcheng Qiu, Xiaodan Guan, Jianping Huang, Pengbo Da et al.",
+    "published": "2026-04-03",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Improved Dust Microphysical Retrieval From LiDAR by Introducing a Priori Constraints From In Situ and Laboratory Measurements",
+    "doi": "10.1029/2025jd045677",
+    "url": "https://doi.org/10.1029/2025jd045677",
+    "abstract": "Abstract The accuracy of height‐resolved dust microphysical retrieval from LiDARs has been greatly improved by the recently developed BOREAL (Basic algOrithm for REtrieval of Aerosol with LiDAR) algorithm which describes non‐spherical dust particles with the Irregular‐Hexahedral (IH) model and inverts 3 β (backscattering at 355, 532, and 1,064 nm) + 2 α (extinction at 355 and 532 nm) + 3 δ (depolarization ratio at 355, 532, and 1,064 nm) measurements. However, potential retrieval bias in BOREAL was observed as the dust coarse‐mode radius ( R c ) increased, probably due to the reduction in measurement sensitivity. In this study, a parameterized‐constrained algorithm (BOREAL‐PC) is proposed and developed to improve the quality of dust microphysical retrieval. It is based on optimal estimatio…",
+    "authors": "Yuyang Chang, Qiaoyun Hu, Philippe Goloub, Thierry Podvin",
+    "published": "2026-04-03",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Impact of Land Friction on Surface Wind Structure During Hurricane Landfall",
     "doi": "10.1029/2025jd045162",
     "url": "https://doi.org/10.1029/2025jd045162",
@@ -529,6 +553,44 @@
     "url": "https://doi.org/10.1029/2025ms005287",
     "abstract": "Abstract Numerical water tracers are implemented in the Energy Exascale Earth System Model version 2. Simulations performed with the water‐tag‐enabled model for both pre‐industrial and future greenhouse gas concentrations reveal a marked increase in the role of mid‐latitude and southern subtropical regions as exporters of atmospheric moisture—to the extratropical upper troposphere and the tropical free troposphere. For the latter, the northward shift of the Intertropical Convergence Zone increases cross‐hemispheric transport of subtropical water vapor to the Northern Hemisphere. In the polar regions, most of the lower tropospheric moistening instead arises from increases in local evaporation. These findings illustrate the utility of the water tags, underscore critical changes in global hyd…",
     "authors": "Alexandre Audette, Nicole Feldl, Hansi Singh, Kyle Heyblom et al.",
+    "published": "2026-04-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Reducing base drag on road vehicles using pulsed jets optimized by hybrid genetic algorithms",
+    "doi": "10.1063/5.0313874",
+    "url": "https://doi.org/10.1063/5.0313874",
+    "abstract": "Aerodynamic drag on flat-backed vehicles like vans and trucks is dominated by a low-pressure wake, whose control is critical for reducing fuel consumption. This paper presents an experimental study at ReW≈78 300 on active flow control using four pulsed jets at the rear edges of a bluff-body model. A hybrid genetic algorithm, combining a global search with a local gradient-based optimizer, was used to determine the best-performing jet actuation parameters in an experiment-in-the-loop setup. The cost function was designed to achieve a net energy saving by simultaneously minimizing aerodynamic drag and penalizing the actuation's energy consumption. The optimization campaign successfully identified a control strategy that yields a drag reduction of approximately 8.8%. The best-performing contr…",
+    "authors": "Isaac Robledo, Juan Alfaro, Víctor Duro, Alberto Solera-Rico et al.",
+    "published": "2026-04-01",
+    "keywords_matched": [
+      "wake",
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Recent advances in flapping-wing aerodynamics: Mechanisms, kinematics, and bioinspired configurations",
+    "doi": "10.1063/5.0323309",
+    "url": "https://doi.org/10.1063/5.0323309",
+    "abstract": "Flapping-wing aerodynamics governs the flight performance of insects, birds, and bioinspired micro air vehicles operating in low-Reynolds-number regimes. Unlike classical steady aerodynamics, flapping flight is dominated by unsteady vortex dynamics, including leading-edge vortex stabilization, rotational lift, wake capture, and wing–wake interactions. Over the past two decades, extensive experimental, numerical, and theoretical studies have improved understanding of these mechanisms, while advances in kinematic optimization, bioinspired wing geometry, and data-driven modeling have expanded the design space of flapping-wing micro air vehicles. Despite these developments, existing research remains fragmented across aerodynamic mechanisms, kinematic control, wing morphology, wake topology, an…",
+    "authors": "Kim Boon Lua",
+    "published": "2026-04-01",
+    "keywords_matched": [
+      "wake",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Lorenz Energy Cycle of the Global Eddying Ocean Simulated on Meshes With Different Designs and Resolutions",
+    "doi": "10.1029/2025ms005551",
+    "url": "https://doi.org/10.1029/2025ms005551",
+    "abstract": "Abstract We analyze the Lorenz Energy Cycle of the ocean simulated by FESOM on several unstructured meshes, with nominal horizontal resolution ranging from 1/4 to 1/12°. Some meshes are more strongly refined in regions where the eddy kinetic energy (EKE) is large, whereas others follow a standard design, with resolution gently increasing toward high latitudes. We show that, except for the coarsest (1/4°) mesh, the generation of kinetic energy (KE), the generation of available potential energy (APE), and the conversion between mean KE and APE are insensitive to resolution and mesh design. EKE and the conversions between mean and eddy APE, and between eddy APE and KE, show a weak but systematic increase with resolution. The EKE‐based mesh design yields specific advantages at the highest reso…",
+    "authors": "A. Koldunov, D. Sidorenko, N. Koldunov, S. Danilov et al.",
     "published": "2026-04-01",
     "keywords_matched": [
       "ABL"
