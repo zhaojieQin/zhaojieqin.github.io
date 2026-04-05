@@ -1,6 +1,43 @@
 [
   {
     "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "A Graph Signal Processing Approach to the Characterization of Xe‐133 Atmospheric Background",
+    "doi": "10.1029/2025jd045777",
+    "url": "https://doi.org/10.1029/2025jd045777",
+    "abstract": "Abstract The geopolitical context advocates for monitoring nuclear activities within an international framework. In this context, the Comprehensive Nuclear‐Test‐Ban Treaty Organization has established measurement stations, known as the International Measurement System (IMS). This includes radioxenon air concentration measurements for atmospheric monitoring. However, civil infrastructures, mainly nuclear power plants and medical isotope production factories, continuously release radioxenon, making detection of nuclear tests more challenging. Emission and dispersion simulations can help quantify this atmospheric background. Here, the analysis of FLEXPART outputs allows to describe the distribution of xenon‐133 releases over the IMS, aiming to find relations between sources and stations. Vari…",
+    "authors": "M. Atiq, S. Oger, P. Achim",
+    "published": "2026-04-04",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Why Do Extended‐Range Forecasts Underpredict the Extreme Negative Pacific/North American Pattern in February 2018?",
+    "doi": "10.1029/2025jd045964",
+    "url": "https://doi.org/10.1029/2025jd045964",
+    "abstract": "Abstract The Pacific/North American (PNA) pattern is a dominant mode of mid‐latitude climate variability with major impacts on North American weather. Its extended‐range prediction remains challenging, influenced by complex drivers including upstream wave dynamics, tropical forcing, and the stratosphere. This study investigates the notable failure of extended‐range forecasts to capture the extreme negative PNA event of February 2018 using the novel Stratospheric Nudging and Predictable Surface Impacts (SNAPSI) multi‐model ensemble designed to isolate stratospheric sources of predictability. The results reveal that the forecast error stems from an underestimation of several key processes, including a chain of misrepresented factors. The primary bottleneck is the poor simulation of the East …",
+    "authors": "Jinlong Huang, Peter Hitchcock, Wenshou Tian, Qiluo Li et al.",
+    "published": "2026-04-04",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Machine Learning Assessment of Aerosol and Meteorological Impacts on Atmospheric Boundary Layer Height in Eastern China: Highlighting the Role of Aerosol Hygroscopicity",
+    "doi": "10.1029/2025jd045744",
+    "url": "https://doi.org/10.1029/2025jd045744",
+    "abstract": "Abstract The planetary boundary layer height (PBLH) regulates air pollutant dispersion, yet the combined effects of aerosols and meteorology remain insufficiently quantified. Here, an interpretable XGBoost SHAP framework is applied to daytime (08:00–20:00 BJT) PBLH across the Beijing–Tianjin–Hebei (BTH) and Yangtze River Delta (YRD) regions using ERA5 and MERRA‐2 reanalysis data for 2013–2023. The mean PBLH in BTH (812 m) is about 125 m higher than in YRD (687 m), largely due to contrasting humidity conditions (46.3% vs. 68.6%). Meteorology dominates PBLH variability, with surface net solar radiation (SSR) and near‐surface wind speed correlating positively, whereas relative humidity (RH) is the opposite. Among aerosol factors, single‐scattering albedo (SSA) exerts the strongest influence (…",
+    "authors": "Yunhang Tian, Yuying Wang, Chunsong Lu, Bin Zhu et al.",
+    "published": "2026-04-04",
+    "keywords_matched": [
+      "atmospheric boundary layer",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "A Transboundary Air Quality Co‐Benefit of Ecological Restoration in Mongolia",
     "doi": "10.1029/2025jd046185",
     "url": "https://doi.org/10.1029/2025jd046185",
