@@ -634,6 +634,32 @@
     ]
   },
   {
+    "journal": "Physics of Fluids",
+    "title": "Impact of unsteady suction actuation on drag and wake dynamics of a vehicle model",
+    "doi": "10.1063/5.0321105",
+    "url": "https://doi.org/10.1063/5.0321105",
+    "abstract": "This study employs wall-resolved large-eddy simulations to investigate the effectiveness of unsteady suction actuation applied near the upper edge of the slant surface of a 25° Ahmed body at a Reynolds number of 7.6 × 105. A key approach to this work is the validation of the baseline flow, which achieves a drag coefficient of 0.31, closely matching the benchmark experimental from Ahmed et al. [“Some salient features of the time-averaged ground vehicle wake,” SAE Trans. 93, 473–503 (1984)]. From this validated baseline case, the application of an unsteady suction jet with an optimal momentum coefficient Cμ=2.6×10−3 leads in a drag value of 0.274 and reduction of approximately 12%. This study establishes a clear connection between targeted momentum injection and drag reduction through detail…",
+    "authors": "Mohammed Khalid Hossen, Mohammad Saeedi",
+    "published": "2026-04-01",
+    "keywords_matched": [
+      "wake",
+      "ABL",
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Inflection point instability in Hartmann channel flow with variable electric conductivity",
+    "doi": "10.1063/5.0319437",
+    "url": "https://doi.org/10.1063/5.0319437",
+    "abstract": "The stability of a flow of an electrically conducting, incompressible fluid in a channel with an imposed uniform wall-normal magnetic field and electrically insulating walls is studied using linear stability analysis and direct numerical simulations. The novelty of the system, which differentiates it from the classical Hartmann channel flow, is that, as in some technological applications of liquid metals, the electric conductivity and viscosity of the fluid vary across the channel. This variation is found to have a strong influence on the stability characteristics of the flow. Specifically, a linear variation in electric conductivity significantly alters the base velocity profile, leading to pronounced asymmetry and the development of inflection points. When this transformation is sufficie…",
+    "authors": "R. Okatev, O. Zikanov, D. Krasnov, P. Frick",
+    "published": "2026-04-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Aerodynamic unsteadiness from a forward-facing door over a cavity at Mach 6",
     "doi": "10.1017/jfm.2026.11313",
