@@ -1,5 +1,225 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Direct numerical simulation of turbulent flow in a flexible pipe with imposed standing-wave vibration",
+    "doi": "10.1017/jfm.2026.11392",
+    "url": "https://doi.org/10.1017/jfm.2026.11392",
+    "abstract": "Direct numerical simulations of turbulence in a flexible pipe with imposed standing-wave vibration are performed to reveal the flow dynamics inside an oscillating pipe. We choose the parameters of standing-wave vibration with small amplitude as the most unstable mode in flow-induced free vibration. The flow is driven under the condition of constant mass flow rate, with the bulk Reynolds number, based on the bulk velocity and pipe diameter, being ${\\textit{Re}}_b$ = 5300. In response to the imposed vibration, the evolution of the flow inside manifests obvious space–time-dependent characteristics. Specifically, the streamwise velocity fluctuation is enhanced downstream of the crest – the convex region on the internal pipe wall – an event often accompanied by localised flow separation. Meanwh…",
+    "authors": "Xu Liu, Hongbo Zhu, Yan Bao, Benlong Wang et al.",
+    "published": "2026-04-06",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Pinning induced motion and internal flow in neighbouring evaporating multi-component drops",
+    "doi": "10.1017/jfm.2026.11394",
+    "url": "https://doi.org/10.1017/jfm.2026.11394",
+    "abstract": "The evaporation of multicomponent sessile droplets is key in many physicochemical applications such as inkjet printing, spray cooling and micro-fabrication. Past fundamental research has primarily concentrated on single drops, though in applications they are rarely isolated. Here, we experimentally explore the effect of neighbouring drops on the evaporation process, employing direct imaging, confocal microscopy and particle tracking velocimetry. Remarkably, the centres of the drops move away from each other rather than towards each other, as we would expect due to the shielding effect at the side of the neighbouring drop and the resulting reduced evaporation on that side. We hypothesise that pinning-induced motion mediated by suspended particles in the droplets (due to contamination or add…",
+    "authors": "Pim J. Dekker, Marjolein N. van der Linden, Detlef Lohse",
+    "published": "2026-04-06",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "The impact of wavelength and phase difference on the collective performance of two parallel fish",
+    "doi": "10.1017/jfm.2026.11385",
+    "url": "https://doi.org/10.1017/jfm.2026.11385",
+    "abstract": "The influence of hydrodynamic interactions on the schooling behaviour of fish is still poorly understood. This paper numerically investigates the collective motion of two parallel fish that move freely in both the longitudinal and lateral directions, focusing on the effects of wavelength and phase difference on their stable formations, swimming speed and energy efficiency. It is found that two parallel fish can achieve stable formations in both longitudinal and lateral directions, only via the hydrodynamic interactions. Three distinct modes are classified based on the cycle-averaged longitudinal speed, i.e. the steady slow mode, the steady fast mode and the fluctuating fast mode; which mode occurs depends on the wavelength and phase difference. Compared to a single fish, two fish in the st…",
+    "authors": "Xingjian Lin, Haoyuan Liao, Hao Xie, Jie Wu",
+    "published": "2026-04-06",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Enhancing modal synchronisation in wall-bounded turbulence via sequential variational data assimilation",
+    "doi": "10.1017/jfm.2026.11407",
+    "url": "https://doi.org/10.1017/jfm.2026.11407",
+    "abstract": "This study explores partial synchronisation in turbulent channel flows using sequential variational data assimilation with sparse observations, emphasising the roles of model and observation uncertainties. Unlike previous work that focused on synchronisation using direct numerical simulation, this study considers synchronisation under imperfect models and noisy data. In the first part, a synchronisation map is constructed, revealing invariance with respect to variations in the predictive model, Reynolds number and mesh resolution. Full synchronisation emerges above a critical level of equivalent observation density. At lower observation densities, modal synchronisation is observed, where the energies of dominant modes evolve independently of initial conditions. As data become sparser, the …",
+    "authors": "Chuangxin He, Peng Wang, Hyung Jin Sung, Wenwu Zhou et al.",
+    "published": "2026-04-06",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Influence of thermal non-equilibrium on homogeneous turbulence in a chemically reacting air mixture",
+    "doi": "10.1017/jfm.2026.11415",
+    "url": "https://doi.org/10.1017/jfm.2026.11415",
+    "abstract": "This study investigates the role of vibrational and chemical non-equilibrium mechanisms in the evolution of pressure-Hessian and velocity gradient tensors in high-temperature compressible turbulence. Specifically, it focuses on reacting air mixtures relevant to aerospace applications. Understanding these mechanisms is essential for accurately predicting turbulent flows encountered during atmospheric re-entry of spacecraft and cruise flights of hypersonic vehicles. We employ direct numerical simulation (DNS) of isotropic compressible decaying turbulence using the hy2Foam solver on the OpenFOAM platform, with detailed finite-rate chemistry and vibrational energy exchanges among five species (N $_{2}$ , O $_{2}$ , NO, N and O). Our findings reveal that vibrational and chemical non-equilibrium…",
+    "authors": "Shishir Srivastava, Sawan S. Sinha",
+    "published": "2026-04-06",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "A general kinematic theory of fluid-element rotation and intrinsic vorticity decompositions",
+    "doi": "10.1017/jfm.2026.11406",
+    "url": "https://doi.org/10.1017/jfm.2026.11406",
+    "abstract": "The present study establishes a general theory for fluid-element rotation and intrinsic vorticity decompositions within the framework of vorticity kinematics. We propose two direction-dependent vorticity decompositions (DVDs) based on the analysis of rotation of directed material line and surface elements, with the rigid-rotation and spin modes of vorticity being explicitly defined. Intrinsic coupling relations are then derived for a pair of orthogonal line and surface elements, demonstrating their complementary roles in both kinematics and geometry. Notably, the surface-element-based spin mode is shown to coincide with the relative vorticity in the generalized Caswell formula, thereby providing a faithful representation of surface shear stress in Newtonian fluids. Correspondingly, another…",
+    "authors": "Tao Chen, Jie-Zhi Wu, Feng Mao, Tianshu Liu",
+    "published": "2026-04-06",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "The nonlinear interaction of a pair of counter-rotating vortices",
+    "doi": "10.1017/jfm.2026.11120",
+    "url": "https://doi.org/10.1017/jfm.2026.11120",
+    "abstract": "The interaction of a pair of unequal strength counter-rotating vortices is examined using a variety of visualization methods, including volumetric particle image velocimetry. Developed vortex cavitation in the cores of the vortices is also used to characterize the interaction of the initially parallel vortices. A pair of hydrofoils was used to generate two nearly parallel vortices with varying attack angle combinations conditions over a modest range of Reynolds numbers. The vortex pairs that are produced undergo an instability that was first analysed by Crow (1970 AIAA J ., vol. 8 (12), pp. 2172–2179), where the vortices interact through mutual induction, eventually leading to large deformations. Velocimetry is used to determine the characteristics for three regimes of the flow: the upstre…",
+    "authors": "Daniel Knister, Harish Ganesh, Steven L. Ceccio",
+    "published": "2026-04-06",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Modulation and classification of wake transitions through vortex evolution phases in undulated cylinders at low Reynolds number",
+    "doi": "10.1017/jfm.2026.11428",
+    "url": "https://doi.org/10.1017/jfm.2026.11428",
+    "abstract": "This study examines how wavy orientation and undulation-induced geometric variations regulate vortex formation, wake transitions and aerodynamic performance in sinusoidally wavy cylinders. Using three-dimensional (3-D) simulations at a Reynolds number Re = 100, we analyse the transition from two-dimensional (2-D) to 3-D wakes across varying spanwise wavelengths and undulation configurations. A novel framework is introduced for classifying vortex structures, analyisng centreline trajectories and decomposing vortex structures, revealing how geometric variations induce distinct 3-D vortical structures. At short wavelengths, vortices originate from bluff regions and diminish in a continuous manner, stabilising the wake. At longer wavelengths, phase-dependent vortex onset leads to localised int…",
+    "authors": "Hyun Sik Yoon, Gourisaran Baiju Sony, Seok Beom Hong",
+    "published": "2026-04-06",
+    "keywords_matched": [
+      "wake",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Effect of surface-active contaminants on bubble bursting yielding the smallest first-emitted droplet",
+    "doi": "10.1017/jfm.2026.11412",
+    "url": "https://doi.org/10.1017/jfm.2026.11412",
+    "abstract": "We study the bursting of a bubble on a liquid free surface under critical conditions, i.e. those leading to the minimum (maximum) size (velocity) of the first-emitted jet droplet. We consider the effect of a surfactant remaining in the monolayer during the cavity collapse and jetting (the surfactant is considered as insoluble). Our experiments show that a tiny amount of surfactant considerably increases (decreases) the droplet radius (velocity). The volume of the first-emitted droplet increases by a factor of 20 for a concentration that produces an insignificant reduction in the bubble surface tension. The total liquid volume ejected by the bubble increases with the surfactant concentration. Surfactant accumulates at the bubble base due to the shrinkage of the cavity bottom and surfactant …",
+    "authors": "Sergio Rodríguez-Aparicio, Alberto Cebrián-García, Emilio J. Vega, José María Montanero et al.",
+    "published": "2026-04-06",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Natural convection and pattern interaction within an inclined two-dimensional slot",
+    "doi": "10.1017/jfm.2026.11368",
+    "url": "https://doi.org/10.1017/jfm.2026.11368",
+    "abstract": "Natural convection within a heated, inclined slot with wavy walls is investigated. The coupling between the heating and topography patterns determines the properties of the flow and the effectiveness of this interaction can vary significantly as the slot inclination is adjusted. The analysis is two-dimensional and is likely to be a useful model for the flow in a slot of large cross-stream aspect ratio. Typically, the flow topology consists of a combination of rolls and stream tubes that carry the fluid along the conduit. It is shown that a judicious choice of inclination angle and careful positioning of the grooves relative to the temperature pattern can yield a flow rate greater than that achievable within a smooth slot. There is an optimal inclination and phase difference between the gro…",
+    "authors": "Wenxi Wang, Jerzy M. Floryan, Andrew Peter Bassom",
+    "published": "2026-04-06",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Smooth-body flow separation over a tapered Gaussian bump – flow field topography and topology",
+    "doi": "10.1017/jfm.2026.11393",
+    "url": "https://doi.org/10.1017/jfm.2026.11393",
+    "abstract": "A comprehensive set of experiments were performed to document the separated flow over a three-dimensional (3-D) bump with the purpose of generating a benchmark experimental database useful in validating computational fluid dynamics flow simulations and improving model development. The emphasis of this manuscript is on the 3-D topographical and topological features of the separated flow that forms downstream of the bump and its sensitivity to upstream flow conditions. The bump model geometry was designed to provide well-defined and repeatable smooth-body flow separation conditions that were suitable for both experiments and simulations. The bump had a Gaussian streamwise profile with a constant maximum height equal to 8.5 % of its width over the central 60 % of its span. The remaining 40 % …",
+    "authors": "Patrick Gray, Igal Gluzman, Flint Thomas, Thomas C. Corke",
+    "published": "2026-04-06",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "A distributed force element method with matching of fundamental solutions",
+    "doi": "10.1017/jfm.2026.11373",
+    "url": "https://doi.org/10.1017/jfm.2026.11373",
+    "abstract": "Quantifying the contribution of vortex structures to wall forces is essential for identifying the primary sources of forces. The traditional force-element method focuses on the contribution of flow structures to the resultant force. However, the contribution of flow structures to the distributed force cannot be identified. This work proposes a distributed force element method to address this issue. Inspired by the framework of matched asymptotic expansions, the method resolves the surface pressure by matching the fundamental solutions of the outer wave and inner flow regions. The pressure is thus decomposed into contributions from a convective acceleration term, a boundary acceleration term and a boundary vorticity term. The method is implemented by solving the resulting linear system with…",
+    "authors": "Zhiteng Zhou, Yi Liu, Zhenyu Zang, Zenghui Zhu et al.",
+    "published": "2026-04-06",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Interfacial stability in the swirling core–annular flow of two immiscible fluids",
+    "doi": "10.1017/jfm.2026.11185",
+    "url": "https://doi.org/10.1017/jfm.2026.11185",
+    "abstract": "The stability of the interface in a core–annular flow (CAF) of two immiscible Newtonian fluids with contrasting densities has been investigated, emphasising the role of strong circumferential rotation for the first time. The aim of the investigation is to give insight into the physical mechanisms underlying interfacial disruption. We examine the combined effects of gravity, interfacial tension, axial and azimuthal shear stresses, and centrifugal force on interface stability. The Rayleigh–Taylor instability, induced by gravity, appears as a spiral mode with a azimuthal wavenumber of one. As gravitational effects decrease, the most unstable mode number increases sharply before decreasing with increasing rotation. This non-monotonic behaviour is attributed to the interplay between azimuthal s…",
+    "authors": "Hu Chen, Jian Zhang",
+    "published": "2026-04-06",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Experimental investigation of the influence of moving ground on the flow topology and scalar dispersion in the turbulent wake of an Ahmed body with different rear slant angles",
+    "doi": "10.1017/jfm.2026.11345",
+    "url": "https://doi.org/10.1017/jfm.2026.11345",
+    "abstract": "This study investigates the influence of wind tunnel ground conditions (stationary/moving) on flow topology and passive scalar dispersion in the wake of the Ahmed body with rear slant angles, $\\phi$ = 25 $^\\circ$ and 40 $^\\circ$ . We implement field measurements of both velocity and scalar concentrations in the wake, for both the ground conditions, within the same experimental set-up, allowing for structural correlation between wake topology and scalar dispersion. Particle image velocimetry measurements reveal the existence of a third spanwise vortex (vortex G) near the stationary wind tunnel ground, due to the floor boundary layer, for both of the Ahmed bodies ( $\\phi$ = 25 $^\\circ$ , 40 $^\\circ$ ). Concentration field measurements performed using quantitative smoke visualisation show hig…",
+    "authors": "Manish Kumar Mathur, Anagh S. Bhanu, Murali R. Cholemari, Srinivas V. Veeravalli",
+    "published": "2026-04-06",
+    "keywords_matched": [
+      "wake",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Quasi-steady aerodynamics predicts the dynamics of flapping locomotion",
+    "doi": "10.1017/jfm.2026.11361",
+    "url": "https://doi.org/10.1017/jfm.2026.11361",
+    "abstract": "The propulsion of a flapping wing or foil is emblematic of bird flight and fish swimming. Previous studies have identified hallmarks of the propulsive dynamics that have been attributed to unsteady effects such as the formation and shedding of edge vortices and wing–vortex interactions. Here, we show that several key features of heaving flight are captured by a quasi-steady aerodynamic model that aims to predict stroke-averaged forces from wing motions without explicitly solving for the flows. We address the forward dynamics induced by up-and-down heaving motions of a thin plate with a nonlinear model which involves lift and drag forces that vary with speed and attack angle. Simulations reproduce the well-known transition for increasing Reynolds number from a stationary state to a propulsi…",
+    "authors": "Olivia Pomerenk, Leif Ristroph",
+    "published": "2026-04-06",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Sensitivity of the 2023 Asian Summer Monsoon Water Vapor Transport to Arabian Sea Surface Temperature Anomalies",
+    "doi": "10.1029/2025jd044185",
+    "url": "https://doi.org/10.1029/2025jd044185",
+    "abstract": "Abstract Prior to the onset of the South Asian monsoon, the Arabian Sea experiences a warming phase during which the Arabian Sea mini warm pool (ASMWP) becomes one of the world's warmest oceanic regions, characterized by sea surface temperatures (SSTs) exceeding 30C. To understand the role of this warming in monsoon evolution, we performed an SST sensitivity experiment using the Weather Research and Forecasting (WRF) atmospheric model. Our case study focuses on the 2023 monsoon, which was characterized by high initial SST that declined faster than in normal years. We found that if the SST declines more slowly than normal, the off‐shore precipitation increases by more than 100% around the ASMWP, but decreases in the northern Arabian Sea and the western coast of India. To understand the prec…",
+    "authors": "Rui Sun, Aneesh C. Subramanian, Brandon O. Wolding, Tien‐Yiao Hsu et al.",
+    "published": "2026-04-06",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Optimizing Vehicular CO\n                    <sub>2</sub>\n                    Emission Factors in Tunnel Environment: Integrating Mobile Measurements and Radiocarbon Tracing",
+    "doi": "10.1029/2025jd045275",
+    "url": "https://doi.org/10.1029/2025jd045275",
+    "abstract": "Abstract We developed a novel approach that integrates mobile CO 2 measurements and radiocarbon (Δ 14 C) tracing to optimize vehicle emission factors (EFs) within an urban tunnel environment. High‐resolution mobile measurements revealed the spatial distribution of CO 2 concentrations, showing that CO 2 concentrations do not increase monotonically from the tunnel entrance to the exit. Instead, they remain stable or even decrease initially and then gradually increase. This suggests that the arbitrary selection of sampling locations within tunnels could result in underestimating EFs. Based on CO 2 profiles, we selected three stationary sampling locations for CO 2 measurements and Δ 14 C analysis. The results show that non‐vehicle emissions, such as passenger respiration and infiltrated ambien…",
+    "authors": "Peng Wang, Haokang Fu, Weijian Zhou, Shugang Wu et al.",
+    "published": "2026-04-06",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Key Contributors to Changes in Ice Phenology and Composition in Lowland Polish Lakes During 1983–2023: Climatic Variables and Lake Morphometry",
+    "doi": "10.1029/2025jd045695",
+    "url": "https://doi.org/10.1029/2025jd045695",
+    "abstract": "Abstract Significant spatial and temporal differences in the pattern and magnitude of lake ice retreat have been widely observed, but the reasons for them remain unclear. Besides, changes in ice cover composition have rarely been revealed owing to a lack of long‐term observation. To fill these gaps, the MyLake model, combined with 40 years of observational data, was used to investigate the ice changes in Polish lowland lakes. The black ice decline is the significant change in all lakes, while the white ice is flat with extremely minor trends but remarkable annual and seasonal variability, largely attributed to the warming air temperature and varied changes in both amount and pattern of winter precipitation. Delayed freeze‐up, advancing break‐up, and thinned ice cover were all evident but d…",
+    "authors": "Wenfeng Huang, Ziyao Xu, Ming Li, Mariusz Ptak et al.",
+    "published": "2026-04-06",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "A Graph Signal Processing Approach to the Characterization of Xe‐133 Atmospheric Background",
     "doi": "10.1029/2025jd045777",
