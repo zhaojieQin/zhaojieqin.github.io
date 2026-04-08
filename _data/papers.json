@@ -1,6 +1,143 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Effects of wall roughness on coupled flow and heat transport in fractured media",
+    "doi": "10.1017/jfm.2026.11403",
+    "url": "https://doi.org/10.1017/jfm.2026.11403",
+    "abstract": "Heat transfer in fractured media results from the interplay between advective transport within the fracture and conductive heat exchange with the surrounding rock matrix. Aperture heterogeneity structures this interplay by generating preferential flow channels and quasi-stagnant zones, leading to early-time anomalous transport dominated by advective channelling and to late-time non-Fickian dynamics controlled by matrix conduction. This study develops a physics-based stochastic framework that couples a time-domain random walk (TDRW) representation of in-fracture advection and conduction with a semi-analytical description of matrix–fracture heat exchange, enabling a unified characterisation of both short- and long-time anomalous heat-transport regimes. Matrix trapping times follow a Lévy–Smi…",
+    "authors": "Alessandro Lenci, Yves Méheust, Maria Klepikova, Vittorio Di Federico et al.",
+    "published": "2026-04-07",
+    "keywords_matched": [
+      "ABL",
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Particle flocs in homogeneous isotropic turbulence: formation, destruction and lifetime",
+    "doi": "10.1017/jfm.2026.11314",
+    "url": "https://doi.org/10.1017/jfm.2026.11314",
+    "abstract": "Flocculation of suspended cohesive particles in turbulence plays a crucial role in various natural and industrial processes. In this study, we carry out direct numerical simulations with a cohesive discrete element method to investigate the evolution of cohesive particle flocs in homogeneous isotropic turbulence. We focus on how particle flocs are formed and destructed in turbulence, and the influences of cohesive strength, particle inertia, particle volume fraction and turbulence intensity. The statistics show that the formation and destruction of cohesive particle flocs vary across different flocculation stages and conditions. At the early developing stage, flocs primarily form through coagulation, where individual primary particles collide and adhere together. As the system approaches e…",
+    "authors": "Jianda Huang, Kunpeng Zhao, Xinyu Jiang, Zhiwen Cui et al.",
+    "published": "2026-04-07",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Data-based transient growth analysis",
+    "doi": "10.1017/jfm.2026.11396",
+    "url": "https://doi.org/10.1017/jfm.2026.11396",
+    "abstract": "Transient growth analysis has been extensively studied in asymptotically stable flows to identify their short-term amplification of perturbations. Generally, in global transient growth analyses, matrix-free methods are adopted, requiring the construction of adjoint equations, either in the discrete or continuous form. This paper introduces a data-driven algorithm that circumvents the adjoint equations by extracting the optimal initial perturbation and its energy growth over a specified time horizon from transient snapshots of perturbations. This method is validated using data from the linearised complex Ginzburg–Landau equation, backward-facing step flow and the Batchelor vortex. Unlike model-based methods, which require $S$ sets of integrations of the linearised governing equation and its…",
+    "authors": "Yin Wang, Xuerui Mao",
+    "published": "2026-04-07",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Which different turbulent flow states are allowed in centrifugal convection?",
+    "doi": "10.1017/jfm.2026.11413",
+    "url": "https://doi.org/10.1017/jfm.2026.11413",
+    "abstract": "Turbulence is often treated as memoryless. Once the forcing and control parameters are fixed and after any transients have decayed, the system settles into a unique, statistically stable turbulent state. A growing body of work shows that this paradigm does not have to be true. Even under identical forcing and boundary conditions, turbulent flows may sustain multiple long-lived structures, each with its own characteristic transport properties and fluctuations. The paper by Yao et al. (2026 J. Fluid Mech. , vol. 1030, R4) demonstrates this phenomenon particularly clearly for centrifugal convection, where the flow self-organises into different numbers of coherent rolls depending on the initial conditions. Beyond reporting the observation of multiple flow states, they provide a theoretical exp…",
+    "authors": "Heng-Dong Xi",
+    "published": "2026-04-07",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Acoustic resonance in rotor cascades caused by inlet distortion",
+    "doi": "10.1017/jfm.2026.11417",
+    "url": "https://doi.org/10.1017/jfm.2026.11417",
+    "abstract": "Acoustic resonance is a critical issue in turbomachinery that induces noise and structural vibrations. The resonant mechanism for stator blade rows was first revealed more than half a century ago, along with the well-known concept of stationary Parker modes. However, despite various efforts based on this mechanism, previous studies have failed to explain the experimental Parker-type resonance results observed in rotor blade rows. This study establishes a theoretical model to elucidate acoustic resonance phenomena in rotating annular cascades, with focus on the effects of inlet distortion. The results demonstrate that the present model captures the experimental trends for Parker-type rotor acoustic resonances, which also implies that the conventional stationary Parker modes no longer exist …",
+    "authors": "Zihan Shen, Yuqing Wang, Guangyu Zhang, Xiaoyu Wang et al.",
+    "published": "2026-04-07",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Stability prediction of vortex-induced vibrations of multiple freely oscillating bodies",
+    "doi": "10.1017/jfm.2026.11365",
+    "url": "https://doi.org/10.1017/jfm.2026.11365",
+    "abstract": "The vortex-induced vibration of multiple spring-mounted bodies free to move in the orthogonal direction of the flow is investigated. In a first step, we derive a linear arbitrary Lagrangian–Eulerian method to solve the fluid–structure linear problem as well as a forced problem where a harmonic motion of the bodies is imposed. We then propose a low computational-cost impedance-based criterion to predict the instability thresholds. A global stability analysis of the fluid–structure system is then performed for a tandem of cylinders and the instability thresholds obtained are found to be in perfect agreement with the predictions of the impedance-based criterion. An extensive parametric study is then performed for a tandem of cylinders and the effects of mass, damping and spacing between the b…",
+    "authors": "Théo Mouyen, Javier Sierra-Ausín, Flavio Giannetti, David Fabre",
+    "published": "2026-04-07",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Simulations of a High Ozone Episode and Heatwave Day Using a Coupled Multi‐Layer Urban Canopy and Chemistry Model",
+    "doi": "10.1029/2025jd045552",
+    "url": "https://doi.org/10.1029/2025jd045552",
+    "abstract": "Abstract Coastal cities face critical challenges in managing ozone pollution because of high population density and complex interactions between urbanization and coastal meteorology. Using New York City (NYC) as a case study, this work examines how urban surfaces influence heatwaves, sea‐breeze circulations, and boundary‐layer dynamics, and how these processes shape nitrogen dioxide () distributions and ozone formation. Observations from the 2018 Long Island Sound Tropospheric Ozone Study (LISTOS), collected with an airborne high‐resolution ultraviolet–visible spectrometer, provide tropospheric column densities for evaluating the Weather Research and Forecasting model coupled with Chemistry (WRF‐Chem) in multiple urban canopy configurations. Results show that the early‐morning urban heat i…",
+    "authors": "H. Gamarro, W. M. Angevine, B. C. McDonald, R. Bornstein et al.",
+    "published": "2026-04-07",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Improving Air Quality Simulations in California's San Joaquin Valley Using Land Surface Remote Sensing",
+    "doi": "10.1029/2025jd045616",
+    "url": "https://doi.org/10.1029/2025jd045616",
+    "abstract": "Abstract Accurate regional air quality modeling is crucial for the development of effective air pollution mitigation plans. Precisely simulating meteorological conditions, especially planetary boundary layer (PBL) properties, is challenging due to complex land surface conditions. In this study, we used the NASA‐Unified (NU) Weather Research and Forecasting (WRF)/Community Multiscale Air Quality (CMAQ) modeling system to assess the benefits of land surface remote sensing in simulating PBL properties and air quality in California's San Joaquin Valley (SJV), a nonattainment region for both PM 2.5 and O 3 in 2018. NASA‐Unified Weather Research and Forecasting Model (NU‐WRF) runs that assimilated remote sensing of land use, leaf area index (LAI), green vegetation fraction, and soil moisture dat…",
+    "authors": "Yueqi Jiang, Li Zhang, Fan Wu, Sarika Kulkarni et al.",
+    "published": "2026-04-07",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "DEEP-SEAM: an explainable semi-supervised deep learning framework for mineral prospectivity mapping",
+    "doi": "10.5194/gmd-19-2593-2026",
+    "url": "https://doi.org/10.5194/gmd-19-2593-2026",
+    "abstract": "Abstract. The global transition to clean energy is sharply increasing demand for rare earth elements (REEs), yet discovery rates are declining, especially in areas concealed by younger cover. Deep learning (DL) offers new opportunities for mineral prospectivity mapping (MPM), but its application is challenged by sparse labelled mineral occurrences, strong class imbalance, and limited model transparency. To address these issues, we present DEEP-SEAM, an explainable semi-supervised DL framework that integrates geological, geophysical, geochemical, remote sensing, and topographic datasets to predict REE prospectivity in the northern Curnamona Province, South Australia. The framework employs the Deviation Network (DevNet), a semi-supervised anomaly detection model that learns from a small numb…",
+    "authors": "Zijing Luo, Ehsan Farahbakhsh, Stephen Hore, R. Dietmar Müller",
+    "published": "2026-04-07",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "The Scenario Model Intercomparison Project for CMIP7 (ScenarioMIP-CMIP7)",
+    "doi": "10.5194/gmd-19-2627-2026",
+    "url": "https://doi.org/10.5194/gmd-19-2627-2026",
+    "abstract": "Abstract. Scenarios serve as a critical tool in climate change analysis, enabling the exploration of future evolution of the climate system, climate impacts, and the human system (including mitigation and adaptation actions). This paper describes the scenario framework for ScenarioMIP as part of CMIP7. The design process has involved various rounds of interaction with the research community and user groups at large. The proposal covers a set of scenarios exploring high levels of climate change (to explore high-end climate risks), medium levels of climate change (anchored to current policy), and low levels of climate change (aligned with current international agreements). These scenarios follow very different trajectories in terms of emissions, with some likely to experience peaks and subse…",
+    "authors": "Detlef P. Van Vuuren, Brian C. O'Neill, Claudia Tebaldi, Benjamin M. Sanderson et al.",
+    "published": "2026-04-07",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Validation strategies for deep learning-based groundwater level time series prediction using exogenous meteorological input features",
+    "doi": "10.5194/gmd-19-2657-2026",
+    "url": "https://doi.org/10.5194/gmd-19-2657-2026",
+    "abstract": "Abstract. Due to the growing reliance on machine learning (ML) approaches for predicting groundwater levels (GWL), it is important to examine the methods used for performance estimation. A suitable performance estimation method provides the most accurate estimate of the accuracy the model would achieve on completely unseen test data to provide a solid basis for model selection decisions. This paper investigates the suitability of the following performance estimation strategies (validation methods) for predicting GWL: blocked cross-validation (bl-CV), repeated out-of-sample validation (repOOS) and out-of-sample validation (OOS). The strategies are tested on an one-dimensional convolutional neural network (1D-CNN) and a long-short-term memory (LSTM) network. Unlike previous comparative studi…",
+    "authors": "Fabienne Doll, Tanja Liesch, Maria Wetzel, Stefan Kunz et al.",
+    "published": "2026-04-07",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Direct numerical simulation of turbulent flow in a flexible pipe with imposed standing-wave vibration",
     "doi": "10.1017/jfm.2026.11392",
     "url": "https://doi.org/10.1017/jfm.2026.11392",
@@ -874,6 +1011,31 @@
     "url": "https://doi.org/10.1063/5.0319437",
     "abstract": "The stability of a flow of an electrically conducting, incompressible fluid in a channel with an imposed uniform wall-normal magnetic field and electrically insulating walls is studied using linear stability analysis and direct numerical simulations. The novelty of the system, which differentiates it from the classical Hartmann channel flow, is that, as in some technological applications of liquid metals, the electric conductivity and viscosity of the fluid vary across the channel. This variation is found to have a strong influence on the stability characteristics of the flow. Specifically, a linear variation in electric conductivity significantly alters the base velocity profile, leading to pronounced asymmetry and the development of inflection points. When this transformation is sufficie…",
     "authors": "R. Okatev, O. Zikanov, D. Krasnov, P. Frick",
+    "published": "2026-04-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Reynolds-averaged Navier–Stokes and stress-blended eddy simulation applications toward a realistic cough jet simulations in different oral configurations",
+    "doi": "10.1063/5.0316118",
+    "url": "https://doi.org/10.1063/5.0316118",
+    "abstract": "The influence of turbulence modeling and oral cavity geometry on cough jet predictions was investigated using Computational Fluid and Particle Dynamics. Three oral geometries were examined: two realistic geometries with teeth details and different mouth openings, plus a simplified circular opening. The Reynolds-Averaged Navier–Stokes Shear Stress Transport (SST) k–ω model and hybrid Stress-Blended Eddy Simulation (SBES) model were compared to assess droplet dispersion predictions. The SST k–ω model overpredicts droplet diffusion, producing approximately 24% greater lateral dispersion than SBES simulations. SBES resolved coherent vortex structures critical to realistic particle transport in cough clouds, balancing computational cost with accuracy. A realistic narrow oral opening generated c…",
+    "authors": "Mostafa Aboelsaud, Islam M. S. Abouelhamd, Kazuki Kuga, Kiao Inthavong et al.",
+    "published": "2026-04-01",
+    "keywords_matched": [
+      "turbulence",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Improved Response of δ\n                    <sup>18</sup>\n                    O\n                    <sub>sw</sub>\n                    in the Pacific Ocean to Atmosphere‐ocean Interaction and ENSO Using the Isotope‐Enabled Fully Coupled Model MIROC6‐Iso",
+    "doi": "10.1029/2025ms005082",
+    "url": "https://doi.org/10.1029/2025ms005082",
+    "abstract": "Abstract Stable water isotopes serve as tracers of climate processes and are useful for identifying drivers of regional and global hydrological variability. To get a precise picture of spatiotemporal changes in the water cycle, it is necessary to describe the mechanisms in a coherent way among the involved climatic reservoirs (atmosphere, land, and ocean). For example, in the Pacific Ocean, the oxygen isotopic composition (denoted δ 18 O) of surface seawater recorded in corals is widely used to reconstruct the El Niño–Southern Oscillation (ENSO). However, the influences of atmosphere–ocean feedback and ocean circulation on the δ 18 O–ENSO relationship are not fully understood. Describing water isotopes in the full climate system is one way to tackle this issue. Therefore, this study introd…",
+    "authors": "Yifan Li, Alexandre Cauquoin, Atsushi Okazaki, Kei Yoshimura",
     "published": "2026-04-01",
     "keywords_matched": [
       "ABL"
