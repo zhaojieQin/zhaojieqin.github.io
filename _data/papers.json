@@ -137,6 +137,18 @@
     ]
   },
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Understanding Aitken Mode Aerosol Variability Over the Southern Ocean and Antarctica: Insights From Cloud Condensation Nuclei Data",
+    "doi": "10.1029/2025jd045489",
+    "url": "https://doi.org/10.1029/2025jd045489",
+    "abstract": "Abstract Aitken mode aerosol particles can influence cloud properties and lifetime by acting as a reservoir of potential cloud condensation nuclei (CCN) that can replenish the CCN population against precipitation scavenging. However, data on Aitken‐mode aerosols in remote regions are limited. In this study, we developed a method to estimate Aitken mode aerosol concentrations and size distribution using CCN measurements and κ ‐Köhler theory. The performance of this method was evaluated using scanning mobility particle sizer data from recent field campaigns to demonstrate its skills and applicability. The method reasonably estimates Aitken‐ and accumulation‐mode aerosol concentrations, achieving correlations of 0.7–0.9 with only modest biases (mean fractional bias within ±23% for Aitken mode…",
+    "authors": "L. Kang, R. Wood, P. N. Blossey, J. D'Alessandro et al.",
+    "published": "2026-04-07",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Direct numerical simulation of turbulent flow in a flexible pipe with imposed standing-wave vibration",
     "doi": "10.1017/jfm.2026.11392",
