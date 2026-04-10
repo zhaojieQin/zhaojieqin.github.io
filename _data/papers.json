@@ -1,6 +1,56 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "State estimation in homogeneous isotropic turbulence using super-resolution with a 4DVar training algorithm",
+    "doi": "10.1017/jfm.2026.11378",
+    "url": "https://doi.org/10.1017/jfm.2026.11378",
+    "abstract": "Variational data assimilation and machine-learning based super-resolution are two alternative approaches to state estimation in turbulent flows. The former is an optimisation problem featuring a time series of coarse observations, the latter usually requires a library of high-resolution ‘ground truth’ data. We show that the classic ‘4DVar’ data assimilation algorithm can be used to train neural networks for super-resolution in three-dimensional isotropic turbulence without the need for high-resolution reference data. To do this, we adapt a pseudo-spectral version of the fully differentiable JAX-CFD solver (Kochkov et al. , Proc. Natl Acad. Sci. USA, vol. 118, issue 21, 2021, e2101784118) to three-dimensional flows and combine it with a convolutional neural network for super-resolution. As …",
+    "authors": "Markus Weyrauch, Moritz Linkmann, Jacob Page",
+    "published": "2026-04-09",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Ground‐Based Microwave Measurements of ClO and O\n                    <sub>3</sub>\n                    Over Scott Base, Antarctica",
+    "doi": "10.1029/2025jd045421",
+    "url": "https://doi.org/10.1029/2025jd045421",
+    "abstract": "Abstract We present measurements from a new microwave instrument that has been deployed at Scott Base, Antarctica, primarily to measure ClO. The new instrument allows for the extension of the time series of lower stratospheric ClO measurements begun in 1996 at this site, while some of the technical improvements offer the possibility of making additional measurements. We show measurements of ClO and O 3 in both the upper and lower stratosphere near both the fall and spring equinox and document the diurnal variations of these measurements throughout the season. The ground‐based measurements are compared with Aura Microwave Limb Sounder (MLS) measurements, which are available twice per day, and with a NASA Goddard 2D model (GSFC2D) simulation. We show that, in agreement with the GSFC2D model …",
+    "authors": "Gerald E. Nedoluha, R. Michael Gomez, Ian Boyd, Helen Neal et al.",
+    "published": "2026-04-09",
+    "keywords_matched": [
+      "diurnal variation",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Assessing the Contribution of Marine Isoprene Emissions to Ground‐Level Ozone Formation in East Asia",
+    "doi": "10.1029/2025jd044760",
+    "url": "https://doi.org/10.1029/2025jd044760",
+    "abstract": "Abstract Marine isoprene emissions (MIEs), primarily from biogenic sources influence oceanic/coastal atmospheric chemistry but receive less attention than terrestrial emissions. To date, their contributions to ozone (O 3 ) pollution in East Asia remain poorly quantified. Here, we investigate the contribution of MIEs to near‐surface O 3 in East Asia in 2017 using a source‐tagging method integrated into a regional chemical transport model. The results indicate that MIEs increase O 3 by up to 4.6 ppb over coastal seas and 1–2 ppb inland. The contribution is highest in summer (up to 10 ppb), with notable influences in spring and autumn in southern coastal regions. For 12 coastal cities, MIEs contributed an average of 0.5–2.9 ppb to surface O 3 (accounting for 1.2%–4.9% of total) during January…",
+    "authors": "Songci Zheng, Fei Jiang, Yong Lai, Qian Liu et al.",
+    "published": "2026-04-09",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Laboratory Experiments on Savannah and European Boreal Forest Fire Emissions",
+    "doi": "10.1029/2025jd044543",
+    "url": "https://doi.org/10.1029/2025jd044543",
+    "abstract": "Abstract Landscape fire is among the largest sources of aerosols and trace gases globally. However, the emissions are highly variable and strongly affected by the type of biomass and combustion characteristics. We investigated the effect of combustion characteristics on the burning emissions from three biomass types: woody plants and grasses from southern African savannah and European boreal forest surface based on experiments at the ILMARI combustion facility in Kuopio, Finland. Considering emission factors (EF) for organic aerosol (OA) and for the sum of volatile organic compounds (VOCs), we observed a linear increase in the EF with decreasing modified combustion efficiency (MCE) down to MCE of 0.6. For instance, for woody plants from savannah flaming combustion EF OA is 6.1 g kg −1 at M…",
+    "authors": "V. Vakkari, L. Vettikkat, S. Kommula, A. Mukherjee et al.",
+    "published": "2026-04-09",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Effects of wall roughness on coupled flow and heat transport in fractured media",
     "doi": "10.1017/jfm.2026.11403",
     "url": "https://doi.org/10.1017/jfm.2026.11403",
