@@ -1,5 +1,17 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Subseasonal Forecasting of Snow Cover and Cold Compound Extremes: Insights From MPAS‐A Over Midlatitude East Asia",
+    "doi": "10.1029/2025jd045631",
+    "url": "https://doi.org/10.1029/2025jd045631",
+    "abstract": "Abstract Snow cover and cold compound extremes can generate multiple hazards. Subseasonal forecasts of these compound extremes hold considerable socioeconomic value; however, snow–atmosphere interactions introduce additional challenges that may limit forecast skill. This study evaluates the subseasonal forecast performance of these compound extremes in midlatitude East Asia using the Model for Prediction Across Scales–Atmosphere (MPAS‐A), with a focus on snow–atmosphere interactions. At the onset of these compound extremes, rapid snow cover expansion and abrupt decreases in surface air temperature occur regionally across midlatitude East Asia. MPAS‐A can forecast these extreme variations in the snow cover fraction and temperature up to two pentads in advance, with skill declining but remai…",
+    "authors": "Wenkai Li, Wenxin Ruan, Weidong Guo",
+    "published": "2026-04-11",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Simultaneous drag and lift reduction by half-rotation from the perspective of force-element analysis for turbulent flow past a sphere",
     "doi": "10.1017/jfm.2026.11404",
