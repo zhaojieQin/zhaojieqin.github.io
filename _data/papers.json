@@ -1,5 +1,126 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On the cross-flow vibration response and vortex dynamics of a circular cylinder under combined current–oscillatory flows",
+    "doi": "10.1017/jfm.2026.11418",
+    "url": "https://doi.org/10.1017/jfm.2026.11418",
+    "abstract": "This study examines the cross-flow vortex-induced vibration (VIV) of a circular cylinder in combined current–oscillatory inflows, revealing a distinct multi-frequency response characterised by beat-like modulation. Systematic water-channel experiments were conducted across a range of reduced velocities, inflow oscillation intensities and frequency ratios to investigate the synchronisation mechanisms among inflow velocity variations, cylinder motion and hydrodynamic loading. Results show that the presence of oscillatory inflow can lead to significant deviations of vibration amplitudes from quasi-steady predictions within the upper-branch regime. At a given reduced velocity, the cylinder motion is dominated by a primary frequency component similar to that observed in steady flow, but accompa…",
+    "authors": "Pengyao Gong, Yaqing Jin",
+    "published": "2026-04-13",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "A unified framework for bed shear stress and boundary layer thickness for rough and smooth beds in bare and vegetated channels",
+    "doi": "10.1017/jfm.2026.11432",
+    "url": "https://doi.org/10.1017/jfm.2026.11432",
+    "abstract": "Bed shear stress is a key parameter governing sediment transport and fluxes at the sediment–water interface. In vegetated channels, predicting bed shear stress, especially for rough beds, remains a challenge. This study developed a unified theoretical model for bed shear stress that smoothly spans conditions from bare bed to vegetated bed for both smooth and rough beds. Building on phenomenological turbulence theory, the model relates bed shear stress to the characteristic velocities of the larger energy-containing eddies and the smaller, near-bed eddies, with the new assumption that the bottom boundary layer (BBL) thickness controls the larger, energy-containing eddy length scale. The BBL was defined as the region within which the bed shear stress contributed significantly, compared to ve…",
+    "authors": "Bingrun Liu, Wei Li, Heidi Nepf",
+    "published": "2026-04-13",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Rotating Rayleigh–Bénard convection with fixed-flux thermal boundary conditions",
+    "doi": "10.1017/jfm.2026.11353",
+    "url": "https://doi.org/10.1017/jfm.2026.11353",
+    "abstract": "We derive the asymptotic solution for the onset of steady, linear, Boussinesq convection in a rapidly rotating system with stress-free, fixed-flux boundary conditions. While the fixed-temperature (FT) case is attainable analytically with relative ease, the fixed-flux (FF) configuration presents greater complexity. However, in the rapidly rotating limit, the leading-order interior solution remains unaffected by the choice of thermal boundary conditions. We exploit this property by employing an asymptotic approach to characterise the differences between the FT and FF systems. Specifically, this involves constructing a composite boundary layer structure comprising an Ekman layer of thickness $ {\\textit{Ta}}^{-1/4}$ , where $ \\textit{Ta}$ is the Taylor number ( $ \\textit{Ta} \\gg 1$ for rapid r…",
+    "authors": "Rhiannon A.M. Nicholls, Evy Kersalé, David W. Hughes, Christopher J. Davies et al.",
+    "published": "2026-04-13",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On the Markovian assumption in near-wall turbulence: the case of particle resuspension",
+    "doi": "10.1017/jfm.2026.11435",
+    "url": "https://doi.org/10.1017/jfm.2026.11435",
+    "abstract": "Stochastic models of near-wall turbulence commonly rely on the Markovian assumption, despite evidence that coherent structures induce long-lived temporal correlations. Here, we test the validity of this assumption using micron-sized particle resuspension from the viscous sublayer. Analysis of direct numerical simulation (DNS) data reveals that while high- and low-drag events occur with Poissonian statistics, their internal dynamics is strongly persistent, with a Hurst exponent $H \\approx 0.84$ , indicating intrinsic non-Markovian behaviour. We therefore develop a non-Markovian resuspension model based on a fractional Ornstein–Uhlenbeck process, with physical parameters extracted directly from the DNS flow. Comparative simulations show that the empirical success of classical Markovian model…",
+    "authors": "David Ben-Shlomo, Ronen Berkovich, Eyal Fattal",
+    "published": "2026-04-13",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Streamwise-localised travelling-wave edge state in square-duct flow",
+    "doi": "10.1017/jfm.2026.11439",
+    "url": "https://doi.org/10.1017/jfm.2026.11439",
+    "abstract": "We report the first streamwise-localised travelling-wave solution in square-duct flow that acts as an edge state in the full phase space, without any imposed spatial symmetries. Performing edge tracking and Newton iteration, we identify a steady travelling wave that possesses a codimension-one stable manifold, which (at least locally) forms the boundary between the basins of laminar and turbulent attractors. Parametric continuation identifies this solution as the lower branch of a saddle-node bifurcation pair. Perturbation analysis places both solutions on the laminar–turbulent boundary and uncovers a heteroclinic connection that links the two branches and is likewise confined to the basin boundary. This symmetry-free, localised edge state expands the catalogue of invariant solutions in wa…",
+    "authors": "Stanisław Wojciech Gepner, Adrian Wojciech Koźluk, Shingo Motoki, Genta Kawahara",
+    "published": "2026-04-13",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Model of incompressible turbulent flows via a kinetic theory",
+    "doi": "10.1017/jfm.2026.11426",
+    "url": "https://doi.org/10.1017/jfm.2026.11426",
+    "abstract": "Kinetic theory offers a promising alternative to conventional turbulence modelling by providing a mesoscopic perspective that naturally captures non-equilibrium physics such as non-Newtonian effects. In this work, we present an extension and theoretical analysis of the kinetic model for incompressible turbulent flows developed by Chen et al. ( Atmosphere , 2023, vol. 14(7), p. 1109), constructed for unbounded flows. The first extension is to reselect a relaxation time such that the turbulent transport coefficients are obtained consistently and better align with well-established turbulence theory. The Chapman–Enskog (CE) analysis of the kinetic model reproduces the linear eddy-viscosity and gradient diffusion models for Reynolds stress and turbulent kinetic energy flux at the first order, a…",
+    "authors": "Ziyang Xin, Zhaoli Guo, Hudong Chen",
+    "published": "2026-04-13",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Bubble coalescence dynamics in a high-Reynolds number decaying turbulent flow",
+    "doi": "10.1017/jfm.2026.11410",
+    "url": "https://doi.org/10.1017/jfm.2026.11410",
+    "abstract": "This study experimentally investigates bubble size evolution and void fraction redistribution in an unexplored, coalescence-dominated regime of a decaying turbulent bubbly flow. The flow is generated downstream of a regenerative pump in a duct, with bulk Reynolds number ( Re ) $\\sim \\mathcal{O}(10^5)$ , Taylor-scale Reynolds number ( Re $_\\lambda$ ) $\\sim \\mathcal{O}(10^3)$ and void fraction ( $\\phi$ ) $\\sim \\mathcal{O}(1\\,\\%)$ , where the inlet turbulence is extremely intense (turbulence intensity $\\gt 30\\,\\%$ ) but decays rapidly along the duct. Shadowgraph imaging and particle shadow velocimetry are used for measurements. The experimentally obtained turbulent dissipation in the duct flow decays as $\\varepsilon \\sim \\mathcal{L}^{-2}$ , where $\\mathcal{L}$ is the axial position, in close …",
+    "authors": "Vivek Kumar, Prasoon Suchandra, Ardalan Javadi, Suhas S. Jain et al.",
+    "published": "2026-04-13",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Choking limit prediction for diamond airfoils in supersonic ground effect",
+    "doi": "10.1017/jfm.2026.11390",
+    "url": "https://doi.org/10.1017/jfm.2026.11390",
+    "abstract": "Supersonic diamond airfoils operating in ground effect exhibit choking phenomena, where slight variations in free-stream Mach number can induce significant alterations in the ground effect flow structure and consequently affect the aerodynamic loading on the airfoil. However, existing models for predicting the choking limit Mach number demonstrate systematic discrepancies. This study establishes a novel predictive model by analysing the steady inviscid supersonic flow field around a two-dimensional diamond airfoil in ground effect. Benchmarking against numerical simulations demonstrates that the prediction errors for the choking limit Mach number across various diamond airfoil geometries are all below 3.5 %. These results affirm the high accuracy of the proposed predictive model. Under cri…",
+    "authors": "Wenqing Jiang, Shuyao Hu, Chongwen Jiang, Chun-Hian Lee",
+    "published": "2026-04-13",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "“Norkyst” version 3: the coastal ocean  forecasting system for Norway",
+    "doi": "10.5194/gmd-19-2785-2026",
+    "url": "https://doi.org/10.5194/gmd-19-2785-2026",
+    "abstract": "Abstract. We describe the operational forecasting system “Norkyst”, now in version 3, which is used for predicting the ocean circulation along the coast of mainland Norway and in the fjords. The forecasting system is based on the Regional Ocean Modeling System (ROMS), and has sub-kilometric horizontal resolution to resolve mesoscale features. Here we describe the basic configuration and report verification statistics of unconstrained model runs. The main features of the circulation and hydrography, including seasonal variations, are well represented in Norkyst v.3, making the forecast system suitable for its intended use as an open service for users in public or private sectors such as aquaculture, fishery, shipping, research, consulting, environmental management, and others who needs deta…",
+    "authors": "Kai Håkon Christensen, Jon Albretsen, Lars Asplin, Håvard Guldbrandsen Frøysa et al.",
+    "published": "2026-04-13",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "High-performance coupled surface-subsurface  flow simulation with SERGHEI-SWE-RE",
+    "doi": "10.5194/gmd-19-2799-2026",
+    "url": "https://doi.org/10.5194/gmd-19-2799-2026",
+    "abstract": "Abstract. This work presents SERGHEI-SWE-RE, a performance-portable, parallel model that couples a fully dynamic two-dimensional Shallow Water Equation (SWE) solver with a three-dimensional Richards Equation (RE) solver within the Kokkos framework to simulate surface–subsurface flow exchange. The model features a modular architecture with sequential coupling strategy, supporting both synchronous and asynchronous executions of surface and subsurface modules. The SERGHEI-SWE-RE model is validated against five benchmark problems incorporating stationary and fluctuating free-surface tests, a tilted v-catchment, a lateral-flow slope without ponding, and a heterogeneous superslab. The results demonstrate good agreement with established models. Asynchronous coupling reduces wall-clock time by up …",
+    "authors": "Na Zheng, Zhi Li, Gregor Rickert, Mario Morales-Hernández et al.",
+    "published": "2026-04-13",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Subseasonal Forecasting of Snow Cover and Cold Compound Extremes: Insights From MPAS‐A Over Midlatitude East Asia",
     "doi": "10.1029/2025jd045631",
