@@ -1,6 +1,66 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Data-driven turbulence closure using a tensor basis neural network without reliance on baseline models",
+    "doi": "10.1017/jfm.2026.11414",
+    "url": "https://doi.org/10.1017/jfm.2026.11414",
+    "abstract": "We propose a novel machine-learning-based turbulence closure framework in which a tensor basis neural network (TBNN) is directly embedded into a Reynolds-averaged Navier–Stokes (RANS) formulation, eliminating reliance on traditional baseline turbulence models. The TBNN is trained to predict the Reynolds stress anisotropic tensor from local invariant inputs and geometry-informed features, including stream function and velocity potential. Its output is processed by a regression model that generates an optimised eddy viscosity field, which is then integrated into the RANS equations as a zero-equation turbulence closure. The framework is evaluated on three turbulent flows over complex geometries: a wavy-bottom channel, a smoothed step and a backward-facing step. Incorporating geometry-informed…",
+    "authors": "Yao-Hung Tsai, Yi Wang, Che-Jung Cheng, Chen-Yen Hung et al.",
+    "published": "2026-04-14",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "An Integrated Uncertainty Framework for the China‐MST 3.0 Global Surface Temperature Data Set",
+    "doi": "10.1029/2025jd044732",
+    "url": "https://doi.org/10.1029/2025jd044732",
+    "abstract": "Abstract Global Mean Surface Temperature (GMST) is among the most important indicators of climate change, and its associated uncertainties affect the assessment of historical warming and the formulation of mitigation and adaptation policies. China‐MST 3.0 is a newly updated global surface temperature data set that merges China‐LSAT 2.1 for Land Surface Air Temperature (LSAT) and ERSST v6 for Sea Surface Temperature (SST). In this study, we develop a systematic and traceable uncertainty analysis framework for the construction process of this data set. Specifically, we comprehensively evaluate three components of LSAT uncertainty: observation, analysis, and coverage uncertainties, while describing SST uncertainty in terms of both parametric and reconstruction uncertainties. We also provide a…",
+    "authors": "Zichen Li, Qingxiang Li, Boyang Jiao, Qiya Xu et al.",
+    "published": "2026-04-14",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Extreme Zonal Dipole Pattern of January Blocking Days Between the Eastern North Atlantic and Ural in 2008: The Combined Impact of Sea Surface Temperature and Newly Formed Arctic Sea Ice Anomalies",
+    "doi": "10.1029/2025jd045202",
+    "url": "https://doi.org/10.1029/2025jd045202",
+    "abstract": "Abstract A pronounced dipole anomaly of blocking days (BDD) between the eastern North Atlantic (ENA) and Ural occurred in January 2008, representing the strongest positive phase in recent decades, marked by considerably increased (decreased) Ural (ENA) blocking days. The background circulation exhibits a positive North Atlantic Oscillation phase, with diminished (strengthened) westerly winds and meridional potential vorticity gradients over Ural (ENA), which enhances (suppresses) blocking days. Under the combined anomalies of strong North Atlantic warming, robust La Niña and substantial Barents–Kara newly formed sea ice reduction, along with their joint effects inducing significant atmospheric wave responses, the notable BDD is facilitated. Over the North Atlantic, enhanced surface turbule…",
+    "authors": "Yifan Xu, Ke Fan",
+    "published": "2026-04-14",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Land Surface Temperature Shows Negligible Difference Between Inside and Outside Photovoltaic Power Plants in China",
+    "doi": "10.1029/2026jd046444",
+    "url": "https://doi.org/10.1029/2026jd046444",
+    "abstract": "Abstract The global rapid expansion of photovoltaic (PV) power plants has drawn considerable attention to their impacts on land surface temperature (LST), which is a crucial indicator of surface energy balance. However, previous studies mainly focused on individual plants or limited regions. In this study, the effects of ground‐mounted PV power plants on LST across China have been investigated in detail. The analysis integrates Thermal and Reanalysis Integrating Moderate‐resolution Spatial‐seamless (TRIMS) LST with the land component of the fifth generation of European ReAnalysis (ERA5‐Land), using a random forest regression model combined with the Shapley additive explanations (SHAP) method. The results show that PV power plants generally induce daytime warming (0.10°C) and nighttime cool…",
+    "authors": "Chunhui Duan, Cunbo Han, Wei Hu, Jiawei Liu et al.",
+    "published": "2026-04-14",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "The Destination Earth digital twin for climate change adaptation",
+    "doi": "10.5194/gmd-19-2821-2026",
+    "url": "https://doi.org/10.5194/gmd-19-2821-2026",
+    "abstract": "Abstract. The Climate Change Adaptation Digital Twin (Climate DT), developed as part of the European Commission's Destination Earth (DestinE) initiative, sets up an operational system for producing multi-decadal, multi-model global climate projections and translating climate data into climate impact information to support adaptation efforts. This system delivers data with local granularity at spatial resolutions of 5–10 km and hourly outputs, leading to globally consistent information at scales that matter for decision-making. It also enables the testing of what-if scenarios such as high-resolution storylines, which are physically consistent global simulations of extreme events under different climate conditions and provide contextual insights to support concrete adaptation decisions. They…",
+    "authors": "Francisco J. Doblas-Reyes, Jenni Kontkanen, Irina Sandu, Mario Acosta et al.",
+    "published": "2026-04-14",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "On the cross-flow vibration response and vortex dynamics of a circular cylinder under combined current–oscillatory flows",
     "doi": "10.1017/jfm.2026.11418",
     "url": "https://doi.org/10.1017/jfm.2026.11418",
