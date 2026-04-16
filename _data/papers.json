@@ -1,5 +1,53 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "A Signal‐Derived Retrieval Reduces Bias in TEMPO NO\n                    <sub>2</sub>",
+    "doi": "10.1029/2025jd045606",
+    "url": "https://doi.org/10.1029/2025jd045606",
+    "abstract": "Abstract Satellite measurements of are widely used for investigations of emissions, pollution exposure, and photochemical ozone production. The most commonly available data products compromise on accuracy and spatial resolution in favor of lower compute time. In addition to limited spatial resolution, inaccurate modeling of winds and misrepresentation of the lifetime contribute to large systematic errors in the satellite retrievals that depend on these modeled outputs. We introduce a signal‐derived retrieval (SDR) for Tropospheric Emissions: Monitoring of Pollution (TEMPO) which derives instrument‐resolution a priori profiles from measured slant column densities. This approach enables fast reprocessing of TEMPO data and removes the gradient smoothing caused by low resolution priors and sys…",
+    "authors": "S. J. Beaudry, R. C. Cohen",
+    "published": "2026-04-15",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "What Dominates the Enhanced Impact of Tropical Pacific on Semicircumpolar Jets?",
+    "doi": "10.1029/2025jd045855",
+    "url": "https://doi.org/10.1029/2025jd045855",
+    "abstract": "Abstract Connections between tropical and Arctic climates have important implications for the Northern Hemisphere climate. This study considers the connection between sea surface temperature anomalies (SSTAs) of the central tropical Pacific and the semicircumpolar jet in summer. We find robust evidence from structurally different reanalyses that this connection has strengthened since the mid‐1980s. Climate models are able to simulate such changes as well, but available evidence from models does not suggest that external forcing has played a discernable role in the observed strengthening. In contrast, our analysis suggests that the change is primarily due to low frequency natural internal variability associated with the Atlantic Multidecadal Oscillation (AMO). The warm SSTAs in the Atlantic…",
+    "authors": "Wanling Li, Bo Sun, Francis Zwiers, Huijun Wang et al.",
+    "published": "2026-04-15",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Advances in Atmospheric Sciences",
+    "title": "China’s 1 km Daily Surface Soil Moisture Fusion Dataset (2000–2025) Based on Explainable Machine Learning",
+    "doi": "10.1007/s00376-026-5612-9",
+    "url": "https://doi.org/10.1007/s00376-026-5612-9",
+    "abstract": "Abstract High-resolution soil moisture (SM) data are critical for drought monitoring and flood forecasting. This paper describes the establishment of an interpretable machine learning (ML)-based framework for SM data fusion and generates a daily-scale, 1-km resolution, surface SM (0–10 cm) dataset over China (2000–2025). Four state-of-the-art ML models—Random Forest, XGBoost, LightGBM, and CatBoost—were trained based on in situ SM data from 2371 automatic observation stations across China. Model performance was optimized via Recursive Feature Elimination (RFE) and automated hyperparameter tuning using Optuna, while SHapley Additive exPlanations (SHAP) provided mechanistic interpretability of the ML models. The key findings of this study are as follows: (1) The fusion model primarily enhanc…",
+    "authors": "Yifan Dong, Huiling Yuan",
+    "published": "2026-04-15",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Advances in Atmospheric Sciences",
+    "title": "Dataset of China Kuroshio Extension Observatory (CKEO): Moored Buoy Observations in the Kuroshio–Oyashio Transition Zone",
+    "doi": "10.1007/s00376-025-5673-1",
+    "url": "https://doi.org/10.1007/s00376-025-5673-1",
+    "abstract": "Abstract The Kuroshio–Oyashio Transition Zone (KOTZ) serves as a vital dynamic interface between the warm Kuroshio Extension and the cold Oyashio Current. However, severe sea conditions with strong ocean currents, winds and waves pose challenges for sustained in situ observations of both oceanic and atmospheric variables. This paper introduces the China Kuroshio Extension Observatory (CKEO), a moored observatory program designed for long-term observations in the KOTZ. We provide a dataset of meteorological and oceanographic properties, including sea surface wind, air temperature, atmospheric pressure, relative humidity, sea surface temperature, sea surface salinity, ocean currents in the upper 100 m, and temperature profile in the upper 500 m. The CKEO, which began operations in 2019, prov…",
+    "authors": "Zhaohui Chen, Yueqi Zhang, Ruichen Zhu, Zhongxiang Fan et al.",
+    "published": "2026-04-15",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Data-driven turbulence closure using a tensor basis neural network without reliance on baseline models",
     "doi": "10.1017/jfm.2026.11414",
