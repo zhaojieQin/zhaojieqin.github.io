@@ -1,5 +1,54 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Resolvent-based estimation of a turbulent wake",
+    "doi": "10.1017/jfm.2026.11444",
+    "url": "https://doi.org/10.1017/jfm.2026.11444",
+    "abstract": "We present a resolvent-based framework for estimating turbulent velocity fluctuations in the wake of a spanwise-periodic NACA0012 airfoil at Mach 0.3, Reynolds number 23 000, and an angle of attack of $6^{\\circ }$ . Building on the methodology of Jung et al. (2025, J. Fluid Mech. 1016, A41), we extend the approach to the more complex regime of a turbulent wake, which involves three primary challenges: (i) globally unstable modes in the linearised Navier–Stokes operator, (ii) multi-scale turbulent structures and (iii) high-dimensional datasets. To address these challenges, we employ a data-driven approach that constructs causal resolvent-based estimation kernels from cross-spectral densities obtained via large-eddy simulations. These kernels are derived using the Wiener–Hopf method, which o…",
+    "authors": "Junoh Jung, Aaron Towne",
+    "published": "2026-04-16",
+    "keywords_matched": [
+      "wake",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Wave-induced drift in third-order deep-water theory",
+    "doi": "10.1017/jfm.2026.11448",
+    "url": "https://doi.org/10.1017/jfm.2026.11448",
+    "abstract": "The goal of this work is to investigate particle motions beneath unidirectional, deep-water waves up to the third-order in nonlinearity. A particular focus is on the approximation known as Stokes drift and how it relates to the particle kinematics as computed directly from the particle trajectory mapping. The reduced Hamiltonian formulation of Zakharov and Krasitskii serves as a convenient tool to separate the effects of weak nonlinearity, in particular, the appearance of bound harmonics and the mutual corrections to the wave frequencies. By numerical integration of the particle trajectory mappings, we are able to compute motions and resulting drift for sea-states with one, two and several harmonics. We find that the classical Stokes drift formulation provides a slight underestimate of the…",
+    "authors": "Raphael Stuhlmeier",
+    "published": "2026-04-16",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Constraining the Aerosol Effects on Deep Convective Clouds by Considering the Coupling Between Clouds and the Planetary Boundary Layer",
+    "doi": "10.1029/2025jd045263",
+    "url": "https://doi.org/10.1029/2025jd045263",
+    "abstract": "Abstract Several mechanisms have been proposed for the aerosol invigoration effect. Although their principles are well established, their actual magnitudes and roles in cloud development remain uncertain and debatable. This uncertainty partly stems from observational‐based studies, in which it has been challenging to separate the co‐variability between aerosols and meteorology. Addressing this problem requires large data samples. To this end, this study employs the Atmospheric Radiation Measurement data set expanding to 16 years (some up to 17 years, compared to 10 years in previous work) in the U.S. Southern Great Plains. It also conducts a more careful and rigorous analysis to isolate the influences of convective available potential energy (CAPE) and synoptic patterns to address a previo…",
+    "authors": "Natalia Roldán‐Henao, Zhanqing Li, Tianning Su, Jiwen Fan et al.",
+    "published": "2026-04-16",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Towards improved Euro-Mediterranean discharge  simulations in regional coupled climate models: a  comparative assessment of hydrologic performance",
+    "doi": "10.5194/gmd-19-2881-2026",
+    "url": "https://doi.org/10.5194/gmd-19-2881-2026",
+    "abstract": "Abstract. River discharge into the Mediterranean Sea is a vital component of the regional water cycle, influencing ecological and climatic dynamics. Although some regional coupled models that include a river routing component exist for the Mediterranean region, their performance in reproducing river discharge is poor. This study compares the hydrological routing models CaMa-Flood and WRF-Hydro for discharge simulations into the Mediterranean Sea, with the prospect of future coupling into regional and Earth system models such as ENEA-REG. Evaluating their performance across key basins, this study highlights CaMa-Flood's computational efficiency but underperformance in flow variability and high-flow extremes, contrasted by WRF-Hydro's superior timing and bias reduction, especially after cali…",
+    "authors": "Mohamed Hamitouche, Giorgia Fosser, Arezoo RafieeiNasab, Alessandro Anav",
+    "published": "2026-04-16",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "A Signal‐Derived Retrieval Reduces Bias in TEMPO NO\n                    <sub>2</sub>",
     "doi": "10.1029/2025jd045606",
