@@ -1,5 +1,30 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Morphology and Fractal Dimension of Ambient Soot Particles From Vehicular Emissions in Three Contrasting Urban Tunnels",
+    "doi": "10.1029/2025jd045306",
+    "url": "https://doi.org/10.1029/2025jd045306",
+    "abstract": "Abstract Vehicular emissions are a major source of soot particles, which significantly impact climate at regional and global scales. However, the morphology of ambient vehicle‐emitted soot particles remains inadequately understood, creating uncertainties in evaluating their warming potential. In this study, soot samples were collected from three urban tunnels with varying vehicle emission standards: Tunnel‐1 and Tunnel‐3 (strict standards) and Tunnel‐2 (less restrictive standards). Notably, sampling in Tunnel‐3 occurred during periods of fog and high humidity. Transmission electron microscopy was employed to analyze the morphological characteristics, fractal dimensions ( D f ), and mixing states of individual particles. Soot particles directly emitted from vehicles showed a higher proporti…",
+    "authors": "Yuner Pang, Weijun Li, Yuanyuan Wang, Liang Xu et al.",
+    "published": "2026-04-17",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Improving FY‐4A/AGRI BT Simulations Over Rugged Areas via Enhanced Solar Radiative Effects in WRF",
+    "doi": "10.1029/2025jd045837",
+    "url": "https://doi.org/10.1029/2025jd045837",
+    "abstract": "Abstract Effective assimilation of satellite land surface‐sensitive infrared brightness temperature (BT) depends critically on accurate background land surface temperature (LST), which is closely linked to surface downward solar radiation () simulations. However, current numerical models often neglect topographic effects on , producing significant biases over rugged terrain and consequently degrading modeled LST. This study aims to improve FY‐4A/Advanced Geosynchronous Radiation Imager clear‐sky surface‐sensitive infrared BT simulations by enhancing the representation of and LST over mountainous regions. To this end, a three‐dimensional sub‐grid terrain solar radiative effect scheme (3DSTSRE) is incorporated into the Weather Research and Forecasting model. The analysis focuses on areas spa…",
+    "authors": "Yang Wu, Xin Li, Anning Huang, Chunlei Gu et al.",
+    "published": "2026-04-17",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Resolvent-based estimation of a turbulent wake",
     "doi": "10.1017/jfm.2026.11444",
