@@ -1,6 +1,18 @@
 [
   {
     "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Relationship of Isolated Deep Convection Initiation to Orography and Sea Breezes Over Hainan Island and Leizhou Peninsula",
+    "doi": "10.1029/2025jd045737",
+    "url": "https://doi.org/10.1029/2025jd045737",
+    "abstract": "Abstract Hainan Island and Leizhou Peninsula in South China are characterized by abundant deep convection initiation (DCI), relatively complex orography, and strong sea breezes. This study uses the high‐resolution (0.02° × 0.02°, 10‐min interval) Himawari‐8 satellite data to identify the isolated DCI events and employs statistical methods to relate the DCI occurrence to local orography and wind conditions. The statistics are based on 10,731 DCI events that occurred during the daytime of 412 locally forced DCI days in the warm seasons of 2016–2022. A 1‐month WRF simulation, driven by the averaged reanalysis fields of these locally forced DCI days, is conducted to derive the local winds in the study area. The spatial distribution of DCI shows hotspots over mountains with high elevation and l…",
+    "authors": "Guilin Lu, Ke Cao, Shizuo Fu, Lanqiang Bai et al.",
+    "published": "2026-04-19",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Stratospheric Intrusions Over Hong Kong: Impact and Seasonality Based on Long‐Term Ozonesonde Records",
     "doi": "10.1029/2025jd045067",
     "url": "https://doi.org/10.1029/2025jd045067",
