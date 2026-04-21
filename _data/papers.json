@@ -1,5 +1,69 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Direct numerical simulations of out-scale-actuated spanwise wall oscillation in turbulent boundary layers",
+    "doi": "10.1017/jfm.2026.11454",
+    "url": "https://doi.org/10.1017/jfm.2026.11454",
+    "abstract": "Spanwise wall oscillation (SWO) of turbulent boundary layers (TBLs) is investigated via direct numerical simulations (DNS) over an extended actuation region (momentum Reynolds number $344\\lt Re_\\theta \\lt 2340$ ) with oscillation periods up to $T_{\\textit{sc}}^+=600$ , scaled by the uncontrolled friction velocity $u_{\\tau 0}$ at the onset of SWO (i.e. $ \\textit{Re}_\\theta =344$ ). For low periods ( $T_{\\textit{sc}}^+\\lt 200$ ), drag reduction ( $ \\textit{DR} $ ) decreases with increasing $ \\textit{Re}_\\theta$ , consistent with conventional inner-scaled control strategies targeting near-wall turbulence. In sharp contrast, for large periods ( $T_{\\textit{sc}}^+\\gt 200$ ), $ \\textit{DR} $ increases with $ \\textit{Re}_\\theta$ . For example, at $T_{\\textit{sc}}^+=600$ , $ \\textit{DR} $ rises fr…",
+    "authors": "Jizhong Zhang, Fazle Hussain, Jie Yao",
+    "published": "2026-04-20",
+    "keywords_matched": [
+      "turbulence",
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On the wall-normal velocity variance in canonical wall-bounded turbulence",
+    "doi": "10.1017/jfm.2026.11450",
+    "url": "https://doi.org/10.1017/jfm.2026.11450",
+    "abstract": "The variance and spectra of wall-normal velocities are investigated for direct numerical simulations of turbulent flow in a channel, pipe and zero-pressure-gradient boundary layer across a decade of friction Reynolds numbers. Spectra along the spanwise wavenumber have a pronounced peak well described by the turbulent dissipation rate and the local shear stress throughout the bottom half of the boundary layer. Deviations in the local stress from the surface shear velocity $U_\\tau$ account for almost all of the differences in wall-normal velocity variance observed across different canonical flows, including for plane Couette flow. The dependence on the local stress is attributed to the fact that wall-normal motions are predominately ‘active’ per Townsend’s attached eddy hypothesis and direct…",
+    "authors": "Michael Heisel, Rahul Deshpande, Gabriel G. Katul",
+    "published": "2026-04-20",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "A systematic characterisation of canopy density based on turbulent-structure penetration",
+    "doi": "10.1017/jfm.2026.11446",
+    "url": "https://doi.org/10.1017/jfm.2026.11446",
+    "abstract": "We investigate turbulent flows over canopies of rigid elements with different geometries, spacings and Reynolds numbers to identify and characterise different canopy density regimes. In the sparse regime, the overlying turbulence penetrates relatively unhindered within the canopy, whereas in the dense regime, this penetration is limited. The frontal density, $\\lambda _f$ , a common a measure of canopy density, is effective for e.g. conventional vegetation with no preferential orientation, but we observe that it does not fully characterise the density regime for some less conventional topologies, suggesting it may not always capture the underlying physics. To address this, we propose to quantify turbulence penetration directly, from the position and extent of individual turbulent eddies, pa…",
+    "authors": "Zishen Chen, Ricardo García-Mayoral",
+    "published": "2026-04-20",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Century‐Record‐Breaking Extreme Precipitation From Typhoon Haikui Enhanced by the Megacities in South China",
+    "doi": "10.1029/2025jd046081",
+    "url": "https://doi.org/10.1029/2025jd046081",
+    "abstract": "Abstract On 7 September 2023, a century‐record‐breaking precipitation occurred in the world's largest urban agglomeration. Notably, the precipitating system of Typhoon Haikui was significantly enhanced rapidly as it approached the metropolitan areas. This study investigates the underlying mechanisms and relative contributions of urban‐anthropogenic impacts on metropolitan precipitation using the three‐dimensional variational radar data assimilation and the Weather Research and Forecasting model. The results suggest that urban land use (URBAN), urban canopy (UC), anthropogenic sensible heat (ASH), anthropogenic latent heat (ALH), and building heights (BH) enhance precipitation by 40.6%, 18.0%, 17.5%, 12.7%, and 6.5%, respectively. Specifically, ASH and ALH increase temperature and humidity,…",
+    "authors": "Zixin Shan, Ang Zhou, Haiqin Chen, Kun Zhao et al.",
+    "published": "2026-04-20",
+    "keywords_matched": [
+      "weather research and forecasting",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "The Community Fire Behavior model for coupled fire–atmosphere modeling: implementation in the Unified Forecast System",
+    "doi": "10.5194/gmd-19-3035-2026",
+    "url": "https://doi.org/10.5194/gmd-19-3035-2026",
+    "abstract": "Abstract. There is an increasing need for simulating the evolution of wildland fires. The realism of the simulation increases by accounting for feedbacks between the fire and the atmosphere. These coupled models combine a fire behavior model with a regional numerical weather prediction model and have been used for fire research during the last few decades. This is the case, for instance, for the widely adopted Weather Research and Forecasting model with fire extensions (WRF-Fire). Typically, the coupling includes specific code for the particular models being coupled such as interpolation procedures to exchange variables between the atmospheric grid to the fire grid, and vice versa. However, having a fire modeling framework that can be coupled to different atmospheric models is advantageous…",
+    "authors": "Pedro A. Jiménez y Muñoz, Maria Frediani, Masih Eghdami, Daniel Rosen et al.",
+    "published": "2026-04-20",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting",
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "The Relationship of Isolated Deep Convection Initiation to Orography and Sea Breezes Over Hainan Island and Leizhou Peninsula",
     "doi": "10.1029/2025jd045737",
