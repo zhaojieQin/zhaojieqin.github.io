@@ -1,6 +1,43 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Boundary layer transition as succession of temporal and spatial symmetry breaking",
+    "doi": "10.1017/jfm.2026.11423",
+    "url": "https://doi.org/10.1017/jfm.2026.11423",
+    "abstract": "We show that both temporal and spatial symmetry breaking in canonical K-type boundary layer transition arise as organised structures with quantifiable energetic pathways rather than unstructured noise. Before the skin-friction maximum, the flow is described by a periodic, spanwise-symmetric fundamental harmonic response (FHR) to the Tollmien–Schlichting wave. The FHR is spatially compact, produces hairpin packets and remains fully harmonic despite a turbulence-like appearance, thereby delimiting the deterministic regime. Past this point, a distinct regime change occurs: a hierarchy of quasi-periodic and aperiodic structures emerges, followed shortly by anti-symmetric structures that develop similarly despite no anti-symmetric inputs. We identify these structures as symmetry-decomposed spec…",
+    "authors": "Cong Lin, Oliver T. Schmidt",
+    "published": "2026-04-21",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Effects of bulk viscosity on statistical scaling in compressible isotropic turbulence",
+    "doi": "10.1017/jfm.2026.11466",
+    "url": "https://doi.org/10.1017/jfm.2026.11466",
+    "abstract": "We perform numerical simulations of forced homogeneous isotropic turbulence over a range of bulk viscosities, Reynolds numbers and Mach numbers to investigate the scaling of key flow statistics. Using the Helmholtz decomposition, we analyse the scalings of Favre-averaged turbulent kinetic energy (TKE), root-mean-square (r.m.s.) pressure, pressure dilatation, dilatational dissipation and higher-order velocity-gradient moments. Additionally, new models are proposed for the pressure-dilatation term and the bulk-viscosity dependence of dilatational dissipation. Although the solenoidal and dilatational components of the Favre-averaged TKE are not strictly orthogonal, our numerical results demonstrate that their ratio is well approximated by the squared ratio of the corresponding r.m.s. velociti…",
+    "authors": "Yiming Qi, Jie Shen, Lian-Ping Wang, Tianbai Xiao et al.",
+    "published": "2026-04-21",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Impact of vertical coordinate systems on simulations of barotropic and baroclinic tides in the Yellow Sea using a regional MOM6 configuration for the Northwest Pacific",
+    "doi": "10.5194/gmd-19-3053-2026",
+    "url": "https://doi.org/10.5194/gmd-19-3053-2026",
+    "abstract": "Abstract. An accurate representation of tidal dynamics is critical for simulating physical and biogeochemical processes in marginal seas, such as the Yellow Sea, where energetic tides and strong seasonal stratification coexist. This study assessed the impact of vertical coordinate systems on the simulation of barotropic and baroclinic tides using Modular Ocean Model version 6, evaluating two configurations: the z* coordinate system (ZSTAR) and hybrid z*-isopycnal coordinate system (HYBRID). The model outputs were validated against satellite-derived sea surface temperatures, in situ temperature profiles, and TPXO tidal harmonics, with a focus on contrasting winter and summer conditions. HYBRID more accurately reproduced sea surface temperatures and vertical thermal structures, particularly …",
+    "authors": "Inseong Chang, Young Ho Kim, Young-Gyu Park, Hyunkeun Jin et al.",
+    "published": "2026-04-21",
+    "keywords_matched": [
+      "tidal"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Direct numerical simulations of out-scale-actuated spanwise wall oscillation in turbulent boundary layers",
     "doi": "10.1017/jfm.2026.11454",
     "url": "https://doi.org/10.1017/jfm.2026.11454",
