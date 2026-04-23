@@ -1,6 +1,67 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Two-dimensional turbulence over topography of varying roughness",
+    "doi": "10.1017/jfm.2026.11455",
+    "url": "https://doi.org/10.1017/jfm.2026.11455",
+    "abstract": "We numerically study weakly decaying two-dimensional turbulence over topography of varying roughness by comparing long-term flow states from simulations to the minimum enstrophy state (MES) proposed by Bretherton &amp; Haidvogel ( J. Fluid Mech. , vol. 78, 1976, issue 1, pp. 129–154). The presence of isolated vortices in the numerical simulations leads to significant differences from the theory. These vortices are either roaming or topographically locked, with this distinction depending on the topographic roughness, the initial length scale and the initial non-dimensional energy ( $E/E_{\\#}$ ), where $E_{\\#}$ denotes the critical energy proposed by Siegelman &amp; Young ( Proc. Natl. Acad. Sci. USA , vol. 120, 2023, issue 44, p. e2308018120). For low-energy and weakly rough topography, sca…",
+    "authors": "V.R. Krishna Priya, Snehal Sunil Patil, Kannabiran Seshasayanan, Rajaram Lakkaraju",
+    "published": "2026-04-22",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On the essential structure of exact travelling-wave solutions in viscoelastic flow",
+    "doi": "10.1017/jfm.2026.11457",
+    "url": "https://doi.org/10.1017/jfm.2026.11457",
+    "abstract": "We examine elastic travelling-wave (‘arrowhead’) solutions in a viscoelastic, unidirectionally body-forced flow, focusing on their existence and morphological changes as the Weissenberg number ${\\textit{Wi}}$ and streamwise duct length $L$ are varied. We find that, First, branch topology varies from an isola at low $L$ through a two-sided reconnection at intermediate $L$ to a branch that exists at asymptotically large ${\\textit{Wi}}$ for larger $L$ . At intermediate $L$ , more than two arrowhead solutions can coexist at a given $({\\textit{Wi}},L)$ choice due to extra saddle–node bifurcations. Second, the canonical arrowhead consists of two legs joined by an arched head that blocks throughflow and traps a counter-rotating vortex pair, while a polymer strand can emerge as a by-product of a s…",
+    "authors": "Lu Zhu, Rich R. Kerswell",
+    "published": "2026-04-22",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Drag on a penetrable two-dimensional disk in a superfluid",
+    "doi": "10.1017/jfm.2026.11467",
+    "url": "https://doi.org/10.1017/jfm.2026.11467",
+    "abstract": "The motion of a body through a superfluid can generate phenomena distinct from a normal viscous fluid. This includes the absence of drag below a critical body speed with the shedding of quantised vortices and non-zero drag above this speed. These phenomena are often modelled using the Gross–Pitaevskii (GP) equation, which describes the wavefunction of a weakly interacting Bose–Einstein condensate and its superfluid dynamics. We study the drag experienced by a penetrable circular disk of radius, $a$ , in the form of a two-dimensional potential barrier of height, $V_0$ , that is moving in a superfluid of bulk density, $n_\\infty$ , by solving the GP equation. The drag is found to exhibit a unimodal dependence on the disk speed for a fixed value of its barrier height. This behaviour is quantif…",
+    "authors": "John Elie Sader, Alex Nunn, D.I. Pullin",
+    "published": "2026-04-22",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Collapse of turbulence in optimised curved pipe flow",
+    "doi": "10.1017/jfm.2026.11427",
+    "url": "https://doi.org/10.1017/jfm.2026.11427",
+    "abstract": "Turbulence-induced friction is a significant contributor to energy consumption in the fluid-transport and piping industries. Here, we describe a passive approach to suppress turbulence and reduce friction: we show that a local increase in streamwise flow curvature, combined with changing a circular cross-section to an oval, relaminarises turbulent flow in curved pipes. We exemplify this effect in a $180^{\\circ }$ bend at ${\\textit{Re}}_D=10\\,000$ and $20\\,000$ (based on bulk velocity $U_B$ and pipe diameter $D$ ), well above the limit for sustained turbulence in straight pipes and the linear stability limit in $180^{\\circ }$ bends. Curvature inhibits streamwise Reynolds stresses, and cross-sectional modifications weaken the unstable secondary flow, together disrupting the near-wall regener…",
+    "authors": "Eman Bagheri, Stefan Becker, Philipp Schlatter",
+    "published": "2026-04-22",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "DSCALE v0.1 – an open-source algorithm for downscaling regional and global mitigation pathways to the country level",
+    "doi": "10.5194/gmd-19-3157-2026",
+    "url": "https://doi.org/10.5194/gmd-19-3157-2026",
+    "abstract": "Abstract. Integrated Assessment Models (IAMs) provide low-carbon scenarios at a global scale or for broad economic aggregates, as running these models for every country would be computationally demanding. Lack of national results from IAMs, hinders the enhancement of NDCs (Nationally Determined Contributions) and LTS (Long Term Strategies) in accordance with the 1.5 °C target and best available science. To address this limitation, we have developed DSCALE (Downscaling Scenarios to the Country level for Assessment of Low carbon Emissions), a novel algorithm designed to downscale regional IAMs outcomes to the country level. In this paper we present the methodology and show results for both current policy and 1.5 °C scenarios from the NGFS 2023 release. This downscaling tool provides insights…",
+    "authors": "Fabio Sferra, Bas van Ruijven, Keywan Riahi, Philip Hackstock et al.",
+    "published": "2026-04-22",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Boundary layer transition as succession of temporal and spatial symmetry breaking",
     "doi": "10.1017/jfm.2026.11423",
     "url": "https://doi.org/10.1017/jfm.2026.11423",
