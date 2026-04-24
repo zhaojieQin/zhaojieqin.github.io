@@ -1,5 +1,29 @@
 [
   {
+    "journal": "Geoscientific Model Development",
+    "title": "Numerical strategies for representing Richards' equation and  its couplings in snowpack models",
+    "doi": "10.5194/gmd-19-3193-2026",
+    "url": "https://doi.org/10.5194/gmd-19-3193-2026",
+    "abstract": "Abstract. The physical processes of heat conduction, liquid water percolation, and phase changes govern the transfer of mass and energy in snow. They are therefore at the heart of any physics-based snowpack model. In the last decade, the use of Richards' equation has been proposed to better represent liquid water percolation in snow. While this approach allows the explicit representation of capillary effects, it can also be problematic as it usually presents a large increase in numerical complexity and cost. This notably arises from the problem of applying a water retention curve in a fully-dry medium such as snow, leading to a divergence and degeneracy in Richards' equation. Moreover, the difficulty of representing both dry and wet snow in a single framework hinders the concomitant solvin…",
+    "authors": "Kévin Fourteau, Julien Brondex, Clément Cancès, Marie Dumont",
+    "published": "2026-04-23",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "MeteoSaver v1.0: a machine-learning based software  for the transcription of historical weather data",
+    "doi": "10.5194/gmd-19-3213-2026",
+    "url": "https://doi.org/10.5194/gmd-19-3213-2026",
+    "abstract": "Abstract. Archives of observed weather data present unique opportunities for scientists to obtain long time series of the historical climate for many regions of the world. Unfortunately, most of these observational records are to-date available only on paper, and thus require digitization and transcription to facilitate analysis of climatic trends. Here we present a new open-source software, MeteoSaver, that uses machine learning (ML) algorithms to transcribe handwritten records of historical weather data. MeteoSaver version 1.0 processes images of tabular sheets alongside user-defined configuration settings, performing transcription through five sequential steps: (i) image pre-processing, (ii) table and cell detection, (iii) transcription, (iv) quality assessment and quality control, and …",
+    "authors": "Derrick Muheki, Bas Vercruysse, Krishna Kumar Thirukokaranam Chandrasekar, Christophe Verbruggen et al.",
+    "published": "2026-04-23",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Two-dimensional turbulence over topography of varying roughness",
     "doi": "10.1017/jfm.2026.11455",
