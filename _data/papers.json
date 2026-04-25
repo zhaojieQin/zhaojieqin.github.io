@@ -1,5 +1,54 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Modulation and classification of wake transitions through vortex evolution phases in undulated cylinders at low Reynolds number – ERRATUM",
+    "doi": "10.1017/jfm.2026.11522",
+    "url": "https://doi.org/10.1017/jfm.2026.11522",
+    "abstract": "",
+    "authors": "Hyun Sik Yoon, Gourisaran Baiju Sony, Seok Beom Hong",
+    "published": "2026-04-24",
+    "keywords_matched": [
+      "wake",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Long‐Term Variability of Homogenized GPS‐Derived Precipitable Water Vapor Over Chinese Stations (2000–2020)",
+    "doi": "10.1029/2025jd046275",
+    "url": "https://doi.org/10.1029/2025jd046275",
+    "abstract": "Abstract As a vital atmospheric component, water vapor influences climate change and drives numerous weather‐related processes. The Global Positioning System (GPS) provides a valuable tool for investigating Precipitable Water Vapor (PWV). This study reanalyzed the raw GPS data from 2000 to 2020 at 25 stations over China to generate a consistent and reliable GPS PWV data set. To obtain homogenized GPS PWV time series, potential artificial shifts in the mean caused by changes in instruments and environmental conditions were identified and corrected based on GPS station log files and comparisons with numerical weather prediction reanalysis PWV from the ECMWF Reanalysis v5 (ERA5) and satellite PWV observations from the Moderate Resolution Imaging Spectrometer (MODIS). A comprehensive assessmen…",
+    "authors": "Jingna Bai, Roeland Van Malderen, Eric Pottiaux, Weixing Zhang et al.",
+    "published": "2026-04-24",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Aircraft‐Based Observational Analysis of the Coupling Between Thermodynamic and Microphysical Structures in Bow Echoes Over Central China",
+    "doi": "10.1029/2025jd045773",
+    "url": "https://doi.org/10.1029/2025jd045773",
+    "abstract": "Abstract Using in situ aircraft observations, this study analyzes the evolution of dynamic, thermodynamic, and microphysical characteristics during the developing and mature stages of a bow echo associated with a squall line that occurred in Central China on 15–16, 2019. During this squall line event, the radar‐observed bow echo underwent multiple stages, including the formation and merging of convective cell clusters, the establishment of the bow echo structure, and its subsequent intensification. As the convective cell developed, a 0.3 km thick inversion layer within its core region elevated the melting layer by approximately 0.6 km, which not only promoted energy accumulation but also supplied ample supercooled water, favoring further intensification of the convective activity. This lif…",
+    "authors": "Dejun Li, Shanqiang Gu, Chuanfeng Zhao, Jiefan Yang et al.",
+    "published": "2026-04-24",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "A fast and physically grounded ocean model for GCMs: the Dynamical Slab Ocean Model of the Generic-PCM (rev. 3423)",
+    "doi": "10.5194/gmd-19-3285-2026",
+    "url": "https://doi.org/10.5194/gmd-19-3285-2026",
+    "abstract": "Abstract. We present an improved dynamical slab ocean model implemented in a 3-D General Circulation Model (GCM) called the Generic Planetary Climate Model (Generic-PCM; formerly the LMD-Generic GCM). Earlier two-layer slab ocean models featured wind-driven Ekman transport, horizontal diffusion and convective adjustment. Building upon this, our updated parallelised model introduces a Sverdrup balance scheme for Ekman transport, the first application of the Gent–McWilliams (GM) parameterisation of mesoscale eddies in a slab ocean model, and a spectrally and thickness dependent formulation of sea ice and snow albedo. We validate this model in an idealised aquaplanet setting under various OHT configurations. We show that enabling OHT transforms not only surface features – such as cooler tropi…",
+    "authors": "Siddharth Bhatnagar, Francis Codron, Ehouarn Millour, Emeline Bolmont et al.",
+    "published": "2026-04-24",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "Numerical strategies for representing Richards' equation and  its couplings in snowpack models",
     "doi": "10.5194/gmd-19-3193-2026",
