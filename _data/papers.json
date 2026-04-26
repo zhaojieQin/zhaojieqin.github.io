@@ -1,5 +1,41 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Revisiting Intrinsic Predictability of Wave‐Convection Coupled Bands Over Southern China: Variable and Scale‐Dependent Error Growth Characteristics",
+    "doi": "10.1029/2025jd045130",
+    "url": "https://doi.org/10.1029/2025jd045130",
+    "abstract": "Abstract This study investigates the variable‐ and scale‐dependent intrinsic predictability of wave‐convection coupled bands over southern China on 30 January 2018, using 1‐km simulations under varying initial moisture conditions. The predictability time is quantified via the Loss Predictability Index (LPI), defined as the ratio of the forecast error power spectrum to the reference (unperturbed) power spectrum at a given scale. Spectral analysis reveals substantial differences in the reference power spectral slopes among variables, while their error growth behaviors consistently exhibit upscale features. The intrinsic predictability limit of the banded convection, measured by the difference total energy (DTE), is approximately 7 hr. Predictability varies with both scale and altitude: small…",
+    "authors": "Manshi Weng, Junhong Wei, Yu Du, Y. Qiang Sun et al.",
+    "published": "2026-04-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Atmospheric Adjustments to In Situ Cirrus Formation in Ice Supersaturated Regions",
+    "doi": "10.1029/2025jd046235",
+    "url": "https://doi.org/10.1029/2025jd046235",
+    "abstract": "Abstract High‐level ice clouds exert a net warming on the climate system because their greenhouse effect outweighs their albedo effect. Focusing on in‐situ cirrus, their formation involves the conversion of upper‐tropospheric water vapor into ice crystals. Anthropogenic perturbations to the upper‐tropospheric water budget—such as aviation‐induced cloudiness or the proposed cirrus cloud thinning concept—also trigger atmospheric adjustments that contribute to the total effective radiative forcing. This study presents an idealized climate‐model pulse experiment in which water exceeding saturation within cloud‐free, ice‐supersaturated regions is instantaneously condensed to form cirrus clouds. In contrast to sustained perturbations, this transient modification of cirrus cloud cover enables the…",
+    "authors": "Jérémie Juvin‐Quarroz, Audran Borella, Patryk Kiepas, Thomas Dubos et al.",
+    "published": "2026-04-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Interference of Gravity Waves Above the Antarctic Peninsula Studied Using a Spectral Rotary Method During the SOUTHTRAC Campaign",
+    "doi": "10.1029/2025jd044692",
+    "url": "https://doi.org/10.1029/2025jd044692",
+    "abstract": "Abstract In the context of the SOUTHTRAC (Southern Hemisphere Transport, Dynamics, and Chemistry) campaign, carried out by a specialized aircraft in the southern Patagonia, one of the flights was analyzed using a spectral rotary method in order to understand the vertical energy transport of gravity waves (GWs) above the Antarctic Peninsula. The interpretations and capabilities of the rotary method were first tested using a set of synthetic waves. The importance of the flight chosen for this study was due to the high resolution data obtained over the Antarctic Peninsula and southern Patagonia. The most valuable data due to its wide observational window, collected by the on‐board ALIMA (Airborne LiDAR for Middle Atmospheric Research) LiDAR, provided temperature profiles roughly from 20 to 70…",
+    "authors": "T. Marcos, A. de la Torre, P. Alexander, M. Geldenhuys et al.",
+    "published": "2026-04-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Modulation and classification of wake transitions through vortex evolution phases in undulated cylinders at low Reynolds number – ERRATUM",
     "doi": "10.1017/jfm.2026.11522",
