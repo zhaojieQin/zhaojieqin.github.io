@@ -1,5 +1,223 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Stabilising large-scale motions to enhance passive scalar transport in spanwise rotating plane Poiseuille flows",
+    "doi": "10.1017/jfm.2026.11486",
+    "url": "https://doi.org/10.1017/jfm.2026.11486",
+    "abstract": "A recent study by Zhang et al. (2024, J. Fluid Mech. , vol. 979, A43) introduced an effective control strategy, namely streamwise-uniform spanwise equally distributed injection/suction slots on the pressure (unstable) wall, to enhance passive scalar transport in spanwise rotating plane Poiseuille flows (RPPFs). In this work, we employ direct numerical simulations to further investigate the scalar transport increase rate ( $\\textit{STI}$ ) under different slot configurations. Two distinct configurations are investigated, namely uniform-width slots, where injection and suction slots share identical dimensions, and non-uniform-width slots, where their widths vary independently. The former is to examine the effect of slot width, whereas the latter is devoted to distinguishing the individual ro…",
+    "authors": "Wenlu Guo, Shengqi Zhang, Yaxing Li, Zhenhua Xia",
+    "published": "2026-04-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Is it true that no mathematical relation exists between the Navier–Stokes equations and the multifractal model?",
+    "doi": "10.1017/jfm.2026.11445",
+    "url": "https://doi.org/10.1017/jfm.2026.11445",
+    "abstract": "Contrary to accepted turbulence folklore, which holds that no mathematical relation exists between the Navier–Stokes equations (NSEs) and the multifractal model (MFM) of Parisi and Frisch, we develop a theory that reconciles the MFM with Leray’s weak solutions of Navier–Stokes analysis. From a combination of Euler invariant scaling and the NSEs set in a three-dimensional box of side $L$ , we also derive the Paladin–Vulpiani scale $\\eta_{h,pav}$ which is related to the Reynolds number Re by $L\\eta _{h,\\textit{pa}v}^{-1} = \\textit{Re}^{1/(1+h)}$ , and which acts as a mediator between the two theories. This is achieved by considering $L^{2m}$ -norms of the velocity gradient to find a correspondence between $m$ and the local scaling exponent $h$ in the multifractal model. The parameter $m$ act…",
+    "authors": "John David Gibbon, Dario Vincenzi",
+    "published": "2026-04-27",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "How orcas capture seals resting on ice floes",
+    "doi": "10.1017/jfm.2026.11483",
+    "url": "https://doi.org/10.1017/jfm.2026.11483",
+    "abstract": "Flow around a submerged cylinder near a free surface reveals that adjusting the Froude number and gap ratio influences the underwater jet pattern, vortex shedding frequency and free-surface deformation. The jet typically separates near the trough, leading to vorticity concentration and breaking waves that dissipate wave energy. Antarctic orcas collaborate to generate deep depression waves, breaking ice and washing seals from floes. Orcas raise their heads and tap their tails downward when approaching ice, which may benefit strong wave generation. We investigate the wave-generating hydrodynamics using a towing tank and particle image velocimetry. A scaled model with an elliptical body and wedge-shaped tail was tested under Froude number similarity. Experiments covered towing speeds of $0.3-…",
+    "authors": "Wenyuan Zhou, Jiale An, Lamberto Rondoni, Yuliang Zhang et al.",
+    "published": "2026-04-27",
+    "keywords_matched": [
+      "vortex",
+      "wave energy"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Turbulence closure in Reynolds-averaged Navier–Stokes and flow inference around a cylinder using physics-informed neural networks and sparse experimental data",
+    "doi": "10.1017/jfm.2026.11471",
+    "url": "https://doi.org/10.1017/jfm.2026.11471",
+    "abstract": "Traditional Reynolds-averaged Navier–Stokes (RANS) closures, based on the Boussinesq eddy-viscosity hypothesis and calibrated on canonical flows, often yield inaccurate predictions of both mean flow and turbulence statistics. Here, we consider flow past a circular cylinder over a range of Reynolds numbers ( $3900$ – $100\\,000$ ) and Mach numbers ( $0$ – $0.3$ ), encompassing incompressible and weakly compressible regimes, with the goal of improving predictions of mean velocity and Reynolds forces. To this end, we assemble a cross-validated dataset comprising hydrodynamic particle image velocimetry (PIV) in a towing tank, aerodynamic PIV in a wind tunnel and high-fidelity spectral element direct numerical simulation and large eddy simulation. Analysis of these data reveals a universal distr…",
+    "authors": "Zhen Zhang, Khemraj Shukla, Zhicheng Wang, Anthony Morales et al.",
+    "published": "2026-04-27",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Asymmetric shock reflection in supersonic overexpanded jet",
+    "doi": "10.1017/jfm.2026.11449",
+    "url": "https://doi.org/10.1017/jfm.2026.11449",
+    "abstract": "This paper investigates asymmetric shock reflection in a supersonic overexpanded jet. A theoretical model that can predict the size and shape of flow field structures such as shocks, expansion waves and sliplines is established. For symmetric Mach reflection, the current model exhibits better agreement with numerical simulation results. For asymmetric Mach reflection, the current model also shows good agreement with numerical simulation results in predicting Mach stem height. The research indicates that the Mach stem height decreases with increasing nozzle pressure ratio and nozzle exit length difference, and decreases as the nozzle exit Mach number decreases. In addition, the critical geometric condition for complete misalignment of the upper and lower slipline interference segments (i.e.…",
+    "authors": "Boyuan Liu, Zhudi Li, Chenyuan Bai",
+    "published": "2026-04-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Reciprocal swimming in viscoelastic granular hydrogels",
+    "doi": "10.1017/jfm.2026.11477",
+    "url": "https://doi.org/10.1017/jfm.2026.11477",
+    "abstract": "We experimentally study a scallop-like swimmer with reciprocally flapping wings in a nearly frictionless, cohesive granular medium consisting of hydrogel spheres. Significant locomotion is found when the swimmer’s flapping frequency matches the inverse relaxation time of the material. Remarkably, the swimmer moves in the opposite direction compared with its motion in a cohesion-free granular material of hard plastic spheres. At higher or lower frequencies, we observe no motion of the swimmer, apart from a short initial transient phase. X-ray radiograms reveal that the wing motions create low-density zones, which in turn give rise to a hysteresis in drag and propulsion forces. This time-dependent effect, combined with the swimmer’s inertia, accounts for locomotion at intermediate frequencie…",
+    "authors": "Hongyi Xiao, Jing Wang, Achim Sack, Ralf Stannarius et al.",
+    "published": "2026-04-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Uncovering the parameter variations of the inner–outer interaction model across incompressible and compressible wall-bounded turbulence",
+    "doi": "10.1017/jfm.2026.11452",
+    "url": "https://doi.org/10.1017/jfm.2026.11452",
+    "abstract": "The inner–outer interaction model (IOIM), first proposed by Marusic et al. ( Science , 2010, vol. 329, pp. 193–196), has proven to be an effective turbulence model for canonical and non-canonical wall-bounded flows, where a reference velocity signal from the logarithmic region acts as the input for predicting near-wall velocity fluctuations. Its most recent iteration by Baars et al. ( Phys. Rev. Fluids , 2016, vol. 1, p. 054406) further proposes a user-independent scale separation point, refining model parameters. In this study, we compared the long-perceived universal IOIM’s parameters, including the linear transfer kernel, amplitude modulation coefficients and the universal signal for a range of Reynolds and Mach numbers, where mathematical relationships between the parameters are propos…",
+    "authors": "Justin E. Ka Ip Sun, Anjia Ying, Lin Fu",
+    "published": "2026-04-27",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Two-point turbulence closures in physical space",
+    "doi": "10.1017/jfm.2026.11485",
+    "url": "https://doi.org/10.1017/jfm.2026.11485",
+    "abstract": "This work presents a predictive two-point statistical closure framework for turbulence formulated in physical space. A closure model for ensemble-averaged, incompressible homogeneous isotropic turbulence (HIT) is developed as a starting point to demonstrate the viability of the approach in more general flows. The evolution equation for the longitudinal correlation function is derived in a discrete form, circumventing the need for a Fourier transformation. The formulation preserves the near-exact representation of the linear terms, a defining feature of rapid distortion theory. The closure of the nonlinear higher-order moments follows the phenomenological principles of the eddy-damped quasi-normal Markovian (EDQNM) model of Orszag ( J. Fluid Mech. , vol. 41, 1970, pp. 363–386). Several key …",
+    "authors": "Noah Zambrano, Karthik Duraisamy",
+    "published": "2026-04-27",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Experimental and numerical study of rigid particles with two planes of symmetry approaching a stable, stationary orientation while sedimenting",
+    "doi": "10.1017/jfm.2026.11438",
+    "url": "https://doi.org/10.1017/jfm.2026.11438",
+    "abstract": "This work investigates experimentally and numerically the dynamics of rigid particles with two orthogonal symmetry planes settling under gravity in a highly viscous fluid at a Reynolds number much smaller than one. Joshi &amp; Govindarajan (2025 Phys. Rev. Lett . 134(1), 014002), showed theoretically that for such shapes, the dynamics are qualitatively different for different signs of the product of two rotational–translational mobility coefficients, evaluated with respect to the particle centre of mass in a symmetric reference frame. However, upon examining a particle’s shape, it is not immediately evident if this product is negative, positive or zero. In this paper, we demonstrate how to estimate these coefficients and the sign of their product from experiments, using special initial ori…",
+    "authors": "Chandra Shekhar, Harish N. Mirajkar, Piotr Zdybel, Yevgen Melikhov et al.",
+    "published": "2026-04-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Observer-based neural networks for flow estimation and control",
+    "doi": "10.1017/jfm.2026.11464",
+    "url": "https://doi.org/10.1017/jfm.2026.11464",
+    "abstract": "Neural network observers (NNOs) are proposed for online estimation of fluid flows, addressing a key challenge in flow control: obtaining flow states online from a limited set of sparse and noisy sensor data. For this task, we propose a generalisation of the classical Luenberger observer. In the present framework, the estimation loop is composed of subsystems modelled as neural networks (NNs). By combining flow information from selected probes and a neural network surrogate model (NNSM) of the flow system, we train NNOs capable of fusing information to provide the best estimation of the states, that can in turn be fed back to a neural network controller (NNC). The NNO capabilities are demonstrated for three nonlinear dynamical systems. First, a variation of the Kuramoto–Sivashinsky (KS) equ…",
+    "authors": "Tarcísio Costa Déda, Brener Ramos, William Wolf, Scott T.M. Dawson",
+    "published": "2026-04-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Geostationary Air Quality Monitoring Substantiates Column NO\n                    <sub>2</sub>\n                    as a Better O\n                    <sub>3</sub>\n                    Formation Regime Indicator in China",
+    "doi": "10.1029/2025jd045271",
+    "url": "https://doi.org/10.1029/2025jd045271",
+    "abstract": "Abstract China has become a global hotspot of ozone (O 3 ) pollution, and understanding O 3 formation regime is crucial for air quality management. Satellite‐observed formaldehyde‐to‐nitrogen‐dioxide ratio (HCHO/NO 2 , FNR) has long been demonstrated as an efficient way to infer O 3 formation regime. However, reported FNR thresholds that divide O 3 formation regimes into VOC‐limited, transitional, and NO x ‐limited regimes uncover considerable differences. Using data from the world's first geostationary air quality monitoring instrument Geostationary Environment Monitoring Spectrometer, we report the spatiotemporal variations, particularly diurnal features, of O 3 ‐FNR relationships and O 3 formation regimes in China. We find that O 3 ‐FNR relationships fluctuate significantly over time an…",
+    "authors": "Qianqian Yang, Xiaomeng Jin, Haolin Wang, Arlene M. Fiore et al.",
+    "published": "2026-04-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Issue Information",
+    "doi": "10.1029/jgrd.70556",
+    "url": "https://doi.org/10.1029/jgrd.70556",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-04-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "A Wall of Smoke: Understanding the Drivers of the June 2023 Canadian Wildfire Smoke Event for New York City",
+    "doi": "10.1029/2025jd044798",
+    "url": "https://doi.org/10.1029/2025jd044798",
+    "abstract": "Abstract The 2023 Canadian wildfire season was notable for its extent and the dense smoke it produced. Motivated by the resulting record‐breaking air quality hazard in the New York City region, we use in situ observations, satellite retrievals, reanalysis data, and trajectory analysis to explore how the smoke aerosol emitted from the Quebec fires came to influence PM 2.5 concentrations 1,000 km downstream in New York City. Using emissions estimates from the Regional Advanced Baseline Imager + VIIRS Emissions data set and injection height estimates from the Integrated Monitoring and Modeling System, we relate the emissions timing of the fires with the broader synoptic context and surface PM 2.5 concentrations. The smoke aerosols were predominantly confined to the boundary layer and lower tr…",
+    "authors": "Gregory S. Randazzo, Spencer A. Hill, James F. Booth, Robert D. Field",
+    "published": "2026-04-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "On the Changes in the Connection Between SSWs and Surface Extreme Weather in Response to an Abrupt 4xCO\n                    <sub>2</sub>\n                    Increase",
+    "doi": "10.1029/2025jd045140",
+    "url": "https://doi.org/10.1029/2025jd045140",
+    "abstract": "Abstract Sudden Stratospheric Warmings (SSWs) are the most important variability phenomena of the wintertime polar stratosphere. SSWs impact tropospheric circulation and surface temperature, even influencing the occurrence of surface extreme events. Still, there is a lack of consensus on how SSWs will change in the future. In this study, we investigate how the SSW impacts on temperature surface extreme events are affected by an abrupt quadrupling of CO 2 , compared to pre‐industrial conditions, in CMIP6 models. We analyze two subsets of models regarding their changes in SSWs frequency in response to 4xCO 2 (models with decreasing SSWs frequency (NEG), and models with an increase frequency (POS)). Under 4xCO 2 conditions, NEG models project a strengthened polar vortex, have more persistent …",
+    "authors": "D. De Maeseneire, B. Ayarzagüena, N. Calvo",
+    "published": "2026-04-27",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Dipolar Distribution of Cyclones and Its Influence on Sea Ice Extremes in the Amundsen‐Bellingshausen Seas",
+    "doi": "10.1029/2025jd045779",
+    "url": "https://doi.org/10.1029/2025jd045779",
+    "abstract": "Abstract The Amundsen‐Bellingshausn Seas (ABS) have experienced a notable decline in sea ice extent (SIE) since 1979, alongside strengthening cyclone activity. This study examines the role of cyclones in driving extreme SIE events using satellite observations and atmospheric reanalysis data. A comparison between two years with the highest and lowest annual minimum SIE (1980 and 2010) reveals a significant relationship between cyclone intensity and retreat‐season SIE fluctuations, with cyclone intensity leading to sea ice changes. Relative to high SIE years, low SIE years are characterized by more frequent, stronger, and slower‐moving cyclones over the Amundsen Sea, and weaker, faster‐moving systems over the Bellingshausen Sea. Composite analysis of the five highest and lowest SIE years, to…",
+    "authors": "Peiyi Lin, Rui Zhong, Qinghua Yang, Kyle R. Clem et al.",
+    "published": "2026-04-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Benchmarking soil moisture and its relationship to ecohydrologic variables in Earth System Models",
+    "doi": "10.5194/gmd-19-3427-2026",
+    "url": "https://doi.org/10.5194/gmd-19-3427-2026",
+    "abstract": "Abstract. Soil moisture (SM) is a key regulator of ecosystem biogeophysics, influencing plant water relations and land-atmosphere energy exchanges. We evaluate the representation of SM in 16 Earth System Models from the Coupled Model Intercomparison Project Phase 6 (CMIP6) using the International Land Model Benchmarking (ILAMB) framework, focusing on surface (0–5, 0–10 cm) and rootzone (0–100 cm) depths, as well as key ecohydrological variables like gross primary productivity (GPP), leaf area index (LAI), and evapotranspiration (ET), and their coupling. Models are benchmarked against multiple observational and assimilated datasets to assess both state variables and cross-variable relationships. Surface SM is generally well represented (r &gt; 0.87), while rootzone SM variability is systema…",
+    "authors": "Elias C. Massoud, Nathan Collier, Yaoping Wang, Jiafu Mao et al.",
+    "published": "2026-04-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Refining gravity anomaly data of coastal areas by combining XGM2019e-2159 and SRTM/GEBCO_2024 residual terrain model with forward modeling method",
+    "doi": "10.5194/gmd-19-3361-2026",
+    "url": "https://doi.org/10.5194/gmd-19-3361-2026",
+    "abstract": "Abstract. As one of the Earth's fundamental physical fields, the gravity field model's accuracy is considerably constrained in areas with sparse coverage or data gaps. In coastal areas, satellite altimetry data are affected by land contamination and errors from tidal models, while shipborne gravity measurements fail to obtain valid gravity data in nearshore regions. Therefore, gravity field models' accuracy in coastal areas is relatively lower. Additionally, due to the truncation of global gravity field models at specific degrees, truncation errors prevent the acquisition of high-precision gravity anomaly (GA) information. To address this issue, a gravity forward modeling-based refinement method using the residual terrain model (RTM) is proposed for coastal regions. In this study, a mass c…",
+    "authors": "Yixiang Liu, Jinyun Guo, Bin Guan, Shaofeng Bian et al.",
+    "published": "2026-04-27",
+    "keywords_matched": [
+      "ABL",
+      "tidal"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Assessing resolution sensitivity in coupled climate simulations with AWI-CM3",
+    "doi": "10.5194/gmd-19-3395-2026",
+    "url": "https://doi.org/10.5194/gmd-19-3395-2026",
+    "abstract": "Abstract. In this study, we evaluate the performance of the latest version of the Alfred Wegener Institute Climate Model, AWI-CM3, in two configurations at different resolutions, demonstrating that higher spatial resolution substantially enhances the model’s ability to reproduce key climate variables and processes. The medium-resolution configuration consistently reduces climatological biases compared to both the low-resolution setup and the CMIP6 (Coupled Model Intercomparison Project, phase 6) multi-model mean, particularly in polar regions and areas characterized by strong mesoscale dynamics. Improvements are especially notable in the simulation of sea ice variability, ocean circulation, and ocean-atmosphere interactions. The medium-resolution simulation also exhibits greater interannua…",
+    "authors": "Martina Zapponini, Tido Semmler, Jan Streffing, Thomas Rackow et al.",
+    "published": "2026-04-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Revisiting Intrinsic Predictability of Wave‐Convection Coupled Bands Over Southern China: Variable and Scale‐Dependent Error Growth Characteristics",
     "doi": "10.1029/2025jd045130",
