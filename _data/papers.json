@@ -1,6 +1,42 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Turbulence modulation by Taylor-scale settling particles",
+    "doi": "10.1017/jfm.2026.11476",
+    "url": "https://doi.org/10.1017/jfm.2026.11476",
+    "abstract": "In this study, we investigate the modulation of sustained turbulence by settling spherical particles using particle-resolved direct numerical simulations. Gravity effects are studied by varying the Galileo number, ${\\textit{Ga}}$ , through the particle–fluid density ratio for particles of Taylor-scale size. Particle sedimentation causes enhanced viscous dissipation and anisotropy of the fluid velocity fluctuations, which increase with ${\\textit{Ga}}$ . More significantly, the energy spectra exhibit a $\\kappa ^{-3}$ scaling, which coexists with the classic $\\kappa ^{-5/3}$ law for particle-laden turbulence with weak sedimentation ( ${\\textit{Ga}} \\lesssim 40$ ); the $\\kappa ^{-3}$ scaling widens its wavenumber range with ${\\textit{Ga}}$ and dominates the energy spectrum at the highest ${\\te…",
+    "authors": "Xinyu Jiang, Shahab Mirzareza, Marco Crialesi Esposito, Luca Brandt",
+    "published": "2026-04-28",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Cavitation–bubble interaction with an initially perturbed free surface",
+    "doi": "10.1017/jfm.2026.11459",
+    "url": "https://doi.org/10.1017/jfm.2026.11459",
+    "abstract": "The interaction of a spark-generated cavitation bubble with an initially perturbed free surface is investigated experimentally, numerically and analytically. By exploiting contact-line pinning, we accurately prescribe an initial meniscus with a thin, hydrophilic-coated rod inserted into the liquid. A pronounced surface cavity, driven by the oscillating bubble, forms and penetrates downward to a scale comparable to the bubble itself. The coupled cavity–bubble system exhibits two distinct regimes – coalescence and non-coalescence – separated by a critical condition governed by the non-dimensional stand-off parameter $\\gamma$ and the initial meniscus height $h_m$ . In the non-coalescence regime, the cavity evolves through inception, expansion and rebound/jetting. The maximum cavity length $h_…",
+    "authors": "Jingyu Gu, Zirui Liu, A-Man Zhang, Shuai Li",
+    "published": "2026-04-28",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Turbulence in subsonic jets in the Navier–Stokes solutions obtained with a 24th-order multi-operators-based scheme",
+    "doi": "10.1017/jfm.2026.11440",
+    "url": "https://doi.org/10.1017/jfm.2026.11440",
+    "abstract": "Numerical solutions of the Navier–Stokes equations in the problem of subsonic jets obtained using a scheme with the 24th-order multi-operators-based dissipation-free approximations are presented and analysed. The spectral properties of the scheme obtained as a result of optimisation for high resolution of small solutions scales are described. The role of added multi-operators in excitation of instability, which make a 23rd-order contribution to the approximation error and form a dissipative component of the scheme, is studied. It is shown how well-known structures of jets with laminar regions of instability development, coherent structures and turbulent regimes at low and moderately high Reynolds numbers are displayed in numerical solutions. Comparisons with experimental data and results o…",
+    "authors": "Andrei Tolstykh, Michael Lipavskii, Igor Konshin",
+    "published": "2026-04-28",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Stabilising large-scale motions to enhance passive scalar transport in spanwise rotating plane Poiseuille flows",
     "doi": "10.1017/jfm.2026.11486",
     "url": "https://doi.org/10.1017/jfm.2026.11486",
