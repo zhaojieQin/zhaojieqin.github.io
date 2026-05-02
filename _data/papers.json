@@ -1,6 +1,44 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Water waves over a compressible muddy seabed",
+    "doi": "10.1017/jfm.2026.11447",
+    "url": "https://doi.org/10.1017/jfm.2026.11447",
+    "abstract": "An asymptotic theory is developed to investigate the interaction of surface water waves and a compressible muddy seabed in water of intermediate depth. The water column is treated as inviscid outside a thin bottom boundary layer, the thickness of which is assumed to be of the same order of magnitude as the wave amplitude. The seabed is modelled as an isotropic and homogeneous poro-viscoelastic layer with an incompressible solid skeleton and a compressible pore fluid. The thickness of the seabed is assumed to be comparable to the wave amplitude. Using a perturbation approach, the leading-order analytical solutions for the wave and mud flow are derived, while the evolution of the wave envelope, the mean Eulerian velocity and the mass transport velocity beneath progressive waves are obtained …",
+    "authors": "Linlong Tong, Jisheng Zhang, Jinhai Zheng, Yakun Guo et al.",
+    "published": "2026-04-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Comparison between the wake systems of a rim driven thruster and a ducted propeller",
+    "doi": "10.1017/jfm.2026.11491",
+    "url": "https://doi.org/10.1017/jfm.2026.11491",
+    "abstract": "The wake systems of a conventional ducted propeller ( $\\mathrm{DP}$ ) and a rim driven thruster ( $\\mathrm{RDT}$ ) are compared. The latter is an innovative ducted propeller, whose blades are installed on a rim rotating within the nozzle, with their tips oriented inwards and no need of a rotating hub. The flow was reproduced by large eddy simulation (LES) on a cylindrical grid consisting of 6.3 billion points. Substantial deviations between the flow physics downstream of the two propellers are revealed and an order of magnitude drop in the pressure minima and turbulent stresses is found across the rotor and in the wake of $\\mathrm{RDT}$ . These changes are mainly attributable to the absence of the hub vortex, the helical vortices from the root of the blades, and the leakage flow generated …",
+    "authors": "Antonio Posa, Stefano Gaggero, Riccardo Broglia",
+    "published": "2026-04-29",
+    "keywords_matched": [
+      "wake",
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Unstable Rossby waves over bathymetry",
+    "doi": "10.1017/jfm.2026.11482",
+    "url": "https://doi.org/10.1017/jfm.2026.11482",
+    "abstract": "The instability of baroclinic Rossby waves over two-dimensional topography is examined using a nonlinear model, a linear stability calculation and wave triads. In all cases, the Rossby waves are unstable, as seen previously over a flat bottom. But topography decreases the growth rates and changes the structure of the unstable waves. When the topographic height (or slope) exceeds a critical value, the instability is ‘locked’ to topography, in that the most unstable mode, particularly in the lower layer, resembles the bathymetry. In this limit, the growth rate becomes independent of topographic height. A triad calculation suggests that the growth rates in the locked state should depend on the lateral scale of the bathymetry but not its height, and that locking does not occur for topographic …",
+    "authors": "Joseph Henry LaCasce, Hennes Hajduk, Jostein Brændshoi",
+    "published": "2026-04-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Turbulence modulation by Taylor-scale settling particles",
     "doi": "10.1017/jfm.2026.11476",
     "url": "https://doi.org/10.1017/jfm.2026.11476",
