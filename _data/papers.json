@@ -39,6 +39,20 @@
   },
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Effect of a rear-attached splitter plate on the vortex dynamics and turbulence characteristics in a cylinder wake",
+    "doi": "10.1017/jfm.2026.11499",
+    "url": "https://doi.org/10.1017/jfm.2026.11499",
+    "abstract": "This study investigates the influence of a rear-attached splitter plate on the vortex dynamics and turbulence characteristics in the wake of a circular cylinder. Three-dimensional direct numerical simulations (DNS) are performed at a turbulent Reynolds number of 1000 and non-dimensional plate lengths ( $ L/D$ ) of 0–4. The splitter plate affects the vortex dynamics and turbulence characteristics in a highly non-monotonic manner. Specifically, both the strength of the primary vortices and the turbulent kinetic energy in the wake decrease with increasing $ L/D$ over $ L/D$ = 0–1.5, followed by a local increase over $ L/D$ = 1.5–2 and another decrease over $ L/D$ ≥ 2. The abnormal local increase is because the vortex formation location transitions from downstream of the splitter plate for $ L…",
+    "authors": "Yuxin Zhang, Xiaoying Ju, Hongyi Jiang",
+    "published": "2026-04-29",
+    "keywords_matched": [
+      "wake",
+      "turbulence",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Turbulence modulation by Taylor-scale settling particles",
     "doi": "10.1017/jfm.2026.11476",
     "url": "https://doi.org/10.1017/jfm.2026.11476",
