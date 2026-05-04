@@ -1,6 +1,66 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Cylindrical shock waves in a rotating van der Waals gas under the variable viscosity and heat conduction",
+    "doi": "10.1017/jfm.2026.11465",
+    "url": "https://doi.org/10.1017/jfm.2026.11465",
+    "abstract": "This study investigates a self-similar solution as intermediate asymptotics describing cylindrical shock waves driven by a piston in van der Waals gas under solid-body rotation. The solution is obtained for the exponential variations in the ambient density and the shock radius. The viscous stress follows Newton’s law of viscosity, while heat flux obeys Fourier’s law of heat conduction. The viscosity and thermal conductivity coefficients follow power-law dependencies on temperature and density. The solutions exist with pressure correction for increasing ambient density, while with volume correction for constant ambient density. The viscosity and volume corrections tend to weaken the shock, whereas the pressure correction and the specific heat ratio enhance it. Shock-induced compression inte…",
+    "authors": "Komal Pandey, Arvind Patel",
+    "published": "2026-04-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Reconstructing self-similarity for improving wall skin-friction prediction under adverse pressure gradients",
+    "doi": "10.1017/jfm.2026.11496",
+    "url": "https://doi.org/10.1017/jfm.2026.11496",
+    "abstract": "In the present study, we propose a novel skin-friction prediction formula based on a re-established self-similarity within the adverse-pressure-gradient (APG) turbulent boundary layer. The basic idea lies in introducing a novel velocity scale, which is derived mathematically and adapted physically from the linear total stress within the boundary layer. This scale assimilates concurrently and fundamentally the friction velocity, two distinct pressure-gradient velocity scales and the half-power law of the mean velocity in the intermediate region. Then, this scale formula is well validated across a comprehensive, multi-geometry database of APG flows over flat plates, curved plates, ramps and airfoils, which covers an unprecedented parameter range, with friction Reynolds number ranging from $1…",
+    "authors": "Ya-Sen Hu, Zhen-Hua Wan, Peng-Jun-Yi Zhang, De-Jun Sun et al.",
+    "published": "2026-04-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "The DLR CO\n                    <sub>2</sub>\n                    -equivalent estimator FlightClim v1.0: an easy-to-use estimation of per flight CO\n                    <sub>2</sub>\n                    and non-CO\n                    <sub>2</sub>\n                    climate effects",
+    "doi": "10.5194/gmd-19-3551-2026",
+    "url": "https://doi.org/10.5194/gmd-19-3551-2026",
+    "abstract": "Abstract. As aviation's contribution to anthropogenic climate change is increasing, the sector aims at reducing its climate effect in accordance with international agreements. The strong and variable non-CO2 effects are complex, making reliable climate effect quantification a necessary first step. To support this, we develop the easy-to-use first-order climate effect estimator for single flights FlightClim v1.0. The tool estimates the flight-specific climate effect with a simplified calculation model, without requiring detailed information on exact routing, amount of fuel burn, or weather conditions. For this purpose, we first analyze a global flight dataset containing detailed trajectories, associated flight emissions, and climate responses. Similar flights are grouped into clusters, and …",
+    "authors": "Hannes Bruder, Robin N. Thor, Malte Niklaß, Katrin Dahlmann et al.",
+    "published": "2026-04-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "GSV-SRTS: a heterogeneous landscape soil-canopy reflectance model over sloping terrain with an extended GSV and stochastic radiative transfer theory",
+    "doi": "10.5194/gmd-19-3531-2026",
+    "url": "https://doi.org/10.5194/gmd-19-3531-2026",
+    "abstract": "Abstract. Accurately modelling radiation interactions within canopy layers and soil backgrounds is crucial for biophysical variables retrieval across regional or global scales. However, terrain relief introduces significant uncertainties in modeling CR by modulating solar and viewing geometry and exacerbating landscape heterogeneity. Traditional CR models, designed primarily for flat and homogeneous landscapes, often inadequately represent these complex interactions. In this study, we present a canopy reflectance model suitable for heterogeneous structures on sloping terrain. By extending the stochastic radiative transfer theory from flat terrain to sloping terrain and integrating the soil General Spectral Vector, the GSV-SRTS model was introduced. This enables accurate prediction of soil-…",
+    "authors": "Siqi Li, Guyue Hu, Shaoda Li, Ronghao Yang et al.",
+    "published": "2026-04-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Exploring Ways to Reduce Biases in a Hybrid Global Climate Model With Machine‐Learned Moist Physics",
+    "doi": "10.1029/2025ms005522",
+    "url": "https://doi.org/10.1029/2025ms005522",
+    "abstract": "Abstract In a previous study (Han et al., 2023, https://doi.org/10.1029/2022ms003508 ), we implemented a deep convolutional residual neural network for moist physics into the 3‐D real‐geography CAM5 and carried out a stable multi‐year integration successfully. However, the simulation has large temperature and moisture biases in high latitude troposphere and dry bias in precipitation over tropical land. In this study, we explore several ways to reduce these biases. First, we train two shallow neural networks to correct the biases, one with relative humidity included in the input and one without. Second, instead of attempting to correct the biases with an additional neural network, we expand the input and output variables of the neural net by including radiation‐related physical quantities a…",
+    "authors": "Yilun Han, Guang J. Zhang, Yong Wang",
+    "published": "2026-04-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Water waves over a compressible muddy seabed",
     "doi": "10.1017/jfm.2026.11447",
     "url": "https://doi.org/10.1017/jfm.2026.11447",
@@ -49,6 +109,30 @@
       "wake",
       "turbulence",
       "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Initial Atmospheric Waves Experiment (AWE) Imaging Analyses: Gravity Wave Sources, Temperatures, Pseudomomentum Fluxes, and Horizontal Wavenumber Spectra at the OH Layer",
+    "doi": "10.1029/2025jd045796",
+    "url": "https://doi.org/10.1029/2025jd045796",
+    "abstract": "Abstract The NASA Atmospheric Waves Experiment (AWE) employs an OH imager that began measurements aboard the International Space Station (ISS) on 22 November 2023. The motivation for AWE was to quantify gravity wave (GW) responses to diverse sources and their influences extending into the mesosphere and higher altitudes. AWE measures temperatures at 2‐km cross‐track resolution in a 600‐km wide imaging swath at ∼87 km during nighttime. AWE swaths reveal a remarkable range of nighttime GW and instability responses from small to very large spatial scales over diverse terrain, deep convection, and oceans where no sources are apparent. Mountain wave responses over small islands and large‐scale orography exhibit horizontal wavelengths of λ h ∼ 10–300 km or longer. Convective GWs likewise reveal …",
+    "authors": "David C. Fritts, Robert G. Stockwell, Thomas S. Lund, P.‐Dominique Pautet et al.",
+    "published": "2026-04-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Toward Closing the Hydroxyl Radical (OH) Budget: Assessing the Feasibility and Uncertainties in Constraining primary OH Production From Space",
+    "doi": "10.1029/2025jd045499",
+    "url": "https://doi.org/10.1029/2025jd045499",
+    "abstract": "Abstract Recent progress in constraining the atmosphere's primary oxidant, the hydroxyl radical (OH), with machine learning (ML) and satellite data raises the intriguing possibility of also constraining individual OH chemical production and loss terms. Here, we present a methodology to constrain primary OH production (i.e., OH production from the reaction of water vapor with O 1 D) from 60°S–60°N at 500m above ground level (magl) (P OH _500) using a combination of ML, satellite observations, and meteorological data. The aim of this work is to establish methodological feasibility and to assess and quantify the uncertainties of that methodology. This methodology produces geophysically credible distributions of P OH _500 across all seasons, with seasonal variability being driven primarily by …",
+    "authors": "Daniel C. Anderson, Bryan N. Duncan, Amir H. Souri, Junhua Liu et al.",
+    "published": "2026-04-29",
+    "keywords_matched": [
+      "ABL"
     ]
   },
   {
