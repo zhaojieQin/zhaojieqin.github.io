@@ -1,6 +1,67 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Hydrodynamic properties of a flexible pipe in bidirectionally sheared flows undergoing vortex-induced vibration",
+    "doi": "10.1017/jfm.2026.11506",
+    "url": "https://doi.org/10.1017/jfm.2026.11506",
+    "abstract": "The hydrodynamics of vortex-induced vibration of a flexible pipe in bidirectionally sheared flows are investigated through combined experimental and numerical approaches. Such bidirectionally sheared flows are inspired by subsurface currents induced by internal solitons widely occurring in the ocean, which feature oppositely directed flow velocities along the flexible pipe. Experiments are conducted in an ocean basin using a tensioned pipe with distributed strain sensors, and numerical simulations are conducted by a validated strip method based framework. The mean in-line displacement, mean drag, shear force and bending moment are characterised. The mean in-line displacement, maximised over the spanwise direction, exhibits an approximately quadratic dependence on the maximum velocity in bi…",
+    "authors": "Xuepeng Fu, Shixiao Fu, Chang Liu, Jiawei Shen et al.",
+    "published": "2026-05-05",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Beyond secondary instability: on the emergence of finite-amplitude waves in Görtler vortices",
+    "doi": "10.1017/jfm.2026.11518",
+    "url": "https://doi.org/10.1017/jfm.2026.11518",
+    "abstract": "Görtler vortices developing over a concave wall support rapidly oscillating wavelike disturbances through secondary instabilities. Although experiments indicate that the finite-amplitude evolution of these waves acts as a precursor to turbulence transition, accurate and efficient prediction has remained out of reach. We overcome this limitation by using the parabolised coherent structures (PCS) method of Song &amp; Deguchi (2025 J. Fluid Mech. , vol. 1025, A42), which incorporates the nonlinear vortex-wave interaction into a standard spatial-marching approach. Our computational results agree well with the wave amplitude and displacement thickness observed in the widely known experiments of Swearingen &amp; Blackwelder (1987 J. Fluid Mech. , vol. 182, pp. 255–290).",
+    "authors": "Runjie Song, Kengo Deguchi",
+    "published": "2026-05-05",
+    "keywords_matched": [
+      "turbulence",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Horizontal pumping using topography and heating patterns",
+    "doi": "10.1017/jfm.2026.11515",
+    "url": "https://doi.org/10.1017/jfm.2026.11515",
+    "abstract": "Fluid pumping in a horizontal slot using the pattern interaction effect has been analysed. This pumping is of interest as it operates without external energy sources beyond those required to create the necessary heating patterns. Activation of this effect involves a combination of fixed surface topography and adjustable heating patterns. The flow rate, including its direction, can be controlled by moving the heating pattern relative to the groove pattern. This analysis extends that of Abtahi &amp; Floryan (2017 J. Fluid Mech . vol. 826, pp. 553–582), who considered only small-amplitude grooves in which the achieved flow rate is proportional to the groove amplitude. Grooves with arbitrary amplitudes spanning the slot were considered in the current analysis, and their most effective heights …",
+    "authors": "Wenxi Wang, Jerzy M. Floryan",
+    "published": "2026-05-05",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Exact coherent structures with dilute particle suspensions",
+    "doi": "10.1017/jfm.2026.11503",
+    "url": "https://doi.org/10.1017/jfm.2026.11503",
+    "abstract": "The physics of settling suspensions under shear are investigated by theoretical and numerical analyses of unstable equilibrium solutions to the incompressible Navier–Stokes equations, coupled with an advection–diffusion–settling equation for a dilute phase of particles. Two cases are considered: the ‘passive scalar’ regime, in which the sediment is advected by the fluid motion, but concentrations are too dilute to affect the flow; and the ‘stratified’ regime, where a non-uniform vertical distribution of sediment due to particle settling leads to a bulk stratification that feeds back on the flow via buoyancy. In the passive regime, we characterise the structure of the resultant sediment concentration fields and derive formulae for transport fluxes of sediment with asymptotically low and hig…",
+    "authors": "Jake Langham, Andrew J. Hogg",
+    "published": "2026-05-05",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "The Atlantic ocean's decadal variability in mid-Holocene simulations using Shannon's entropy",
+    "doi": "10.5194/gmd-19-3689-2026",
+    "url": "https://doi.org/10.5194/gmd-19-3689-2026",
+    "abstract": "Abstract. Quantifying climate variability in a way that is comparable across models, experiments, and observations remains challenging, particularly at decadal time scales where nonlinear dynamics dominate. Traditional variance-based metrics are sensitive to anomaly amplitude, mean-state biases, and units of measurement, limiting their robustness for inter-model analyses. Here, we introduce an information-theoretic framework that characterizes climate variability as trajectories in a discrete phase space and quantifies system organization using Shannon’s entropy. Using four coupled models (EC-Earth, GISS, iCESM, and CCSM-Toronto), we apply our methodology to compare the models' tropical and South Atlantic decadal variability, analyzing their sea surface temperature (SST) and precipitation …",
+    "authors": "Iuri Gorenstein, Ilana Wainer, Francesco S. R. Pausata, Luciana F. Prado et al.",
+    "published": "2026-05-05",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Prediction of the drag, lift and torque coefficients of non-spherical particles constrained by wall",
     "doi": "10.1017/jfm.2026.11524",
     "url": "https://doi.org/10.1017/jfm.2026.11524",
@@ -57,6 +118,18 @@
     "published": "2026-05-04",
     "keywords_matched": [
       "weather research and forecasting"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "The ocean model for E3SM global applications: Omega version 0.1.0 – a new high-performance computing code for exascale architectures",
+    "doi": "10.5194/gmd-19-3569-2026",
+    "url": "https://doi.org/10.5194/gmd-19-3569-2026",
+    "abstract": "Abstract. This paper introduces Omega, the Ocean Model for E3SM Global Applications. Omega is a new ocean model designed to run efficiently on high performance computing (HPC) platforms, including exascale heterogeneous architectures with accelerators, such as Graphics Processing Units (GPUs). Omega is written in C++ and uses the Kokkos performance portability library. These were chosen because they are well-supported and will help future-proof Omega for upcoming HPC architectures. Omega will eventually replace the Model for Prediction Across Scales-Ocean (MPAS-Ocean) in the US Department of Energy's (DOE's) Energy Exascale Earth System Model (E3SM). Omega runs on unstructured horizontal meshes with variable-resolution capability and implements the same horizontal discretization as MPAS-Oc…",
+    "authors": "Mark R. Petersen, Xylar S. Asay-Davis, Alice M. Barthel, Carolyn Branecky Begeman et al.",
+    "published": "2026-05-04",
+    "keywords_matched": [
+      "ABL"
     ]
   },
   {
@@ -426,6 +499,56 @@
     "url": "https://doi.org/10.1063/5.0324175",
     "abstract": "In this study, we present a comprehensive experimental investigation of the effect of shape-morphing on the flow physics of a submerged heaving plate in a quiescent, incompressible, Newtonian viscous fluid. Motivated by bio-inspired underwater swimmers that change body shape to optimize fluid–structure interactions (FSI), shape-morphing is explored here as a mechanism for adaptive hydrodynamic performance via modulation of vortex shedding and convection patterns. Shape-morphing is implemented on a robotic platform comprising a heaving plate actuated to produce dynamic changes of its cross section in phase with a rigid oscillation. To inform the experiments, a boundary element method model is first used to study an idealized shape-morphing heaver under linear hydrodynamic conditions, isolat…",
     "authors": "Burak Gulsacan, Anna Zueva, Matteo Aureli",
+    "published": "2026-05-01",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Investigation of mixing enhancement mechanisms in a cavity-based combustor with an upstream wavy wall",
+    "doi": "10.1063/5.0319587",
+    "url": "https://doi.org/10.1063/5.0319587",
+    "abstract": "The cavity in a scramjet combustor plays a crucial role in stabilizing combustion, and fuel injection upstream of the cavity can enhance the mixing process within the combustor. It has been found that the installation of a periodic wavy wall in front of the injection hole can induce streamwise vortices, promoting deeper penetration of the fuel into the main flow and enabling more thorough mixing. This configuration can further expand the mixing-enhanced region and improve the overall mixing efficiency. To better understand the mechanism by which an upstream wavy wall enhances fuel mixing in cavity-type supersonic combustors, a numerical investigation using the large eddy simulation method is conducted. The study focuses on a cavity-based combustor with a wavy wall having an amplitude of 1.…",
+    "authors": "Kaifeng Wang, Wei Cao",
+    "published": "2026-05-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Spatiotemporal multistability in viscoelastic microcavity flows: Topological decoupling and rheological competition",
+    "doi": "10.1063/5.0326829",
+    "url": "https://doi.org/10.1063/5.0326829",
+    "abstract": "Microscale flows of viscoelastic fluids through complex geometries exhibit rich spatiotemporal dynamics, with significant implications for microfluidic applications and porous media transport. However, current understanding of such complex flow behaviors remains limited. In this study, we investigate the unsteady flow of polymer solutions, ranging from dilute to entangled regimes, in microcavity arrays by employing streak imaging and micro-particle image velocimetry. We report a robust “multistable flow” phenomenon characterized by spontaneous, stochastic switching between a “full-vortex” and a “partial-vortex” state. By mapping the global spatiotemporal dynamics, we reveal a mechanism of “topological decoupling,” where the contraction channels effectively decorrelate the local flow dynami…",
+    "authors": "Xiao-Yu Xu, Zhou-Yi Zheng, Jing-Tong Na, Chun-Dong Xue",
+    "published": "2026-05-01",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Development of a high-order generalized differential quadrature element method with thermal lattice Boltzmann flux solver for simulation of incompressible thermal flows",
+    "doi": "10.1063/5.0316793",
+    "url": "https://doi.org/10.1063/5.0316793",
+    "abstract": "This paper presents a high-order generalized differential quadrature element (GDQE)-thermal lattice Boltzmann flux solver (TLBFS) for simulating incompressible thermal flows. The GDQE method partitions the computational domain into multiple elements, within which the GDQ technique is applied to approximate solution gradients and flux divergences via high-order polynomial interpolations. The TLBFS is then utilized to reconstruct the distribution functions of density and internal energy, enabling the simultaneous evaluation of inviscid and viscous fluxes. Numerical examples confirm that the present method is well-suited for handling thermal flow problems with curved boundaries and complex geometry on arbitrary meshes, while achieving good solution accuracy and computational efficiency. The g…",
+    "authors": "Yuxin Song, Yaguang Liu, Liming Yang, Chang Shu et al.",
+    "published": "2026-05-01",
+    "keywords_matched": [
+      "lattice boltzmann",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Effects of traverse direction on swept-wing separation control using a traversing jet",
+    "doi": "10.1063/5.0324615",
+    "url": "https://doi.org/10.1063/5.0324615",
+    "abstract": "Flow separation on swept wings during high-lift configuration, such as takeoff and landing, presents a significant aerodynamic challenge. A traverse jet technique is proposed for efficient, low-energy-consumption flow control. The lift-enhancement potential of this technique at low mass flow rates is validated through integrated numerical simulations and wind tunnel tests. The flow mechanism by which the excitation frequency influences separation control is revealed. Furthermore, the traverse direction is found to have a significant impact on the control effectiveness for swept-wing flow separation. Results indicate that the control effect is most pronounced when the traverse excitation frequency approaches the characteristic vortex shedding frequency of the separated flow, leading to opti…",
+    "authors": "Jiaxin Pan, Wanbo Wang, Dangguo Yang, Yi Wang",
     "published": "2026-05-01",
     "keywords_matched": [
       "vortex"
