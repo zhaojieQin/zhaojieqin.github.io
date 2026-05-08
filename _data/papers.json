@@ -1,6 +1,56 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Fractal geometry of turbulent-kinetic-energy isosurfaces in turbulent pipe flows with polymer additives",
+    "doi": "10.1017/jfm.2026.11552",
+    "url": "https://doi.org/10.1017/jfm.2026.11552",
+    "abstract": "The addition of polymers to turbulent pipe flows induces significant drag reduction and fundamentally modifies turbulent flow structures. This study presents a fractal dimension analysis of polymeric turbulent pipe flows using velocity fields captured via two-dimensional particle image velocimetry in the streamwise-radial plane. Two experimental datasets were generated: one by varying the polymer concentration at a constant Reynolds number ( $\\textit{Re}$ ) and another by varying $\\textit{Re}$ at a fixed polymer concentration. Friction factors were measured concurrently to quantify the extent of drag reduction. The two-dimensional fractal dimension was evaluated for isosurfaces of turbulent kinetic energy. While Newtonian turbulence exhibits a nearly constant fractal dimension at length sc…",
+    "authors": "Haihan Liu, Duo Xu",
+    "published": "2026-05-07",
+    "keywords_matched": [
+      "turbulence",
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "DMR effect on drag reduction of a streamlined body measured by magnetic suspension and balance system",
+    "doi": "10.1017/jfm.2026.11520",
+    "url": "https://doi.org/10.1017/jfm.2026.11520",
+    "abstract": "This study experimentally investigates the aerodynamic drag reduction capabilities of distributed micro-roughness (DMR) coatings on a streamlined model, utilising the 1-m magnetic suspension and balance system (MSBS) at Tohoku University. Previous direct numerical simulations indicated that DMR can mitigate turbulent-energy growth by suppressing Tollmien–Schlichting waves and influencing the breakdown of streamwise vortices. The present work provides the first experimental validation of these effects using an interference-free MSBS, which is essential for accurate measurement in the laminar and transitional regimes. A streamlined model was tested with two rows of artificial tripping tape to induce transition; the DMR height was approximately 1 % of the local boundary layer thickness, signi…",
+    "authors": "Aiko Yakeno, Hiroyuki Okuizumi, Kento Inokuma, Yoshiyuki Watanabe",
+    "published": "2026-05-07",
+    "keywords_matched": [
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Turbulence intermittency and velocity gradients",
+    "doi": "10.1017/jfm.2026.11494",
+    "url": "https://doi.org/10.1017/jfm.2026.11494",
+    "abstract": "A central problem in turbulence is understanding small-scale intermittency, which refers to the sporadic generation of intense fluctuations in velocity gradients and increments. These extreme events, strongly non-Gaussian in nature, govern dissipation, mixing and transport processes in virtually all turbulent flows. Yet, despite decades of study, a faithful and predictive characterisation of small scales remains elusive owing to the inherent mathematical intractability of the Navier–Stokes equations and the difficulty in resolving them in both simulations and experiments at high Reynolds numbers. Recent advances in high-resolution simulations and experiments have significantly reshaped this picture, particularly by providing precise data at high Reynolds numbers to probe the full tensorial…",
+    "authors": "Dhawal Buaria, Alain Pumir",
+    "published": "2026-05-07",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Unsteady foil propulsion over sediment beds: wake alteration and efficiency loss in particle-laden flows",
+    "doi": "10.1017/jfm.2026.11480",
+    "url": "https://doi.org/10.1017/jfm.2026.11480",
+    "abstract": "The current study examines the interaction between a pitching foil and sediment-laden flows, focusing on how particles affect propulsion performance and the sediment dynamics. We show that the presence of particles weakens vortex formation, reduces flow flux and alters the pressure distribution, leading to a decrease in propulsion efficiency. Additionally, sediment deformation and particle suspension under the flow are observed, driven by fluid–structure coupling rather than direct contact with the foil. The coupled dynamics between the foil’s motion, sediment evolution and particle transport creates a feedback loop that influences both the wake structure and sedimentary patterns. Our results underscore the importance of considering the interactions between the foil, flow and particles for…",
+    "authors": "Runguo Xiao, Guangsheng Su, Jian Zhao, Zhangying Ye et al.",
+    "published": "2026-05-07",
+    "keywords_matched": [
+      "wake",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Edge diffraction of in-duct modal waves by unflanged or flanged circular duct terminations",
     "doi": "10.1017/jfm.2026.11460",
     "url": "https://doi.org/10.1017/jfm.2026.11460",
@@ -624,6 +674,43 @@
     "published": "2026-05-01",
     "keywords_matched": [
       "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Experimental investigate of upstream air venting dynamics in mixed air–water flow transients",
+    "doi": "10.1063/5.0327424",
+    "url": "https://doi.org/10.1063/5.0327424",
+    "abstract": "Air–water mixed flow frequently develops in urban drainage and hydropower tailrace systems, necessitating experimental clarification of vent-controlled pressure transients and two-phase flow dynamics. A visualized experimental system incorporating a transparent vertical vent shaft was established to systematically investigate the effects of vent orifice size on transient pressure response and air–water two-phase flow behavior during pipeline filling. The experimental facility consists of a 20 m long inclined pipe with an inner diameter of 0.15 m and a slope of 0.01, equipped with a vertical vent shaft located near the upstream end. Eighteen vent orifice diameters were tested, covering orifice diameter ratios from 0 to 0.5. High-frequency pressure measurements and high-speed visualizations …",
+    "authors": "Ruilin Feng, Ling Zhou, Yinying Hu",
+    "published": "2026-05-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Modulating flow and heat transfer through the competition of electroosmotic and electromagnetic driving forces",
+    "doi": "10.1063/5.0325491",
+    "url": "https://doi.org/10.1063/5.0325491",
+    "abstract": "This study investigates flow and heat transfer in a parallel-plate microchannel containing a Powell–Eyring fluid under a constant pressure gradient such that electroosmotic and electromagnetic forces compete to govern transport behavior. The incorporation of the slip boundary conditions enables a coupled mathematical framework to capture the effects of non-Newtonian rheology, electromagnetic body forces, and heat transport. The governing equations are treated using a small-parameter perturbation method together with an implicit–explicit finite difference scheme. The analysis shows that the Hartmann number (Ha) largely controls the outcome of this competition. At low Ha, electroosmotic forcing dominates momentum transport, increasing flow velocity with electric field strength. At high Ha, t…",
+    "authors": "Yuting Jiang, Tao Sun",
+    "published": "2026-05-01",
+    "keywords_matched": [
+      "ABL",
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Numerical study on the overall cooling effectiveness of the rotating impingement effusion cooling structure under low Reynolds number conditions",
+    "doi": "10.1063/5.0324596",
+    "url": "https://doi.org/10.1063/5.0324596",
+    "abstract": "The operating Reynolds numbers (Re) of high-altitude unmanned aerial vehicles (UAVs) reduces to around 2 × 104. However, existing low Re experiments differ significantly from the extremely low Re environment of UAVs. The additional forces affect internal impingement flow and heat transfer of impingement effusion cooling structure (IECS) under rotational conditions. Conclusions on whether rotation enhances or weakens heat transfer remain inconsistent. However, the current lack of comprehensive research on the coupling effect of low Re and rotation has not been given sufficient attention. This paper investigates the influence of low Re, rotation, rotation direction on the internal and external flow, and heat transfer characteristics of IECS. Results show that under stationary conditions, com…",
+    "authors": "Feng Han, Haotian Pu, Jiaona Chen, Guangze Li et al.",
+    "published": "2026-05-01",
+    "keywords_matched": [
+      "heat transfer"
     ]
   },
   {
