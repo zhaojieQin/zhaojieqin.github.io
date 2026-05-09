@@ -1,6 +1,79 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Flow interactions and forward flight dynamics of tandem flapping wings",
+    "doi": "10.1017/jfm.2026.11521",
+    "url": "https://doi.org/10.1017/jfm.2026.11521",
+    "abstract": "We examine theoretically the flow interactions and forward flight dynamics of tandem or in-line flapping wings. Two wings are driven vertically with prescribed heaving motions, and the horizontal propulsion speeds and positions are dynamically selected through aero- or hydro-dynamic interactions. Our simulations employ an improved vortex-sheet method to solve for the locomotion of the pair within the collective flow field, and we identify ‘schooling states’ in which the wings travel together with nearly constant separation. Multiple terminal configurations are achieved by varying the initial conditions, and the emergent separations are approximately integer multiples of the wavelength traced out by each wing. We explain the stability of these states by perturbing the follower and mapping o…",
+    "authors": "Fang Fang, Christiana Mavroyiakoumou, Leif Ristroph, Michael J. Shelley",
+    "published": "2026-05-08",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Impact of Kelvin–Helmholtz instability on a circular cylinder placed in a trench",
+    "doi": "10.1017/jfm.2026.11510",
+    "url": "https://doi.org/10.1017/jfm.2026.11510",
+    "abstract": "This study presents a systematic investigation of hydrodynamic forces on a stationary circular cylinder inside relatively wide and deep trapezoidal trenches in steady flows, representing subsea power cables laid in seabed valleys or artificial trenches, with particular emphasis on the role of Kelvin–Helmholtz (K–H) instability. Using high-fidelity three-dimensional (3-D) implicit large-eddy simulation (iLES), the influences of trench geometry and the incoming flows on hydrodynamic forces were examined. The parametric space includes the trench-width-to-cylinder-diameter ratio ( $ W^{*}$ $\\leq$ 20), trench-depth-to-cylinder-diameter ratio ( $H^{*} \\leq 5$ ), trench side slope ( $15^{\\circ}\\leq \\theta \\leq 60^{\\circ}$ ) and the streamwise offset of the cylinder centre from the trench centreli…",
+    "authors": "Zinan Liu, Chengjiao Ren, Feifei Tong, Terry Griffith et al.",
+    "published": "2026-05-08",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Wake dynamics of finite-aspect-ratio rotating circular cylinders at low Reynolds number",
+    "doi": "10.1017/jfm.2026.11527",
+    "url": "https://doi.org/10.1017/jfm.2026.11527",
+    "abstract": "We perform direct numerical simulations of flows over finite-aspect-ratio rotating circular cylinders at a Reynolds number of 150 over a range of aspect ratios ( ${\\rm AR}=2{-}12$ ) and rotation rates ( $\\alpha =0{-}5$ ), aiming to reveal the free-end effects on wake dynamics and aerodynamic performance. As a direct consequence of lift generation, a pair of counter-rotating tip vortices form at the free ends. At low rotation rates, the finite rotating cylinder behaves like a typical bluff body that generates unsteady vortex shedding with three-dimensional modal structures. Such unsteady flows can be stabilised not only by increasing the rotation rate, which weakens the free shear layer, but also by decreasing the aspect ratio which enhances the tip-vortex-induced downwash. A further increa…",
+    "authors": "Kai Zhang, Yong Cao, Hanfeng Wang, Yan Bao et al.",
+    "published": "2026-05-08",
+    "keywords_matched": [
+      "wake",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Instability and breaking of internal waves in a horizontal shear layer",
+    "doi": "10.1017/jfm.2026.11456",
+    "url": "https://doi.org/10.1017/jfm.2026.11456",
+    "abstract": "The behaviour of internal waves propagating in a background shear flow is studied in the case where the direction of shear is orthogonal to gravity. Ray-tracing theory is used to predict properties of the wave state at locations where instability occurs. Local wave energy growth is found to result from two distinct mechanisms: an increase in wave steepness due to refraction by the shear or an increase in streamwise velocity perturbations due to wave advection of the background flow. Based on the initial conditions, a dimensionless perturbation energy ratio $F$ is constructed to predict the relative importance of these two mechanisms in facilitating wave breaking. When $F$ is small and waves become locally steep, perturbation kinetic and potential energy remain approximately equipartitioned…",
+    "authors": "Sam F. Lewin, Alexis K. Kaminski, Arun Balakrishna, Miles M.P. Couchman",
+    "published": "2026-05-08",
+    "keywords_matched": [
+      "wave energy"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Contrasting Role of Soil Moisture on the Diurnal Cycle of Precipitation During Dry and Wet Seasons Over the Maritime Continent",
+    "doi": "10.1029/2026jd046303",
+    "url": "https://doi.org/10.1029/2026jd046303",
+    "abstract": "Abstract Soil moisture strongly regulates land–atmosphere interactions, yet its influence on rainfall over the Maritime Continent remains uncertain. Using a coupled land–atmosphere regional model, we compare control simulations (CTL) initialized with realistic soil moisture against sensitivity experiments (SENS) initialized with dry soil conditions for two dry (May 2013, 2023) and two wet (December 2014, 2023) seasons. The results reveal a pronounced seasonal asymmetry in the role of soil moisture on precipitation over the islands of the Maritime Continent. In dry seasons, reduced soil moisture in the SENS experiment suppresses rainfall by reducing transpiration and direct soil evaporation relative to CTL. This leads to a sharp reduction in surface latent heat flux and weaker afternoon con…",
+    "authors": "Xin Zhou, Pallav Ray, Jimy Dudhia, Nathaniel C. Johnson et al.",
+    "published": "2026-05-08",
+    "keywords_matched": [
+      "diurnal cycle"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Actionable reporting of CPU-GPU performance comparisons: insights from a CLUBB case study",
+    "doi": "10.5194/gmd-19-3783-2026",
+    "url": "https://doi.org/10.5194/gmd-19-3783-2026",
+    "abstract": "Abstract. Graphics Processing Units (GPUs) are becoming increasingly central to high-performance computing (HPC), but fair comparison with central processing units (CPUs) remains challenging, particularly for applications that can be subdivided into smaller workloads. Traditional metrics such as speedup ratios can overstate GPU advantages and obscure the conditions under which CPUs are competitive, as they depend strongly on workload choice. We introduce two peak-based performance metrics, the Peak Ratio Crossover (PRC) and the Peak-to-Peak Ratio (PPR), which provide clearer comparisons by accounting for the best achievable performance of each device. Using the performance of the Cloud Layers Unified by Binormals (CLUBB) standalone model as a case study, we demonstrate these metrics in pra…",
+    "authors": "Gunther Huebler, Vincent E. Larson, John M. Dennis, Sheri A. Voelz",
+    "published": "2026-05-08",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Fractal geometry of turbulent-kinetic-energy isosurfaces in turbulent pipe flows with polymer additives",
     "doi": "10.1017/jfm.2026.11552",
     "url": "https://doi.org/10.1017/jfm.2026.11552",
