@@ -1,5 +1,153 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Distinct Efficacy of Regional Methane Emissions in Affecting Global and Regional Concentrations: An Emission‐Driven CESM2 Modeling Study With Methane Tags",
+    "doi": "10.1029/2025jd045301",
+    "url": "https://doi.org/10.1029/2025jd045301",
+    "abstract": "Abstract The newly developed emission‐driven capability of CESM2 allows methane concentrations to be more realistically simulated based on emissions, transport, and atmospheric chemistry, rather than being prescribed as lower boundary conditions as in most previous global Earth system modeling studies. This capability enables flexibility in investigating the role of spatially resolved methane sources and sinks. In this study, we conduct emission‐driven simulations for 2014–2019, with the full chemistry coupling of methane and improved representation of short‐lived halogen (SLH) species, and with a novel tagging scheme to track the regionally resolved emissions from three representative regions in the Northern Hemisphere (Asia, Europe, and North America). Our simulations reveal that methane…",
+    "authors": "Chuan Feng, Yangyang Xu, Mohammad Amin Mirrezaei, Rob Buechler et al.",
+    "published": "2026-05-11",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Formula Errors in “Exploring the Effects of Rooftop Mitigation Strategies on Urban Temperatures and Energy Consumption” by Zonato et al. (2021)",
+    "doi": "10.1029/2025jd046029",
+    "url": "https://doi.org/10.1029/2025jd046029",
+    "abstract": "Abstract This comment identifies and corrects two equation errors in the publication by Zonato et al. (2021, https://doi.org/10.1029/2021jd035002 ): An error is present in the paper in the formula for the radiation heat transfer between planar surfaces. A second error is identified where Zonato et al. (2021, https://doi.org/10.1029/2021jd035002 ) adjust the efficiency of solar panels for temperature erroneously using a minimum function, thus introducing a non‐existent discontinuity in the first derivative of efficiency as a function of temperature.",
+    "authors": "T. M. Studer",
+    "published": "2026-05-11",
+    "keywords_matched": [
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Spring‐Summer Persistent Uniform Warming Regime in Northwest China: Characteristics and Dynamical Origins",
+    "doi": "10.1029/2026jd046376",
+    "url": "https://doi.org/10.1029/2026jd046376",
+    "abstract": "Abstract Northwest China (NWC) is warming far faster than the global average and is highly vulnerable to climate change. Spring‐summer temperature anomalies in NWC critically affect ecosystems and socioeconomics, yet their cross‐seasonal coherence and mechanisms remain unclear. Using ERA5 data (1959–2025), Season‐reliant Empirical Orthogonal Function analysis identifies the Persistent Uniform Warming Regime (PUWR) as the dominant spring‐summer mode, featuring distinct interannual and interdecadal variability. Climate variability associated with PUWR exhibit phase asymmetry and timescale dependence: during its warm phase, PUWR increases extreme heat events and reduces interannual spring precipitation on the interannual timescale, but increases spring precipitation on the interdecadal timesc…",
+    "authors": "Zhou Fang, Xinling Li, Xuguang Sun, Xiu‐Qun Yang et al.",
+    "published": "2026-05-11",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Issue Information",
+    "doi": "10.1029/jgrd.70557",
+    "url": "https://doi.org/10.1029/jgrd.70557",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-05-11",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Enhanced Glaciation of Arctic Mixed‐Phase Stratiform Clouds by Turbulence",
+    "doi": "10.1029/2025jd045571",
+    "url": "https://doi.org/10.1029/2025jd045571",
+    "abstract": "Abstract Turbulence is a key factor in controlling the life cycle and phase partitioning of Arctic mixed‐phase clouds. Investigating its impact on cloud microphysics is crucial for understanding the role of Arctic clouds in radiative balance and precipitation. To analyze the role of in‐cloud turbulence in Arctic mixed‐phase clouds, this study employs an idealized large eddy simulation to numerically simulate a mixed‐phase stratiform cloud observed on 10 October 2004, characterized by supercooled liquid water at cloud top and continuous snowfall. The simulation explores cloud phase partitioning under varying turbulence intensities and ice‐nucleating particle (INP) concentrations. The results show that stronger turbulence and higher INP concentrations both enhance the cloud glaciation. When …",
+    "authors": "Jiaojiao Li, Jing Yang, Meilian Chen, Zhien Wang et al.",
+    "published": "2026-05-11",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Advancing the BRAMS wildfire–atmosphere modelling  system: application to an extreme wildfire event",
+    "doi": "10.5194/gmd-19-3801-2026",
+    "url": "https://doi.org/10.5194/gmd-19-3801-2026",
+    "abstract": "Abstract. Wildfire smoke significantly perturbs atmospheric composition and radiative balance, with implications for air quality, weather, and climate. Accurately simulating smoke–radiation–convection interactions remains a scientific challenge, particularly at meso- to local scales. This study presents developments in the BRAMS v6.0 modelling system, including the integration of crown fire spread into SFIRE and dynamic coupling of fire-emitted smoke fluxes. These enhancements enable physically consistent simulations of wildfire behaviour, smoke emissions, and their radiative impacts. Fire spread and heat release are used to compute Fire Radiative Power, which drives smoke emissions in real time. These emissions are fully integrated with aerosol–radiation interactions and atmospheric dynam…",
+    "authors": "Isilda Cunha Menezes, Luiz Flávio Rodrigues, Karla M. Longo, Mateus Ferreira e Freitas et al.",
+    "published": "2026-05-11",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "The onset of anomalous solutocapillary instability in an isothermal nanofluid layer with interfacial kinetics",
+    "doi": "10.1017/jfm.2026.11542",
+    "url": "https://doi.org/10.1017/jfm.2026.11542",
+    "abstract": "We investigate the emergence of an anomalous solutocapillary instability in an isothermal nanofluid layer with a non-deformable liquid–gas interface. A model of the equation of state for the colloidal suspension is presented. The surface tension exhibits non-monotonic variation with nanoparticle concentration due to nanoparticle surface energetics. In what follows, we consider nanoparticle interfacial kinetics and express the dynamics of surface concentration via the spatio-temporal evolution equation. We analyse the linear stability around the quiescent base state using normal modes and deduce the linear eigenvalue problem to determine the growth rates of these modes. The analytical solution for the monotonic solutocapillary instability is found. Surprisingly, the system displays the onse…",
+    "authors": "Raj Gandhi, Alexander Nepomnyashchy, Alexander Oron",
+    "published": "2026-05-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Drag on a penetrable two-dimensional disk in a superfluid – ERRATUM",
+    "doi": "10.1017/jfm.2026.11612",
+    "url": "https://doi.org/10.1017/jfm.2026.11612",
+    "abstract": "",
+    "authors": "John Elie Sader, Alex Nunn, D.I. Pullin",
+    "published": "2026-05-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Direct numerical simulations of transitional Rayleigh–Bénard Poiseuille flows",
+    "doi": "10.1017/jfm.2026.11507",
+    "url": "https://doi.org/10.1017/jfm.2026.11507",
+    "abstract": "We investigate the transitional flow regimes arising from the interaction between buoyancy and shear in Rayleigh–Bénard–Poiseuille (RBP) flows, considering both large and small domains. The transition boundaries between the bistable system consisting of spiral defect chaos (SDC) and ideal straight rolls (ISRs) in Rayleigh–Bénard convection, and subcritical turbulence in plane Poiseuille flows are not known. Using direct numerical simulations in a large spatial domain over a range of Rayleigh numbers, $Ra \\in [0, 10000]$ , Reynolds numbers, $\\textit{Re} \\in [0, 2000]$ and unit Prandtl number, we identify five distinct regimes: (i) bistable SDC and ISRs; (ii) ISRs; (iii) wavy rolls; (iv) intermittent rolls; and (v) shear-driven turbulence. The newly identified intermittent rolls state featur…",
+    "authors": "Chi Hin Chan, M.Z. Hossain, Spencer J. Sherwin, Yongyun Hwang",
+    "published": "2026-05-10",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Effects of initial perturbation spectra on converging Richtmyer–Meshkov turbulence",
+    "doi": "10.1017/jfm.2026.11528",
+    "url": "https://doi.org/10.1017/jfm.2026.11528",
+    "abstract": "This work experimentally investigates Richtmyer–Meshkov (RM) turbulence driven by a cylindrical converging shock using time-resolved planar laser-induced fluorescence. An automatically retractable plate is developed to generate membraneless yet sharp interfaces characterised by random short-wavelength perturbations and controllable long-wavelength components. Five initial interfaces are examined: one with random short-wavelength perturbations, and four with these random perturbations superimposed with single-mode long-wavelength perturbations of controlled amplitude and wavenumber. The shocked interface in the converging configuration exhibits strongly unsteady motion: it initially moves inwards uniformly, then decelerates, moves outwards following reshock, and finally decelerates again wi…",
+    "authors": "Yong Zhao, Juchun Ding, Ting Si, Xisheng Luo",
+    "published": "2026-05-10",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Couplings in a non-uniform compressible swirling jet with a modelled swirler",
+    "doi": "10.1017/jfm.2026.11497",
+    "url": "https://doi.org/10.1017/jfm.2026.11497",
+    "abstract": "We give evidence of non-modal amplification mechanisms driven by swirl intensity from a bi-global linear analysis of a cold swirling flow representative of a premixed swirl burner: non-uniform, compressible, turbulent, enclosed and subject to vortex breakdown passed the expansion. The monolithic computational approach embeds a realistic axisymmetric swirler model in the computational domain. The amplification mechanisms are identified by stability and resolvent analysis under variations of the length of the annular duct section and combustion chamber, the swirl intensity and the swirler position. While the spectrum is affected by changes in the length only, the gain of the resolvent strongly depends on the swirl intensity. The results suggest an acoustically dominated amplification in the …",
+    "authors": "Grégoire Varillon, Thomas Ludwig Kaiser, Philipp Brokof, Dominik Weißbach et al.",
+    "published": "2026-05-10",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Flow separation without a wall: laminar shear-wake–cylinder interactions",
+    "doi": "10.1017/jfm.2026.11538",
+    "url": "https://doi.org/10.1017/jfm.2026.11538",
+    "abstract": "This study investigates necklace-vortex systems forming when a laminar shear-wake, generated by two streams merging at the trailing edge of a splitter plate, interacts with a circular cylinder placed downstream in the wake. Hydrogen-bubble flow visualisations were employed in a water channel capable of producing laminar shear-wake flows. In the absence of the cylinder, oppositely signed vorticity in the shear-wake undergoes mutual annihilation. The introduction of the cylinder interrupts this evolution, promoting off-wall flow separation upstream of the cylinder and vortex roll-up. The study primarily focuses on two non-dimensional parameters, the Reynolds number $ \\textit{Re}_m$ and the shear ratio $ \\textit{SR}$ , and presents a mapping of the observed vortex regimes. Increasing $ \\texti…",
+    "authors": "Borhan Alhosseinihamedani, Jimmy Philip, Joseph Klewicki",
+    "published": "2026-05-10",
+    "keywords_matched": [
+      "wake",
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Flow interactions and forward flight dynamics of tandem flapping wings",
     "doi": "10.1017/jfm.2026.11521",
@@ -67,6 +215,30 @@
     "url": "https://doi.org/10.5194/gmd-19-3783-2026",
     "abstract": "Abstract. Graphics Processing Units (GPUs) are becoming increasingly central to high-performance computing (HPC), but fair comparison with central processing units (CPUs) remains challenging, particularly for applications that can be subdivided into smaller workloads. Traditional metrics such as speedup ratios can overstate GPU advantages and obscure the conditions under which CPUs are competitive, as they depend strongly on workload choice. We introduce two peak-based performance metrics, the Peak Ratio Crossover (PRC) and the Peak-to-Peak Ratio (PPR), which provide clearer comparisons by accounting for the best achievable performance of each device. Using the performance of the Cloud Layers Unified by Binormals (CLUBB) standalone model as a case study, we demonstrate these metrics in pra…",
     "authors": "Gunther Huebler, Vincent E. Larson, John M. Dennis, Sheri A. Voelz",
+    "published": "2026-05-08",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Seasonal Variation of Atmospheric CO\n                    <sub>2</sub>\n                    Concentration in China and Indo‐China Peninsula and Their Mutual Impacts",
+    "doi": "10.1029/2025jd045375",
+    "url": "https://doi.org/10.1029/2025jd045375",
+    "abstract": "Abstract Quantifying the interregional transport of atmospheric carbon dioxide (CO 2 ) between Indo‐China Peninsula and the Chinese mainland is of significant importance for the carbon budget accounting. However, few studies have addressed the mutual impacts of atmospheric CO 2 between the two regions. In this study, a regional atmospheric transport model (WRF‐RAQMS) coupled CO 2 physical processes was applied to investigate the seasonal variation of atmospheric CO 2 concentrations over the Indo‐China Peninsula and Chinese mainland, and to reveal the mutual impacts between the two regions by taking the year 2020, when COVID‐19 occurred, as an exemplification. The simulated atmospheric CO 2 concentrations in the study domain exhibited distinct seasonal variation, and higher concentrations o…",
+    "authors": "Jie Li, Wenxuan Fan, Jian Wu, Zhiwei Han et al.",
+    "published": "2026-05-08",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Estimating Tropical Cyclone Maximum Wind Speed and Radius Using a Multimodal Hybrid Guided Network",
+    "doi": "10.1029/2025jd044721",
+    "url": "https://doi.org/10.1029/2025jd044721",
+    "abstract": "Abstract Tropical cyclones (TCs) are destructive weather systems that can trigger flooding, landslides, and other severe hazards. Accurate estimation of key TC attributes is critical for disaster risk management. In particular, the maximum sustained wind speed (MSW) and radius of maximum wind (RMW) are fundamental parameters for operational forecasting and wind‐field modeling. However, existing approaches struggle to capture and fuse the diverse physical information embedded in multi‐modal TC data. We propose Multi‐Modal Hybrid Guided Network (MHG‐Net), a multi‐task deep learning framework that integrates satellite imagery with auxiliary physical factors via soft parameter sharing and correlation graph embedding. This design enables effective inter‐task collaboration while explicitly model…",
+    "authors": "Cong Bai, Hanting Yan, Pan Mu, Cheng Huang et al.",
     "published": "2026-05-08",
     "keywords_matched": [
       "ABL"
