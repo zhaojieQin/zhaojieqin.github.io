@@ -1,5 +1,128 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Fluid elasticity enhances galloping of flexibly mounted square prisms in cross-flow",
+    "doi": "10.1017/jfm.2026.11531",
+    "url": "https://doi.org/10.1017/jfm.2026.11531",
+    "abstract": "We consider the response of a flexibly mounted square prism placed in inertial-viscoelastic fluid flow with one degree-of-freedom in the cross-flow direction. Under these flow conditions, both inertia and elastic effects are significant. We model the system numerically using a two-way coupling scheme to simulate the interaction between the fluid and the spring–mass system at a Reynolds number of $\\textit{Re}=200$ for two mass ratios of $m^* = 2$ and 20, and a Weissenberg number of $\\textit{Wi}=2$ , across a range of reduced velocities. We demonstrate that introducing fluid elasticity suppresses vortex-induced vibrations of square prisms, consistent with prior findings for circular bluff bodies. However, we find that fluid elasticity amplifies the galloping response in comparison with the r…",
+    "authors": "Han Gong, Umang N. Patel, Jonathan P. Rothstein, Yahya Modarres-Sadeghi",
+    "published": "2026-05-14",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Kinematics of gravity–capillary waves above an evolving underwater current",
+    "doi": "10.1017/jfm.2026.11523",
+    "url": "https://doi.org/10.1017/jfm.2026.11523",
+    "abstract": "We perform direct numerical simulations of continuously growing broadband surface waves forced by a turbulent atmospheric boundary layer coupled with a developing underwater current. We resolve and analyse the multiscale space–time evolution of the waves by considering the wave spectrum in frequency and wavenumber space and describe the kinematics of nonlinear gravity–capillary waves under a current initially described by a viscous boundary layer and transitioning to turbulence at later times under the wind-wave forcing. The wave speed experiences a scale-dependent Doppler shift, with shorter waves shifted by currents closer to the surface, in agreement with the framework from Stewart &amp; Joy (1974 Deep Sea Res. Oceanogr. Abstracts 21(12), 1039–1049). At low wave slopes, the wave energy …",
+    "authors": "Clara Martin-Blanco, Nicolò Scapin, Jiarong Wu, Stéphane Popinet et al.",
+    "published": "2026-05-14",
+    "keywords_matched": [
+      "turbulence",
+      "atmospheric boundary layer",
+      "wave energy"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Scalar mixing in spatio-temporally non-Markovian homogeneous isotropic synthetic turbulence",
+    "doi": "10.1017/jfm.2026.11547",
+    "url": "https://doi.org/10.1017/jfm.2026.11547",
+    "abstract": "We show that spatio-temporal non-Markovianity of a Gaussian random synthetic velocity field is an essential property for modelling turbulent mixing. We demonstrate this using synthetically generated Gaussian incompressible velocity fields for passive scalar mixing. Including a separate velocity decorrelation time scale for each spatial scale (random sweeping) yields an essentially non-Markovian velocity field with a finite time memory decaying as $\\tau ^{-6}$ (for a decaying spectrum) instead of an exponential decay (Markovian), which is obtained by including a constant time scale for all spatial scales, irrespective of the filtering function. We characterise the Lagrangian mixing statistics of both the Markovian and the non-Markovian synthetic fields and compare them against a correspondi…",
+    "authors": "Pratyush Singh Awasthi, Joaquim Porunnolil Jossy, Amitabh Bhattacharya, Prateek Gupta",
+    "published": "2026-05-14",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Structured input–output analysis of compliant wall turbulence",
+    "doi": "10.1017/jfm.2026.11530",
+    "url": "https://doi.org/10.1017/jfm.2026.11530",
+    "abstract": "This work employs structured input–output analysis (SIOA) augmented by an eddy viscosity model (SIOA-e) to investigate turbulent flows over rigid and compliant walls. The SIOA-e framework demonstrates the capability in identifying both streamwise and spanwise dominant characteristic wavelengths for rigid wall turbulence. For compliant walls, the SIOA-e method predicts optimal compliant wall parameters associated with positive damping coefficients when minimizing input–output gain for near-wall cycle and very large-scale motions, respectively. The reduction of input–output gain due to the compliant wall is achieved by wall displacement resembling blowing and suction opposite to the wall-normal velocity of dominant streamwise vortices. However, optimized compliant wall parameters based on sp…",
+    "authors": "Jingzhou Song, Ting Wu, Chutian Wu, Chang Liu et al.",
+    "published": "2026-05-14",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Flow inside a square cavity driven by the symmetric sliding of its four sides",
+    "doi": "10.1017/jfm.2026.11516",
+    "url": "https://doi.org/10.1017/jfm.2026.11516",
+    "abstract": "We investigate the incompressible flow inside a two-dimensional square cavity, driven by the sliding motion of its four lids, all at the same speed and with facing lids moving in opposite directions. The problem has three symmetries: two mirror symmetries with respect to the diagonals and a $\\pi$ rotation invariance about the centre of the cavity. The base flow, a steady state that has all three symmetries, is the unique solution at sufficiently low values of the Reynolds number ( $ \\textit{Re}$ ) and acts as a global attractor. At higher $ \\textit{Re}$ , it has become unstable and shares the phase space with a globally attracting space–time symmetric periodic orbit that, in addition to the rotational invariance, is also invariant under evolution over half a period followed by reflection a…",
+    "authors": "Fernando Mellibovsky, Bo An, Josep M. Bergadà, Alvaro Meseguer",
+    "published": "2026-05-14",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Stabilisation of second Mack mode in hypersonic boundary layers through spanwise non-uniform surface temperature distribution",
+    "doi": "10.1017/jfm.2026.11548",
+    "url": "https://doi.org/10.1017/jfm.2026.11548",
+    "abstract": "The extreme heat fluxes characteristic of hypersonic flows significantly limit the flight envelope of hypersonic vehicles. The role of hydrodynamic instability and the onset of laminar-to-turbulent boundary layer transition is of notable importance. The effect of streaks on the suppression of planar (second Mack mode) instabilities has been previously investigated, but a potentially passive and non-intrusive control method has not been established yet. Recent work shows that streaks can be generated through a spanwise variation in surface temperature. This method exploits the aerothermodynamic characteristics of the flow, and therefore promises to be robust. This work uses direct numerical simulations to determine and quantify the effectiveness of this novel control method in the suppressi…",
+    "authors": "Luca Boscagli, Georgios Rigas, Olaf Marxen, Paul J.K. Bruce",
+    "published": "2026-05-14",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "High-fidelity turbulent flow field reconstruction using a residual-based diffusion model",
+    "doi": "10.1017/jfm.2026.11511",
+    "url": "https://doi.org/10.1017/jfm.2026.11511",
+    "abstract": "In this study, we develop a super-resolution (SR) model for homogeneous isotropic turbulence (HIT) inspired by the recently proposed low-inference-cost ResShift diffusion model. The training data are obtained from direct numerical simulation of two three-dimensional HIT cases with varying grid resolutions and Reynolds numbers ( $ \\textit{Re}_\\lambda = 94$ and 173) to increase the model’s generalisability. The model is trained on two-dimensional snapshots rather than full three-dimensional fields, as training and inference on three-dimensional data would increase the computational cost significantly. Both the data from the whole domain and the data from a quarter of the domain are considered in the dataset to increase the diversity and quantity of training samples. This strategy also helps …",
+    "authors": "Golsa Tabe Jamaat, Takayuki Okatani, Yuji Hattori",
+    "published": "2026-05-14",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Quantifying the surface layer generated by strong free-surface turbulence",
+    "doi": "10.1017/jfm.2026.11535",
+    "url": "https://doi.org/10.1017/jfm.2026.11535",
+    "abstract": "We consider free-surface flows driven by turbulence beneath the surface, particularly the strong free-surface turbulence (FST) regime, characterised by large Froude number ${\\textit {Fr}}^2_T=\\varepsilon /u_{\\textit{rms}} {g}\\,\\gtrsim 0.1$ . We study the surface layer, where air and water are highly mixed and turbulence modelling is challenging. We develop a definition of the surface-layer thickness $\\delta _s$ based on the vertical derivative of intermittency $\\gamma$ at the mean free surface $\\bar {\\eta }$ , which, unlike previous definitions, is independent of the tail behaviour of $\\gamma$ . From direct numerical simulation (DNS) of statistically stationary, horizontally homogeneous strong FST, we show that scaling by $z^* = (z-\\bar {\\eta })/\\delta _s$ collapses $\\gamma$ across a wide …",
+    "authors": "Declan B. Gaylo, Dick K.P. Yue",
+    "published": "2026-05-14",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Compound Mesoscale Convective Systems and Low‐Pressure Systems in Tropical Monsoon Regions: Assessing Their Meteorology and Precipitation",
+    "doi": "10.1029/2025jd046151",
+    "url": "https://doi.org/10.1029/2025jd046151",
+    "abstract": "Abstract Mesoscale convective systems (MCS) and low‐pressure systems (LPS) are both strongly associated with precipitation across the regions where they occur, particularly within global monsoon systems; however, their co‐occurrence and its relationship to precipitation have not been systematically examined. Here, we use LPS and MCS trackers to detect compound MCS and LPS events in five monsoon regions and assess the association of this co‐occurrence with anomalies of winds, precipitation, and other atmospheric variables. Additionally, we investigate the spatial distribution of precipitating MCS and LPS events. Our results show that most (∼60%) MCS and LPS co‐occurrences are located in the lower latitudes, where they contribute up to 40% of annual precipitation. We find that compound event…",
+    "authors": "Kwesi Twentwewa Quagraine, Travis A. O’Brien, William Boos, J. David Neelin et al.",
+    "published": "2026-05-14",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Rapid Retrieval of Diurnal Cycle Ammonia Using Multi‐Modal Deep Learning From Geostationary Hyperspectral Sounder Observations",
+    "doi": "10.1029/2025jd046036",
+    "url": "https://doi.org/10.1029/2025jd046036",
+    "abstract": "Abstract Atmospheric ammonia (NH 3 ) is challenging to monitor accurately due to its short lifetime, high variability, and weak signal. Here, an advancing real‐time NH 3 retrieval model was developed that leverages high‐frequency Fengyun‐4B (FY‐4B) GIIRS observations and meteorological data to generate 2‐hourly NH 3 maps over East Asia in tens of seconds, without costly radiative transfer simulations. Validations against the IASI product and FY‐4B optimal estimation retrievals demonstrate high robustness ( R &gt; 0.75). A key advantage of this model is its ability to extract multiple source features, thereby producing physically consistent NH 3 retrievals under weak‐signal conditions, effectively eliminating 31.7% negative NH 3 estimates produced by IASI at nighttime. This capability enabl…",
+    "authors": "Xinran Xia, Min Min, Jun Li, Ling Gao et al.",
+    "published": "2026-05-14",
+    "keywords_matched": [
+      "diurnal cycle",
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Natural and Anthropogenic Impacts on Global Tropospheric OH and Methane Lifetime: A Multi‐Model Analysis From AerChemMIP",
     "doi": "10.1029/2025jd045874",
