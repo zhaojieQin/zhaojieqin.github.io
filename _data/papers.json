@@ -1,6 +1,67 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "On the optimal period of spanwise wall forcing for turbulent drag reduction",
+    "doi": "10.1017/jfm.2026.11562",
+    "url": "https://doi.org/10.1017/jfm.2026.11562",
+    "abstract": "Turbulent channel flow controlled by spanwise wall oscillations is studied using direct numerical simulations to improve how spanwise forcing reduces skin-friction drag. Harmonic wall oscillations generate a periodic transverse Stokes layer whose thickness $\\delta$ is determined by the forcing period $T$ . Although an optimal $T$ that maximises drag reduction is known to exist, its physical significance remains unclear. To elucidate it, we extend the spanwise Stokes layer by augmenting wall oscillation with an additional spanwise body force. In this formulation, $\\delta$ and $T$ become decoupled and can be varied independently. The oscillating wall thus appears as a special and suboptimal case of spanwise forcing. Optimal performance is obtained for substantially smaller $T$ and larger $\\d…",
+    "authors": "Maurizio Quadrio, Federica Gattere, Marco Castelletti, Alessandro Chiarini",
+    "published": "2026-05-15",
+    "keywords_matched": [
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On-demand nuclei seeding in Venturi flows – why hydrodynamic cavitation favours attached cavities",
+    "doi": "10.1017/jfm.2026.11571",
+    "url": "https://doi.org/10.1017/jfm.2026.11571",
+    "abstract": "Attached cavitation is likely the most common form of developed hydrodynamic cavitation, yet the reason for its dominance remains unclear. From the experimental side, a natural approach is to seed controllable nuclei and observe their evolution. We propose a laser-based on-demand nucleation method that generates micro- and nanobubbles as nuclei in Venturi flows, enabling unprecedented spatio-temporal control of hydrodynamic cavitation inception. For single-bubble cases, we find that attached cavitation occurs when the bubble surface enters the boundary layer of the channel where the pressure is below the vapour pressure. Based on it, we construct a phase diagram of cavitation regimes as a function of cavitation number and non-dimensional wall distance. Extending to multiple bubbles, assumi…",
+    "authors": "Zehao Li, Patricia Pfeiffer, Claus-Dieter Ohl",
+    "published": "2026-05-15",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Beyond the Reynolds analogy: bubble-induced modulation of turbulent heat transfer",
+    "doi": "10.1017/jfm.2026.11546",
+    "url": "https://doi.org/10.1017/jfm.2026.11546",
+    "abstract": "Boiling and bubble injection are effective strategies for enhancing heat transfer between solid boundaries and a working fluid in numerous industrial applications, including nuclear reactors and molten metal processing. Motivated by this, we conduct direct numerical simulations of a vertical, turbulent, differentially heated, bubble-laden channel flow. The Prandtl number $\\textit{Pr}$ , kept identical in both phases, is varied across three representative values – $0.07$ (liquid metals), $0.7$ (vapour) and $7$ (water) – to span thermal transport regimes across three orders of magnitude. The simulations are conducted at a friction Reynolds number $\\textit{Re}_\\tau =150$ , void fraction $\\alpha =5.4\\,\\%$ and a density ratio $\\rho _r=0.1$ (defined as the bubble-to-carrier density). The bubbles…",
+    "authors": "Davide Procacci, Simone Di Giorgio, Alfredo Soldati, Jannike Solsvik",
+    "published": "2026-05-15",
+    "keywords_matched": [
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "The wake of an inclined 6 : 1 spheroid, with and without background density gradient",
+    "doi": "10.1017/jfm.2026.11551",
+    "url": "https://doi.org/10.1017/jfm.2026.11551",
+    "abstract": "The drag wake of a towed inclined 6 : 1 prolate spheroid in unstratified and stratified ambients is investigated experimentally using stereoscopic particle image velocimetry. Tow speed, stratification strength and inclination angle are varied independently, resulting in a parameter space spanning Reynolds numbers $\\textit{Re} = (1.25{-}20) \\times 10^3$ , Froude numbers $\\textit{Fr}= U/\\textit{ND} = 2{-}32$ and $\\infty$ , and inclination angles $\\theta = 0^\\circ$ and $20^\\circ$ . Measurements are repeated at each parameter combination to obtain converged wake statistics for $3 \\leqslant x/D \\leqslant 40$ . Unstratified measurements provide a baseline experimental dataset for inclined spheroids that has not previously been reported. In the absence of stratification, inclination generates per…",
+    "authors": "Madeleine G. Oliver, Elynor R. Starr, G.R. Spedding",
+    "published": "2026-05-15",
+    "keywords_matched": [
+      "wake"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Wake dynamics of permeable disks across the transition from steady to chaotic flow",
+    "doi": "10.1017/jfm.2026.11514",
+    "url": "https://doi.org/10.1017/jfm.2026.11514",
+    "abstract": "We numerically investigate the steady and unsteady wakes of three-dimensional permeable disks over Reynolds number ( $\\textit{Re}$ ) range 100–300 and Darcy number ( $Da$ ) range $10^{-9}$ – $10^{-3}$ . For disks with low permeability ( $Da\\le 8\\times 10^{-5}$ ), the dynamical transition route is the same as that of impervious disks, with the critical $\\textit{Re}$ for all bifurcations increasing with decreasing permeability. In contrast, for disks with high permeability ( $Da\\ge 2\\times 10^{-4}$ ), all unsteady bifurcations are suppressed, and the wake remains in a steady regime throughout the $\\textit{Re}$ range considered. Interestingly, at moderate $Da$ , permeability gives rise to two previously unreported flow regimes. The first is the ‘SVR breathing’ regime, occurring at $Da\\approx …",
+    "authors": "Doudou Huang, Chandan Bose, Antonio Attili, Ignazio Maria Viola",
+    "published": "2026-05-15",
+    "keywords_matched": [
+      "wake",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Fluid elasticity enhances galloping of flexibly mounted square prisms in cross-flow",
     "doi": "10.1017/jfm.2026.11531",
     "url": "https://doi.org/10.1017/jfm.2026.11531",
