@@ -1,5 +1,17 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Structural Differences Between Developing and Non‐Developing Tropical Cyclone Seeds",
+    "doi": "10.1029/2025jd044943",
+    "url": "https://doi.org/10.1029/2025jd044943",
+    "abstract": "Abstract We use a newly developed tropical cyclone (TC) seed tracking data set in ERA5 to investigate how the tangential wind structure of a seed differs between those that develop into TCs (“developing seeds”) and those that do not (“non‐developing seeds”). Focusing on the concept of “structural compactness” , a vortex structural parameter that characterizes the planetary Rossby wave drag on vortex intensity, we find that most developing seeds maintain relatively compact low‐level dynamical structure throughout their lifetimes, whereas non‐developing seeds exhibit a broader range of structures, with many being significantly incompact. This structural difference is reflected in the genesis probability of seeds: a seed with a lower has a lower probability of developing into TC. Furthermore,…",
+    "authors": "Kuan‐Yu Lu, Daniel R. Chavas, Daehyun Kim, Jihong Moon",
+    "published": "2026-05-16",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "On the optimal period of spanwise wall forcing for turbulent drag reduction",
     "doi": "10.1017/jfm.2026.11562",
