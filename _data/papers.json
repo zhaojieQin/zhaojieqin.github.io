@@ -1,6 +1,18 @@
 [
   {
     "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Can ERA5 Be Used to Study Mesoscale Convective System Climatological Characteristics?",
+    "doi": "10.1029/2025jd046050",
+    "url": "https://doi.org/10.1029/2025jd046050",
+    "abstract": "Abstract Mesoscale convective systems (MCSs) produce more than half of tropical rainfall and are central to the global hydrologic cycle. As the climate warms, environments favorable for MCSs may become more common; however, limited observational records hamper understanding of how MCSs respond to variations and changes in their environments. Here, we evaluate how well MCSs are represented in ERA5, a widely used global high‐resolution reanalysis product. Using PyFLEXTRKR, which jointly tracks top‐of‐atmosphere infrared brightness temperature and surface precipitation, we identified MCSs in ERA5 and compared them with those identified in satellite observations using the same detection algorithm. This comparison analysis spans 2007–2020 using hourly data at 0.25° horizontal resolution focusin…",
+    "authors": "Stella Heflin, Zhe Feng, L. Ruby Leung, Qiang Fu",
+    "published": "2026-05-17",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "The Structural Differences Between Developing and Non‐Developing Tropical Cyclone Seeds",
     "doi": "10.1029/2025jd044943",
     "url": "https://doi.org/10.1029/2025jd044943",
