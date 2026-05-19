@@ -1,5 +1,93 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Collective settling and wake-driven interactions of density-heterogeneous particle arrays",
+    "doi": "10.1017/jfm.2026.11570",
+    "url": "https://doi.org/10.1017/jfm.2026.11570",
+    "abstract": "We investigate experimentally the collective settling dynamics of an initially planar ensemble of inertial particles in quiescent fluid. The experiments used a $10 \\times 10$ horizontal array of spherical particles with diameter $d=4$ mm and initial centre-to-centre spacing $2d$ . Five configurations were tested, including two homogeneous arrays of particles with density ratios $\\rho _p/\\rho _{\\!f} = 1.14$ and 1.28, and three heterogeneous arrays that combined both particle types in distinct spatial arrangements. Particle trajectories were obtained using particle tracking velocimetry, and the induced flow was characterised with planar and stereo particle image velocimetry. The settling behaviour was strongly governed by the particle spatial arrangement and density contrast. Homogeneous arr…",
+    "authors": "Soohyeon Kang, Yuechao Wang, Sophie Comer-Warner, David Hannah et al.",
+    "published": "2026-05-18",
+    "keywords_matched": [
+      "wake"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Modulation of vortex-induced free vibration by external forced motion: experimental insights into coupled self-induced and forced responses",
+    "doi": "10.1017/jfm.2026.11533",
+    "url": "https://doi.org/10.1017/jfm.2026.11533",
+    "abstract": "This study investigates how imposed transverse forced vibration modifies vortex-induced vibration of an elastically mounted cylinder, with a focus on uncovering the nonlinear interplay between forced and self-excited oscillations. Through carefully designed experiments spanning wide ranges of frequency and amplitude ratios under low and high mass ratios, three distinct response regimes are identified. In the dual-frequency regime, occurring at extreme frequency ratios, weak coupling allows coexistence of forced and natural frequencies, yielding alternating large/small amplitudes and wake transitions between two vortex pairs per cycle (2P) and two single vortices per cycle (2S) shedding. The frequency-switching regime, near resonance, features amplitude modulation and intermittent dominance…",
+    "authors": "Jinlong Duan, Hongyuan Liu, Yang Qu, Jifu Zhou et al.",
+    "published": "2026-05-18",
+    "keywords_matched": [
+      "wake",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Large-eddy simulation of two-degree-of-freedom vortex-induced vibration of a circular cylinder at Reynolds number 10 000",
+    "doi": "10.1017/jfm.2026.11545",
+    "url": "https://doi.org/10.1017/jfm.2026.11545",
+    "abstract": "The canonical scenario of two-degree-of-freedom vortex-induced vibration (VIV) of a circular cylinder is re-examined in this study through high-fidelity large-eddy simulations (LES) at a Reynolds number of 10 000. The in-line and cross-flow vibration amplitudes, frequency responses and hydrodynamic coefficients predicted by the present LES match classical experimental results better than previous numerical attempts. In particular, motivated by an inadequate study yet vital importance of the small-amplitude in-line response in offshore engineering design, we present the first numerical evidence for the existence of three in-line response regions. Furthermore, the present in-line response agrees well with the design guideline DNV-RP-F105. After validating the present results against DNV-RP-F…",
+    "authors": "Hongyi Jiang, Jingsheng Yang, Xiaoying Ju, Tongming Zhou et al.",
+    "published": "2026-05-18",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Future Change in the Moist Wave Activity and Its Potential Impact on Local Extreme Precipitation Under a Warming Climate",
+    "doi": "10.1029/2025jd044844",
+    "url": "https://doi.org/10.1029/2025jd044844",
+    "abstract": "Abstract The framework of local wave activity is adapted to the column‐integrated water vapor in North Hemisphere to investigate the regional difference, seasonal variation, and future change in atmospheric moist wave activity () and its sink () in CMIP5 simulations. Analyses indicate the and are mainly located at marine (mid‐latitude) regions with large values over monsoon (coastal) areas in summer (winter). Meanwhile, the participating in the hydrological cycle () is linearly related to the dissipation by that is highly correlated to the local precipitation extremes in both seasons. This proves that the underlying reasons for the future changes are favorable for understanding the variability of local extreme precipitation. Under the RCP8.5 scenario, the hemispherical increases of reflect…",
+    "authors": "Daokai Xue, Jian Lu, Xingping Xue, Jingnan Yin et al.",
+    "published": "2026-05-18",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Linking Salinity and Precipitation Through Moisture Transport: A Study for the North Atlantic",
+    "doi": "10.1029/2025jd045720",
+    "url": "https://doi.org/10.1029/2025jd045720",
+    "abstract": "Abstract Sea surface salinity (SSS) is a key indicator of the ocean–atmosphere freshwater balance and plays a central role in global moisture transport. This study investigates how extreme SSS anomalies in the North Atlantic (NATL) source region indicate atmospheric moisture pathways and precipitation in surrounding continental and island sink regions. Monthly SSS data (1985–2014) from the EN4.2.2 data set were combined with high‐resolution Lagrangian moisture tracking via FLEXPART‐WRF simulations. Extreme salinity events (±1 σ , ≥2 consecutive months) were identified and linked to composite anomalies of evaporation, vertically integrated vapor transport and geopotential height. The results show that high‐salinity episodes, driven by prolonged evaporation and anticyclonic regimes, correspo…",
+    "authors": "A. Rosquete‐Estevez, J. C. Fernández‐Alvarez, L. Cana‐Cascallar, R. Nieto et al.",
+    "published": "2026-05-18",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Weakening Moisture Supply and Warming Reduce Extreme Rainfall‐Driven Snowmelt Events Over the Southeast Tibetan Plateau Based on Convection‐Permitting WRF Simulations",
+    "doi": "10.1029/2025jd045836",
+    "url": "https://doi.org/10.1029/2025jd045836",
+    "abstract": "Abstract Rapid snowmelt process, including rain‐on‐snow (ROS) events, can trigger flooding and related hazards in high mountains, yet snowmelt characteristics across the Southeast Tibetan Plateau (SETP) remain underexplored because of data scarcity. We utilized optimized 4 km convection‐permitting Weather Research and Forecasting (WRF) dynamical downscaling simulations, driven by ERA5 reanalysis, to investigate the variability of ROS water available for runoff (SM ROS , snowmelt plus rainfall on ROS days) over the SETP from 1995 to 2024. WRF reproduced daily mean air temperature, precipitation, and snow depth with reasonable accuracy (RMSE: 1.98°C/day, 1.32 mm/day, and 0.35 cm/day, respectively). Monsoon‐season accumulated SM ROS reached 623.84 mm (64.3% of the annual 970.91 mm), while ext…",
+    "authors": "Tao Yang, Lanhai Li, Rafiq Hamdi, Qiang Zou et al.",
+    "published": "2026-05-18",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Love number computation within the Ice-sheet and Sea-level  System Model (ISSM v4.24)",
+    "doi": "10.5194/gmd-19-4031-2026",
+    "url": "https://doi.org/10.5194/gmd-19-4031-2026",
+    "abstract": "Abstract. The Love number solver presented here is a new capability within the Ice-sheet and Sea-level System Model (ISSM) for computing the response of a 1D radially-symmetric solid Earth to tidal forcing and surface mass loading. This new capability allows solving zero-frequency free oscillation equations of motion decomposed into the well-known yi system and enables high wave number computations with spherical harmonic truncation degree of ∼ 10 000 and above. It facilitates capturing the high-resolution response of the solid Earth to a step-function forcing in terms of gravity potential changes, vertical and horizontal bedrock displacement, and polar motion. The model incorporates compressible isotropic elasticity and three forms of linear viscoelasticity for mantle rheology: the Maxwel…",
+    "authors": "Lambert Caron, Erik Ivins, Eric Larour, Surendra Adhikari et al.",
+    "published": "2026-05-18",
+    "keywords_matched": [
+      "ABL",
+      "tidal"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Can ERA5 Be Used to Study Mesoscale Convective System Climatological Characteristics?",
     "doi": "10.1029/2025jd046050",
