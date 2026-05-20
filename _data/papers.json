@@ -1,6 +1,44 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Investigation of the asymmetric flow field around a spheroid using global stability analysis",
+    "doi": "10.1017/jfm.2026.11560",
+    "url": "https://doi.org/10.1017/jfm.2026.11560",
+    "abstract": "The first bifurcation of the flow around a spheroid is analysed using global stability analysis to understand the development of flow asymmetry despite the symmetry of the configuration. The base flow, perturbations, adjoint modes, vorticity fields, structural sensitivity and skin friction lines are analysed to characterise the flow. The study of aspect ratio effects at zero angle of attack establishes that the structure of the asymmetry is the same whether the axisymmetric body is bluff or more streamlined. Stability of the flow field around the 6 : 1 spheroid is then investigated for angles of attack $\\alpha \\in [0{-}90]^\\circ$ as a function of Reynolds number. Comparison of the low angle of attack results with the DARPA SUBOFF experiments of Ashok et al. ( J. Fluid Mech., 2015, vol. 774…",
+    "authors": "András Szabó, Krishnan Mahesh",
+    "published": "2026-05-19",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Wall temperature effects of compressible turbulent boundary layers at moderate Reynolds numbers",
+    "doi": "10.1017/jfm.2026.11563",
+    "url": "https://doi.org/10.1017/jfm.2026.11563",
+    "abstract": "In this paper, we investigate the influences of wall temperature on compressible turbulent boundary layers at free-stream Mach number 6.0 and moderate Reynolds numbers. The findings demonstrate that turbulent statistics, including the logarithmic scaling of Reynolds stresses in the overlap region, the presence of very-large-scale motions in the outer layer, and their superposition on near-wall turbulence, exhibit qualitative invariance across varying wall temperatures. However, the reduced scale separation between near-wall small-scale motions and outer-layer large-scale motions leads to a contraction in the vertical extent of Reynolds stresses adhering to the logarithmic law. Very-large-scale motions are attenuated in viscous units but intensified in global scalings due to the lower free-…",
+    "authors": "Ming Yu, Jiahui Qin, Pengxin Liu, Xianxu Yuan et al.",
+    "published": "2026-05-19",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "PALM-meteo 2.8: Processor of PALM meteorological input data",
+    "doi": "10.5194/gmd-19-4071-2026",
+    "url": "https://doi.org/10.5194/gmd-19-4071-2026",
+    "abstract": "Abstract. PALM is a versatile and modular microscale atmospheric modelling system. It supports offline nesting using pre-processed initial and boundary conditions provided via the dynamic driver file, along with other time-dependent input data, such as radiative forcing. PALM-meteo is a new modular tool for preparing PALM dynamic drivers using data from various mesoscale or global meteorological models as well as other sources, such as measurements. It is derived from an older tool, the WRF_interface, which provided dynamic drivers using WRF (Weather Research and Forecasting) model data. PALM-meteo significantly expands the scope of usable meteorological and chemical inputs for PALM (currently supporting WRF, ICON, Aladin, CAMx, and CAMS) and is readily extendable to additional data source…",
+    "authors": "Pavel Krč, Michal Belda, Martin Bureš, Kryštof Eben et al.",
+    "published": "2026-05-19",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Collective settling and wake-driven interactions of density-heterogeneous particle arrays",
     "doi": "10.1017/jfm.2026.11570",
     "url": "https://doi.org/10.1017/jfm.2026.11570",
