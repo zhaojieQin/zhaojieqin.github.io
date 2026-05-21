@@ -1,6 +1,18 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "An ensemble of Gaussian fields with multifractal statistics for turbulence",
+    "doi": "10.1017/jfm.2026.11493",
+    "url": "https://doi.org/10.1017/jfm.2026.11493",
+    "abstract": "Obtaining accurate field statistics continues to be one of the major challenges in turbulence theory and modelling. From the various existing modelling approaches, multifractal models have been successful in capturing intermittency in velocity gradient and increment distributions. Moreover, superstatistical models from non-equilibrium statistical mechanics have shown the capacity to model probability density functions (p.d.f.s) of various statistical turbulent quantities as ensembles of simpler stochastic processes. Here, we present an approach that generates field statistics in the form of a characteristic functional by promoting a model for multifractal increment statistics to an ensemble of Gaussian fields. By carefully designing the correlation function and the corresponding weight of …",
+    "authors": "Mark Warnecke, Lukas Bentkamp, Gabriel B. Apolinário, Michael Wilczek et al.",
+    "published": "2026-05-20",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Investigation of the asymmetric flow field around a spheroid using global stability analysis",
     "doi": "10.1017/jfm.2026.11560",
     "url": "https://doi.org/10.1017/jfm.2026.11560",
