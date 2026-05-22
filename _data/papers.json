@@ -1,6 +1,67 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "On multiple stable states in Taylor–Couette flow with realistic end-wall boundary conditions",
+    "doi": "10.1017/jfm.2026.11558",
+    "url": "https://doi.org/10.1017/jfm.2026.11558",
+    "abstract": "We investigate Taylor–Couette flow with realistic no-slip boundary conditions at all surfaces through direct numerical simulation (DNS) and theoretical analysis. Imposing physically consistent end-wall conditions at the top and bottom lids significantly alters the flow dynamics compared with that for periodic boundary conditions. We extend the classical angular-momentum-flux framework to account for axial transport, thereby extending the Eckhardt–Grossmann–Lohse model (Eckhardt et al. J. Fluid Mech . vol. 581, 2007, pp. 221–250) to no-slip boundary conditions. A systematic exploration of the parameter space $(\\textit{Re}, n)$ uncovers multiple long-lived states with different roll number $n$ configurations at identical Reynolds numbers $\\textit{Re}$ , giving rise to pronounced hysteresis l…",
+    "authors": "Marvin Kriening, Zhongzhi Yao, Mohammad Shah Emran, Jiaxing Song et al.",
+    "published": "2026-05-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Collective behaviour of clusters of free-to-move cylinders in the wake of a fixed cylinder",
+    "doi": "10.1017/jfm.2026.11517",
+    "url": "https://doi.org/10.1017/jfm.2026.11517",
+    "abstract": "We study the collective behaviour of clusters of cylinders placed in the wake of a fixed cylinder and free to move in a direction perpendicular to that of the incoming flow, with no structural damping or stiffness. We keep the Reynolds number, defined based on the cylinder diameter, at 100 and consider five different configurations for the initial positions of the cluster cylinders: linear, rectangular, V-shaped, triangular and circular. In each configuration, we consider progressively increasing numbers of cylinders in the cluster. We show that overall, the cylinders tend to form final linear configurations, in which, after their transition, the cylinders form one or more lines. Some free-to-move cylinders might take the lead position in some of these linear formations depending on the in…",
+    "authors": "Daniela Caraeni, Han Gong, Yahya Modarres-Sadeghi",
+    "published": "2026-05-21",
+    "keywords_matched": [
+      "wake"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "A new mean temperature model for incompressible wall-bounded turbulence over a wide range of Prandtl numbers",
+    "doi": "10.1017/jfm.2026.11582",
+    "url": "https://doi.org/10.1017/jfm.2026.11582",
+    "abstract": "A new model of the mean temperature profiles within incompressible wall-bounded turbulence is developed based on a relationship between the momentum and thermal eddy diffusivities for a wide range of Prandtl numbers ( $ \\textit{Pr}$ ). Flow media with $ \\textit{Pr}$ and Schmidt numbers ( $ \\textit{Sc}$ ) other than unity are of great engineering importance, and the proposed model for passive scalar mean profiles is able to suitably account for $ \\textit{Pr}$ and $ \\textit{Sc}$ variations and their effects. Existing models have a higher degree of error at the lower $ \\textit{Pr}$ ranges due to significant inaccuracies of the modelled thermal eddy diffusivity in this region. Considering incompressible wall-bounded turbulence at $0.007 \\leqslant \\textit{Pr} \\leqslant 10$ , the proposed method…",
+    "authors": "Justin E. Ka Ip Sun, Lin Fu",
+    "published": "2026-05-21",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Evaluation of Air Temperature Uncertainty Estimates of the NOAA/CIRES/DOE 20th Century Reanalysis Over Greenland",
+    "doi": "10.1029/2025jd045949",
+    "url": "https://doi.org/10.1029/2025jd045949",
+    "abstract": "Abstract Due to the high sparsity of in situ observations, reanalysis data sets are often the only source of climate information for the 20th century, particularly in the Arctic. The NOAA/CIRES/DOE 20th Century Reanalysis v3 provides uncertainty estimates, whose reliability we evaluate by comparing with non‐assimilated daily and monthly historical air temperature observations in Greenland. We find that at least for one weather station, the reanalysis correctly estimates the relative difference in uncertainty in different seasons, with higher uncertainties during winter. However, neither are the absolute values of the uncertainty of air temperature generally reliable nor are the day‐to‐day variability and the long‐term trends in uncertainty adequately captured. The error of the reanalysis—b…",
+    "authors": "S. Scher, F. Schalamon, A. Trügler, J. Abermann",
+    "published": "2026-05-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Development of a next-generation general ocean circulation model for the Great Lakes",
+    "doi": "10.5194/gmd-19-4331-2026",
+    "url": "https://doi.org/10.5194/gmd-19-4331-2026",
+    "abstract": "Abstract. The Laurentian Great Lakes share several physical characteristics with the coastal ocean, including atmosphere–water interactions, rotational dynamics, and ice cover processes. However, their weak density stratification, relatively small surface area, and distinct seasonal mixing cycles pose unique challenges for numerical modeling. Modeling approaches and parameterizations developed for global applications, however, may yet provide valuable pathways for addressing persistent biases in lake models. To examine these possibilities, we develop a 3D hydrodynamic model for Lake Michigan-Huron (LMH) using the Modular Ocean Model version 6.0 coupled with the Sea Ice Simulator version 2.0 (MOM6-SIS2). Originally designed for global ocean and earth system modeling, MOM6 offers flexible ve…",
+    "authors": "Meena Raju, David J. Cannon, Peter Alsip, He Wang et al.",
+    "published": "2026-05-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "An ensemble of Gaussian fields with multifractal statistics for turbulence",
     "doi": "10.1017/jfm.2026.11493",
     "url": "https://doi.org/10.1017/jfm.2026.11493",
