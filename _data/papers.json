@@ -1,5 +1,30 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Performance of a Dust Forecast System During the 2022 FIFA World Cup in Doha, Qatar",
+    "doi": "10.1029/2025jd045675",
+    "url": "https://doi.org/10.1029/2025jd045675",
+    "abstract": "Abstract Frequent dust storms in the Middle East cause major health and economic impacts. The Qatar Meteorology Department (QMD), Doha, in collaboration with the Indian Institute of Tropical Meteorology (IITM), Pune, and the Integrated Land Ecosystem‐Atmosphere Processes Study (iLEAPS) developed a dust forecast system in experimental mode to provide dust forecasts during the 2022 FIFA World Cup in Doha, Qatar. This system provided PM 10 (particulate matter with an aerodynamic diameter ≤10 μm) forecasts up to 3 days in advance from November–December 2022. It satisfactorily captured a dust storm on 9 November 2022 with observed and forecasted peaks of PM 10 at ∼1,600 μg/m 3 and ∼1,200 μg/m 3 , respectively. While the system exhibited reasonable performance (Mean Fractional Bias (MFB): −0.02,…",
+    "authors": "Rajmal Jat, Sachin D. Ghude, Krishna Kumar Kanikicharla, Prafull P. Yadav et al.",
+    "published": "2026-05-23",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Elevation‐Dependent Variations of Summer Precipitation on the Southern Slopes of the Central and Eastern Himalayas",
+    "doi": "10.1029/2025jd045865",
+    "url": "https://doi.org/10.1029/2025jd045865",
+    "abstract": "Abstract Precipitation patterns in the Himalayas vary in complex ways with elevation but remain poorly understood due to limited in situ data. In this study, we present observations from two rain‐gauge networks spanning different elevations established in the Yarlung Tsangpo Grand Canyon and the Khumbu Valley. Using these ground‐based data, we provide the first comparative investigation of summer precipitation variation along elevation gradients in the Central and Eastern Himalayas. In both regions, precipitation increases with elevation up to a peak and then decreases between 1,500 and 4,300 m above sea level. A marked precipitation maximum occurs near 2,500 m above sea level, largely induced by frequent heavy precipitation events (≥1 mm hr −1 ). The diurnal cycle of mean precipitation ge…",
+    "authors": "Dianbin Cao, Lingxin Huang, Qiang Zhang, Yu Du et al.",
+    "published": "2026-05-23",
+    "keywords_matched": [
+      "diurnal cycle",
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Self-similar pinch-off in surfactant-laden flows in a capillary tube",
     "doi": "10.1017/jfm.2026.11583",
