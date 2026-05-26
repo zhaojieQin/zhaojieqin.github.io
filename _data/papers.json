@@ -1,5 +1,31 @@
 [
   {
+    "journal": "Geoscientific Model Development",
+    "title": "The Radiative Forcing Model Intercomparison  Project (RFMIP2.0) for CMIP7",
+    "doi": "10.5194/gmd-19-4447-2026",
+    "url": "https://doi.org/10.5194/gmd-19-4447-2026",
+    "abstract": "Abstract. An external perturbation to the climate system from anthropogenic or natural activity first impacts the climate by inducing an alteration to Earth's energy budget, known as a radiative forcing. The characteristics of the radiative forcing, such as its global-mean magnitude and spatial pattern, determine the subsequent climate response. Therefore, understanding projections of climate change first requires diagnosing radiative forcing and evaluating its persistent uncertainty in Global Climate Models. As part of the Coupled Model Intercomparison Project phase 7 (CMIP7), the second iteration of the Radiative Forcing Model Intercomparison Project (RFMIP2.0) will enable the systematic characterization of effective radiative forcing and its components across state-of-the-art climate mo…",
+    "authors": "Ryan J. Kramer, Chris Smith, Timothy Andrews",
+    "published": "2026-05-26",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Preconditioning of Local Convective Initiation in Central Europe by Land–Atmosphere Coupling: Heated Condensation Framework Diagnostics",
+    "doi": "10.1029/2025jd045685",
+    "url": "https://doi.org/10.1029/2025jd045685",
+    "abstract": "Abstract This study investigates the role of land‐atmosphere coupling in favorable conditions for locally triggered convection in central Europe. The region is in so‐called transitional zones located between wet and dry climates, which favor land‐atmosphere coupling in summer. To quantify the strength of such land‐atmosphere coupling and its impact on local convection events, the Heated Condensation Framework is applied to analyze hourly vertical profiles of temperature and moisture. The analyzed profiles are based on simulations over the 2000–2011 period at convection permitting scale with the Weather Research and Forecasting (WRF) model. Depending on the characteristics of these profiles, regions either require more heat or more moisture to initiate convection during the course of the da…",
+    "authors": "Kirsten Warrach‐Sagi, Noah Breuninger, Josipa Milovac",
+    "published": "2026-05-25",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting",
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Performance of a Dust Forecast System During the 2022 FIFA World Cup in Doha, Qatar",
     "doi": "10.1029/2025jd045675",
