@@ -13,6 +13,30 @@
   },
   {
     "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Cloud Condensation Nuclei and the Contribution of New Particle Formation in the Yangtze River Delta of Eastern China",
+    "doi": "10.1029/2025jd045881",
+    "url": "https://doi.org/10.1029/2025jd045881",
+    "abstract": "Abstract Cloud condensation nuclei (CCN) serve as a critical link between aerosols and clouds, with new particle formation (NPF) recognized as a major source of CCN. However, the quantitative contribution of NPF to CCN remains highly variable and insufficiently constrained by in situ observations. To address this gap, 2‐year synchronized observations of CCN, particle number size distribution (PNSD), and chemical composition were conducted in an urban area of eastern China. The average CCN concentration (N CCN ) was 2,220 ± 1,050, 3,510 ± 1,500, 4,050 ± 1,640, and 4,400 ± 1,740 cm −3 at 0.2%, 0.4%, 0.6%, and 0.8% supersaturations, respectively. CCN closure analysis indicated that predicting N CCN from PNSD and bulk aerosol hygroscopicity yielded a certain degree of uncertainty, particularly…",
+    "authors": "Guangdong Niu, Ximeng Qi, Liangduo Chen, Jiamin Ma et al.",
+    "published": "2026-05-26",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Satellite‐Based Estimation of Carbon‐to‐Nitrogen Emission Ratios From Large Point Sources With Implications for Future Missions",
+    "doi": "10.1029/2025jd045649",
+    "url": "https://doi.org/10.1029/2025jd045649",
+    "abstract": "Abstract Quantifying the carbon dioxide (CO 2 ) to nitrogen oxides (NO x ) emission ratio (CNER) from space provides valuable information on combustion efficiency and pollution control. We develop a satellite‐based inversion framework that derives CNER from co‐located CO 2 and NO 2 enhancements observed by OCO‐2 and TROPOMI, combining cross‐sectional flux fitting with an exponentially modified Gaussian correction for NO 2 decay. Applied to six overpasses of three isolated U.S. coal‐fired power plants, the retrieved CNER (938–4166) agrees with hourly in situ measurements ( r = 0.67) within a factor of two. CNER exhibits greater temporal stability (±30%) than individual fluxes of each species (±60%) and shows pronounced differences among plants, reflecting fundamental differences in fuel com…",
+    "authors": "Tianyi Wang, Bo Zheng, Kexin Zhang, Jiaxin Qiu",
+    "published": "2026-05-26",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Preconditioning of Local Convective Initiation in Central Europe by Land–Atmosphere Coupling: Heated Condensation Framework Diagnostics",
     "doi": "10.1029/2025jd045685",
     "url": "https://doi.org/10.1029/2025jd045685",
