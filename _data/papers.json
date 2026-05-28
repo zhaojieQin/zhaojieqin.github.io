@@ -1,5 +1,29 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Long‐Term IASI Observations of Upper Tropospheric CO in the Asian Summer Monsoon Region: Trends and Eddy Shedding Signatures",
+    "doi": "10.1029/2025jd045647",
+    "url": "https://doi.org/10.1029/2025jd045647",
+    "abstract": "Abstract The Asian Summer Monsoon (ASM) acts as a key mechanism for the vertical transport of surface pollutants into the upper troposphere (UT), which can have far‐reaching impacts on air quality and climate at regional to global scales. We analyze 16 years (2008–2023) of carbon monoxide (CO) observations from the Infrared Atmospheric Sounding Interferometer (IASI) to investigate UT variabilities over the ASM region. Seasonal cycles, long‐term trends, and dynamic features such as eddy shedding are examined to assess pollution transport within and beyond the ASM anticyclone. IASI observations are sensitive in the 12–15 km range, showing reasonable agreement with in situ aircraft observations from the 2022 Asian Summer Monsoon Chemical and Climate Impact Project (ACCLIP), with a mean bias o…",
+    "authors": "Anne Boynard, Camille Viatte, Laura L. Pan, Shawn B. Honomichl et al.",
+    "published": "2026-05-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Issue Information",
+    "doi": "10.1029/jgrd.70625",
+    "url": "https://doi.org/10.1029/jgrd.70625",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-05-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "The Radiative Forcing Model Intercomparison  Project (RFMIP2.0) for CMIP7",
     "doi": "10.5194/gmd-19-4447-2026",
