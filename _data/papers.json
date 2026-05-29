@@ -1,5 +1,41 @@
 [
   {
+    "journal": "Geoscientific Model Development",
+    "title": "S2AS v1.0 and 2D polarity–volatility lumping framework  v1.0: automated compound classification and scalable  lumping for organic aerosol modelling",
+    "doi": "10.5194/gmd-19-4601-2026",
+    "url": "https://doi.org/10.5194/gmd-19-4601-2026",
+    "abstract": "Abstract. Advancements in near-explicit chemical reaction mechanisms, such as the Master Chemical Mechanism (MCM) or the Generator of Explicit Chemistry and Kinetics of Organics in the Atmosphere (GECKO-A), have enabled highly detailed simulations of atmospheric chemistry. Such simulations offer a bottom-up approach to accompany and inform laboratory chamber experiments of organic aerosol formation or to model the complex chemistry of mixtures of volatile aerosol precursors for specific tropospheric conditions. These chemical reaction mechanisms, while comprehensive, generate hundreds to millions of organic components, creating computational challenges for subsequent applications in multiphase equilibrium gas–particle partitioning models to predict secondary organic aerosol (SOA) mass conc…",
+    "authors": "Dalrin Ampritta Amaladhasan, Dan Hassan-Barthaux, Andreas Zuend",
+    "published": "2026-05-28",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Issue Information",
+    "doi": "10.1029/jame.70359",
+    "url": "https://doi.org/10.1029/jame.70359",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-05-28",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Flow Decomposition by Optimal Balance With Time‐Averaging",
+    "doi": "10.1029/2025ms005477",
+    "url": "https://doi.org/10.1029/2025ms005477",
+    "abstract": "Abstract Decomposing oceanic and atmospheric flow fields into their slowly evolving balanced components and fast evolving wave components is essential to study processes like spontaneous or stimulated wave emission. However, a decomposition into the linear geostrophic (slow) and non‐geostrophic (fast) components is often not precise enough to address the nonlinearity in the flow. Optimal balance (OB) and nonlinear normal mode decomposition account for nonlinear effects and thus are more precise, but their application has so far been limited to idealized model configurations that exclude lateral boundaries, varying stratification, a varying Coriolis parameter, or other changing flow parameters. Here we present a modified OB method that overcomes these limitations and is applicable to more c…",
+    "authors": "Silvano Gordian Rosenau, Manita Chouksey, Carsten Eden",
+    "published": "2026-05-28",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Long‐Term IASI Observations of Upper Tropospheric CO in the Asian Summer Monsoon Region: Trends and Eddy Shedding Signatures",
     "doi": "10.1029/2025jd045647",
@@ -71,6 +107,18 @@
       "WRF",
       "weather research and forecasting",
       "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On the transition zone in shock wave/boundary layer interactions",
+    "doi": "10.1017/jfm.2026.11596",
+    "url": "https://doi.org/10.1017/jfm.2026.11596",
+    "abstract": "According to the state of incoming boundary layer, shock wave/boundary layer interaction can be classified into three groups: shock wave/laminar boundary layer interaction (SLBLI), shock wave/transitional boundary layer interaction (STrBLI) and shock wave/turbulent boundary layer interaction (STBLI). Although STBLI has been comprehensively studied, the difference between SLBLI and STrBLI is still not fully understood, especially in the framework of laminar–turbulent transition. In this work, a compression-ramp flow at Mach 6.5 is studied using experiment, direct numerical simulations (DNS) and stability analysis. Two distinct transition scenarios are revealed. On the one hand, without introducing external disturbances in the DNS, transition to turbulence is observed downstream of reattachm…",
+    "authors": "Shibin Cao, Qiu Wang, Peixu Guo, Jiwei Li et al.",
+    "published": "2026-05-25",
+    "keywords_matched": [
+      "turbulence"
     ]
   },
   {
