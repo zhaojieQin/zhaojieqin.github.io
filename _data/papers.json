@@ -1,5 +1,54 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Stratospheric Subtropical Transport Barriers in CESM1‐WACCM and Observations: Climatology, Variability, and Trends",
+    "doi": "10.1029/2025jd045069",
+    "url": "https://doi.org/10.1029/2025jd045069",
+    "abstract": "Abstract Accurate representation of large‐scale stratospheric transport in chemistry–climate models is essential for understanding and interpreting observed atmospheric variability and for making reliable projections. The subtropical transport barriers (STBs) separate the tropical stratosphere, influenced by slow upwelling, from the midlatitudes, where rapid mixing occurs. Long‐lived tracer contours reflect the combined effects of advection and mixing, making them valuable for identifying these barriers. This study compares a set of tracer‐based and dynamical diagnostics of the STBs in the CESM1‐WACCM chemistry‐climate model with various observational data sets. Tracer‐based barriers in the model show excellent agreement with observations between approximately 50‐5 hPa in seasonal climatol…",
+    "authors": "Oksana Ivaniha, Marta Abalos, Natalia Calvo, Gabriele P. Stiller et al.",
+    "published": "2026-05-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Contrasting Mechanisms of Heatwave‐Ozone Pollution Compound Events and Independent Heatwave Events in the Yangtze River Delta",
+    "doi": "10.1029/2025jd045802",
+    "url": "https://doi.org/10.1029/2025jd045802",
+    "abstract": "Abstract Heat waves do not always coincide with ozone pollution, yet the mechanisms controlling their divergence remain insufficiently understood. Here, we investigate why some heat waves evolved into heatwave‐ozone pollution compound events (HWOP), whereas others remained isolated heat wave events (IHW), over the Yangtze River Delta during summer 2024. Using surface ozone observations and WRF‐CMAQ simulations, we identified HWOP and IHW events and examined their large‐scale circulation, lower‐tropospheric structure, and process‐level ozone tendencies. Both event types occurred under large‐scale warm anomalies associated with the westward extension of the Western Pacific Subtropical High and the eastward expansion of the South Asian High. Their ozone responses diverged, however, because of…",
+    "authors": "Jiaying Pan, Zhanning Huang, Huiling Ouyang, Xiaoyan Wang",
+    "published": "2026-05-30",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Scaling Laws for the Longitudinal Turbulent Heat Flux in the Atmospheric Surface Layer",
+    "doi": "10.1029/2025jd045705",
+    "url": "https://doi.org/10.1029/2025jd045705",
+    "abstract": "Abstract The longitudinal turbulent heat flux is central to the description of vertical momentum and energy transport in stratified atmospheric boundary layers, yet its scaling behavior with respect to thermal stratification remains uncertain in comparison to better‐studied quantities such as the vertical heat flux. Here, the scaling laws of the longitudinal heat flux and its co‐spectrum in the atmosphere close to the surface as a function of wall normal distance and thermal stratification are experimentally evaluated. Measurements were conducted under varying stability regimes ranging from unstable to slightly stable at two sites. The first experiment included five high‐temporal resolution (100 Hz) velocity and temperature sensors as well as a triaxial sonic anemometer all positioned with…",
+    "authors": "K. Y. Huang, R. Niraula, G. G. Katul",
+    "published": "2026-05-30",
+    "keywords_matched": [
+      "atmospheric boundary layer",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Advances in Atmospheric Sciences",
+    "title": "Role of the Northeast China Cold Vortex in Early-Summer Precipitation over Central and Northeast China",
+    "doi": "10.1007/s00376-025-5384-7",
+    "url": "https://doi.org/10.1007/s00376-025-5384-7",
+    "abstract": "",
+    "authors": "Zelun Cheng, Zuowei Xie, Cholaw Bueh, Zongting Gao",
+    "published": "2026-05-30",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "On the influence of free stream turbulence on roughness-induced boundary-layer transition",
     "doi": "10.1017/jfm.2026.11605",
