@@ -1,5 +1,17 @@
 [
   {
+    "journal": "Geoscientific Model Development",
+    "title": "Spatialize v1.0: a Python/C+ +  library  for ensemble spatial interpolation",
+    "doi": "10.5194/gmd-19-4633-2026",
+    "url": "https://doi.org/10.5194/gmd-19-4633-2026",
+    "abstract": "Abstract. In this paper, we present Spatialize, an open-source library that implements ensemble spatial interpolation, a novel method that combines the simplicity of basic interpolation methods with the power of classical geostatistical tools, like Kriging. It leverages the richness of stochastic modelling and ensemble learning, making it robust, scalable and suitable for large datasets. In addition, Spatialize provides a powerful framework for uncertainty quantification, offering both point estimates and empirical posterior distributions. It is implemented in Python 3.x, with a C++ core for improved performance, and is designed to be easy to use, requiring minimal user intervention. This library aims to bridge the gap between expert and non-expert users of geostatistics by providing autom…",
+    "authors": "Felipe Navarro, Alvaro F. Egaña, Alejandro Ehrenfeld, Felipe Garrido et al.",
+    "published": "2026-06-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Stratospheric Subtropical Transport Barriers in CESM1‐WACCM and Observations: Climatology, Variability, and Trends",
     "doi": "10.1029/2025jd045069",
