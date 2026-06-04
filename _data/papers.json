@@ -1,11 +1,71 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "First-order buoyancy correction of modal instabilities in stratified boundary layers",
+    "doi": "10.1017/jfm.2026.11653",
+    "url": "https://doi.org/10.1017/jfm.2026.11653",
+    "abstract": "We present a perturbation-based framework that captures buoyancy effects on modal instabilities in stratified boundary-layer flows within the fully compressible, non-Oberbeck–Boussinesq formulation. Treating the Richardson number as a small parameter and recasting the stability problem into an adjoint-residual form, we derive a first-order correction for the eigenvalues using only the neutrally buoyant eigenvalue problem. The framework applies to both ideal-gas and non-ideal fluid boundary layers and eliminates the need to re-solve the eigenvalue problem at each stratification level at minimal computational cost. For ideal-gas boundary layers, the framework accurately predicts how stable and unstable stratification modifies Tollmien–Schlichting waves, from growth rates and eigenfunctions t…",
+    "authors": "Pietro Carlo Boldini, Ryo Hirai, Benjamin Bugeat, Rene Pecnik",
+    "published": "2026-06-04",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "Applying corrective machine learning in the  E3SM atmosphere model in C+ +  (EAMxx)",
     "doi": "10.5194/gmd-19-4763-2026",
     "url": "https://doi.org/10.5194/gmd-19-4763-2026",
     "abstract": "Abstract. The Simple Cloud-Resolving E3SM Atmosphere Model (SCREAM) is the newest addition to the family of earth system models capable of explicitly resolving convective systems. SCREAM is a kilometer-scale configuration of the advanced E3SM Atmosphere Model (EAMxx), designed for heterogeneous computing architectures. While the enhanced accuracy of kilometer-scale modeling offers significant benefits, it comes with a substantial computational cost, limiting feasible simulation durations to only a few years to a few decades, even on the fastest supercomputers. Machine learning presents an opportunity for scientists to achieve the high accuracy of storm-resolving models at a significantly reduced cost. Building on the previous success of applying corrective machine learning (ML) to the FV3G…",
     "authors": "Aaron S. Donahue, Elynn Wu, W. Andre Perkins, Peter M. Caldwell et al.",
+    "published": "2026-06-03",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Dry Versus Humid Heat Seasonality and Drivers in the North American Monsoon Region",
+    "doi": "10.1029/2025jd045713",
+    "url": "https://doi.org/10.1029/2025jd045713",
+    "abstract": "Abstract The Southwest United States and northwestern Mexico are well‐known for their extreme dry heat, but these regions also experience humid heat extremes when the North American Monsoon (NAM) is active. Here, we investigate the distinct seasonality, dynamics, and drivers of dry versus humid heat in the NAM region. We find that the dry heat season can peak up to 38 days earlier than the humid heat season, with only 40%–60% overlap in the seasons on average in the core of the monsoon. Atmospheric ridges and reduced surface moisture are key drivers of extreme dry heat, consistent across space and time. In contrast, the regional dynamics of extreme humid heat are seasonally dependent. During the peak of the monsoon season, when ample moisture is available, extreme humid heat is driven by e…",
+    "authors": "Catherine C. Ivanovich, Benjamin I. Cook, Sonali McDermid",
+    "published": "2026-06-03",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Precursor of the Eurasian Atmospheric Teleconnection to the Spring Compound Hot‐Dry Event Over North China",
+    "doi": "10.1029/2025jd046127",
+    "url": "https://doi.org/10.1029/2025jd046127",
+    "abstract": "Abstract Under global warming, extreme hot and dry events occur more concurrently, forming compound hot‐dry event (CHDE) that poses a critical threat to agricultural activity. North China (NC), a major commodity grain‐producing region, is extensively cultivated with winter wheat. Since the peak water demand period for winter wheat occurs during April–May–June (AMJ), the crop is particularly vulnerable to CHDE, highlighting the importance of research on AMJ CHDE. Results in this study indicate a significant exacerbating trend in CHDE over the past six decades, primarily driven by the warming trend. Mechanism analysis reveals that an Eurasian pattern in AMJ, featured by an anomalous cyclone over the Barents‐Kara (BK) Sea and an anticyclone east of Lake Baikal, is responsible for intensifying…",
+    "authors": "Shui Yu, Jianqi Sun",
+    "published": "2026-06-03",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Extending MPAS‐NoahMP Model System Capability Beyond Weather Timescales: Evaluation of Hydroclimate and Land‐Atmosphere Interactions",
+    "doi": "10.1029/2025jd045334",
+    "url": "https://doi.org/10.1029/2025jd045334",
+    "abstract": "Abstract Subseasonal‐to‐seasonal (S2S) forecasts are critically important for anticipating socioeconomic impacts but remain a significant scientific challenge. Reliable forecasts beyond a 2‐week timeframe require both accurate initial conditions and realistic representations of coupled Earth system processes. In particular, the Earth's land surface provides a key source of predictability for S2S predictions through land‐atmosphere interactions. Here, we present a 25‐year global 60‐km simulation using the Model for Prediction Across Scales (MPAS) coupled to the Noah‐MP land surface model, forced with ERA‐5 sea surface temperature and sea ice boundary conditions. This study evaluates the model's climatology, systematic biases, and ability to represent land‐atmosphere interactions, all of whi…",
+    "authors": "Zhe Zhang, Cenlin He, Judith Berner, Abigail Jaye et al.",
+    "published": "2026-06-03",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "A unified Hapke-HSR + MARMIT-2 soil radiative transfer model for reflectance simulation under varying moisture conditions",
+    "doi": "10.5194/gmd-19-4775-2026",
+    "url": "https://doi.org/10.5194/gmd-19-4775-2026",
+    "abstract": "Abstract. Soil radiative transfer models (RTMs) provide a physical basis for interpreting surface reflectance and retrieving land-surface parameters. However, most existing soil RTMs represent either the spectral-directional scattering behavior of dry soils or the moisture-induced absorption effects of wet soils, and a physically consistent formulation capable of jointly describing both processes remains limited. In this study, we develop a unified soil RTM by refining the Hapke-based hyperspectral reflectance model (Hapke-HSR) using dry soil reflectance and dynamically coupling it with the improved multilayer RTM of soil reflectance (MARMIT-2). The proposed Hapke-HSR + MARMIT-2 model explicitly represents the interaction between particle scattering and moisture-dependent absorption and re…",
+    "authors": "Anxin Ding, Han Ma, Shunlin Liang, Ziti Jiao et al.",
     "published": "2026-06-03",
     "keywords_matched": [
       "ABL"
@@ -6083,66 +6143,6 @@
     "url": "https://doi.org/10.1063/5.0322697",
     "abstract": "During train operation, high-speed roof slipstreams exert strong shear on the airflow through the air-conditioning unit (ACU) condenser, reducing the condenser airflow rate. This decrease can trigger ACU overheating alarms or shutdowns, compromising both operational safety and passenger comfort. Conventional experimental techniques, however, struggle to accurately measure condenser airflow rate under such complex shear flow conditions. To overcome this limitation, we performed wind tunnel tests on a full-scale train ACU and developed a novel measurement strategy integrating particle image velocimetry, multiple field-of-view stitching, and airflow flux integral surface extraction. This approach enables, for the first time, reconstruction of the flow field in the ACU air-inlet region and yie…",
     "authors": "Yisong Liu, Fan Wu, Changlin Hu, Chao Yu et al.",
-    "published": "2026-03-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Hydrodynamic analysis of a multi-arc composite breakwater under wave action",
-    "doi": "10.1063/5.0320000",
-    "url": "https://doi.org/10.1063/5.0320000",
-    "abstract": "This study presents a theoretical model for wave scattering from a multi-arc breakwater—a structure of concentric, thin-walled, and bottom-mounted arcs. The arcs can be either impermeable or porous. Using linear potential flow theory, the model employs the eigenfunction matching method and the Galerkin method to solve the hydrodynamic problem. Following convergence analysis and validation against previous data, the solution provides the excitation forces on the arcs and the surrounding wave elevation. The theoretical results show that while effective at attenuating waves, the breakwater can induce complex circumferential and radial resonances typically associated with low and high frequencies, respectively, which is a critical consideration for engineering applications.",
-    "authors": "Siming Zheng, Zhenye Lu, Zhenfeng Zhai, Tiancong Zhao et al.",
-    "published": "2026-03-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Suppressing tip leakage vortex cavitation via squealer-hole composite tip",
-    "doi": "10.1063/5.0300915",
-    "url": "https://doi.org/10.1063/5.0300915",
-    "abstract": "Suppressing tip leakage vortex (TLV) cavitation in rotating machinery, such as propellers and turbines, plays a crucial role in reducing hydrodynamic noise, mitigating cavitation erosion, and enhancing operational stability. This study proposes a composite tip structure that integrates squealer rims with jet holes to suppress TLV cavitation in a synergistic manner. Large eddy simulation coupled with the Schnerr–Sauer cavitation model is employed to simulate TLV cavitating flow around the National Advisory Committee for Aeronautics 0009 hydrofoil. The results indicate that the squealer rim enlarges the tip separation vortex while reducing its intensity and inhibiting its migration toward the suction side. Meanwhile, the jet holes induce a reverse jet driven by the pressure difference betwee…",
-    "authors": "Yigan Zhang, Zehui Qu, Yonghao Ye, Baiyan He et al.",
-    "published": "2026-03-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Analysis of turbine endwall aerothermal performance under inlet non-uniform fields",
-    "doi": "10.1063/5.0315877",
-    "url": "https://doi.org/10.1063/5.0315877",
-    "abstract": "This study develops an advanced framework for analyzing aerothermal performance uncertainties in high-pressure turbine guide vanes under combustor-exit non-uniform conditions. To address computational challenges in high-dimensional flow field analysis, a reduced-order methodology integrating proper orthogonal decomposition with sparse polynomial chaos expansion is established, enabling efficient uncertainty quantification and sensitivity analysis from global performance to local flow structures. By enhancing parametric characterization methods for combustor-outlet fields—particularly through improved temperature field generation (combining radial temperature distribution function and hot spots) and pressure–velocity coupling algorithms—the proposed approach better captures real-engine ther…",
-    "authors": "Hongyang Zhang, Boyang Yu, Zhi Tao, BoLin Li et al.",
-    "published": "2026-03-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Hydroacoustic reduction mechanism for the bionic hydrofoil",
-    "doi": "10.1063/5.0311673",
-    "url": "https://doi.org/10.1063/5.0311673",
-    "abstract": "A bionic hydrofoil with the features of trailing-edge serrations, leading-edge wavy protuberances, and wavy surface was proposed for the radiation noise reduction. Large eddy simulations were conducted for the near-field unsteady turbulent flows at Reynolds number (Re) 1.0×105 and zero angle of attack to obtain the radiation noise sources. A Ffowcs Williams and Hawkings acoustic analogy was applied to the far-field sound calculations for two sets of bionic hydrofoils with different amplitudes and wavelengths of the wavy edge. The results show that the bionic hydrofoil effectively reduces its drag, the maximum drag reduction reaches 18.15% and the smallest mean drag exists at the medium amplitude or wavelength. The bionic hydrofoil also effectively reduces the turbulent radiation noise; the…",
-    "authors": "Linfeng Chen, Xianglu Jia, Peng Xu, Dongyang Chen et al.",
-    "published": "2026-03-01",
-    "keywords_matched": [
-      "drag reduction"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Super-harmonically resonant single-crest and double-crest sloshing in the vertical cylindrical container",
-    "doi": "10.1063/5.0319654",
-    "url": "https://doi.org/10.1063/5.0319654",
-    "abstract": "The dynamics of superharmonic resonant sloshing in a vertical cylindrical container are experimentally investigated. The container is first driven by longitudinal driving at a frequency near ω11/3. Three types of superharmonic single-crest wave regimes, i.e., stable planar, stable swirling, and irregular, are observed. Both the wave patterns and the corresponding frequency domains of planar and swirling at superharmonic resonance are similar to those at the primary harmonic resonance. However, the evolution of the irregular wave at the superharmonic resonance is considerably more complex than that at the primary harmonic resonance, because the superharmonic irregular sloshing involves six movement directions: longitudinal, transverse, counterclockwise, clockwise, and two diagonal direction…",
-    "authors": "Dongxi Liu, Hui Zhu, Xia Zhang, Jin Wang",
     "published": "2026-03-01",
     "keywords_matched": [
       "ABL"
