@@ -12,6 +12,44 @@
     ]
   },
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "The role of the law of the wall in cross-scenario generalisation of data-driven models",
+    "doi": "10.1017/jfm.2026.11647",
+    "url": "https://doi.org/10.1017/jfm.2026.11647",
+    "abstract": "An objective of turbulence model calibration or recalibration is to train a model on one flow and achieve improved performance across a broad class of flows that share similar underlying physics. Such cross-scenario generalisation remains a major challenge in data-driven turbulence modelling. Existing considerations – such as model-consistent training and Galilean invariance – have enabled only scenario-specific generalisation to cases resembling the training dataset. In this work, we demonstrate that preserving the law of the wall (LoW) enables the expected transfer of the learned physics from the training flow to a target flow that shares relevant physics with the training flow. We adopt the field inversion and machine learning (FIML) framework, using the one-equation Spalart–Allmaras (S…",
+    "authors": "Jiaqi Li, Robert Francis Kunz, George Huang, Xiang I.A. Yang",
+    "published": "2026-06-04",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Stability of liquid-metal mixed convection in a horizontal pipe under a strong magnetic field and the effects of wall conductivity",
+    "doi": "10.1017/jfm.2026.11641",
+    "url": "https://doi.org/10.1017/jfm.2026.11641",
+    "abstract": "Liquid-metal flow in a horizontal pipe with an electrically insulating wall, subject to a transverse magnetic field and bottom heating, can undergo a buoyancy dominated instability in the turbulence-suppressing magnetic-field regime. In this paper, we explore whether this instability persists under a stronger magnetic field and study the effects of small thin-wall electric conductance on the instability as well. The unstable region in the Hartmann number ( ${\\textit{Ha}}$ )–Grashof number ( ${\\textit{Gr}}$ ) plane is determined for Reynolds number ${\\textit{Re}} =9046$ and Prandtl number $Pr=0.022$ . First, we extended ${\\textit{Ha}}=O(10^2)$ of former studies up to ${\\textit{Ha}}=2\\times 10^4$ and found that, in the ${\\textit{Gr}}$ range investigated (up to $1\\times 10^9$ ), there does ex…",
+    "authors": "Ruiwei Xing, Guangkun Chu, Yaohong Wang, Baofang Song",
+    "published": "2026-06-04",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Large Eddy Simulations of the Atmospheric Boundary Layer Over Satellite‐Sensed Sea Ice Maps",
+    "doi": "10.1029/2024jd042062",
+    "url": "https://doi.org/10.1029/2024jd042062",
+    "abstract": "Abstract Surface heterogeneity in the marginal ice zone (MIZ) causes multiscale secondary atmospheric circulations that are challenging to model or observe. The absence or inadequate representation of these circulations in ocean‐atmosphere exchange schemes in climate models is partially responsible for the underestimation of Arctic sea ice loss. Observationally, such circulations obfuscate the interpretation of polar atmospheric chemistry measurements, among others. To address this open challenge, large‐eddy simulations are conducted over real‐world satellite‐sensed sea ice maps with an ice‐sea temperature contrast, as well as over idealizations of these maps that alter the ice pattern but conserve its fraction, showing that the ice fraction of a surface is not sufficient to predict the su…",
+    "authors": "Joseph Fogarty, Mitchell Bushuk, Marc Calaf, Mohammad Allouche et al.",
+    "published": "2026-06-04",
+    "keywords_matched": [
+      "atmospheric boundary layer"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "Applying corrective machine learning in the  E3SM atmosphere model in C+ +  (EAMxx)",
     "doi": "10.5194/gmd-19-4763-2026",
@@ -719,6 +757,130 @@
     "url": "https://doi.org/10.1063/5.0321695",
     "abstract": "The rapid and accurate prediction of surface pressure distributions on variable-sweep aircraft remains a significant challenge, particularly during the transient morphing process. This paper presents a novel hybrid deep-learning framework to address this issue by synergistically integrating a convolutional autoencoder (CAE), a multilayer perceptron (MLP), and a long short-term memory (LSTM) network. The core of our methodology is a dimensionality reduction via a CAE, which non-linearly compresses high-dimensional (384 × 128) surface pressure fields into a 12-dimensional latent space, achieving a 4096:1 compression ratio with a reconstruction mean squared error (MSE) of 3.5074 × 10−5. Subsequently, the prediction task is decomposed: an MLP network accurately maps flight parameters to latent…",
     "authors": "Dongqiang Xu, Yanping Song, Fu Chen, Jianyang Yu",
+    "published": "2026-06-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Effects of sinusoidal gust on the flow structure and reattachment characteristics of two tandem 5:1 rectangular cylinders",
+    "doi": "10.1063/5.0316762",
+    "url": "https://doi.org/10.1063/5.0316762",
+    "abstract": "This study employs three-dimensional large eddy simulation to investigate the effect of sinusoidal-gust amplitude (AR) on the flow structure around two tandem 5:1 rectangular cylinders. The simulations are conducted at a Reynolds number of Re = 20 000, with gap widths of G = 2D, 6D, and 10D (where D is the cylinder height) and gust amplitudes AR ranging from 0.05 to 0.30. The results reveal that the flow fields are sensitive to AR. An increase in AR promotes the flow pattern transition from either reattachment (at G = 2D) or coshedding pattern (at G = 6D and 10D) to a more unstable state, accompanied by a breakdown of stable two-dimensional vorticity structure into significant spanwise deformation. The surface flow exhibits drastic changes in the recirculation bubbles. For the upstream cyl…",
+    "authors": "Peiyuan Wang, Shaowei Wang, Yongfei Zhao, Hao Liu et al.",
+    "published": "2026-06-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Conjugate heat transfer analyses via a lattice Boltzmann method solver for time-periodic flows over a conductive square cylinder confined in a channel",
+    "doi": "10.1063/5.0271033",
+    "url": "https://doi.org/10.1063/5.0271033",
+    "abstract": "In this study, we perform conjugate heat transfer analyses for time-periodic laminar flows over a conductive square cylinder enclosed in a straight channel. In computations, we utilize our in-house graphics processing unit-based lattice Boltzmann method solver to model mass transfer throughout the channel as well as heat transfer within the cylinder and the channel in coupled manner. We obtain computational results for the problem by varying Reynolds number, solid to fluid conductivity ratio, and Prandtl number systematically, and thereby assess the influence of these parameters on temperature uniformity within the cylinder and heat transfer from the surfaces of the cylinder. We also evaluate the overall thermal performance of the system by calculating the Biot number. Our results reveal t…",
+    "authors": "Aanif Hussain, Bayram Celik",
+    "published": "2026-06-01",
+    "keywords_matched": [
+      "lattice boltzmann method",
+      "lattice boltzmann",
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Modeling red blood cell deformation under high shear and extensional stresses",
+    "doi": "10.1063/5.0331619",
+    "url": "https://doi.org/10.1063/5.0331619",
+    "abstract": "Studying red blood cells (RBCs) under high-stress conditions is essential for understanding their mechanical response and the onset of sub-hemolytic damage. In this work, we present a comprehensive computational investigation of RBC behavior under high shear and extensional flow conditions. We begin with a systematic evaluation of RBC membrane models through a series of mechanical tests to identify formulations capable of capturing large deformations. Both one-component and two-component models are then employed to simulate RBC dynamics in pure shear flow and hyperbolic nozzle configurations, with results validated against experimental measurements of cell deformation. The developed framework demonstrates strong quantitative and qualitative agreement with experimental observations across a…",
+    "authors": "Mojtaba Amir Aslan Pour, Wenbin Mao",
+    "published": "2026-06-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Effects of Karlovitz number on super-adiabatic temperature and burning rate in lean hydrogen-air turbulent flames",
+    "doi": "10.1063/5.0331575",
+    "url": "https://doi.org/10.1063/5.0331575",
+    "abstract": "Analyzed in the paper are previously published and newly generated three-dimensional direct numerical simulation data obtained from statistically planar and one-dimensional, lean complex-chemistry H2-air flames propagating in a box with forced turbulence. Under the study conditions, root-mean-square turbulent velocity is varied from 2.2 to 54 laminar flame speeds SL, integral length scale of turbulence is varied from 0.5 to 2.25 laminar flame thicknesses, Damköhler and Karlovitz numbers are varied from 0.01 to 0.53 and from 10 to 1315, respectively. Two equivalence ratios, 0.5 and 0.35, are explored. Turbulent burning velocities are evaluated not only for these eight low Lewis number flames, but also for equidiffusive counterparts to them. Analyses of these burning velocities and condition…",
+    "authors": "Xuefeng Guan, Hsu Chew Lee, Peng Dai, Minping Wan et al.",
+    "published": "2026-06-01",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Geometric-scale-induced distortion of cavity and multiphase flow structures during water entry",
+    "doi": "10.1063/5.0338080",
+    "url": "https://doi.org/10.1063/5.0338080",
+    "abstract": "Cavity formation during water entry fundamentally governs the organization of surrounding multiphase flow structures. However, geometric scaling can introduce significant distortion in cavity morphology and flow field, challenging the assumption of hydrodynamic similarity. This study numerically investigates the scale-dependent distortion of cavity dynamics and associated flow structures for geometrically scaled bodies. These results demonstrate that cavity-dominated multiphase flows are highly sensitive to geometric scaling, leading to systematic distortion in the flow field and turbulence structure. Although global kinematic features remain comparable, reduced-scale models exhibit intensified local velocity gradients, enhanced viscous dominance, weakened turbulence diffusion, and acceler…",
+    "authors": "Guang Pan, Yilan Yu, Qiaogao Huang, Yao Shi",
+    "published": "2026-06-01",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Vortex-induced vibration response of flexible riser subjected to platform surge motion",
+    "doi": "10.1063/5.0328804",
+    "url": "https://doi.org/10.1063/5.0328804",
+    "abstract": "This paper numerically investigates the vortex-induced vibration of flexible risers subjected to surge motion of floating platforms. The dynamic boundary condition associated with this degree of freedom is transformed into a superimposed flow composed of shear flow and sheared oscillatory flow. The effects of oscillation frequency and velocity ratio of the equivalent superimposed flow on riser vibration characteristics are examined across different Keulegan–Carpenter number ranges. Numerical results show that increasing the oscillation frequency of the superimposed flow strengthens the dominance of the dominant vibration mode, whereas increasing the velocity ratio enhances the contribution of higher-order modes. The vortex shedding mode at each riser section varies periodically, resulting …",
+    "authors": "Zhanlong Chen, Niannian Liu, Yuxiang Peng, Pengnan Sun et al.",
+    "published": "2026-06-01",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Spectral analysis of Brownian motion with its rheological analogues",
+    "doi": "10.1063/5.0325827",
+    "url": "https://doi.org/10.1063/5.0325827",
+    "abstract": "The power spectrum of the Brownian motion of probe microparticles with mass m and radius R immersed in a viscoelastic material reveals valuable information about repetitive patterns and correlation structures that manifest in the frequency domain. In this paper, we employ a viscous–viscoelastic correspondence principle for Brownian motion and we show that the power spectrum (power spectral density) of Brownian motion in any linear, isotropic viscoelastic material is proportional to the real part of the complex dynamic fluidity (complex mobility) of a linear rheological network that is a parallel connection of the linear viscoelastic material within which the Brownian particles are immersed and an inerter, with distributed inertance mR=m6πR. The synthesis of this deterministic rheological a…",
+    "authors": "Nicos Makris",
+    "published": "2026-06-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "TripNet: Learning large-scale high-fidelity three-dimensional car aerodynamics with triplane networks",
+    "doi": "10.1063/5.0324695",
+    "url": "https://doi.org/10.1063/5.0324695",
+    "abstract": "Surrogate modeling has become a powerful approach for accelerating computational fluid dynamics (CFD) simulations, yet existing three-dimensional (3D) geometric learning models–based on meshes, point clouds, or voxels–remain fundamentally limited by resolution, memory cost, and dependence on explicit geometric discretizations. We introduce TripNet, a triplane-based neural framework that encodes 3D geometry into a compact, continuous, resolution-independent representation. Unlike traditional mesh-dependent models, TripNet supports query-based predictions at arbitrary spatial locations, enabling high-fidelity aerodynamic field estimation without relying on mesh connectivity or downsampled geometry. TripNet achieves state-of-the-art performance on the DrivAerNet and DrivAerNet++ datasets acro…",
+    "authors": "Qian Chen, Mohamed Elrefaie, Angela Dai, Faez Ahmed",
+    "published": "2026-06-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Self-scaling tensor basis neural network for Reynolds stress modeling of wall-bounded turbulence",
+    "doi": "10.1063/5.0331514",
+    "url": "https://doi.org/10.1063/5.0331514",
+    "abstract": "Recent advances in data-driven turbulence modeling have established tensor basis neural networks (TBNNs) as a physically grounded framework for Reynolds-stress closure in Reynolds-averaged Navier–Stokes (RANS) simulations. However, their robustness in wall-bounded turbulent flows remains limited across Reynolds numbers and geometries due to the lack of an intrinsic scaling mechanism. In this work, we propose a self-scaling tensor basis neural network (STBNN) for Reynolds-stress modeling of wall-bounded turbulence. The model uses the first two invariants of the velocity-gradient tensor to scale the tensor basis, providing an intrinsic and geometry-independent scale that balances strain and rotation effects without relying on empirical coefficients or wall-distance inputs. Owing to its frame…",
+    "authors": "Zelong Yuan, Yuzhu Pearl Li",
+    "published": "2026-06-01",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Energy conversion efficiency in electro-hydrodynamic transport of viscoelastic fluids through hydrophobic surfaces in soft nanofluidic channels",
+    "doi": "10.1063/5.0326991",
+    "url": "https://doi.org/10.1063/5.0326991",
+    "abstract": "The present article deals with the electro-hydrodynamic energy conversion efficiencies of a viscoelastic fluid through a charge-dependent hydrophobic surface in a soft nano-fluidic channel under combined effects of an applied harmonic pressure gradient and a uniform heat flux boundary. The ion partitioning effect appears due to the dissimilarity in the dielectric constant between the electrolyte and the polyelectrolyte layer (PEL) region, which influences the reshaping of ion distribution by integrating the Born energy. Using the induced potential distribution for the situation of low surface charge density, analytical expressions for the streaming potential and corresponding energy conversion efficiency are established in this study. The semi-analytic solution for the temperature distribu…",
+    "authors": "Udeshna Bhattacharya, Subrata Bera",
     "published": "2026-06-01",
     "keywords_matched": [
       "ABL"
@@ -5982,168 +6144,6 @@
     "abstract": "Abstract. We demonstrate that the proportionality between a deposition flux and a corresponding concentration usually does not hold for ambient aerosol. Therefore the deposition velocity Vd, defined as the proportionality coefficient, while might exist for some components of the aerosol, is not applicable to aerosol as a bulk substance or to a size mode of it. Insufficient attention to the proportionality requirement leads to large discrepancies between field and wind-tunnel measurements of Vd of aerosols with aerodynamic diameters ranging from approximately 0.1 to 2 µm. In seemingly similar conditions, the deposition velocities reported in different experiments may differ by up to two orders of magnitude, with field measurements showing much higher values than experiments performed in con…",
     "authors": "Rostislav Kouznetsov, Mikhail Sofiev, Andreas Uppstu, Risto Hänninen",
     "published": "2026-03-04",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "State-dependent convergence of Galerkin-based reduced-order models for Couette flow",
-    "doi": "10.1017/jfm.2026.11263",
-    "url": "https://doi.org/10.1017/jfm.2026.11263",
-    "abstract": "In this study, we explore the effect of basis functions on the performance and convergence of the Galerkin projection-based reduced-order model (ROM) in the minimal flow unit of Couette flow. POD (proper orthogonal decomposition) modes obtained from direct numerical simulation, and controllability and balanced truncation modes from the linearised Navier–Stokes equations (LNSEs) with different base flows (laminar base flow and turbulent mean flow) and an eddy viscosity model are considered. In the neighbourhood of the laminar base state, the ROMs based on the modes from the LNSEs with the laminar base flow and molecular viscosity are found to perform very well as they are able to capture the linear stability of the laminar base flow for each plane Fourier component only with a single degree…",
-    "authors": "Zilin Zong, Igor Albuquerque Maia, André Cavalieri, Yongyun Hwang",
-    "published": "2026-03-03",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Conditional diffusion models for downscaling and bias  correction of Earth system model precipitation",
-    "doi": "10.5194/gmd-19-1791-2026",
-    "url": "https://doi.org/10.5194/gmd-19-1791-2026",
-    "abstract": "Abstract. Climate change exacerbates extreme weather events like heavy rainfall and flooding. As these events cause severe socioeconomic damage, accurate high-resolution simulation of precipitation is imperative. However, existing Earth System Models (ESMs) struggle to resolve small-scale dynamics and suffer from biases. Traditional statistical bias correction and downscaling methods fall short in improving spatial structure, while recent deep learning methods lack controllability and suffer from unstable training. Here, we propose a machine learning framework for simultaneous bias correction and downscaling. We first map observational and ESM data to a shared embedding space, where both are unbiased towards each other, and then train a conditional diffusion model to reverse the mapping. O…",
-    "authors": "Michael Aich, Philipp Hess, Baoxiang Pan, Sebastian Bathiany et al.",
-    "published": "2026-03-03",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Implementation of a sigma coordinate system in  PALM-Sigma v1.0 (based on PALM v21.10) for LES  study of the marine atmospheric boundary layer",
-    "doi": "10.5194/gmd-19-1769-2026",
-    "url": "https://doi.org/10.5194/gmd-19-1769-2026",
-    "abstract": "Abstract. In large-eddy simulation studies of the marine atmospheric boundary layer, wind-wave interactions are often oversimplified using wall-stress models parameterized by roughness length, overlooking the complex coupling dynamics, especially under wind-wave non-equilibrium states. Here, we develop a wave-phase-resolved solver that employs a surface-following sigma coordinate system to explicitly resolve evolving wave geometry. Simulations under low-wind conditions with different wave regimes reproduce characteristic features of wave-driven winds reported in previous studies. Notably, the results show that wave-induced form stress significantly modulates vertical momentum flux, with effects extending well beyond the wave boundary layer. Built on PALM’s framework, the solver can be seam…",
-    "authors": "Xu Ning, Mostafa Bakhoday-Paskyabi",
-    "published": "2026-03-03",
-    "keywords_matched": [
-      "atmospheric boundary layer",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Bursting of large soap films: steady soluble aureole",
-    "doi": "10.1017/jfm.2026.11230",
-    "url": "https://doi.org/10.1017/jfm.2026.11230",
-    "abstract": "While studying soap film bursting to validate their opening velocity, i.e. the Taylor–Culick velocity, Mysels and co-workers discovered fifty years ago a compression region propagating in front of the hole that they called the aureole. In the wake of such a discovery, a series of papers ‘Bursting of soap films’ focused on the study of such peculiar Marangoni flow resulting from the rapid surfactant compression. Their pioneering theory postulates that surfactants remain insoluble at the interface, leading to a self-similar process that has been verified on small films. In the present study, by using films large enough to allow the surfactant to relax, we reveal a previously unexplored regime of aureole development. The surfactants forming the aureole initially behave as if they were insolub…",
-    "authors": "Alexandre Guillemot, Juliette Pierre, Adrien Bussonnière",
-    "published": "2026-03-02",
-    "keywords_matched": [
-      "wake"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Liquid mixing and sculpting using light-actuated photosurfactants",
-    "doi": "10.1017/jfm.2026.11264",
-    "url": "https://doi.org/10.1017/jfm.2026.11264",
-    "abstract": "This study utilises chromocapillary stresses induced by light-actuated photosurfactants to demonstrate theoretically that a stable uniform liquid layer wetting a substrate can be sculpted and stirred on the microscale. A mathematical model is presented for two photosurfactant species that can switch from trans to cis states. Switching takes place in the bulk and on the interface, and convection–diffusion–reaction equations describe the local concentrations there. Under uniform light illumination (e.g. blue light) the equilibrium concentrations of trans and cis are non-uniform with layer depth, and a quiescent state with a flat interface exists. A non-uniform light intensity along the layer is superimposed to drive the system out of equilibrium, and induce interfacial deformations and flow …",
-    "authors": "Michael Delaney Mayer, Niall Oswald, Demetrios T. Papageorgiou",
-    "published": "2026-03-02",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "A spatio-temporal random synthetic turbulent velocity field: The underlying Gaussian structure",
-    "doi": "10.1017/jfm.2026.11261",
-    "url": "https://doi.org/10.1017/jfm.2026.11261",
-    "abstract": "We develop, simulate and extend an initial proposition by Chaves et al. ( J. Stat. Phys. , vol. 113, no. 5-6, 2003, pp. 643–692) concerning a random incompressible vector field able to reproduce key ingredients of three-dimensional turbulence in both space and time. In this paper we focus on the important underlying Gaussian framework. Presently, the statistical spatial structure of this velocity field is consistent with a divergence-free fractional Gaussian vector field that encodes all known properties of homogeneous and isotropic fluid turbulence at a given finite Reynolds number, up to second-order statistics. The temporal structure of the velocity field is introduced through a stochastic evolution of the respective Fourier modes. In the simplest picture, Fourier modes evolve according…",
-    "authors": "Matthieu Chatelain, Júlia Domingues Lemos, Wandrille Ruffenach, Mickael Bourgoin et al.",
-    "published": "2026-03-02",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Rainfall and Rain‐on‐Snow Events Over Greenland in Summer: Climatology, Trends, Synoptics",
-    "doi": "10.1029/2025jd044726",
-    "url": "https://doi.org/10.1029/2025jd044726",
-    "abstract": "Abstract Rain‐on‐snow (ROS) events in the Arctic can lead to major impacts on the snow cover, cryosphere and environment. During the last decades, these events have significantly increased, mostly due to climate change. Here, we use outputs from the regional climate model MAR (version 3.14) driven by the ERA5 reanalysis at 10‐km resolution over Greenland, in the period 1940–2023. MAR is used to simulate the climatological properties of summertime ROS events over Greenland, and their long‐term changes over the period. The analyses also focused on the years after 1979, when reanalyses are more reliable. We found that both the spatial extension, the frequency, and rainfall amounts associated with ROS events all strongly increased, especially along the West and East coasts of Greenland. These …",
-    "authors": "Emilie Frame, Benjamin Pohl, Charles Amory, Xavier Fettweis et al.",
-    "published": "2026-03-02",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Experimental and theoretical studies of after flow load effects on the hull girder damage in underwater explosion",
-    "doi": "10.1063/5.0316977",
-    "url": "https://doi.org/10.1063/5.0316977",
-    "abstract": "The after flow induced by underwater explosion (UNDEX) plays an important role on the damage of ship structures, particularly in the near-field explosion. In this paper, the damage experiments of the hull girder were conducted at detonation distances of R/R0 = 6, 10, and 17, and a dynamic model was established to study the hull girder deformation considering the after flow. It shows that the numerical simulations have a good agreement with the experimental results of the hull girder deformation, which increases nonlinearly as the distance decreases due to the contribution of the after flow to the nonlinear growth of structural damage. It further demonstrates that the after flow has the most pronounced influence on the overall deformation at the closest distance (R/R0 = 6), with the after f…",
-    "authors": "Yan-jie Qi, Han-cheng Wang, Jun-jie Jiao, Sheng-jie Ci et al.",
-    "published": "2026-03-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Aeroacoustic analysis of a wavy rectangular cylinder",
-    "doi": "10.1063/5.0306698",
-    "url": "https://doi.org/10.1063/5.0306698",
-    "abstract": "Flow past rectangular cylinders generates complex wake structures, leading to substantial aerodynamic drag and far-field noise, and poses challenges in applications in a wide range of engineering and transportation systems. This study investigates the effects of spanwise wavy corrugations on the aerodynamic and aeroacoustic performance of rectangular cylinders through numerical simulations at a Reynolds number of ReD=2.2×104. Compared with a baseline straight rectangular cylinder, the wavy configuration alters shear-layer evolution, delays the onset of vortex shedding, and redistributes vortical structures in the near wake, resulting in reduced coherence of aerodynamic force fluctuations and enhanced aerodynamic efficiency. These flow modifications also result in pronounced reductions in f…",
-    "authors": "Jiyu Pan, Yuhan Zhao, Jia Yan, Peifen Weng et al.",
-    "published": "2026-03-01",
-    "keywords_matched": [
-      "wake",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Electrospray cooling dynamics: Impact of spray mode transitions and flow rates on heat transfer regimes",
-    "doi": "10.1063/5.0320769",
-    "url": "https://doi.org/10.1063/5.0320769",
-    "abstract": "This study investigates the electrohydrodynamic (EHD) spray cooling performance of eco-friendly solvents, specifically distilled water and ethanol, across a wide flow rate range of 50–500 ml/h. We demonstrate that the transition from dripping to electro-dripping and stable cone-jet regimes imparts sufficient momentum to charged droplets to penetrate the insulating vapor layer, which effectively suppresses the Leidenfrost effect at high temperatures. To evaluate cooling performance, we systematically compare the heat flux (q), convective heat transfer coefficient (h), enhancement ratio, Nusselt number (Nu), and cooling efficiency (η) as functions of the fluid properties and spray modes. Our results indicate that the EHD-induced droplet acceleration disrupts the thermal boundary layer, signi…",
-    "authors": "Ji Yeop Kim, Seung Hyun Choi, Jung Goo Hong",
-    "published": "2026-03-01",
-    "keywords_matched": [
-      "ABL",
-      "heat transfer"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Rotating Rayleigh–Taylor instability in viscous, elastic, and viscoelastic media",
-    "doi": "10.1063/5.0321096",
-    "url": "https://doi.org/10.1063/5.0321096",
-    "abstract": "This study investigates the linear stability of the Rayleigh–Taylor instability in viscous fluids, elastic solids, and viscoelastic media (Maxwell fluids and Kelvin–Voigt solids) subject to rotation with the axis perpendicular to gravity. By establishing a unified dispersion relation, we theoretically demonstrate that rotation serves as a universal stabilizing mechanism across all considered rheological models, fundamentally altering the instability from a purely growing mode to an oscillatory traveling-wave mode. In viscous fluids, the Coriolis force monotonically suppresses the peak growth rate and shifts the dominant instability toward shorter wavelengths, although the dynamics remain governed by viscous mechanisms. In elastic solids, rotation compresses the unstable wavenumber bandwidt…",
-    "authors": "Renhao Zeng, Qiuyin Wang, Senlin Zhu, Yuanbo Sun",
-    "published": "2026-03-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Wake field characteristics of a toroidal propeller under different advance coefficients",
-    "doi": "10.1063/5.0325900",
-    "url": "https://doi.org/10.1063/5.0325900",
-    "abstract": "This study employs Improved Delayed Detached Eddy Simulation to investigate the open-water wake characteristics of a novel toroidal propeller. Following validation against cavitation tunnel data, numerical simulations were conducted at advance coefficients of J = 0.4, 0.8, and 1.2 to analyze the wake field, focusing on vortex evolution and topology. Dynamic Mode Decomposition was subsequently applied to extract coherent spatiotemporal modes from the downstream flow. The results reveal that the closed-loop tip induces strong shear, generating symmetric alternating high- and low-velocity axial streaks at the slipstream boundary. Notably, the tip vortex manifests as a distinct double-layer anti-phase pulsation at the Blade Passage Frequency. As the advance coefficient increases, the hydrodyna…",
-    "authors": "Shun Liu, Liyu Ye, Wei Zhao, Yun Long et al.",
-    "published": "2026-03-01",
-    "keywords_matched": [
-      "wake",
-      "ABL",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Measurement of condenser airflow rate under train-induced shear flow using particle image velocimetry",
-    "doi": "10.1063/5.0322697",
-    "url": "https://doi.org/10.1063/5.0322697",
-    "abstract": "During train operation, high-speed roof slipstreams exert strong shear on the airflow through the air-conditioning unit (ACU) condenser, reducing the condenser airflow rate. This decrease can trigger ACU overheating alarms or shutdowns, compromising both operational safety and passenger comfort. Conventional experimental techniques, however, struggle to accurately measure condenser airflow rate under such complex shear flow conditions. To overcome this limitation, we performed wind tunnel tests on a full-scale train ACU and developed a novel measurement strategy integrating particle image velocimetry, multiple field-of-view stitching, and airflow flux integral surface extraction. This approach enables, for the first time, reconstruction of the flow field in the ACU air-inlet region and yie…",
-    "authors": "Yisong Liu, Fan Wu, Changlin Hu, Chao Yu et al.",
-    "published": "2026-03-01",
     "keywords_matched": [
       "ABL"
     ]
