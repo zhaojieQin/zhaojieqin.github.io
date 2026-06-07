@@ -1,5 +1,29 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Differential Synoptic Circulation Forcing of Land and Coastal Heatwaves",
+    "doi": "10.1029/2026jd046358",
+    "url": "https://doi.org/10.1029/2026jd046358",
+    "abstract": "Abstract Global warming has intensified heatwaves worldwide, yet their dependence on synoptic circulation remains poorly understood. Here, we identify land and coastal heatwaves during 1959–2023 using a Three‐Dimensional Connected Detection Algorithm, and classify their associated circulation patterns through an integrated EOF‐Kmeans method. We find that heatwave types are strongly associated with the position of anticyclones: coastal heatwaves occur when anticyclones are positioned across the boundary between land and ocean, while land heatwaves prevail when anticyclones are centered over continents. Under global warming, synoptic circulation patterns favorable for heatwave formation are amplified, while those suppressing heatwaves are weakened. Temperature decomposition further reveals t…",
+    "authors": "Boyuan Zhang, Yongli He, Nan Lei, Xiaodan Guan",
+    "published": "2026-06-06",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Large‐Scale Moisture Circulation Index Related to Socioeconomic Drought and Its Subseasonal Forecast Skill in the Asian Monsoon Rainy Season",
+    "doi": "10.1029/2025jd045718",
+    "url": "https://doi.org/10.1029/2025jd045718",
+    "abstract": "Abstract Socioeconomic drought, which occurs when water demand exceeds available supply and often leads to water withdrawal restrictions, affects water resource management. However, the relationship between large‐scale moisture circulation and the occurrence of socioeconomic drought has not been well understood. In this study, we focused on the Yoshino River Basin in Japan, where water withdrawal restrictions occur during the rainy season. We showed that the occurrence of socioeconomic drought is strongly associated with a prolonged deficit in large‐scale meridional moisture transport related to the Asian monsoon. Using 11 historical water withdrawal restriction events from 1987 to 2019, lead–lag composite analysis revealed that the meridional component of vertically integrated vapor trans…",
+    "authors": "Yuta Tamaki, Noriko N. Ishizaki",
+    "published": "2026-06-06",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Tuneable rheology of suspensions of self-aligning particles",
     "doi": "10.1017/jfm.2026.11532",
@@ -6118,30 +6142,6 @@
     "abstract": "Abstract. Knowledge about spatially distributed inundation depth and overland flow quantities, as well as related flow velocities, is critical information for establishing a pluvial flood forecasting system and the related disaster management. This kind of information is often derived from computationally demanding simulations with 2-dimensional hydrodynamic models, limiting the number of scenarios for which information can be provided and challenging real-time forecasting. To address this gap, we developed the model AccRo (Accumulation-based Runoff and Flooding), which is a computationally efficient method to derive maximum inundation depth, maximum flow velocity and maximum specific discharge of a flood event at larger spatial scales, based on an improved flow accumulation method to bett…",
     "authors": "Hannes Leistert, Andreas Hänsler, Max Schmit, Andreas Steinbrich et al.",
     "published": "2026-03-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Direct numerical simulations of channel flow with a molecular-dynamics-informed wall slip boundary condition",
-    "doi": "10.1017/jfm.2026.11309",
-    "url": "https://doi.org/10.1017/jfm.2026.11309",
-    "abstract": "Recent molecular-level simulations suggest that slip at solid–liquid interfaces can depend on shear. This work integrates molecular dynamics (MD) and direct numerical simulations (DNS) to quantify how shear-dependent slip modifies near-wall turbulence in wall-bounded flows. The MD is used to characterise how the slip length depends on wall shear stress across a range of solid–liquid affinities, revealing a threshold-like, bimodal response: the slip length is approximately constant at low and high stresses, with a sharp transition near a slip-activation threshold. This MD-derived relation is then implemented as a wall boundary condition in DNS of turbulent channel flow at friction Reynolds numbers 180, 400 and 1000, using five threshold values to represent different interfacial affinities. …",
-    "authors": "Abdul Aziz Shuvo, Bladimir Ramos Alvarado, Xiang I.A. Yang",
-    "published": "2026-03-09",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "The instability of precession-driven flows in a stably stratified spherical shell",
-    "doi": "10.1017/jfm.2026.11289",
-    "url": "https://doi.org/10.1017/jfm.2026.11289",
-    "abstract": "We investigate the instability of precession-driven flows in a stably stratified and rotating spherical shell using direct numerical simulations. Our results show that stable stratification can make precessional flows more unstable compared with the neutrally stratified fluid, when the Brunt–Väisälä frequency in the bulk is comparable to the rotation frequency. The instability arises from triadic resonances between the basic precessional flow and a pair of gravito-inertial waves. The excitation of gravito-inertial waves facilitates the angular momentum transport in the fluid interior, resulting in prominent differential rotation in stably stratified precessing fluids. Our numerical simulations suggest that mechanical forcings, such as precession, are possible to sustain complex flows and l…",
-    "authors": "Rui Cheng, Wei Fan, Yufeng Lin",
-    "published": "2026-03-09",
     "keywords_matched": [
       "ABL"
     ]
