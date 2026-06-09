@@ -1,5 +1,54 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Simulations of a hypersonic turbulent boundary layer over wavy surfaces",
+    "doi": "10.1017/jfm.2026.11652",
+    "url": "https://doi.org/10.1017/jfm.2026.11652",
+    "abstract": "We conduct large-eddy simulations of a Mach 5.84 cold wall turbulent boundary layer over one-dimensional wavy walls with varying amplitudes and wavelengths. Across all wall topologies, a series of alternating shock and expansion waves is shown to influence the entire boundary layer, and generate repeating wave patterns in the turbulent stresses, dispersive stresses, and turbulent kinetic energy budget. The series of alternating shocks and expansions imposes repeating adverse and favourable pressure gradients across the wavy wall, and at sufficient wall amplitude, triggers flow separation in the trough of the wave. Flow separation is demonstrated to influence the behaviour of wall pressure fluctuations over the wavy wall. In attached flows, the prominent frequencies are consistent with inte…",
+    "authors": "Cory Stack, Hannah Stroud, Jaideep Ray, Matthew Barone",
+    "published": "2026-06-09",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Progressive mixture-of-experts with autoencoder routing for continual RANS turbulence modelling",
+    "doi": "10.1017/jfm.2026.11654",
+    "url": "https://doi.org/10.1017/jfm.2026.11654",
+    "abstract": "Developing Reynolds-averaged Navier–Stokes (RANS) turbulence models that remain accurate across diverse flow regimes is a long-standing challenge. In this work, we propose a novel framework, termed the progressive mixture-of-experts (PMoE), designed to enable continual learning for RANS turbulence modelling. The framework employs a modular autoencoder-based router to associate each flow scenario with a specialised turbulence model, referred to as an expert. When a new flow regime cannot be adequately represented by the existing router and expert set, a new expert together with its routing component can be introduced at low cost, without modifying or degrading previously trained ones, thereby naturally avoiding catastrophic forgetting. The framework is applied to a range of flows with disti…",
+    "authors": "Haoyu Ji, Yinhang Luo, Hanyu Zhou, Yaomin Zhao",
+    "published": "2026-06-09",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Transport of a passive scalar around confined bubbles submitted to reactive mass transfer",
+    "doi": "10.1017/jfm.2026.11574",
+    "url": "https://doi.org/10.1017/jfm.2026.11574",
+    "abstract": "We present new experiments about the transport of a passive constituent around a bubble rising at large Reynolds number in a vertical thin-gap cell filled with a reactive liquid. A chemical reaction occurs at the interface and the constituents are transported in the liquid. First, 4D-Lagrangian particle tracking (4D-LPT) measurements are performed to scrutinise the three-dimensional structure of the flow in the vicinity of a large bubble rising steadily. They reveal that two horseshoe vortices, superposed in the direction perpendicular to the walls, precede the bubble. The attached wake also consists of two superposed recirculations and two transverse vortices stacked to the rear interface. The horseshoe vortices are also observed for oscillating bubbles, and their radius scales with the b…",
+    "authors": "Francisco Felis Carrasco, Karine Loubière, Sébastien Cazin, Nicolas Dietrich et al.",
+    "published": "2026-06-08",
+    "keywords_matched": [
+      "wake"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Historical Increase in Autumn and Winter Cyclone‐Associated Precipitation Over the Arctic Ocean Driven Primarily by Enhanced Arctic Evaporation",
+    "doi": "10.1029/2025jd045523",
+    "url": "https://doi.org/10.1029/2025jd045523",
+    "abstract": "Abstract What is the relative importance of variability in local evaporation versus moisture convergence from lower latitudes to changes in autumn/winter Arctic Ocean precipitation? Past research has offered sometimes contradictory answers. Here we offer some resolution to this question by addressing two research gaps. First, recognizing that most studies ascribing greater local evaporation (and sea ice loss) to increasing Arctic precipitation have been conducted with climate models, we turn to the ERA5 atmospheric reanalysis to examine a 46‐year record (1979–2024) of Arctic precipitation and related moisture, circulation, and radiation variables. Second, we focus attention on precipitation specifically associated with extratropical cyclones, offering insights beyond what can be gained by …",
+    "authors": "Alex D. Crawford, Kripa Vyas, Mark C. Serreze",
+    "published": "2026-06-08",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Differential Synoptic Circulation Forcing of Land and Coastal Heatwaves",
     "doi": "10.1029/2026jd046358",
@@ -6093,55 +6142,6 @@
     "abstract": "Abstract. Modeling the coupled human–natural systems (CHANS) is vital for understanding human–natural interactions and achieving regional sustainability, offering a powerful tool to alleviate human–water conflicts, ensuring food security, thereby supporting the region's pathway toward sustainable development. However, the scarcity of regional-scale CHANS models constrains progress in practical applications for regional sustainability. The Yellow River basin (YRB) is an ideal region for modeling regional CHANS due to its closely coupled human and natural systems, which are stressed by water and ecosystem fragility. Here, we developed the CHANS-SD-YRB model using the System Dynamics approach, integrating 10 sectors essential for modeling human-water interactions of the basin, including five …",
     "authors": "Shan Sang, Yan Li, Shuang Zong, Lu Yu et al.",
     "published": "2026-03-11",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Dynamical linkages between planetary boundary layer schemes and wildfire spread processes: a case study using WRF-Fire version 4.6",
-    "doi": "10.5194/gmd-19-2059-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2059-2026",
-    "abstract": "Abstract. Wildfires can significantly enhance surface sensible heat and modify the state of the near-surface atmosphere, becoming key factors in triggering turbulence and restructuring the boundary layer. This study uses high-resolution simulations with WRF-Fire, combined with hourly observational data from six meteorological stations (five national and one emergency stations) during the Jinyun Mountain wildfire in Chongqing, China, to systematically evaluate the performance of five planetary boundary layer (PBL) schemes (MYJ, MYNN2, MYNN3, BouLac, UW) in simulating temperature, wind speed, and turbulence intensity. Results show that all schemes can reproduce the diurnal trends of temperature and wind speed but exhibit significant differences in amplitude response and simulation errors. Th…",
-    "authors": "Yongli Wang, Chun Yang, Lamei Shi, Qichao Yao et al.",
-    "published": "2026-03-11",
-    "keywords_matched": [
-      "WRF",
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Droplet rebounds off a fluid bath at low Weber numbers",
-    "doi": "10.1017/jfm.2026.11291",
-    "url": "https://doi.org/10.1017/jfm.2026.11291",
-    "abstract": "We present a method to simulate non-coalescing impacts and rebounds of droplets onto the free surface of a liquid bath, together with new experimental data, focused on the low-speed impact of droplets. The method is derived from first principles and imposes only natural geometric and kinematic constraints on the motion of the impacting interfaces, yielding predictions for the evolution of the contact area, pressure distribution and wave field generated on both impacting masses. This work generalises an existing kinematic-match method whose prior applications dealt with deformation of the surface of the bath only; i.e. neglecting that of the droplet. The method’s extension to include droplet deformation gives predictions that compare favourably with existing experimental results and our new…",
-    "authors": "Elvis A. Agüero, Carlos A. Galeano-Rios, Clodoaldo Ragazzo, Chase T. Gabbard et al.",
-    "published": "2026-03-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Onset of thermal convection in a rotating porous sphere",
-    "doi": "10.1017/jfm.2026.11310",
-    "url": "https://doi.org/10.1017/jfm.2026.11310",
-    "abstract": "This study offers the first comprehensive analysis of convective onset in a uniformly internally heated, rotating porous sphere. By incorporating the Coriolis force into Darcy’s law, we formulate the linear stability problem using a vector potential expansion combined with spherical harmonic decomposition. The resulting equations are solved numerically via a spectral method based on Worland polynomials. In the absence of rotation, the most unstable mode corresponds to a spherical harmonic degree $l = 2$ , with a critical Rayleigh number of 91.95. When rotation is introduced, the Coriolis force further stabilises the flow, causing the critical Rayleigh number to increase monotonically with the Taylor number. Notably, the system consistently favours an azimuthal wavenumber $m = 2$ across nea…",
-    "authors": "Hongzheng Yu, Lianping Zhang, Zhao Wang",
-    "published": "2026-03-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Accumulation-based Runoff and Pluvial  Flood Estimation Tool (AccRo v.1.0)",
-    "doi": "10.5194/gmd-19-2023-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2023-2026",
-    "abstract": "Abstract. Knowledge about spatially distributed inundation depth and overland flow quantities, as well as related flow velocities, is critical information for establishing a pluvial flood forecasting system and the related disaster management. This kind of information is often derived from computationally demanding simulations with 2-dimensional hydrodynamic models, limiting the number of scenarios for which information can be provided and challenging real-time forecasting. To address this gap, we developed the model AccRo (Accumulation-based Runoff and Flooding), which is a computationally efficient method to derive maximum inundation depth, maximum flow velocity and maximum specific discharge of a flood event at larger spatial scales, based on an improved flow accumulation method to bett…",
-    "authors": "Hannes Leistert, Andreas Hänsler, Max Schmit, Andreas Steinbrich et al.",
-    "published": "2026-03-10",
     "keywords_matched": [
       "ABL"
     ]
