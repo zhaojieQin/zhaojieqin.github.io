@@ -1,6 +1,30 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Intrinsic length scales in spanwise response regimes of vortex-induced vibration for catenary-type risers",
+    "doi": "10.1017/jfm.2026.11631",
+    "url": "https://doi.org/10.1017/jfm.2026.11631",
+    "abstract": "Understanding vortex-induced vibrations (VIV) of long flexible structures with curvature such as catenary-type risers (CTRs) is essential for offshore engineering, where such structures are widely deployed. Here, we perform numerical simulations of the VIV responses of CTRs in uniform flow over a range of incoming velocities and initial configurations, revealing pronounced spanwise zoning characteristics. First, modal-group switching is identified as the mechanism governing the transition between mono- and multi-frequency responses. Within modal group, mono-frequency dominates, organising a monotonic phase angle and single travelling-wave direction. At the modal-transition region, drifting mono-frequency events constitute multi-frequency response, resulting in non-monotonic phase behaviour…",
+    "authors": "Zhilin Xia, Ke Lin, Hanxu Zheng, Jiasong Wang et al.",
+    "published": "2026-06-10",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "OIRF-LEnKF v1.0: a novel data assimilation system by integrating incremental machine learning with a localized EnKF for enhanced PM\n                    <sub>2.5</sub>\n                    chemical component simulation and reanalysis",
+    "doi": "10.5194/gmd-19-4835-2026",
+    "url": "https://doi.org/10.5194/gmd-19-4835-2026",
+    "abstract": "Abstract. Assimilating observational data into numerical simulation is crucial for accurately estimating the spatiotemporal distribution of PM2.5 chemical components (NH4+, NO3-, SO42-, OC, and BC), which is beneficial to quantifying the impact of aerosols on the environment, climate change and human health. However, chemical transport model (CTM)-based data assimilation (DA) is computationally inefficient for large ensemble sizes and offers limited improvements in simulation skill, as it solely provides optimal initial conditions. This paper introduces an incrementally updatable machine learning-based data assimilation system (Optimized Incremental Random Forest coupled with Localized Ensemble Kalman Filter, OIRF-LEnKF v1.0) that achieves high efficiency and high quality in generating bac…",
+    "authors": "Hongyi Li, Ting Yang, Lei Kong, Di Zhang et al.",
+    "published": "2026-06-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Simulations of a hypersonic turbulent boundary layer over wavy surfaces",
     "doi": "10.1017/jfm.2026.11652",
     "url": "https://doi.org/10.1017/jfm.2026.11652",
@@ -22,6 +46,18 @@
     "keywords_matched": [
       "turbulence",
       "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Perturbation growth over self-sustaining process in wall turbulence beyond the Lyapunov time",
+    "doi": "10.1017/jfm.2026.11608",
+    "url": "https://doi.org/10.1017/jfm.2026.11608",
+    "abstract": "The evolution of small perturbations applied to turbulent Couette flow is examined over a long time horizon, until the perturbed flow field becomes completely decorrelated from the original state. To elucidate the fundamental physical processes involved, we focus on the minimal flow unit, where the dynamics of coherent structures is well understood in terms of the self-sustaining process (Hamilton et al. J. Fluid Mech. vol. 287, 1995, pp. 317–348). As expected, in the short term, perturbations exhibit exponential growth governed by the leading Lyapunov exponent. This mechanism is driven by the streamwise-dependent flow, which is known to involve intense turbulent dissipation events within the self-sustaining process, consistent with previous findings. Beyond the initial exponential phase, …",
+    "authors": "Pablo Egerique-de-la-Concha, Yongyun Hwang",
+    "published": "2026-06-09",
+    "keywords_matched": [
+      "turbulence"
     ]
   },
   {
@@ -6108,42 +6144,6 @@
     "published": "2026-03-12",
     "keywords_matched": [
       "WRF"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Effects of Equilibrium and Non‐Equilibrium Adsorption States on the Photoreduction and Isotope Fractionation of Hg(II) in Urban Aerosols",
-    "doi": "10.1029/2025jd045298",
-    "url": "https://doi.org/10.1029/2025jd045298",
-    "abstract": "Abstract Mercury (Hg) photoreduction on urban aerosols plays a critical role in atmospheric Hg cycling, yet the effects of the adsorption state on its kinetics and isotopic fractionation remain poorly constrained. This study investigates Hg(II) photoreduction under equilibrium (EAC) and non‐equilibrium adsorption conditions (NAC) using a flow‐through semi‐batch suspension reactor. NAC resulted in photoreduction rates double those under EAC, attributable to a higher fraction of readily reducible, soluble Hg(II). A two‐compartment kinetic model confirmed faster aqueous‐phase than solid‐phase reduction, with efficiency enhanced at higher relative humidity (RH). Pronounced mass‐dependent fractionation (MDF) occurred: Hg(0) was enriched in light isotopes (δ 202 Hg ≤ −2.02‰), while the remaining…",
-    "authors": "Qiang Huang, John R. Reinfelder, Weilin Huang, Guangyi Sun et al.",
-    "published": "2026-03-11",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Enhancing GNSS PPP Through Remote Sensing PWV Augmentation Under Different Geographical Conditions",
-    "doi": "10.1029/2025jd045657",
-    "url": "https://doi.org/10.1029/2025jd045657",
-    "abstract": "Abstract Tropospheric delay is a crucial factor that limits precise point positioning (PPP) performance, especially at low altitude angles. Here, a remote sensing (RS)‐augmented method was developed to improve PPP performance with high‐quality zenith tropospheric delay (ZTD) derived from water vapor products of satellite GOES‐18. The GOES‐18 precipitable water vapor (PWV) was evaluated against the European Center for Medium‐Range Weather Forecasts Reanalysis 5 (ERA5) PWV, with a root mean square error (RMSE) of 2.50 mm. The derived ZTD was validated using International GNSS Service (IGS) ZTD showing RMSE of 16.20 mm. Data from 42 GPS and GLONASS observed IGS stations were collected. The results show that the RS‐augmented PPP improves convergence time and short‐term precision in the vertica…",
-    "authors": "Ranran Jia, Nan Jiang, Yan Xu, Zeqi Li et al.",
-    "published": "2026-03-11",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "CHANS-SD-YRB V1.0: a system dynamics model of the coupled human-natural systems for the Yellow River Basin",
-    "doi": "10.5194/gmd-19-2039-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2039-2026",
-    "abstract": "Abstract. Modeling the coupled human–natural systems (CHANS) is vital for understanding human–natural interactions and achieving regional sustainability, offering a powerful tool to alleviate human–water conflicts, ensuring food security, thereby supporting the region's pathway toward sustainable development. However, the scarcity of regional-scale CHANS models constrains progress in practical applications for regional sustainability. The Yellow River basin (YRB) is an ideal region for modeling regional CHANS due to its closely coupled human and natural systems, which are stressed by water and ecosystem fragility. Here, we developed the CHANS-SD-YRB model using the System Dynamics approach, integrating 10 sectors essential for modeling human-water interactions of the basin, including five …",
-    "authors": "Shan Sang, Yan Li, Shuang Zong, Lu Yu et al.",
-    "published": "2026-03-11",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
