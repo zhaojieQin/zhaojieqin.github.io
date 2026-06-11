@@ -25,6 +25,69 @@
   },
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Data-driven nonlinear aerodynamics models with certifiably optimal boundedness properties",
+    "doi": "10.1017/jfm.2026.11671",
+    "url": "https://doi.org/10.1017/jfm.2026.11671",
+    "abstract": "Obtaining predictive low-order models is a central challenge in fluid dynamics. Data-driven frameworks have been widely used to obtain low-order models of aerodynamic systems; yet, resulting models tend to yield predictions that grow unbounded with time. Recently introduced stability-promoting methods can facilitate the identification of bounded models, but tend to require extensive brute-force tuning even in the context of simple academic systems. Here, we show how recent theoretical advances in the long-term boundedness of dynamical systems can be integrated into data-driven modelling frameworks to ensure that resulting models will yield bounded predictions of incompressible flows. Specifically, we propose to solve a particular set of convex semidefinite programming problems to (i) certi…",
+    "authors": "A. Leonid Heide, Shih-Chi Liao, Sergio Castiblanco-Ballesteros, Gustaaf Jacobs et al.",
+    "published": "2026-06-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Favourable breakdown of the Reynolds analogy in turbulent heat transfer over streamwise-aligned longitudinal rib arrays",
+    "doi": "10.1017/jfm.2026.11638",
+    "url": "https://doi.org/10.1017/jfm.2026.11638",
+    "abstract": "We performed a direct numerical simulation study on the breakdown of the Reynolds analogy over streamwise-aligned longitudinal rib arrays caused by Kelvin–Helmholtz (K–H) instability-induced turbulence. The purpose of this study was to elucidate the underlying physics responsible for the favourable breakdown of the Reynolds analogy, and gain better insight into the scaling of the dissimilar heat transfer enhancement and characteristics of the K–H instability-induced turbulence structure. Temperature was treated as a passive scalar with a Prandtl number of unity. The thermal and flow boundary conditions were prescribed such that the non-dimensional streamwise momentum and energy equations were similar. The results showed that the Reynolds analogy factor attains its maximum value when the sp…",
+    "authors": "Yusuke Kuwata",
+    "published": "2026-06-10",
+    "keywords_matched": [
+      "turbulence",
+      "ABL",
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Spring Dust Storms Increased the Extreme Precipitation Over Pamirs Plateau",
+    "doi": "10.1029/2025jd045011",
+    "url": "https://doi.org/10.1029/2025jd045011",
+    "abstract": "Abstract Pamirs Plateau (PP) is the Central Asian Water Tower and the precipitation over PP is important for the water resources of Central Asia. Dust storms from Middle East and Central Asia in spring significantly affect the precipitation over PP, but the impact mechanism is unclear. The Weather Research and Forecasting model coupled with Chemistry (WRF–Chem) was used to explore the total dust aerosol effects, aerosol–radiation interactions (ARIs), and aerosol–cloud interactions (ACIs) on precipitation over PP. Results show that the dust increased the precipitation by 22% and expanded the areas of extreme precipitation by 1%–21% over PP. ARIs acted to suppress precipitation by stabilizing the atmosphere and evaporating cloud droplets, while ACIs increased precipitation through increasing…",
+    "authors": "Xingli Mao, Li Xing, Keqin Duan, Wei Shang et al.",
+    "published": "2026-06-10",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Issue Information",
+    "doi": "10.1029/jgrd.70626",
+    "url": "https://doi.org/10.1029/jgrd.70626",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-06-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Guided Observations of Dynamic Shear Instability Layers Over Antarctica (GODSILA) Field Campaign",
+    "doi": "10.1029/2025jd045830",
+    "url": "https://doi.org/10.1029/2025jd045830",
+    "abstract": "Abstract The Guided Observations of Dynamic Shear Instability Layers over Antarctica (GODSILA) field observation program was designed to investigate the vertical structure and variability of atmospheric turbulence and its associated sources over the Japanese Syowa research station in Antarctica . GODSILA was carried out between 25 December 2023 and 6 February 2024 as part of the 65th Japanese Antarctic Research Expedition. Fine‐scale turbulence and standard atmospheric parameters were measured using lightweight balloon‐borne turbulence measurement system called HYFLITS (HYpersonic FLIght in the Turbulent Stratosphere), the PANSY radar (Program of the ANtarctic SYowa), and Meisei meteorological radiosondes. Forty HYFLITS instruments were launched to measure the troposphere and lower stratos…",
+    "authors": "Abhiram Doddi, Hubert Luce, Dale Lawrence, Tyler Mixa et al.",
+    "published": "2026-06-10",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Simulations of a hypersonic turbulent boundary layer over wavy surfaces",
     "doi": "10.1017/jfm.2026.11652",
     "url": "https://doi.org/10.1017/jfm.2026.11652",
@@ -6084,66 +6147,6 @@
     "published": "2026-03-16",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Interannual Impact of the South Indian Ocean Subantarctic Front on Storm Track and the Mean‐Flow",
-    "doi": "10.1029/2025jd045901",
-    "url": "https://doi.org/10.1029/2025jd045901",
-    "abstract": "Abstract This study examines how the Subantarctic Front (SAF) in the South Indian Ocean (SIO) modulates storm track activity and the mean atmospheric circulation on interannual timescales, and elucidates the associated energy‐conversion pathways underlying midlatitude air–sea interactions. Based on 45 years (1979–2023) of ERA5 reanalysis, the SAF is identified from the meridional gradient of sea surface temperature (SST), and indices representing its intensity and latitudinal position are constructed. Lag‐regression analysis based on these new indices shows that anomalies in SAF intensity and position modulate lower‐tropospheric baroclinicity, thereby reorganizing the storm track activity. Diagnoses from the EAPE budget reveal that the dominant energy pathway follows the mean available pot…",
-    "authors": "Shiwu Zhu, Xuhua Cheng, Guidi Zhou, Jianhuang Qin",
-    "published": "2026-03-16",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Convective Organization in African Easterly Waves Observed During the NAMMA and CPEX‐CV Field Campaigns",
-    "doi": "10.1029/2025jd045516",
-    "url": "https://doi.org/10.1029/2025jd045516",
-    "abstract": "Abstract Fundamental questions remain about where and when convection will occur within African easterly waves. In this study, we aim to better understand the dynamical processes that govern moist convective organization at the meso‐alpha scale in tropical easterly waves using NASA airborne field campaigns and satellite observations. We employ the SAMURAI 3D variational analysis technique in a vortex‐centric approach, integrating the fifth generation ECMWF (ERA5) reanalysis and research aircraft observations from 20 African easterly wave (AEW) cases sampled during the NASA African Monsoon Multidisciplinary Analyses (NAMMA) in 2006 and Convective Processes Experiment‐Cabo Verde (CPEX‐CV) in 2022. Infrared satellite imagery is used to obtain the frequency of occurrence within the wave of cle…",
-    "authors": "D. Colón‐Burgos, M. M. Bell",
-    "published": "2026-03-15",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Advances in Atmospheric Sciences",
-    "title": "Northward Shift of the Tibetan Plateau Vortex Street-like System Intensifies Mid- and Late-Summer Rainfall Extremes in Beijing",
-    "doi": "10.1007/s00376-026-5565-z",
-    "url": "https://doi.org/10.1007/s00376-026-5565-z",
-    "abstract": "",
-    "authors": "Ruyu Gan, Gang Huang",
-    "published": "2026-03-14",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Observation of Mountain Waves and Secondary Gravity Waves in the Mesosphere Lower Thermosphere Above Patagonia",
-    "doi": "10.1029/2025jd045172",
-    "url": "https://doi.org/10.1029/2025jd045172",
-    "abstract": "Abstract We find observational evidence for mountain waves (MWs) and secondary gravity waves (2GWs) in the OH*(3‐1) layer above Tierra del Fuego, Argentina. On the night of 21–22 May 2018, the Advanced Mesospheric Temperature Mapper (AMTM) obtained temperatures at km. During the westerly phase of the semi‐diurnal tide, arc‐shaped quasi‐stationary structures in temperature maps indicated MWs with horizontal wavelengths of 20–40 km. A co‐located temperature measurement from the COmpact Rayleigh Autonomous Lidar (CORAL) confirmed quasi‐stationary structures down to 15 km, also indicating MWs. Temperature profiles revealed a convectively unstable region within a MW phase front at 58–66 km—a sign of MW breaking, momentum deposition, local body forces, and generation of 2GWs. After a wind revers…",
-    "authors": "Robert Reichert, Pierre‐Dominique Pautet, Bernd Kaifler, Sebastian Rhode et al.",
-    "published": "2026-03-13",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "How Lateral Flow Impacts Heavy Rainfall in Complex Terrain: A Composite Analysis Over the Southern Anhui Mountainous Region",
-    "doi": "10.1029/2025jd045410",
-    "url": "https://doi.org/10.1029/2025jd045410",
-    "abstract": "Abstract High‐resolution modeling of terrestrial hydrological processes offers new opportunities to advance the understanding of land‐atmosphere (L‐A) interactions. To investigate the impact of soil lateral flow (LF) on heavy rainfall events in mountainous areas of the Yangtze‐Huai region, we conducted two sets of convection‐permitting WRF simulations over eastern China for three summers, that is, a standard WRF run without LF effect (WRF‐S) and a fully coupled WRF/WRF‐Hydro simulation with LF process turned on (WRF‐H). With simulation results for three summers, total 13 heavy rainfall events can be identified over the southern Anhui mountainous (SAM) region in both observation and model simulations. Based on the precipitation differences between WRF‐H and WRF‐S in the SAM region, the abov…",
-    "authors": "Yifan Dong, Shuyu Wang, Huiling Yuan, Fanyu Xu et al.",
-    "published": "2026-03-12",
-    "keywords_matched": [
-      "WRF"
     ]
   }
 ]
