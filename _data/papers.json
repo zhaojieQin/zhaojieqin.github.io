@@ -1,5 +1,119 @@
 [
   {
+    "journal": "Geoscientific Model Development",
+    "title": "BORIS-2 – a benthic ecosystem model based on allometry",
+    "doi": "10.5194/gmd-19-4907-2026",
+    "url": "https://doi.org/10.5194/gmd-19-4907-2026",
+    "abstract": "Abstract. We present a model describing the population dynamics of benthic biota, feeding from a common resource that is supplied by a flux of sinking organic carbon arriving on the seafloor. By using allometric relationships for the physiological processes of growth, mortality and respiration, and for food limitation, the model represents the population dynamics of organisms ranging in size from bacteria (10−14 g wet weight C) to large metazoans (103 gwwt C). The effect of temperature on physiological rates is also included. The only forcing information required is the ambient temperature and the rate of supply of sinking organic carbon. The model can be used for, and tuned to, specific locations. However, a parameter set is provided that is generally applicable. The ability of the model …",
+    "authors": "Adrian P. Martin, Anieke Brombacher, Noëlie Benoist, Brian J. Bett et al.",
+    "published": "2026-06-12",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Prandtl number dependence of rotating internally heated convection",
+    "doi": "10.1017/jfm.2026.11670",
+    "url": "https://doi.org/10.1017/jfm.2026.11670",
+    "abstract": "We investigate the influence of the Prandtl number ( $\\textit{Pr}$ ) on penetrative internally heated convection (IHC) in both non-rotating and rotating regimes using three-dimensional direct numerical simulations. By varying $\\textit{Pr}$ between 0.1 and 100, we show that the global mean temperature $\\overline {\\langle T \\rangle }$ is not very sensitive to $\\textit{Pr}$ , and is primarily controlled by the dynamics of the unstably stratified top boundary layer. In contrast, the Prandtl number dictates the behaviour of the lower, stably stratified region and affects the vertical convective heat flux $\\overline {\\langle wT \\rangle }$ . In the non-rotating case, low- $\\textit{Pr}$ fluids exhibit a ‘symmetry recovery’ where turbulent stirring agitates the stable layer, whereas high- $\\textit{…",
+    "authors": "Rodolfo Ostilla-Mónico, Ali Arslan",
+    "published": "2026-06-11",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Thermosolutal instabilities in a moderately dense nanoparticle suspension in the presence of interfacial kinetics: the case of cooling at the substrate",
+    "doi": "10.1017/jfm.2026.11645",
+    "url": "https://doi.org/10.1017/jfm.2026.11645",
+    "abstract": "We investigate the onset of thermosolutal instabilities in a layer of moderately dense nanoparticle suspension cooled at the substrate in the presence of interfacial nanoparticle kinetics (adsorption and desorption) at the deformable interface. Gravity and the Soret effects are taken into account. A mathematical model with nanoparticle concentration-dependent thermophysical properties of the nanofluid is formulated. The surface tension is assumed to be a linear function of the temperature; however, the equation of state displays non-monotonicity with nanoparticle concentration due to nanoparticle interfacial energetics. We carry out the linear stability analysis of the quiescent base state using normal modes and the obtained eigenvalue problem is solved numerically. The monotonic short-wav…",
+    "authors": "Raj Gandhi, Alexander Nepomnyashchy, Alexander Oron",
+    "published": "2026-06-11",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Two-phase wing-tip vortex breakdown",
+    "doi": "10.1017/jfm.2026.11657",
+    "url": "https://doi.org/10.1017/jfm.2026.11657",
+    "abstract": "This article presents a new flow feature observed behind a rectangular wing in water: the breakdown of the wing-tip vortex induced by the temporary injection of air into the vortex core downstream of the wing. For certain combinations of Reynolds number and angle of attack, a stationary air bubble is trapped in the core at some distance from the wing and can persist for several minutes after the injection is stopped. For other parameter values, the bubble drifts downstream or upstream until it reaches the wing, or it disintegrates immediately. Measurements of the vortex properties and bubble characteristics are presented and discussed. The breakdown behaviour, which is unrelated to cavitation, is found to depend mainly on the tip vortex circulation and on the axial flow component in the vo…",
+    "authors": "Pedro Solís, Thomas Leweke, Eduardo Durán",
+    "published": "2026-06-11",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Convolutional causal learning for aerodynamic flows",
+    "doi": "10.1017/jfm.2026.11699",
+    "url": "https://doi.org/10.1017/jfm.2026.11699",
+    "abstract": "This study aims to capture aerodynamic causality from snapshot data with a time-varying mode decomposition technique referred to as information-theoretic machine learning. The current approach extracts time-dependent informative vortical structures, contributing to the future evolution of the aerodynamic coefficients. The present decomposition is employed with a convolutional neural network, enabling the identification of the spatial continuous mode. In addition, a low-order representation, characterising the informative vortical structures and their corresponding aerodynamic coefficients, can also be identified by considering autoencoder-based data compression. The present technique is applied to a range of aerodynamic examples, including extreme vortex-gust aerofoil interactions, experim…",
+    "authors": "Ryo Koshikawa, Ryo Araki, Qiong Liu, Kai Fukami",
+    "published": "2026-06-11",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Effect of freestream turbulence on the coherent dynamics of a wind turbine wake",
+    "doi": "10.1017/jfm.2026.11665",
+    "url": "https://doi.org/10.1017/jfm.2026.11665",
+    "abstract": "The wake of a model wind turbine exposed to incoming freestream turbulence (FST) with a variety of turbulent characteristics is studied through particle image velocimetry experiments. The FST cases were produced using different passive turbulence generating grids. The cases spanned turbulent intensities ( $T_i$ ) in the range $1.3\\,\\% \\lesssim T_i\\lesssim 14\\,\\%$ and only considered short integral length scales $L_v \\lesssim 0.2D$ (where $D$ is the turbine diameter). Increasing $T_i$ and $L_v$ in this range resulted in an earlier breakdown of the tip vortices which is shown to be associated with increased wake meandering amplitudes. For all the FST cases considered, the initiation of wake meandering was found to be related to a turbine instability that is excited by the nacelle’s shedding,…",
+    "authors": "Neelakash Biswas, Oliver Buxton",
+    "published": "2026-06-11",
+    "keywords_matched": [
+      "wind turbine",
+      "wake",
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Wall-modelled large-eddy simulations of the neutral atmospheric boundary layer over rough homogeneous and heterogeneous surfaces",
+    "doi": "10.1017/jfm.2026.11581",
+    "url": "https://doi.org/10.1017/jfm.2026.11581",
+    "abstract": "We present a high-Reynolds-number large-eddy simulations (LES) study of the neutral atmospheric boundary layer (ABL) over both homogeneous and heterogeneous rough-wall surfaces. The LES utilise a coupling of the stretched vortex (SV) subgrid-scale (SGS) model with a new wall model based on the implementation of a wall-stress-like (WS) boundary condition at the wall-adjacent cell combined with an ordinary differential equation model of the wall shear stress (WSODE). The WSODE model is derived from the virtual-wall model but eliminates both the virtual wall itself and some model parameters. For the ABL over homogeneous roughness, the SV-WSODE model successfully captures the streamwise wall shear stress, the logarithmic velocity profile, and the turbulence energy spectra, demonstrating perfor…",
+    "authors": "Xiao Liu, D.I. Pullin, Wan Cheng, Xisheng Luo",
+    "published": "2026-06-11",
+    "keywords_matched": [
+      "turbulence",
+      "atmospheric boundary layer",
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Formation of Shallow Cumulus Patterns Using a Simple Warm Cloud Precipitation Model",
+    "doi": "10.1029/2026jd047005",
+    "url": "https://doi.org/10.1029/2026jd047005",
+    "abstract": "Abstract A simple model based on predator‐prey‐like dynamics using a system of four nonlinear ordinary differential equations is used to simulate the life cycle of shallow cumulus. By coupling this model across a two‐dimensional array and varying the cloud environment, we can simulate three common patterns of self‐aggregation seen in the maritime trades. These patterns include sugar, the small and randomly dispersed cumulus with little precipitation; gravel, small cumulus with frequent precipitation mostly associated with cold pools; and flowers, large clusters of cumulus surrounded by clear air. We find that clouds begin to cluster and organize as the environment grows more stable, the boundary layer deepens, latent heating increases, and clouds more strongly interact with their neighbors…",
+    "authors": "Michelle K. Kanipe, Peter J. van Leeuwen, Graham Feingold",
+    "published": "2026-06-11",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "A method for assessing model extensions: application to modelling winter precipitation with a microscale obstacle-resolving meteorological model (MITRAS v3.3)",
+    "doi": "10.5194/gmd-19-4885-2026",
+    "url": "https://doi.org/10.5194/gmd-19-4885-2026",
+    "abstract": "Abstract. The microscale, obstacle-resolving meteorological transport and stream model MITRAS has been extended with a snow cover and precipitation scheme. The performance of the model extension is assessed by comparing the results of different model versions using a method based on hit rates originally developed for assessing wind performance. For temperature, radiation and precipitation, estimates for the threshold values were derived based on computational accuracy; these are used in the hit rate calculation for these variables. The threshold values for the deviations are 0.02 m s−1 (5 %) for the wind components, 0.05 K (0.02 %) for temperature, 0.5 W m−2 (0.5 %) and 0.5 W m−2 (0.2 %) for the net long and short wave radiation, and 0.001 mm (1 %) for precipitation on ground. The model ex…",
+    "authors": "Karolin S. Samsel, Marita Boettcher, David Grawe, K. Heinke Schlünzen et al.",
+    "published": "2026-06-11",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Intrinsic length scales in spanwise response regimes of vortex-induced vibration for catenary-type risers",
     "doi": "10.1017/jfm.2026.11631",
@@ -84,6 +198,31 @@
     "published": "2026-06-10",
     "keywords_matched": [
       "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Derivation of a consistent shallow-flow model for viscoplastic fluids and application to the dam-break problem and flow stoppage",
+    "doi": "10.1017/jfm.2026.11662",
+    "url": "https://doi.org/10.1017/jfm.2026.11662",
+    "abstract": "A consistent three-equation shallow-flow model is derived for Herschel–Bulkley fluids propagating down an inclined plane. A rigorous asymptotic method is used to incorporate the complex rheological properties of the material into the model. Difficulties arise from the coexistence inside the flow of a sheared layer, in which the material is largely above the yielding threshold, and a pseudoplug layer, in which the material is just on the verge of yielding. The derivation of the model is based on two steps. First, the flow variables are expanded up to the first order of accuracy in terms of flow aspect ratio, in both the sheared and the pseudoplug layers. A specific generalization of the tensorial constitutive law is proposed, allowing us to implement a regular perturbation method in the ent…",
+    "authors": "Danila Denisenko, Gaël Loïc Richard, Guillaume Chambon",
+    "published": "2026-06-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Policy-based optimisation of spanwise wall oscillation waveforms for dissimilar-heat-transfer enhancement",
+    "doi": "10.1017/jfm.2026.11660",
+    "url": "https://doi.org/10.1017/jfm.2026.11660",
+    "abstract": "The application of spanwise wall oscillations (SWO) to turbulent flow control has been largely confined to sinusoidal forcing and drag-reduction objectives; the optimisation of waveform topology across a continuous parameter space, and the application of SWO to dissimilar heat transfer (DHT), wherein the analogy factor $A_n$ quantifies the ratio of thermal to drag enhancement, remain unexplored. A policy-based optimisation framework coupled with implicit large-eddy simulations and Lagrangian-polynomial waveform parameterisation is employed to investigate four optimisation problems at ${\\textit{Re}}_\\tau = 200$ and ${\\textit{Pr}} = 1$ , where $Re$ is the friction Reynolds number and $Pr$ is the Prandtl number. Drag-reduction benchmarks validate the framework and establish that non-sinusoida…",
+    "authors": "Lou Guérin, Cédric Flageul, Laurent Cordier, Lionel Agostini",
+    "published": "2026-06-10",
+    "keywords_matched": [
+      "ABL",
+      "heat transfer"
     ]
   },
   {
@@ -6012,139 +6151,6 @@
     "abstract": "Abstract The seasonal variation of the sea‐land breeze (SLB) circulation is investigated in a typical coastal city Qingdao, China, using continuous 2‐year observation data from Doppler LiDAR. The frequency of SLB varies seasonally, peaking in July and bottoming in January. The establishment time of the sea breeze is primarily concentrated between 08:00 LST and 12:00 LST, with its onset occurring approximately 1 hr earlier in spring and summer compared to autumn and winter. The top of the land‐breeze circulation is lower than that of the sea‐breeze circulation in all seasons and shows a decreasing trend over time. The top height of the sea‐breeze circulation, apart from a gradual decline in spring, exhibits complex curvilinear changes in other seasons. It should be noted that a negative sea…",
     "authors": "Yan Zhou, Chao Zhang, Yunying Li, Xingxu Zhou et al.",
     "published": "2026-03-19",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "EcoTWIN 1.0: a fully distributed tracer-aided ecohydrological model tracking water, isotopes, and nutrients",
-    "doi": "10.5194/gmd-19-2257-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2257-2026",
-    "abstract": "Abstract. The value of stable water isotopes in constraining process representation in hydrological models is well acknowledged with numerous tracer-aided hydrological models developed in recent years, yet few have leveraged these benefits for more robust water quality modelling. Therefore, we introduce EcoTWIN, a fully distributed tracer-aided ecohydrological model that simultaneously tracks water, isotope, and nutrient fluxes. A thorough model test was conducted by calibrating EcoTWIN against discharge, in-stream isotopes, and NO3–N concentrations (1980–2024) in 17 large-scale (103–105 km2) European catchments spanning a wide range of geographic and climatic gradients. Furthermore, three reanalysis products (ERA5 snow depth, MODIS evapotranspiration, and GRACE surface water anomaly) were…",
-    "authors": "Songjun Wu, Doerthe Tetzlaff, Yi Zheng, Chris Soulsby",
-    "published": "2026-03-19",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Opposing Trends in Wintertime Convective Initiation Environments of East China Driven by Anthropogenic Aerosols and Greenhouse Gases",
-    "doi": "10.1029/2025jd045691",
-    "url": "https://doi.org/10.1029/2025jd045691",
-    "abstract": "Abstract Winter convection can trigger severe disasters due to low temperature, yet the drivers and mechanisms of regional long‐term trends in winter convective initiation remain unclear. Using homogenized radiosonde data, we reveal the spatially divergent trends in wintertime atmospheric unstable conditions, with a significant decrease in the northern part of East China (NEC, north of 33°N, east of 105°E) but an increase in the southern part of East China (SEC, south of 33°N, east of 105°E) during 1979–2020. CMIP6 Detection and Attribution Model Intercomparison Project confirms that these opposing trends are driven by anthropogenic forcings, with aerosols being the primary contributor to the decreases in NEC (33∼66%) while greenhouse gases driving the increase in SEC (54∼77%). Both CMIP6 …",
-    "authors": "Xinyan Li, Fan Wang, Yizhou Zhuang, Aiguo Dai et al.",
-    "published": "2026-03-18",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Stratosphere‐Troposphere Exchange of Ozone and CO Over the North Pacific: Roles of Different Types of Rossby Wave Breaking With Multiple Chemical‐Reanalysis Perspectives",
-    "doi": "10.1029/2025jd045183",
-    "url": "https://doi.org/10.1029/2025jd045183",
-    "abstract": "Abstract In this study, we investigate the characteristics of stratosphere‐troposphere exchange (STE) of ozone and carbon monoxide (CO) over the North Pacific on the 350 K isentropic surface during 2005–2021 using two chemical reanalyses (Copernicus Atmosphere Monitoring Service and TCR‐2). Distinct dynamic controls on the STE processes were revealed. Equatorward anticyclonic (LC1)‐type Rossby wave breaking (RWB) dominated stratosphere‐to‐troposphere transport (STT), poleward cyclonic (P1)‐type RWB dominated troposphere‐to‐stratosphere transport (TST), and equatorward cyclonic (LC2)‐type RWB rarely induced STE. Notably, poleward anticyclonic (P2)‐type RWB, despite their primary association with TST, also caused significant STT, accounting for 36% of total TST cases and 30% of total STT cas…",
-    "authors": "Haosen Xi, Masatomo Fujiwara",
-    "published": "2026-03-18",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Linking Northeastern Indian Subcontinental High Temperature to Extreme Glacier Mass Loss on the South‐Central Tibetan Plateau",
-    "doi": "10.1029/2025jd045031",
-    "url": "https://doi.org/10.1029/2025jd045031",
-    "abstract": "Abstract Extreme glacier mass loss on the Tibetan Plateau (TP) has seldom been investigated, limiting our knowledge of regional water availability and glacier‐related natural hazards. Here we present glacier mass balance estimates for the south–central TP based on glacio‐meteorological observations and geodetic data from 1960 to 2019. The results show that the frequency, intensity, and variability of extreme glacier mass loss events have increased and shifted in recent decades. The extreme mass loss events are mainly attributed to the extremely high air temperature ( T a ) during the ablation season (June–September), which generates exceptionally high incoming longwave radiation and sensible heat fluxes that greatly reduce albedo and enhance melting. The high T a on the south–central TP is…",
-    "authors": "Meilin Zhu, Tandong Yao, Lonnie G. Thompson, Wei Yang et al.",
-    "published": "2026-03-18",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Assessing the impact of solar climate intervention on future U.S. weather using a convection-permitting WRF model",
-    "doi": "10.5194/gmd-19-2239-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2239-2026",
-    "abstract": "Abstract. A primary solar climate intervention (SCI) strategy is stratospheric aerosol injection (SAI). SAI would increase the number of small reflective particles (aerosols) in the upper atmosphere to reduce climate warming by reflecting more incoming solar radiation away from Earth. Research on SCI is growing quickly, but no studies to date have examined the impact of SCI on severe storms using a mesoscale weather model. In this study, we develop a novel framework using the convection-permitting (4-km resolution) Weather Research &amp;amp; Forecasting (WRF) model to assess the potential impact of SCI on future convective weather over the contiguous United States (CONUS). We conduct three types of simulations for the March–August 2011 period, during which widespread convective outbreaks o…",
-    "authors": "Lantao Sun, James W. Hurrell, Kristen L. Rasmussen, Bali Summers et al.",
-    "published": "2026-03-18",
-    "keywords_matched": [
-      "WRF"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Observations of Mixed‐Phase Stratiform and Convective Cloud Regimes Over the Southern Ocean: A Case Study Near the Antarctic Polar Front",
-    "doi": "10.1029/2025jd043931",
-    "url": "https://doi.org/10.1029/2025jd043931",
-    "abstract": "Abstract Supercooled liquid water (SLW) in mixed‐phase clouds over the Southern Ocean is a key source of uncertainty in climate sensitivity. This case study examines contrasting cloud morphologies and phases in post‐frontal cold‐air masses observed during the Southern Ocean Cloud Radiation and Aerosol Transport Experimental Study. Widespread mixed‐phase stratiform clouds over the cold flank of the Antarctic Polar Front and shallow mixed‐phase convective clouds over the warm flank were observed by coordinated aircraft measurements and satellite retrievals. Correspondingly, the 1.2 km‐thick, well‐mixed marine atmospheric boundary layer (MABL) over the cold flank transformed into a 2 km‐thick, stratified structure over the warm flank. The melting layer was observed to be closer to a stratifie…",
-    "authors": "Saisai Ding, Jing‐Wu Liu, Greg M. McFarquhar, Shanhong Gao",
-    "published": "2026-03-17",
-    "keywords_matched": [
-      "atmospheric boundary layer",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Recognizing spatial geochemical anomaly patterns using deformable convolutional networks guided with geological knowledge",
-    "doi": "10.5194/gmd-19-2219-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2219-2026",
-    "abstract": "Abstract. This study tackles the limited quantification of irregular spatial geochemical anomaly patterns and weak interpretability in deep learning models in geochemical anomaly recognition. We propose a hybrid approach that integrates geological knowledge (GK) into deformable convolutional networks (DCN), creating a model termed GK-DCN, with the aim of enhancing both the performance and transparency of geochemical anomaly recognition. This model introduces learnable parameters that allow the convolution kernel to adaptively adjust its shape according to the characteristics of its sampling position, enabling them to more accurately capture complex and irregular geochemical anomaly patterns caused by mineralization. To enhance geological consistency, ore-controlling faults are incorporated…",
-    "authors": "Xinyu Zhang, Yihui Xiong, Zhiyi Chen",
-    "published": "2026-03-17",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "HIDRA-D: deep-learning model for dense sea level forecasting  using sparse altimetry and tide gauge data",
-    "doi": "10.5194/gmd-19-2177-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2177-2026",
-    "abstract": "Abstract. This paper introduces HIDRA-D, a novel deep-learning model for basin scale dense (gridded) sea level prediction using sparse satellite altimetry and in situ tide gauge data. Accurate sea level prediction is crucial for coastal risk management, marine operations, and sustainable development. While traditional numerical ocean models are computationally expensive, especially for probabilistic forecasts over many ensemble members, HIDRA-D offers a faster, numerically cheaper, observation-driven alternative. Unlike previous HIDRA models (HIDRA1, HIDRA2 and HIDRA3) that focused on point predictions at tide gauges, HIDRA-D provides dense, two-dimensional, gridded sea level forecasts. The core innovation lies in a new algorithm that effectively leverages sparse and unevenly distributed s…",
-    "authors": "Marko Rus, Matjaž Ličer, Matej Kristan",
-    "published": "2026-03-17",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Assessing and enhancing Noah-MP land surface modeling  over tropical forests using machine learning techniques",
-    "doi": "10.5194/gmd-19-2197-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2197-2026",
-    "abstract": "Abstract. Tropical land-surface processes play a key role in Earth system dynamics, yet evaluation and calibration of land surface models in these regions remain limited. This study addresses this gap through site-specific calibration of the Noah with Multi-Parameterizations (Noah-MP) land surface model at two tropical forest sites: the Panama site with a tropical monsoon climate and the Malaysia site with a tropical rainforest climate. We develop an efficient machine learning-based calibration framework that combines emulator construction with parameter optimization. Site-specific calibration improves the model's ability to simulate key variables, including latent and sensible heat fluxes as well as soil moisture, particularly at daily and seasonal scales. The emulator-based framework ena…",
-    "authors": "Yanyan Cheng, Yaomin Wang, Kalli Furtado, Cenlin He et al.",
-    "published": "2026-03-17",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "The BiogeochemicAl Model for Hypoxic and Benthic Influenced areas: BAMHBI v1.0",
-    "doi": "10.5194/gmd-19-2137-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2137-2026",
-    "abstract": "Abstract. This paper describes the ocean BiogeochemicAl Model for Hypoxic and Benthic Influenced areas (BAMHBI). BAMHBI is a moderate complexity marine biogeochemical model that describes the cycling of carbon, nitrogen, phosphorus, silicon and oxygen through the marine foodweb. It involves 22 state variables, extends from bacteria up to mesozooplankton and includes three phytoplankton functional types (PFTs), two zooplankton size-classes, a microbial loop with several classes of detritic materials. Five optional modules are available allowing to extend the model with the explicit modelling of Chlorophyll a (Chl a) in each PFT, benthic degradation, gelatinous dynamics, particles aggregation and the carbonate system. BAMHBI describes the degradation of organic matter according to oxygenatio…",
-    "authors": "Marilaure Grégoire, Luc Vandenbulcke, Séverine Chevalier, Mathurin Choblet et al.",
-    "published": "2026-03-16",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Development of the global chemistry-climate coupled model BCC-GEOS-Chem v2.0: improved atmospheric chemistry performance and new capability of chemistry-climate interactions",
-    "doi": "10.5194/gmd-19-2111-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2111-2026",
-    "abstract": "Abstract. Interactions between atmospheric chemical compounds and climate have a great impact on the earth system and atmospheric chemistry. However, the online two-way chemistry-climate coupled model, an indispensable tool for quantifying chemistry-climate interactions and projecting future air quality with climate change, remains sparse due to the considerable challenge in model complexity and computational resources. We present the development and evaluation of BCC-GEOS-Chem v2.0, which couples the GEOS-Chem chemical transport model (v14.0.1) with the Beijing Climate Centre Earth System Model (BCC-ESM). Based on the modular framework of BCC-GEOS-Chem v1.0, BCC-GEOS-Chem v2.0 further couples the Harmonized Emissions Component (HEMCO) to manage anthropogenic emission inventories and natur…",
-    "authors": "Ruize Sun, Xiao Lu, Haipeng Lin, Tongwen Wu et al.",
-    "published": "2026-03-16",
     "keywords_matched": [
       "ABL"
     ]
