@@ -1,11 +1,47 @@
 [
   {
+    "journal": "Advances in Atmospheric Sciences",
+    "title": "Detectable Human Influence on Daytime-Nighttime Compound Heat Waves over China",
+    "doi": "10.1007/s00376-026-5473-2",
+    "url": "https://doi.org/10.1007/s00376-026-5473-2",
+    "abstract": "Abstract Daytime-nighttime compound heat waves (CHWs) pose severe threats to human society. In the context of climate warming, China has experienced significant increases and intensification of CHWs since the 1960s. This article performs a detection and attribution analysis on observed changes in CHWs over China and within its four subregions: northwestern China, northeastern China, the Yangtze River valley, and southern China, based on Coupled Model Intercomparison Project Phase 6 (CMIP6) simulations. Notably, an updated optimal fingerprinting approach with estimating equations is utilized, which is improved by more efficient point estimation and more plausible uncertainty evaluation. In general, the findings highlight human influence as the primary contributor to aggravated CHWs in China…",
+    "authors": "Wenxin Xie, Botao Zhou, Qiaohong Sun, Yan Li et al.",
+    "published": "2026-06-13",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "BORIS-2 – a benthic ecosystem model based on allometry",
     "doi": "10.5194/gmd-19-4907-2026",
     "url": "https://doi.org/10.5194/gmd-19-4907-2026",
     "abstract": "Abstract. We present a model describing the population dynamics of benthic biota, feeding from a common resource that is supplied by a flux of sinking organic carbon arriving on the seafloor. By using allometric relationships for the physiological processes of growth, mortality and respiration, and for food limitation, the model represents the population dynamics of organisms ranging in size from bacteria (10−14 g wet weight C) to large metazoans (103 gwwt C). The effect of temperature on physiological rates is also included. The only forcing information required is the ambient temperature and the rate of supply of sinking organic carbon. The model can be used for, and tuned to, specific locations. However, a parameter set is provided that is generally applicable. The ability of the model …",
     "authors": "Adrian P. Martin, Anieke Brombacher, Noëlie Benoist, Brian J. Bett et al.",
+    "published": "2026-06-12",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Iterative run-time bias corrections in an atmospheric GCM (LMDZ v6.3)",
+    "doi": "10.5194/gmd-19-4961-2026",
+    "url": "https://doi.org/10.5194/gmd-19-4961-2026",
+    "abstract": "Abstract. Run-time bias corrections of atmospheric circulation models can be based on nudging (Newtonian relaxation) to an atmospheric reanalysis. In this case, the time increments of selected state variables are modified by adding the nudging terms obtained with an uncorrected version of the model. This is a well-known method to improve the models' representation of large-scale circulation patterns. In this work, we propose and evaluate a variant of this method, consisting of iterative nudging: the corrected model is itself nudged towards the reanalysis, and the resulting nudging terms are added to the initial ones to calculate the new, iterated correction terms. This procedure can be iterated an arbitrary number of times. Evaluating the LMDZ atmospheric general circulation model (AGCM) f…",
+    "authors": "Gerhard Krinner, Aude Champouillon, Juliette Blanchet, Frédérique Chéruy",
+    "published": "2026-06-12",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "MIPV-NWP-PINNs V1.0: development of a multi-scale photovoltaic power forecasting framework integrating numerical weather prediction with physics-informed neural networks",
+    "doi": "10.5194/gmd-19-4999-2026",
+    "url": "https://doi.org/10.5194/gmd-19-4999-2026",
+    "abstract": "Abstract. Photovoltaic (PV) power generation has become a cornerstone of clean energy, for which accurate forecasting is essential to ensure safe and efficient grid integration. However, achieving reliable PV power forecasts remains challenging due to two primary sources of uncertainty: inherent errors in Numerical Weather Prediction (NWP)-derived meteorological variables, particularly solar irradiance, and the complex nonlinear conversion process from meteorological inputs to PV power output, which is influenced by both atmospheric conditions and PV module characteristics. To address this challenge, this study develops a multi-scale PV power forecasting framework that integrates NWP with deep learning techniques and evaluates its performance using PV module monitoring data from a power st…",
+    "authors": "Fei Zhang, Xingcai Li, Zifa Wang, Yunyun Wen et al.",
     "published": "2026-06-12",
     "keywords_matched": [
       "ABL"
@@ -6114,42 +6150,6 @@
     "url": "https://doi.org/10.1017/jfm.2026.11302",
     "abstract": "We investigate a nonlinear interaction between viscous fingering (VF) and phase separation (PS) in a binary fluid system within a radial Hele-Shaw cell. Through nonlinear simulations, we analyse displacement under favourable viscosity contrast, in which a more viscous fluid displaces a less viscous one, and PS may induce VF. The system undergoes PS when the concentration lies within the spinodal region, where the second derivative of free energy is negative. In the absence of viscosity contrast, the flow exhibits distinct morphologies, rings under the strongest PS conditions and droplets otherwise. A distinct composition of separated droplets results from uphill and downhill diffusion imbalances. The prominence of PS is characterised by the interfacial tension within the spinodal region, w…",
     "authors": "Priya Verma, Ryuta X. Suzuki, Takahiko Ban, Yuichiro Nagatsu et al.",
-    "published": "2026-03-19",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Cone-jet Stokes solutions in strong viscous flows: the vanishing flow rate limit",
-    "doi": "10.1017/jfm.2026.11323",
-    "url": "https://doi.org/10.1017/jfm.2026.11323",
-    "abstract": "Steady tip streaming in the limit of vanishing flow rate has been experimentally and numerically documented, yet theoretical solutions describing local conical Stokes flows have remained elusive. Here, we derive approximate analytical solutions for local conical flows in liquid–liquid flow focusing scenarios, addressing the limit of negligible emitted flow rate. Our analysis demonstrates the existence of a universal relationship between the inner-to-outer liquid viscosity ratio and the cone angle, establishing the theoretical underpinning for precise control of microscopic jet formation. A posteriori comparison with previously published experiments reveals that digitised cusp-like meniscus profiles collapse quantitatively onto the predicted slender-body similarity solution. These findings …",
-    "authors": "Alfonso M. Gañán-Calvo, Miguel A. Herrada, Jens Eggers",
-    "published": "2026-03-19",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Instability of nano liquid threads in a saturated or supersaturated vapour environment",
-    "doi": "10.1017/jfm.2026.11213",
-    "url": "https://doi.org/10.1017/jfm.2026.11213",
-    "abstract": "Evaporation and condensation have been reported to be able to considerably alter the pinch-off profile of nano liquid threads. However, it is still not well understood how evaporation and condensation will impact the instability of nano liquid threads. In this article, we propose a modified stochastic lubrication equation (MSLE) that incorporates both thermal fluctuations and evaporation–condensation. We conduct stability analysis based on the MSLE and show that the curvature-dependent evaporation tends to enhance the growth of perturbations of small wavenumber but impede those with large wavenumber. For realistic fluids, the effect is actually very small. However, in a supersaturated vapour environment, condensation is dominant. Stability analysis and molecular dynamics simulations both s…",
-    "authors": "Chaojie Mo, Xiaocong Yang, Qingfei Fu, Longfei Chen",
-    "published": "2026-03-19",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Intra‐Annual Variability in the Fine Structure of Sea–Land Breeze Over Typical Coastal City Qingdao, China",
-    "doi": "10.1029/2025jd045967",
-    "url": "https://doi.org/10.1029/2025jd045967",
-    "abstract": "Abstract The seasonal variation of the sea‐land breeze (SLB) circulation is investigated in a typical coastal city Qingdao, China, using continuous 2‐year observation data from Doppler LiDAR. The frequency of SLB varies seasonally, peaking in July and bottoming in January. The establishment time of the sea breeze is primarily concentrated between 08:00 LST and 12:00 LST, with its onset occurring approximately 1 hr earlier in spring and summer compared to autumn and winter. The top of the land‐breeze circulation is lower than that of the sea‐breeze circulation in all seasons and shows a decreasing trend over time. The top height of the sea‐breeze circulation, apart from a gradual decline in spring, exhibits complex curvilinear changes in other seasons. It should be noted that a negative sea…",
-    "authors": "Yan Zhou, Chao Zhang, Yunying Li, Xingxu Zhou et al.",
     "published": "2026-03-19",
     "keywords_matched": [
       "ABL"
