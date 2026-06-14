@@ -12,6 +12,18 @@
     ]
   },
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Comparison of Soil Mineralogy From EMIT Imaging Spectroscopy and Ground‐Based Measurements in the Deserts of Southern California",
+    "doi": "10.1029/2026jd046595",
+    "url": "https://doi.org/10.1029/2026jd046595",
+    "abstract": "Abstract The highly variable spatial composition of desert soils remains a major source of uncertainty in estimates of dust radiative forcing. Existing soil mineralogy data sets used in climate models are limited by sparse ground observations and coarse spatial resolution. NASA's Earth surface Mineral dust source InvesTigation (EMIT) addresses this challenge by providing near‐global maps of surface mineralogy across dust source regions using imaging spectroscopy at ∼60 m spatial resolution. Here, we evaluate EMIT 60‐m mineral mass fraction estimates against ground‐based measurements derived from X‐ray diffraction and iron wet chemistry analyses of soil samples collected from active dust sources in the Sonoran and Mojave Deserts of Southern California. We also compare particle size distribu…",
+    "authors": "Xuan Liu, Paul Ginoux, Carlos Pérez García‐Pando, Adolfo González‐Romero et al.",
+    "published": "2026-06-13",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "BORIS-2 – a benthic ecosystem model based on allometry",
     "doi": "10.5194/gmd-19-4907-2026",
@@ -6141,18 +6153,6 @@
       "ABL",
       "vortex",
       "heat transfer"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Coupled effects of viscosity contrast and phase separation in hydrodynamically stable radial Hele-Shaw flow",
-    "doi": "10.1017/jfm.2026.11302",
-    "url": "https://doi.org/10.1017/jfm.2026.11302",
-    "abstract": "We investigate a nonlinear interaction between viscous fingering (VF) and phase separation (PS) in a binary fluid system within a radial Hele-Shaw cell. Through nonlinear simulations, we analyse displacement under favourable viscosity contrast, in which a more viscous fluid displaces a less viscous one, and PS may induce VF. The system undergoes PS when the concentration lies within the spinodal region, where the second derivative of free energy is negative. In the absence of viscosity contrast, the flow exhibits distinct morphologies, rings under the strongest PS conditions and droplets otherwise. A distinct composition of separated droplets results from uphill and downhill diffusion imbalances. The prominence of PS is characterised by the interfacial tension within the spinodal region, w…",
-    "authors": "Priya Verma, Ryuta X. Suzuki, Takahiko Ban, Yuichiro Nagatsu et al.",
-    "published": "2026-03-19",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
