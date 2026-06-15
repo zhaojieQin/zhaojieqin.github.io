@@ -1,5 +1,31 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Toward Improved Tropical Cyclone Forecasting: An Optimized Strategy Combining Dynamic Initialization and Bogus Data Assimilation",
+    "doi": "10.1029/2026jd046976",
+    "url": "https://doi.org/10.1029/2026jd046976",
+    "abstract": "Abstract In numerical weather prediction, dynamic initialization (DI) of tropical cyclones (TCs) and bogus data assimilation (BDA) are two widely used vortex initialization methods, both of which substantially affect the track and intensity of simulated TCs. This study investigated the impact mechanisms of DI and BDA using the Typhoon Regional Assimilation and Prediction System, which is a moving nested configuration of the Weather Research and Forecasting model designed specifically for TC prediction. Sensitivity experiments demonstrated that the DI approach tends to systematically overestimate TC intensity, primarily owing to moisture updates. Adopting BDA can alleviate this overestimation but often introduces underestimation of TC intensity, thereby limiting its applicability. To addres…",
+    "authors": "Kefeng Zhu, Dajun Zhao, Xiaoqi Xu, Siwei Sun et al.",
+    "published": "2026-06-14",
+    "keywords_matched": [
+      "weather research and forecasting",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "A Physics‐Guided Machine Learning Hybrid Parameterization of Near‐Surface Turbulent Fluxes in the Arctic Stable Boundary Layer From MOSAiC Observations",
+    "doi": "10.1029/2025jd046268",
+    "url": "https://doi.org/10.1029/2025jd046268",
+    "abstract": "Abstract The transfer of momentum and sensible heat across the air‐ice interface shapes Arctic climate, sea‐ice evolution, and weather predictability. Most weather and climate models estimate these fluxes using bulk formulas based on Monin‐Obukhov similarity theory (MOST), yet MOST‐based relationships can deteriorate under strongly stable stratification and intermittent turbulence common over sea ice during the polar night. In this work, a full year of ten‐minute data from the meteorological tower setup during the Multidisciplinary drifting Observatory for the Study of Arctic Climate (MOSAiC) expedition is examined. We evaluate the advanced Arctic bulk parameterization of Gryanik et al. (2020, 2021, https://doi.org/10.1175/jas‐d‐19‐0255.1 , https://doi.org/10.1029/2021ms002590 ) (hereafter…",
+    "authors": "Tianyi Yu, Ruibo Lei, Chaoxun Hang",
+    "published": "2026-06-14",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
     "journal": "Advances in Atmospheric Sciences",
     "title": "Detectable Human Influence on Daytime-Nighttime Compound Heat Waves over China",
     "doi": "10.1007/s00376-026-5473-2",
@@ -6125,34 +6151,6 @@
     "published": "2026-03-20",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Vortex interactions and wake transitions for flexible foil flapping in flowing soap film",
-    "doi": "10.1017/jfm.2026.11290",
-    "url": "https://doi.org/10.1017/jfm.2026.11290",
-    "abstract": "Understanding the vortex interactions and wake transitions for flapping flexible foils is important because of their increased usage in bioinspired aquatic and aerial robotic propulsors. Although wake transitions have been studied for rigid foils, we experimentally investigate how flexibility alters the transitions and vortex interactions for flexible foils, which are closer to the natural flapping foils in fish, birds and insects. We conduct the experiments in a flowing soap film on a pitching airfoil with a flexible filament at its trailing edge (TE). We find that, apart from the Strouhal number ( ${\\textit{St}}$ ), flexural rigidity ( ${\\textit{EI}}$ ) is important to determine the transitions. We vary ${\\textit{EI}}$ of the flexible filament by three orders of magnitude and also invest…",
-    "authors": "Sarthak K. Patel, Sachin Yashavant Shinde",
-    "published": "2026-03-19",
-    "keywords_matched": [
-      "wake",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Modulation of turbulence and heat transfer by finite-size particles in unstably stratified turbulent channel flows",
-    "doi": "10.1017/jfm.2026.11326",
-    "url": "https://doi.org/10.1017/jfm.2026.11326",
-    "abstract": "Direct numerical simulations of turbulent channel flows with thermally unstable stratification laden with finite-size particles are performed using the fictitious domain method. The effects of particle concentration, size and specific heat capacity on turbulence and heat transfer are investigated at the friction Reynolds number 180, the Prandtl number 0.7, the Richardson number 20 and both density ratio and thermal conductivity ratio being unity. The natural convection circulations in the unstable stratification case cause the occurrence of streamwise streaks of vortex, velocity and temperature. Compared with the neutral case, the particle-induced flow drag enhancement is more significant for the unstable stratification case, mainly because the particle-induced reduction in the fluid Reyno…",
-    "authors": "Peifei Fan, Yan Xia, Zhaowu Lin, Zhaosheng Yu",
-    "published": "2026-03-19",
-    "keywords_matched": [
-      "turbulence",
-      "ABL",
-      "vortex",
-      "heat transfer"
     ]
   }
 ]
