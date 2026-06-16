@@ -1,5 +1,102 @@
 [
   {
+    "journal": "Advances in Atmospheric Sciences",
+    "title": "Storm-Resolving Earth: How Well Do Global Kilometer-scale Models Simulate Storms in East Asia’s 2020 Record-breaking Wet Summer?",
+    "doi": "10.1007/s00376-026-5756-7",
+    "url": "https://doi.org/10.1007/s00376-026-5756-7",
+    "abstract": "Abstract High-performance computing now enables a new generation of global kilometer-scale models. As part of the World Climate Research Programme (WCRP) Global Hackathon 2025 initiative, for the first time, multiple cutting-edge global kilometer-scale models have been run for an entire year. All of them have covered the summer of 2020, when East Asia experienced record-breaking precipitation and catastrophic floods, mainly driven by mesoscale convective systems (MCSs). Using an updated storm-tracking algorithm, this study investigated the performance of six global kilometer-scale models in simulating MCS characteristics during the record-breaking wet summer of 2020 in East Asia. Results revealed that all models generally reproduced MCS characteristics, including MCS size, duration, and ke…",
+    "authors": "Xiaotong Huang, Puxi Li, Hongyong Yu, Xuelin Hu et al.",
+    "published": "2026-06-16",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Taylor–Aris dispersion in shear-rate-dependent fluid flows",
+    "doi": "10.1017/jfm.2026.11682",
+    "url": "https://doi.org/10.1017/jfm.2026.11682",
+    "abstract": "The spread of a pulse of solute in a pressure-driven channel flow is well described for a wide range of Newtonian flows for which the viscosity and diffusivity are constants. Over many decades, various extensions have been suggested for the dispersion in pressure-driven non-Newtonian channel flows. While many theoretical studies have examined the effect of shear-rate-dependent viscosity on dispersion for a variety of non-Newtonian constitutive models, the solute diffusivity has invariably been treated as a constant. This assumption, however, is in contrast to the expectation that the diffusivity of a colloidal particle is inversely related to the viscosity, e.g. recall the Stokes–Einstein relation. We account for this coupling of transport coefficients – viscosity and diffusivity – by assu…",
+    "authors": "Evgeniy Boyko, Howard A. Stone",
+    "published": "2026-06-15",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Disentangling discrete and continuous spectra of tidally forced internal waves in shear flow",
+    "doi": "10.1017/jfm.2026.11580",
+    "url": "https://doi.org/10.1017/jfm.2026.11580",
+    "abstract": "Generation of internal waves driven by barotropic tides over seafloor topography is a central issue in developing mixing and wave drag parametrisations for ocean circulation models. Traditional analytical approaches estimate the energy conversion rate from barotropic tides to internal waves using a modal expansion of the wave field. However, this framework becomes inadequate if a background shear flow is present, as singular solutions associated with critical levels emerge. To uncover the distinct roles of regular eigenmodes and singular solutions in tidal energy conversion, this study analytically investigates wave generation over a localised small topography in the presence of shear flow without Coriolis force. Applying horizontal Fourier and temporal Laplace transforms, we identify regi…",
+    "authors": "Yohei Onuki, Antoine Venaille",
+    "published": "2026-06-15",
+    "keywords_matched": [
+      "tidal"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Turbulent heat transfer in open-channel flows with a thermally conductive porous wall",
+    "doi": "10.1017/jfm.2026.11691",
+    "url": "https://doi.org/10.1017/jfm.2026.11691",
+    "abstract": "Direct numerical simulation (DNS) results of porous-wall turbulent flows in open channels with conjugate heat transfer are reported. For the conductive porous walls considered, the change in heat transfer is non-monotonic with permeability. The heat flux initially decreases when going from a conductive smooth wall to slightly porous walls. In this initial regime, the near-wall flow remains smooth-wall like and the heat transfer in the porous wall is dominated by molecular diffusion. A reduction of the more favourably conducting solid material then diminishes the heat transfer, whereas the skin friction monotonically increases with permeability. Beyond a certain permeability the near-wall flow transitions to the Kelvin–Helmholtz (K–H)-like regime (Gómez-de Segura &amp; García-Mayoral 2019 J…",
+    "authors": "Geert Brethouwer, Seyed Morteza Habibi Khorasani, Shervin Bagheri",
+    "published": "2026-06-15",
+    "keywords_matched": [
+      "ABL",
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Differences in Anthropogenic Emission Inventories and Their Impacts on High‐Resolution CO\n                    <sub>2</sub>\n                    Simulation in Jiangsu Province, China",
+    "doi": "10.1029/2025jd046225",
+    "url": "https://doi.org/10.1029/2025jd046225",
+    "abstract": "Abstract Accurate simulation of regional carbon dioxide (CO 2 ) concentrations is critical for urban carbon monitoring, inverse modeling and mitigation. However, large uncertainties persist due to differences in anthropogenic emission inventories in China. Focusing on Jiangsu Province in the Yangtze River Delta, where the mean inter‐inventory spread in annual city‐level total emissions exceeds 60% and spatial discrepancies are substantial, we assessed how six widely used inventories affect modeled CO 2 fields. Using a 3‐km WRF‐Chem‐VPRM framework, we performed simulations for July and December 2022. To isolate the impact of inventory‐related uncertainties, we designed sensitivity experiments that separately perturbed inventory selection, emission magnitude, spatial distribution, and tempor…",
+    "authors": "Wei Feng, Xiao Tang, Jiang Zhu, Xu Zhou et al.",
+    "published": "2026-06-15",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "EMMA-Tracker v1.0: a mesoscale convective system tracker and 27-year European observational climatology",
+    "doi": "10.5194/gmd-19-5119-2026",
+    "url": "https://doi.org/10.5194/gmd-19-5119-2026",
+    "abstract": "Abstract. Investigating how mesoscale convective systems (MCSs) over Europe will change in a warming climate relies on robust projections from climate models. To confidently use these projections, researchers must first understand model capabilities and uncertainties through strict, process-based evaluation against past observations. However, a lack of suitable reference datasets currently hinders this evaluation. Existing observational trackers often use variables unavailable in European climate model ensemble output or group mesoscale convection together with co-occurring synoptic-scale fronts. Because climate models represent synoptic and mesoscale dynamics through fundamentally different physical pathways, accurately evaluating a model's convective performance requires a benchmark that…",
+    "authors": "David Kneidinger, Armin Schaffer, Douglas Maraun",
+    "published": "2026-06-15",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Composite sharpening by vortex symmetrization and normalization of tropical cyclones",
+    "doi": "10.5194/gmd-19-5041-2026",
+    "url": "https://doi.org/10.5194/gmd-19-5041-2026",
+    "abstract": "Abstract. Cyclone composites are a powerful tool for investigating the mean characteristics of tropical cyclones (TCs), offering insights into the mechanisms driving storm development. Traditional composite methods align cyclone centers to capture large-scale patterns but they tend to smooth out mesoscale features. We introduce a novel compositing framework, the SYmmetrized-Normalized Cyclone (SyNC) compositing, designed to address the structural variety of TCs. This method symmetrizes storms to axisymmetric vortices and normalizes them according to their eyewall location and the size of the TC (defined by the radius of 17 m s−1 winds). The method is applied to simulated TCs with the weather and climate model ICON run at 5 km horizontal grid length. ICON reveals the ability to simulate eve…",
+    "authors": "Andrina Caratsch, Sylvaine Ferrachat, Ulrike Lohmann",
+    "published": "2026-06-15",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "A local terrain smoothing approach for stabilizing microscale  and high-resolution mesoscale simulations: a case  study using FastEddy® (v3.0) and WRF (v4.6.0)",
+    "doi": "10.5194/gmd-19-5139-2026",
+    "url": "https://doi.org/10.5194/gmd-19-5139-2026",
+    "abstract": "Abstract. High-resolution simulations at both mesoscale and microscale increasingly rely on detailed terrain datasets, but terrain-following coordinate models can suffer from numerical instabilities in steep-slope regions. To address this issue, terrain smoothing is typically applied in numerical weather prediction models, though conventional global smoothing unnecessarily reduces resolution across the entire domain. This study presents a localized terrain smoothing approach designed to prevent numerical instabilities while preserving terrain details. Different smoothing strategies were tested for efficiency, computational cost, and terrain preservation. The final approach applies a Gaussian filter with adaptive standard deviation within a localized 3 × 3 grid, with a blending factor of 0.…",
+    "authors": "Eloisa Raluy-López, Domingo Muñoz-Esparza, Juan Pedro Montávez",
+    "published": "2026-06-15",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Toward Improved Tropical Cyclone Forecasting: An Optimized Strategy Combining Dynamic Initialization and Bogus Data Assimilation",
     "doi": "10.1029/2026jd046976",
@@ -6053,104 +6150,6 @@
     "keywords_matched": [
       "turbulence",
       "drag reduction"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Theoretical modelling for bubble dynamics with migration effects under dynamic Reynolds numbers",
-    "doi": "10.1017/jfm.2026.11252",
-    "url": "https://doi.org/10.1017/jfm.2026.11252",
-    "abstract": "Bubble dynamics constitutes a fundamental scientific problem in fluid mechanics. Although the oscillation can be predicted through theories for bubble dynamics in previous studies, the viscous effects on the bubble migration remains difficult to predict accurately. In this study, we establish a theoretical model for bubble migration across the entire cycle. The theoretical model derives a drag coefficient expression under dynamic Reynolds numbers, and incorporates corrections to account for non-spherical bubble dynamics. A key advance is the capability to account for viscous drag without relying on constant empirical drag coefficients. Validation against experimental results demonstrates that the theoretical model effectively predicts the bubble migration. Furthermore, we discuss the corre…",
-    "authors": "Run-Ze Xu, A-Man Zhang, Shi-Min Li, Shi-Ping Wang",
-    "published": "2026-03-23",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Miniature vortex generator control of turbulent boundary layers",
-    "doi": "10.1017/jfm.2026.11297",
-    "url": "https://doi.org/10.1017/jfm.2026.11297",
-    "abstract": "Miniature vortex generators (MVGs) are a promising passive flow control technique for viscous drag reduction by producing large-scale vortical motions that manipulate turbulence structures in turbulent boundary layers (TBLs) without significant device drag. This study conducts hot-wire anemometry experiments to investigate the influence of the Reynolds number and the ratio of MVG height $h$ to TBL thickness $\\delta _0$ (MVG height ratio $h/\\delta _0$ ) on turbulence structures. Experiments encompass two MVG height ratios, $h/\\delta _0=0.09,\\;0.18$ , friction Reynolds numbers ranging from ${\\textit{Re}}_\\tau =400$ to 2000 and measure the velocity information at various downstream stations. Spectral analysis confirms the MVG-induced vortices amplify large-scale structures in the outer region…",
-    "authors": "Jiahao Kong, Luke Bennetts, Bagus Nugroho, Rey Chin",
-    "published": "2026-03-23",
-    "keywords_matched": [
-      "turbulence",
-      "vortex",
-      "drag reduction"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Transient dispersion in oscillatory flows: auxiliary-time extension method for concentration moments",
-    "doi": "10.1017/jfm.2026.11292",
-    "url": "https://doi.org/10.1017/jfm.2026.11292",
-    "abstract": "The dispersion phenomenon of mass and heat transport in oscillatory flows has wide applications in environmental, physiological and microfluidic flows. The method of concentration moments is a powerful theoretical framework for analysing transport characteristics and is well developed for steady flows: general solution expressions of moments have been profoundly derived by Barton ( J. Fluid Mech. 126, 1983, 205–218). However, it was thought that these expressions could not be directly applied to unsteady flows. Prior studies needed to re-solve the governing equations of moments from scratch, encountering the complication induced by the time-periodic velocity, leaving higher-order statistics like skewness and kurtosis analytically intractable except for specific cases. This work proposes a …",
-    "authors": "Weiquan Jiang, Guoqian Chen",
-    "published": "2026-03-23",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Mass transfer effects during bubble mobilisation in yield stress fluids via pressure reduction",
-    "doi": "10.1017/jfm.2026.11298",
-    "url": "https://doi.org/10.1017/jfm.2026.11298",
-    "abstract": "Recent experiments by Daneshi &amp; Frigaard ( J. Fluid Mech. , vol. 957, 2023, p. A16) examined the response of an initially spherical, stationary bubble in an elastic yield-stress material to stepwise ambient-pressure variations under two protocols. In the first protocol, pressure decreases and the bubble swells, elongates, and mobilises. In the second protocol, pressure decreases then increases; the bubble stays stationary, but its volume shows hysteresis between the two phases. This hysteresis was attributed to elastic non-recoverable strain. In the present study, we numerically investigate these two protocols, accounting for elasticity, residual stresses and nonlinear viscoelastic deformation before yielding, using the Saramito–Herschel–Bulkley model. In the first protocol, assuming c…",
-    "authors": "Athanasios Kordalis, Giancarlo Esposito, Pourya Zakeri, Yannis Dimakopoulos et al.",
-    "published": "2026-03-23",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "The dual-solution stability gap and dynamic transition from steady regular reflection to unstable Mach reflection",
-    "doi": "10.1017/jfm.2026.11335",
-    "url": "https://doi.org/10.1017/jfm.2026.11335",
-    "abstract": "For regular reflection (RR) and Mach reflection (MR), the critical parameter of the trailing-edge height ( $H_{R,min }$ ), at which the reflected shock grazes the trailing edge, is the critical condition for stable and unstable reflection. A proof of the statement that $H_{R,min }$ for MR is larger than $H_{R,min }$ for RR, within some region in the dual-solution domain, is important for confirming the existence of a dual-solution stability gap, within which RR is stable while MR is unstable. This proof is accomplished here by transitivity, with the intermediate value corresponding to the minimum height of the Mach stem. By establishing a bridge between the evaluation of $H_{R,min }$ for MR and that of the linear coefficients for Mach stem height variation with the trailing-edge height, we…",
-    "authors": "Xue-Ying Wang, Zi-Niu Wu",
-    "published": "2026-03-23",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Frenkel’s entropy-exchange mechanism in monodisperse, nearly hard-sphere colloids: minimal perturbations to access fluid–crystal coexistence",
-    "doi": "10.1017/jfm.2026.11287",
-    "url": "https://doi.org/10.1017/jfm.2026.11287",
-    "abstract": "Entropically driven fluid–solid transitions in monodisperse, purely repulsive hard spheres (MPRHS) are well established in theory, simulation and experiment for atomic and colloidal systems. For MPRHS, however, coexistence is usually located via bulk free-energy calculations; the underlying microscopic balance between configurational and vibrational entropy is left implicit. Frenkel clarified this mechanism explicitly as an exchange of long-range configurational entropy for short-range vibrational entropy, but in the pristine MPRHS limit the nucleation barrier near coexistence is so high that phase separation is predicted only on astronomical time scales. Consistent with this, even unbiased simulations do not show spontaneous, equilibrium fluid–crystal coexistence; transient mixtures are m…",
-    "authors": "J. Galen Wang, Umesh Dhumal, Monica E.A. Zakhari, Roseanna N. Zia",
-    "published": "2026-03-23",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "A fully implicit second order method for viscous free surface  Stokes flow – application to glacier simulations",
-    "doi": "10.5194/gmd-19-2333-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2333-2026",
-    "abstract": "Abstract. We present a fully implicit finite element method for viscous free surface Stokes problems which are common in glaciology and geodynamics. Standard fully implicit iterative solvers diverge for such problems when using large time steps. We address this by incorporating a stabilization term that vanishes upon convergence. This approach enables the use of large time steps, thereby significantly improving the efficiency of simulations. Furthermore, we leverage the fully implicit solver to develop second-order time-stepping schemes that mitigate the high errors associated with first-order methods for large time steps. The methods are tested and evaluated on model domains relevant to geodynamics and glaciology.",
-    "authors": "Josefin Ahlkrona, A. Clara J. Henry, André Löfgren",
-    "published": "2026-03-23",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Spatiotemporal Resolution Emission Spectra of Continuously Propagating Positive Leader Channels in Long Spark Discharges",
-    "doi": "10.1029/2025jd044801",
-    "url": "https://doi.org/10.1029/2025jd044801",
-    "abstract": "Abstract Optical emission spectroscopy (OES) is one of the most practical methods for quantitative analysis in lightning research. Although the method has been widely used in studies of return strokes, laboratory discharges, and negative lightning leaders, the spectra of continuously propagating positive leader channels have not yet been recorded due to their faint luminance. In this paper, we report 14 events of spatiotemporal resolution emission spectra of continuously propagating positive leader channels obtained using a slit‐less high‐speed spectrograph consisting of a grating mounted in front of a high‐speed camera. These spectra showed that the OI 777 nm triplet exhibited the strongest intensity, observed during the continuous and stable development stage of the propagating positive …",
-    "authors": "Zhiqiang Wang, Weijiang Chen, Nianwen Xiang, Zhong Fu et al.",
-    "published": "2026-03-20",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
