@@ -1,5 +1,103 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Invariant p.d.f. property of velocity fluctuation in high-Reynolds-number turbulent boundary layer",
+    "doi": "10.1017/jfm.2026.11568",
+    "url": "https://doi.org/10.1017/jfm.2026.11568",
+    "abstract": "Streamwise velocity fluctuations are measured in a zero-pressure gradient turbulent boundary layer at high Reynolds numbers. When normalised by the mean and standard deviation, u Subscript r u r $u_r$ , the probability density function (p.d.f.) of the fluctuations exhibits invariance within distinct wall-normal regions. Two such regions were identified: one situated near the plateau of the turbulence intensity profile and the other associated with the logarithmic region ( left parenthesis u Subscript r Superscript plus Baseline right parenthesis squared equals upper A 1 ln left parenthesis y divided by delta right parenthesis plus upper B 1 ( u r + ) 2 = A 1 ln ⁡ ( y / δ ) + B 1 $(u_r^+)^2=A_1 \\ln (y/\\delta )+B_1$ ) consistent with Townsend’s attached-eddy hypothesis. The p.d.f. shapes in …",
+    "authors": "Yoshiyuki Tsuji, Atsushi Ido",
+    "published": "2026-06-18",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Dynamical evolution of buoyancy-driven flow induced by submerged thermal vertical pipes",
+    "doi": "10.1017/jfm.2026.11695",
+    "url": "https://doi.org/10.1017/jfm.2026.11695",
+    "abstract": "The buoyancy-driven natural convection induced by submerged thermal vertical pipes acts as a passive thermal pump without moving parts, characterised by efficient heat transfer. It comprises three key components: natural convection inside the pipe, a thermal plume above the pipe exit and a radial intrusion flow along the upper free surface. Our previous work (Nie &amp; Xu 2022 J. Fluid Mech ., vol. 937 , A29) investigated transient natural convection in a vertical pipe for fluids with a Prandtl number ( italic probability Pr ${\\textit{Pr}}$ ) less than unity. In this study we extend the scaling analysis to water ( italic probability greater than 1 Pr &gt; 1 ${\\textit{Pr}}\\gt 1$ ), which exhibits fundamentally different dynamics due to the dominance of viscous diffusion over thermal diffusi…",
+    "authors": "Bingchuan Nie, Mengfan Lu, Feng Xu",
+    "published": "2026-06-17",
+    "keywords_matched": [
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Clustering and dynamics of finite-size light particles in homogeneous isotropic turbulence",
+    "doi": "10.1017/jfm.2026.11693",
+    "url": "https://doi.org/10.1017/jfm.2026.11693",
+    "abstract": "We investigate the effects of particle density and volume fraction on the clustering and dynamics of Taylor-scale light particles in forced homogeneous isotropic turbulence. Particle-resolved direct numerical simulations based on the immersed boundary method are employed to resolve the turbulent flow, particle–fluid interactions and particle–particle collisions. Voronoï analysis reveals that light particles (density ratio rho Subscript r Baseline less than 1 ρ r &lt; 1 $\\rho _r \\lt 1$ ) exhibit stronger spatial clustering than heavy ( rho Subscript r Baseline greater than 1 ρ r &gt; 1 $\\rho _r \\gt 1$ ) or neutrally buoyant ( rho Subscript r Baseline equals 1 ρ r = 1 $\\rho _r = 1$ ) ones, and the tendency of clustering for light particles also increases with volume fraction phi ϕ $\\phi$ . L…",
+    "authors": "Shuojin Li, Xinyu Jiang, Chun-Xiao Xu, Lihao Zhao",
+    "published": "2026-06-17",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Lattice Boltzmann model for non-ideal compressible fluid dynamics",
+    "doi": "10.1017/jfm.2026.11636",
+    "url": "https://doi.org/10.1017/jfm.2026.11636",
+    "abstract": "We present a new kinetic model and its lattice Boltzmann realisation for the simulation of compressible, non-ideal fluid flows. The method employs first-neighbour lattices and introduces a consistent set of correction terms constructed via quasi-equilibrium attractors, ensuring positive-definite and Galilean-invariant Navier–Stokes dissipation rates. This construction circumvents the need for extended stencils or ad hoc regularisation, while maintaining numerical stability and thermodynamic consistency across a broad range of flow regimes. The resulting model accurately reproduces both the Euler and Navier–Stokes hydrodynamic limits. As a stringent validation, we demonstrate, for the first time within a lattice Boltzmann framework, quantitatively accurate simulations of shock–drop interact…",
+    "authors": "Seyed Ali Hosseini, Milo Feinberg, Ilya Karlin",
+    "published": "2026-06-17",
+    "keywords_matched": [
+      "lattice boltzmann"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On the drag of vortex rings interaction with a porous wall",
+    "doi": "10.1017/jfm.2026.11701",
+    "url": "https://doi.org/10.1017/jfm.2026.11701",
+    "abstract": "Experimental investigations on the flow and drag characteristics of a laminar vortex ring impinging on a porous wall are conducted using time-resolved particle image velocimetry (PIV) and laser-induced fluorescence (LIF). Four cases with varying hole diameters ( d Subscript h Superscript asterisk d h ∗ ${d}_{{h}}^*$ = 0.067–0.20) are examined at a constant porosity ( phi equals 0.75 ϕ = 0.75 ${\\phi } = 0.75$ ). The evolution of the vortical structures is depicted by the finite-time Lyapunov exponent. To enhance the understanding of the formation of transmitted vortex rings, three-dimensional structures are constructed with LIF images in cross-sectional planes. Furthermore, the pressure fields are determined from PIV data using a physics-informed neural network that enables the calculation …",
+    "authors": "Yang Xu, Lei Wang, Jinjun Wang",
+    "published": "2026-06-17",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Analytical study of inviscid instabilities in exponentially modelled compressible boundary layers over porous walls",
+    "doi": "10.1017/jfm.2026.11663",
+    "url": "https://doi.org/10.1017/jfm.2026.11663",
+    "abstract": "We investigate the influence of porous walls on the linear temporal stability of compressible boundary layers with adiabatic wall temperature, focusing on effects arising from variations in the porous wall configuration. Assuming an exponential base-flow profile and a regularly structured wall with cylindrical pores as a model assumption allows for an analytic solution of the underlying inviscid compressible Rayleigh equation in terms of the general Heun function, thereby reducing the problem to an algebraic eigenvalue equation. This enables the analysis of eigenmodes across a wide Mach number range and broad variations in the porous-wall parameters, porosity phi ϕ $\\phi$ and layer thickness h h $h$ , revealing a novel delineation of parameter regimes associated with different effects on t…",
+    "authors": "Lara De Broeck, Simon Görtz, Patrick Alter, Martin Oberlack",
+    "published": "2026-06-17",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "A solution for the quasi-one-dimensional linearised Euler equations with wall friction",
+    "doi": "10.1017/jfm.2026.11729",
+    "url": "https://doi.org/10.1017/jfm.2026.11729",
+    "abstract": "The unsteady response of nozzles with wall friction forced by acoustic and/or entropy waves is modelled. The approach is based on the quasi-one-dimensional linearised Euler equations. The equations are cast in terms of three variables, namely the dimensionless mass, stagnation temperature and entropy fluctuations, which are invariants of the system at zero frequency and in the absence of wall friction. The resulting first-order system of differential equations is solved using the Magnus-expansion method, where the perturbation parameters are the normalised frequencies and Fanning friction factors. In this work, a measure of the flow non-isentropicity caused by wall friction is used for the first time as an expansion parameter. The solution method is applied to a converging–diverging nozzle…",
+    "authors": "Xiao Hu, Aimee Morgans, Saikumar R. Yeddula",
+    "published": "2026-06-17",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Assessment of refined similarity hypothesis in magnetohydrodynamic turbulence",
+    "doi": "10.1017/jfm.2026.11686",
+    "url": "https://doi.org/10.1017/jfm.2026.11686",
+    "abstract": "The Kolmogorov’s refined similarity hypothesis (RSH), which plays a fundamental role in studying turbulence intermittency, establishes a connection between locally averaged energy dissipation rates and statistics of velocity increments. This work extends the RSH framework from hydrodynamic (HD) turbulence to magnetohydrodynamic (MHD) turbulence. In analogy to the form of the RSH in HD turbulence and the third-order law in MHD turbulence (Politano &amp; Pouquet, Geophys. Res. Lett. , vol. 25, 1998, pp. 273–276), simple and mixed forms of RSH in MHD turbulence are proposed. These two forms are systematically verified and compared with datasets from direct numerical simulations. The results reveal that the simple form satisfies the predictions of Kolmogorov’s RSH, with respect to the scaling …",
+    "authors": "Bin Jiang, Yan Yang, Yuchen Ye, Cheng Li et al.",
+    "published": "2026-06-17",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
     "journal": "Advances in Atmospheric Sciences",
     "title": "Storm-Resolving Earth: How Well Do Global Kilometer-scale Models Simulate Storms in East Asia’s 2020 Record-breaking Wet Summer?",
     "doi": "10.1007/s00376-026-5756-7",
@@ -32,6 +130,19 @@
     "authors": "Changfeng Sun, Yu Liu, Congxi Fang, Lu Wang et al.",
     "published": "2026-06-16",
     "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Shear-free, inhomogeneous turbulence in a stably stratified fluid",
+    "doi": "10.1017/jfm.2026.11627",
+    "url": "https://doi.org/10.1017/jfm.2026.11627",
+    "abstract": "High-resolution large eddy simulations are conducted of locally forced, shear-free turbulence in the presence of an initially sharp density interface. The simulations are reminiscent of oscillating grid turbulence experiments used to isolate the effect of turbulent diffusion and entrainment from background shear. By simulating such a flow we avoid common challenges of the experiments such as secondary-flow contamination due to sidewall effects and the inevitable interaction of the stratifying agent and forcing region. To address the latter concern, we add a heating term (potential energy sink) to the governing equations in the forcing layer, thereby preventing a heat flux through the source region. This modification sets up a continuous stratification in the mixed layer that is often assum…",
+    "authors": "Ryan Hass, Sanjiva Lele",
+    "published": "2026-06-16",
+    "keywords_matched": [
+      "turbulence",
       "ABL"
     ]
   },
@@ -6036,119 +6147,6 @@
     "published": "2026-03-25",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "The spatio-temporal visualization tool HMMLVis in  renewable energy applications",
-    "doi": "10.5194/gmd-19-2385-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2385-2026",
-    "abstract": "Abstract. Understanding causal relationships in multivariate time series is essential across many scientific domains, especially in climatology and meteorology where complex dependencies drive extreme events. Existing tools often lack intuitive visualization, particularly for heterogeneous Granger causality applied to non-Gaussian data such as time series following exponential distributions. There is a need for an accessible, interpretable tool that helps scientists explore temporal dependencies and uncover causal structure in such settings. We present HMMLVis, an original visualization tool designed for multivariate and heterogeneous Granger causal inference (Heterogeneous Granger causality by Minimum Message Length). The tool supports causal discovery in time series with exponential dist…",
-    "authors": "Rainer Wöß, Kateřina Hlaváčková-Schindler, Irene Schicker, Petrina Papazek et al.",
-    "published": "2026-03-25",
-    "keywords_matched": [
-      "ABL",
-      "renewable energy"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Non-monotonic ice-core thawing in a water pool driven by competition between anomaly-triggered chaotic flow and normal natural convection",
-    "doi": "10.1017/jfm.2026.11362",
-    "url": "https://doi.org/10.1017/jfm.2026.11362",
-    "abstract": "This study demonstrates a non-monotonic relation between pool temperature and thawing time for the ice-core thawing problem in a water pool. Numerical simulations reveal that this non-monotonicity arises from competing flow mechanisms from the non-Oberbeck–Boussinesq effect driven by the density-temperature anomaly at ${\\sim}4\\,^\\circ \\text{C}$ of water. The sides come from the anomaly-triggered chaotic flow and the normal natural convection stabilised by the buoyancy force. During the thawing process, the flow in the pool experiences a transient stable, an oscillatory, a transitional and the finally chaotic state over time. The pool size modulates the competition between chaotic flow and natural convection through the Rayleigh numbers with a critical value $\\varLambda _{c}$ . Within the c…",
-    "authors": "Hangyu Chen, Moran Wang",
-    "published": "2026-03-25",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Modelling and dynamics of axisymmetric thin liquid film flow along a conical surface",
-    "doi": "10.1017/jfm.2026.11317",
-    "url": "https://doi.org/10.1017/jfm.2026.11317",
-    "abstract": "This study focuses on the modelling and dynamics of gravity-driven, axisymmetric thin liquid film flow along a conical surface. Spatial linear stability analysis is performed on the basis of a Benney-type equation derived for the present configuration. In particular, streamwise curvature of the free surface is found to exert a crucial influence on the stability threshold. For simulations of surface waves, a second-order low-dimensional model is developed under the long-wave assumption, achieving accuracy comparable to direct numerical simulations at far lower cost. With this model, the characteristics of both linear and nonlinear waves are examined. A key difference from the flow over a flat plate is the dependence of the wave dynamics on the radial distance from the cone apex. At relative…",
-    "authors": "Longmin Tang, Guangzhao Zhou",
-    "published": "2026-03-25",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Distinguished regimes of 2-D internal gravity wave turbulence",
-    "doi": "10.1017/jfm.2026.11329",
-    "url": "https://doi.org/10.1017/jfm.2026.11329",
-    "abstract": "Using weak wave turbulence theory analysis, we distinguish three main regimes for two-dimensional (2-D) stratified fluids in the dimensionless parameter space defined by the Froude number and the Reynolds number: discrete wave turbulence, weak wave turbulence and strong nonlinear interaction. These regimes are investigated using direct numerical simulation (DNS) of the 2-D Boussinesq equations with shear modes removed. In the weak wave turbulence regime, excluding slow frequencies, we observe a spectrum that aligns with recent predictions from kinetic theory. This finding represents the first DNS-based confirmation of wave turbulence theory for internal gravity waves. At strong stratification, in both the weak and strong interaction regimes, we observe the formation of layers accompanied b…",
-    "authors": "Vincent Labarre, Michal Shavit",
-    "published": "2026-03-25",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Aerodynamic effects of rotor–rotor interaction on a twin-rotor system in ground effect",
-    "doi": "10.1017/jfm.2026.11347",
-    "url": "https://doi.org/10.1017/jfm.2026.11347",
-    "abstract": "This study experimentally investigates the aerodynamic effects of rotor–rotor interaction in a twin-rotor system operating in ground effect at a rotor-tip Reynolds number of $10^5$ . The strength of the ground effect and the rotor interaction were controlled by adjusting the normalised ground standoff distance and rotor separation distance, respectively. For the single-rotor configuration, ground proximity generated a stagnation region within the wake, redirecting axial momentum radially outward to form a wall jet. As the rotor approached the ground, the stagnation region moved closer to the rotor disk, increasing the thrust coefficient. In the widely spaced twin-rotor case, the opposing wall jets from both rotors converged on the ground to form a stagnation point. From this point, the flo…",
-    "authors": "Seungcheol Lee, Seokbong Chae, Yisu Shin, Jooha Kim",
-    "published": "2026-03-24",
-    "keywords_matched": [
-      "wake"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Effects of rotation on kinetic energy and enstrophy in Rayleigh–Taylor turbulence",
-    "doi": "10.1017/jfm.2026.11346",
-    "url": "https://doi.org/10.1017/jfm.2026.11346",
-    "abstract": "The study of rotating Rayleigh–Taylor (RT) turbulence is of fundamental significance for geophysical processes and certain engineering applications. This work systematically investigates the effects of rotation on RT turbulence using direct numerical simulation (DNS), focusing primarily on the generation of kinetic energy and enstrophy, as well as the scale-to-scale transfer of kinetic energy. Based on the DNS results, it is demonstrated that there is a notable delay and inhibition of the mixing layer growth with enhancing rotation (quantified as a decreasing Rossby number, $Ro$ ). That is, energy conversion efficiency drops substantially, from approximately $50\\,\\%$ in the non-rotating case $Ro = \\infty$ to only $10\\,\\%$ in the strong rotating case $Ro=0.1$ . This is because rotation ampl…",
-    "authors": "Xin Xu, Zhiye Zhao, Fenghui Lin, Chenyue Xie et al.",
-    "published": "2026-03-24",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Modification of turbulence by the movement of a spherical vortex",
-    "doi": "10.1017/jfm.2026.11270",
-    "url": "https://doi.org/10.1017/jfm.2026.11270",
-    "abstract": "This paper presents a theoretical and computational investigation into how a propagating three-dimensional vortex modifies ambient turbulence. Using rapid distortion theory and numerical simulations, the study explores both local and non-local changes in the external vorticity field resulting from fluid displacement and stretching. Cases involving structured and unstructured turbulence reveal that the vortex introduces permanent distortions along its path, and alters the far field turbulence through reflux effects. The findings extend classical models by quantifying the impact of vortex-induced strain and displacement on turbulence, offering new insights into turbulent–turbulent interfaces and the role of coherent structures in modulating external turbulent fields.",
-    "authors": "Ian Eames, Jan-Bert Flór",
-    "published": "2026-03-24",
-    "keywords_matched": [
-      "turbulence",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "The effects of section shape on the lift spectrum for a foil in turbulent flow",
-    "doi": "10.1017/jfm.2025.11059",
-    "url": "https://doi.org/10.1017/jfm.2025.11059",
-    "abstract": "The effects of section shape, specifically thickness and camber, on the lift spectrum for a foil immersed in a turbulent flow are analytically and experimentally investigated. The lift response functions to incident cross-stream vortices drifting along streamlines offset from the foil within two chord lengths are computed using an analytical solution to the Blasius force equation, achieved by way of using an expanded Joukowsky mapping function that can map a circle in the complex plane to any selected foil shape. The vortex lift responses are convolved with the vorticity wavenumber–frequency spectrum for a homogenous turbulent flow to compute the overall foil lift due to incident turbulence. Calculations of the lift spectra for a series of foils with increasing maximum thickness, NACA 651A…",
-    "authors": "Jason M. Anderson, Jonathan B. Forest",
-    "published": "2026-03-24",
-    "keywords_matched": [
-      "turbulence",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Limitations and Potential in Subseasonal Prediction of Antarctic Sea Ice Thickness for Thin Ice Regimes",
-    "doi": "10.1029/2025jd046173",
-    "url": "https://doi.org/10.1029/2025jd046173",
-    "abstract": "Abstract Subseasonal prediction systems based on coupled atmosphere‐ice‐ocean models are vital tools for polar environmental forecasting. However, their predictive skill for Antarctic sea ice thickness (SIT), which is a critical variable governing atmosphere‐ocean energy and mass exchange, remains inadequately assessed. In this study, we evaluated Antarctic SIT prediction skill in four dynamical systems (China Meteorological Administration, Environment and Climate Change Canada, European Centre for Medium‐Range Weather Forecasts, and Météo‐France) participating in the Subseasonal to Seasonal Prediction Project using the Soil Moisture and Ocean Salinity satellite‐derived thin SIT retrievals. Results indicate that dynamical systems show limited overall skill against observation‐based benchma…",
-    "authors": "Yifan Wang, Hao Luo, Yafei Nie, Yongwu Xiu et al.",
-    "published": "2026-03-24",
-    "keywords_matched": [
-      "ABL",
-      "ocean energy"
     ]
   }
 ]
