@@ -1,6 +1,43 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Quasilinear modelling of supersonic turbulent channel flow using incompressible flow data",
+    "doi": "10.1017/jfm.2026.11696",
+    "url": "https://doi.org/10.1017/jfm.2026.11696",
+    "abstract": "This study extends the data-driven quasilinear approximation (DQLA) (Holford, Lee &amp; Hwang 2024 J. Fluid Mech. , vol. 980 , A12) to compressible turbulent channel flow. The DQLA employs the eddy viscosity enhanced linearised compressible Navier–Stokes operator (Chen et al. 2023 J. Fluid Mech. , vol. 962 , A7), driven by stochastic forcing whose streamwise weights are determined through self-similarity assimilated from an incompressible direct numerical simulation (DNS) database, and spanwise weights are obtained by minimising discrepancies in the Reynolds stresses between the mean and the fluctuation equations. Without any compressible DNS input, the extended DQLA reproduces turbulence intensities and energy spectra in close quantitative agreement with DNS up to bulk Mach number italic …",
+    "authors": "Zecheng Zou, Alessendro Ceci, Yuxin Jiao, Sergio Pirozzoli et al.",
+    "published": "2026-06-19",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Active control of skin-friction and wall-heat-flux in hypersonic turbulent boundary layers via wall mass transport",
+    "doi": "10.1017/jfm.2026.11668",
+    "url": "https://doi.org/10.1017/jfm.2026.11668",
+    "abstract": "Active control of hypersonic turbulent boundary layers (HTBLs) at Mach 5.9 via wall mass transport, including uniform blowing, opposition control and their combination, is studied using direct numerical simulation. For uniform blowing, scalings of drag reduction rate (DR) and wall-heat-flux reduction rate (HR) are discovered by defining a novel friction-blowing velocity v Subscript w comma 0 Superscript plus v w , 0 + $v_{w,0}^+$ , which collapses the results across the hypersonic and low-speed flows, enabling rapid engineering estimation. Skin-friction and wall-heat-flux decompositions reveal that the enhanced mean wall-normal convection plays the primary role in skin-friction and wall-heat-flux reduction. However, the Reynolds stress is enhanced due to the promotion of ejection and sweep…",
+    "authors": "Fan Mo, Bingliang Li, Zhenxun Gao, Chongwen Jiang et al.",
+    "published": "2026-06-19",
+    "keywords_matched": [
+      "ABL",
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Tracing Hailstone Development: Isotopic Evidence and Microphysical Variability in Texas Supercell Events",
+    "doi": "10.1029/2025jd043963",
+    "url": "https://doi.org/10.1029/2025jd043963",
+    "abstract": "Abstract Two supercell thunderstorms that occurred in Del Rio and Burkburnett, Texas in the spring of 2020 produced greater than 5 cm diameter hailstones. Fourteen hailstones, eight from Del Rio and six from Burkburnett, were cut in half along the maximum principal axis. Half the hailstone was dissected at 0.5 cm increments, providing 198 subsamples of meltwater (0.25 ml) for stable isotope analysis (ẟ 2 H and ẟ 18 O) using a Picarro L2130‐i water analyzer and half used to create a thin section for identification and analysis of ice crystal morphology. Deuterium serves as a proxy for relative altitude, providing a record of hailstone formation and growth trajectory, while crystallographic analysis differentiates wet and dry growth. Results indicate significant variations in isotopic compos…",
+    "authors": "Thomas E. Nordstrand, Yongli Gao, Stephen F. Ackley, Nicholas L. Hampshire et al.",
+    "published": "2026-06-19",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Invariant p.d.f. property of velocity fluctuation in high-Reynolds-number turbulent boundary layer",
     "doi": "10.1017/jfm.2026.11568",
     "url": "https://doi.org/10.1017/jfm.2026.11568",
@@ -6109,44 +6146,6 @@
     "keywords_matched": [
       "ABL",
       "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Eddy thermal diffusivity model and mean temperature profiles in turbulent vertical convection",
-    "doi": "10.1017/jfm.2026.11343",
-    "url": "https://doi.org/10.1017/jfm.2026.11343",
-    "abstract": "In this paper, we propose a space-dependent eddy thermal diffusivity model for turbulent vertical natural convection in a fluid between two infinite vertical walls at different temperatures. Using this model, we derive analytical results for the mean temperature profile. Our results reveal that mean temperature profiles for different Rayleigh and Prandtl numbers are described by two universal scaling functions in the inner region next to the walls and the outer region near the centreline between the two walls, and the characteristic temperature scales in the inner and outer regions are expressed in terms of the two parameters of the model which determine the characteristic velocities for heat transfer in the two regions. We show that these results are in good agreement with direct numerica…",
-    "authors": "Ho Yin Ng, Emily S.C. Ching",
-    "published": "2026-03-25",
-    "keywords_matched": [
-      "heat transfer"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "On the compressible Beltramian vortex in a hemispherically bounded cyclonic flow field",
-    "doi": "10.1017/jfm.2026.11139",
-    "url": "https://doi.org/10.1017/jfm.2026.11139",
-    "abstract": "This work introduces closed-form solutions to describe the compressible, cyclonic motion evolving in a hemispherical chamber configuration. The analysis begins with an expansion of the compressible Bragg–Hawthorne equation in spherical coordinates. Our basic assumptions include an adiabatic and impermeable wall, a uniformly distributed stagnation enthalpy, a chamber mass balance in the equatorial plane and a vanishing centreline cross-flow velocity. Using a Rayleigh–Janzen expansion in the squared injection Mach number, the leading-order solution is seen to recover the problem’s incompressible profile as a limiting case. Meanwhile, the first-order compressible correction is shown to produce closed-form expressions for the velocity and vorticity fields, most thermodynamic properties, the lo…",
-    "authors": "Daniel S. Little, Joseph Majdalani",
-    "published": "2026-03-25",
-    "keywords_matched": [
-      "ABL",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Simulation of Water Vapor Transport to the Stratosphere by Overshooting Convection",
-    "doi": "10.1029/2025jd045083",
-    "url": "https://doi.org/10.1029/2025jd045083",
-    "abstract": "Abstract Deep convection that penetrates the tropopause (overshooting convection) transports water vapor and other tropospheric constituents to the upper troposphere and lower stratosphere (UTLS). Overshooting convection has chemical and radiative impacts on the UTLS, including the downward transport of ozone and hydration of the stratosphere. Currently, water vapor transport due to overshooting convection is not well quantified. In this study the Weather Research and Forecasting model (WRF) is used to simulate a Mesoscale Convective System (MCS) that formed on 9 June 2022 and produced multiple overshoots over the course of 12 hr, with radar echo tops reaching up to 5 km above the ERA5 tropopause. Observations from the NEXRAD radar system are used along with in situ aircraft measurements f…",
-    "authors": "Daniel R. Jellis, Kenneth P. Bowman, Anita D. Rapp, Christopher J. Nowotarski",
-    "published": "2026-03-25",
-    "keywords_matched": [
-      "WRF",
-      "weather research and forecasting"
     ]
   }
 ]
