@@ -1,5 +1,29 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "GNSS Zenith Wet Delay as a Boundary Layer Diagnostic: Regime‐Dependent Turbulence Signatures From Large Eddy Simulation and Observations",
+    "doi": "10.1029/2026jd047347",
+    "url": "https://doi.org/10.1029/2026jd047347",
+    "abstract": "Abstract Global Navigation Satellite Systems (GNSS) provide continuous measurements of zenith wet delay (ZWD), reflecting column‐integrated atmospheric water vapor. While the slowly varying ZWD is routinely assimilated in numerical weather prediction, the rapid fluctuations on timescales of seconds to minutes that arise from boundary‐layer turbulence remain underexploited. We test the hypothesis that the variance and the cutoff frequency of the von Kármán model fitted to the ZWD power spectrum carry diagnostic information about boundary‐layer state. We develop a diurnal coherence framework based on Dynamic Time Warping, extrema lags and phase‐resolved slope ratios. The framework is calibrated on large‐eddy simulations (LES) of an idealized convective boundary layer. In the simulation, trac…",
+    "authors": "Gaël Kermarrec, Tim Schrader, Xavier Calbet, Zhiguo Deng",
+    "published": "2026-06-20",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Projected Changes in Extratropical Cyclone Activity Under Climate Change Scenario in East Asia",
+    "doi": "10.1029/2025jd045725",
+    "url": "https://doi.org/10.1029/2025jd045725",
+    "abstract": "Abstract Understanding the projected changes in extratropical cyclone (ETC) activity under climate change scenarios is essential for anticipating regional climate impacts and developing effective adaptation strategies. This study investigated how the ETC activity over East Asia responds to future climate conditions by dynamically downscaling simulations from the UK Earth System Model (UKESM6), which is part of Coupled Model Intercomparison Project Phase 6 (CMIP6), using four regional climate models (RCMs): GRIMs, WRF, RegCM, and CCLM. To robustly assess the changes in ETC characteristics, both Eulerian bandpass filtering and Lagrangian cyclone tracking methods were employed under four Shared Socioeconomic Pathway scenarios: SSP1‐2.6, SSP2‐4.5, SSP3‐7.0, and SSP5‐8.5. The results highlight …",
+    "authors": "Ui‐Yong Byun, Eun‐Chul Chang, Jae‐Deok Lee, Joowan Kim et al.",
+    "published": "2026-06-20",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Quasilinear modelling of supersonic turbulent channel flow using incompressible flow data",
     "doi": "10.1017/jfm.2026.11696",
@@ -6120,32 +6144,6 @@
     "published": "2026-03-26",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Optimal three-dimensional perturbations in fluttering and non-fluttering bioprosthetic aortic valves",
-    "doi": "10.1017/jfm.2026.11350",
-    "url": "https://doi.org/10.1017/jfm.2026.11350",
-    "abstract": "This study examines the transition to turbulence downstream of fluttering and non-fluttering bioprosthetic aortic valves using global linear stability theory. During systole, increasing inflow velocities result in temporally evolving flow profiles downstream of the valve which are highly influenced by the leaflet kinematics. These profiles are time averaged at the sinotubular junction over successive windows and used as boundary conditions to obtain base flows for stability analysis. Three-dimensional global modes are computed for one design of each valve type across multiple time windows, revealing several unstable modes whose frequencies and growth rates increase over time. Notably, the non-fluttering valve exhibits higher growth rates than the fluttering valve. The resulting eigenspectr…",
-    "authors": "Karoline-Marie Bornemann, Mohammad Moniripiri, Dan S. Henningson, Dominik Obrist et al.",
-    "published": "2026-03-25",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Vortical similarities across laminar and turbulent extreme gust encounters",
-    "doi": "10.1017/jfm.2026.11364",
-    "url": "https://doi.org/10.1017/jfm.2026.11364",
-    "abstract": "This study uncovers a striking similarity between massively separated laminar and turbulent flows that develop over a square wing during extreme vortex gust encounters. The evolving large-scale, vortical core structures responsible for significant transient lift variations exhibit remarkable similarity across ${\\textit{Re}}=600$ and 10 000. The formation of these structures is attributed to a substantial gust-induced vorticity flux produced at the wing surface, resulting in shared large-scale topological features between the low- and high-Reynolds-number flows. Although fine-scale vortical structures quickly emerge in the ${\\textit{Re}}=$ 10 000 case, the large-scale structures identified by scale decomposition of the turbulent flow resemble those observed at ${\\textit{Re}}=600$ . These fi…",
-    "authors": "Hiroto Odaka, Barbara Lopez-Doriga, Kunihiko Taira",
-    "published": "2026-03-25",
-    "keywords_matched": [
-      "ABL",
-      "vortex"
     ]
   }
 ]
