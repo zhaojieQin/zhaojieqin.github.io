@@ -1,5 +1,29 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Collective versus individual dispersion dynamics: vortex-ring modification across suspensions and polymer solutions",
+    "doi": "10.1017/jfm.2026.11572",
+    "url": "https://doi.org/10.1017/jfm.2026.11572",
+    "abstract": "We show that vortex rings forming in suspensions and polymer solutions exhibit similar behaviour in terms of vortex-core growth, vorticity redistribution and circulation when compared at loadings (i.e. volume fraction in suspensions and concentration in polymer solutions) normalised by their respective critical loading. This suggests that the collective, loading-driven dynamics of dispersed particles or polymer chains can outweigh the unique characteristics of the dispersion and govern certain aspects of the flow response. Using a confined vortex ring as a canonical structure, we synthesise experimental data spanning dilute to concentrated regimes for both media, with our analysis indicating that similar collective dynamics exist in both systems. Specifically, the vortex-core growth rate r…",
+    "authors": "Giuseppe A. Rosi, Moira R. Barnes, David E. Rival",
+    "published": "2026-06-22",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Second leading-edge vortex enhancement: a novel vortex-interaction mechanism for stall flutter suppression",
+    "doi": "10.1017/jfm.2026.11576",
+    "url": "https://doi.org/10.1017/jfm.2026.11576",
+    "abstract": "Stall flutter is suppressed on a NACA0012 airfoil at a low Reynolds number ( Re equals = $=$ 1000–5000) through a counter-intuitive strategy: targeted enhancement of the second leading-edge vortex (sLEV) via phase-optimised surface morphing, in contrast to the conventional paradigm of suppressing vortices. Two distinct flow topologies are identified: (I) boundary-layer-eruption-induced leading-edge vortex (LEV) shedding at large amplitudes ( upper A Subscript alpha A α $A_\\alpha$ ≥ 10°), accompanied by sLEV formation, and (II) bluff-body-type shedding at small amplitudes ( upper A Subscript alpha A α $A_\\alpha$ ≤ 5°) without sLEV. A new circulation scaling is introduced to identify topology I, which drives severe structural oscillations. Flow-structure analysis reveals a novel sLEV–trailin…",
+    "authors": "Yingjie Xia, Guangjing Huang, Yuting Dai, Chao Yang et al.",
+    "published": "2026-06-22",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "GNSS Zenith Wet Delay as a Boundary Layer Diagnostic: Regime‐Dependent Turbulence Signatures From Large Eddy Simulation and Observations",
     "doi": "10.1029/2026jd047347",
@@ -6119,30 +6143,6 @@
     "published": "2026-03-26",
     "keywords_matched": [
       "weather research and forecasting",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Issue Information",
-    "doi": "10.1029/jgrd.70522",
-    "url": "https://doi.org/10.1029/jgrd.70522",
-    "abstract": "No abstract is available for this article.",
-    "authors": "",
-    "published": "2026-03-26",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "The microbial community model MCoM 1.0: a scalable framework for modelling phototroph–heterotrophic interactions in diverse microbial communities",
-    "doi": "10.5194/gmd-19-2461-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2461-2026",
-    "abstract": "Abstract. Microbial communities, comprising phototrophic and heterotrophic microorganisms, play a crucial role in global biogeochemical cycles. However, existing biogeochemical models rarely take into account the complex interactions between these groups, usually focusing on competition for resources instead. In this work, we introduce the Microbial Community Model (MCoM), a framework for simulating the dynamics of diverse microbial communities. MCoM incorporates a wide range of interactions, such as cross-feeding, metabolite effects, and competition for nutrients. The model differentiates between dissolved organic nutrients (DON) and carbon (DOC), accounts for phytoplankton and heterotrophic bacterial species-specific organic matter release and uptake profiles, and simulates the impacts o…",
-    "authors": "Leonhard Lücken, Michael J. Follows, Jason G. Bragg, Sinikka T. Lennartz",
-    "published": "2026-03-26",
-    "keywords_matched": [
       "ABL"
     ]
   }
