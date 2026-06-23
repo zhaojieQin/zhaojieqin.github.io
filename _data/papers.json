@@ -24,6 +24,98 @@
     ]
   },
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Dry and cohesive granular flows in a rotating drum: flow dynamics and scaling behaviours",
+    "doi": "10.1017/jfm.2026.11716",
+    "url": "https://doi.org/10.1017/jfm.2026.11716",
+    "abstract": "Understanding the rheology of granular surface flows remains a significant challenge, particularly when inertial and cohesive interactions occur between particles to trigger complex regime transitions. This study investigates the steady flow dynamics of dry and cohesive granular materials through systematic rotating drum experiments, focusing on the effects of rotation speed, drum-to-particle size ratio and cohesion level. Scaling laws were further established to capture the combined effects of these factors and provide a unified description of flow behaviour across both dry and cohesive regimes. Results show that, for dry granular flows, both the normalised flowing layer thickness delta 0 divided by d δ 0 / d $\\delta_0/d$ where delta 0 δ 0 $\\delta_0$ is flowing layer thickness and d d $d$…",
+    "authors": "Zhongrong Wang, Annan Zhou, Teng Man, Wantao Ding et al.",
+    "published": "2026-06-22",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Genetic-algorithm-based control of a turbulent boundary layer",
+    "doi": "10.1017/jfm.2026.11625",
+    "url": "https://doi.org/10.1017/jfm.2026.11625",
+    "abstract": "This work aims to investigate experimentally the control of a turbulent boundary layer over a flat plate based on a genetic-algorithm (GA)-based control system. A novel actuator is developed in house, consisting of one array of 11 spanwise-aligned synthetic minijets through longitudinal miniature slits, each independently controlled in terms of its exit momentum coefficient C μ , frequency f e and phase ϕ , while nine wall wires are placed downstream of the actuator to measure a variation in wall friction. A GA is employed for the unsupervised learning of near-optimal control strategies, i.e. the optimal ϕ of the synthetic jets, with f e and C μ optimized first. The learning process unveils three typical control strategies that may attain substantial drag reduction (DR) in both actuation a…",
+    "authors": "Jianing Yu, Yu Zhou",
+    "published": "2026-06-22",
+    "keywords_matched": [
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Generating wall-bounded turbulent inflows at high Reynolds numbers",
+    "doi": "10.1017/jfm.2026.11689",
+    "url": "https://doi.org/10.1017/jfm.2026.11689",
+    "abstract": "One of the main challenges in simulating high Reynolds number ( italic Re Re ${\\textit{Re}}$ ) turbulent boundary layers (TBLs) is the long streamwise distance required for large-scale outer-layer structures to develop, making such simulations prohibitively expensive. We propose an inflow generation method for high italic Re Re ${\\textit{Re}}$ wall turbulence that leverages the known structure and scaling laws of TBLs. Pre-multiplied spectra of streamwise velocity show that with an increase in italic Re Re ${\\textit{Re}}$ the outer region grows and occupies more of the spanwise wavenumber space in proportion to the increase in italic Re Re ${\\textit{Re}}$ , while the inner region remains approximately the same. Exploiting this behaviour, we generate inflow conditions for a target italic Re…",
+    "authors": "Ronith Stanly, Timofey Mukha, Martin Karp, Stefano Markidis et al.",
+    "published": "2026-06-22",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Analytical modelling of wind-turbine wake turbulence in neutral atmospheric boundary layers",
+    "doi": "10.1017/jfm.2026.11685",
+    "url": "https://doi.org/10.1017/jfm.2026.11685",
+    "abstract": "So-called engineering or analytical wind farm flow solvers typically build upon two submodels: one for the velocity deficit and one for the wake-added turbulence intensity. While velocity-deficit modelling has received considerable attention, wake-added turbulence models are less prevalent in comparison. Yet, accurate estimates of local turbulence intensity are essential for predicting flow interactions and energy yield, as turbine wakes are both sensitive to, and sources of, turbulence. Existing wake-added turbulence models are typically empirical or assume axial symmetry despite the inherently three-dimensional nature of turbulent wake fields. In this work, we present a new model for wake-added turbulence intensity. Our approach is based on the analysis of the turbulent kinetic energy an…",
+    "authors": "Frédéric Blondel, Erwan Jézéquel, Helen Schottenhamml, Majid Bastankhah",
+    "published": "2026-06-22",
+    "keywords_matched": [
+      "wake",
+      "wind farm",
+      "turbulence",
+      "atmospheric boundary layer",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "High‐Resolution Climate Simulations Over the Eastern Mediterranean Black Sea Region Using the Pseudo‐Global Warming Method With a CMIP6 Ensemble: Wind Energy Resource Availability",
+    "doi": "10.1029/2025jd045816",
+    "url": "https://doi.org/10.1029/2025jd045816",
+    "abstract": "Abstract Weather‐dependent renewable energy resources are already vulnerable to climate change. High‐resolution regional climate simulations are essential for accurately assessing how climate change may impact wind energy resources, particularly in regions with complex topography. In this study, we dynamically downscaled ERA5 data using the Weather Research and Forecasting (WRF) model, both in its original form and its perturbed version within the framework of the Pseudo Global Warming (PGW) method. The perturbation was performed using deltas from the 13‐member CMIP6 ensemble, derived from the far future under the Shared Socio‐economic Pathway (SSP)5–8.5 scenario and historical periods. This approach was adopted to achieve a 4 km resolution over the Eastern Mediterranean Black Sea (EMBS) r…",
+    "authors": "I. Isik‐Cetin, I. Yücel, S. Ç. Bağçacı, M. T. Yılmaz",
+    "published": "2026-06-22",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting",
+      "wind energy",
+      "ABL",
+      "renewable energy"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Near‐Equal Agricultural and Non‐Agricultural Contributions to Atmospheric Ammonia in the Erhai Lake Basin, China: Evidence From\n                    <i>δ</i>\n                    <sup>15</sup>\n                    N Isotope‐Based Source Apportionment",
+    "doi": "10.1029/2025jd045536",
+    "url": "https://doi.org/10.1029/2025jd045536",
+    "abstract": "Abstract Atmospheric ammonia (NH 3 ) deposition poses a threat to aquatic ecosystems by contributing to eutrophication, particularly in vulnerable alpine lakes. While emission inventories prioritize agricultural sources, the role of non‐agricultural emissions remains poorly quantified in many regions. We present a high‐resolution source apportionment of atmospheric NH 3 in the Erhai Lake Basin in China, integrating a dense monitoring network (45 sites across six land‐use types) with δ 15 N isotope signatures and Bayesian mixing modeling. A localized δ 15 N‐NH 3 source fingerprint library was established from seven specific sources and grouped into five end‐member categories: agricultural (fertilizer and livestock) and non‐agricultural (waste, transportation, and biomass burning). The resul…",
+    "authors": "Jiahui Kang, Yuepeng Pan, Sijie Feng, Chenxi Yao et al.",
+    "published": "2026-06-22",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Automatic tuning of iterative pseudo-transient solvers for modeling the deformation of heterogeneous media",
+    "doi": "10.5194/gmd-19-5343-2026",
+    "url": "https://doi.org/10.5194/gmd-19-5343-2026",
+    "abstract": "Abstract. Geodynamic modeling has become a crucial tool for investigating the dynamics of Earth deformation across various scales. Such simulations often involve solving mechanical problems with significant material heterogeneities (e.g. strong viscosity contrasts) under nearly incompressible conditions. Recent advancements have enabled the development of iterative solvers based on Dynamic Relaxation (DR) or Pseudo-Transient schemes, which require minimal global communication and exhibit quasi-linear scaling on GPU and supercomputing architectures. These solvers incorporate automatic tuning of iterative parameters, including pseudo-time steps and damping coefficients, based on spectral estimates of the discrete operators, ensuring both robust and rapid convergence. We demonstrate the effec…",
+    "authors": "Thibault Duretz, Albert de Montserrat, Rubén Sevilla, Ludovic Räss et al.",
+    "published": "2026-06-22",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "GNSS Zenith Wet Delay as a Boundary Layer Diagnostic: Regime‐Dependent Turbulence Signatures From Large Eddy Simulation and Observations",
     "doi": "10.1029/2026jd047347",
@@ -6057,92 +6149,6 @@
     "authors": "Zeyu Kang, Ruiwen Huang, Yanru Huang, Yao Huang et al.",
     "published": "2026-03-27",
     "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Turbulent spots in hypersonic transitional planar and axisymmetric boundary layers",
-    "doi": "10.1017/jfm.2026.11377",
-    "url": "https://doi.org/10.1017/jfm.2026.11377",
-    "abstract": "Experiments were conducted to investigate the characteristics of turbulent spots formed in transitional boundary layers developed over a flat plate and an axisymmetric cone placed in similar hypersonic free-stream environment of Mach number 5.85. The free-stream unit Reynolds number in the present work varied in the range of $(3.0{-}6.0)\\times 10^6$ m −1 . Heat transfer measurement along the surface of both the test models was used to ascertain the state of boundary layer and to calculate the intermittency associated with the transitional boundary layer. Turbulent spots generated in the transitional boundary layer were characterised in terms of their leading–trailing-edge velocities, their streamwise length scales and their generation rates on both the test models. The leading edge of the …",
-    "authors": "Ankit Bajpai, Jagadeesh Gopalan",
-    "published": "2026-03-27",
-    "keywords_matched": [
-      "heat transfer"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "The role of compressibility and vibrational excitation in hypersonic shock–turbulence interactions",
-    "doi": "10.1017/jfm.2026.11355",
-    "url": "https://doi.org/10.1017/jfm.2026.11355",
-    "abstract": "The interaction between turbulence and shock waves significantly modulates the frequency and amplitude of hydrodynamic fluctuations experienced by aerospace vehicles during low-altitude hypersonic flight. In these high-speed flows, intrinsic compressibility effects arise alongside high-enthalpy phenomena manifested through internal-energy excitation. The present study compares direct numerical simulation and linear interaction analysis (LIA) to characterise the influence of solenoidal and dilatational fluctuations, as well as endothermic processes, on a Mach 5 canonical shock–turbulence interaction (STI). Whilst the computational approach involves directly resolving all relevant length scales and potential nonlinear interactions, the LIA framework models the upstream compressible turbulenc…",
-    "authors": "Alberto Cuadra, Christopher Williams, Mario Di Renzo, César Huete",
-    "published": "2026-03-27",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "The influence of energy-containing scales on the distribution of spectral energy transfers",
-    "doi": "10.1017/jfm.2026.11357",
-    "url": "https://doi.org/10.1017/jfm.2026.11357",
-    "abstract": "We present computations of individual mode-to-mode energy transfers from direct numerical simulations of homogeneous isotropic turbulence. Unlike previous approaches based on shell-filtered velocity fields, this method distinguishes between the energy exchanged by each pair of modes within a triad. We introduce a potential function based on the energy content of the modes involved, and show that it predicts the distribution of intense energy transfers in the vicinity of the sampling mode considered. By performing simulations with forcing applied at intermediate wavenumbers, we demonstrate that the region of most intense transfers is determined by the spectral location of the energy-containing scales rather than by the local or non-local character of the triad. Direct energy exchanges with …",
-    "authors": "Arthur Couteau, Panayotis Dimopoulos Eggenschwiler, Patrick Jenny",
-    "published": "2026-03-27",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "On internal wave whispering gallery modes in channels and critical-slope wave attractors",
-    "doi": "10.1017/jfm.2026.11356",
-    "url": "https://doi.org/10.1017/jfm.2026.11356",
-    "abstract": "Internal waves are an important feature of stratified fluids, both in oceanic and lake basins and in other settings. Many works have been published on the generic feature of internal wave trapping onto planar wave attractors and super-attractors in two and three dimensions and the exceptional class of standing global internal wave modes. However, most of these works did not deal with waves that escape trapping. By using continuous symmetries, we analytically prove the existence of internal wave whispering gallery modes (WGMs), internal waves that propagate continuously without getting trapped by attractors. The WGM’s neutral stability with respect to different perturbations enables whispering gallery beams, a continuum of rays propagating together coherently. The systems’ continuous symmet…",
-    "authors": "Nimrod Bratspiess, Leo Maas, Eyal Heifetz",
-    "published": "2026-03-27",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "An Evaluation of WRF‐Chem's Performance in Simulating PM2.5 in West African Cities",
-    "doi": "10.1029/2025jd045007",
-    "url": "https://doi.org/10.1029/2025jd045007",
-    "abstract": "Abstract West Africa experiences some of the highest particulate pollution levels globally due to Saharan dust, biomass burning and urban emissions. Despite the severe health burden, air quality monitoring remains sparse. This study evaluates WRF‐Chem's performance in simulating PM2.5 levels across seven West African cities in 2021 using newly available AirNow observational data sets. Results show that while the model effectively captures seasonal PM2.5 variability, it largely overestimates concentrations in northern landlocked cities during the dry season (November–April), including N’Djamena (mean bias (MB) = 86.2 ) and Bamako (MB = 102.3 ) due to excess dust, and underestimates PM2.5 in Lagos during the wet season (MB = −19.5 ), when dust contributions are minimal. Daily PM2.5 correlati…",
-    "authors": "Aara’L Y. Yarber, Gregory S. Jenkins",
-    "published": "2026-03-27",
-    "keywords_matched": [
-      "WRF",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "PM\n                    <sub>2.5</sub>\n                    assimilation within JEDI for NOAA's regional Air Quality Model (AQMv7): application to the September 2020 Western US wildfires",
-    "doi": "10.5194/gmd-19-2479-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2479-2026",
-    "abstract": "Abstract. This paper describes efforts to establish aerosol data assimilation capabilities for NOAA's National Air Quality Forecasting Capability (NAQFC), a regional online air quality modeling (AQM) system under NOAA's Unified Forecast System (UFS), by assimilating measurements of fine particulate matter (PM2.5, particles with aerodynamic diameters less than 2.5 µm). PM2.5 assimilation is developed within the Joint Effort for Data assimilation Integration (JEDI) framework and tested using its 3D-Var data assimilation (DA) component. The PM2.5 observation operator is constructed by combining newly developed PM2.5 transformation recipes in the JEDI Variable Derivation Repository (VADER) with a general spatial interpolation operator in the Unified Forward Operator (UFO). Cycled DA and foreca…",
-    "authors": "Hongli Wang, Cory Martin, Jérôme Barré, Ruifang Li et al.",
-    "published": "2026-03-27",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Revisiting the Inherent Assumptions Made When Heavy Water Isotopologues Are Used to Investigate Convective Heating Profiles",
-    "doi": "10.1029/2025jd045251",
-    "url": "https://doi.org/10.1029/2025jd045251",
-    "abstract": "Abstract Previous studies have demonstrated that we can use the depletion of heavy water isotopologues (HDO and O) within precipitation as proxies to the vertical profiles of convective heating. We further tested this using isotopic analysis of rainfall over the eastern Pacific during the OTREC2019 field campaign to determine if the vertical profile over the region is top‐ or bottom‐heavy. While a composite of the station observations within the domain shows results consistent with previous studies, there are significant spatial variations across individual stations. This is corroborated by isotope‐enabled Weather Research and Forecasting simulations that span the domain of the OTREC2019 field campaign. The trends of heavy‐isotope depletion are also not consistent even when we attempt to a…",
-    "authors": "N. Z. Wong, F. Lamraoui, A. M. Vesga‐Güiza, R. Sánchez‐Murillo et al.",
-    "published": "2026-03-26",
-    "keywords_matched": [
-      "weather research and forecasting",
       "ABL"
     ]
   }
