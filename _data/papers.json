@@ -1,6 +1,116 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Microstructure and thickening of bi-disperse granular suspensions in simple shear flow",
+    "doi": "10.1017/jfm.2026.11717",
+    "url": "https://doi.org/10.1017/jfm.2026.11717",
+    "abstract": "Most granular suspensions in nature and industrial applications comprise multimodal particles in a broad size range. Despite numerous studies attempting to establish a unified viscosity model for polydisperse suspensions with different particle size distributions (PSDs), the microstructure exhibits a strong PSD dependence, such as the peculiar shear-induced particle ordering in bidisperse suspensions. However, understanding of the stability of such ordered structures remains limited. In this study, we aim to reveal the role of microstructural transformation in the flow of shear thickening bidisperse suspensions with large particle size ratio. Discrete-particle simulations accounting for short-range hydrodynamic and contact forces were performed to simulate the simple shear flow of granular…",
+    "authors": "Xueqiong Fu, Ge Li, Yanwei Liu",
+    "published": "2026-06-24",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Multiscale dynamics of inertial particles in turbulence with and without the effect of gravitational settling",
+    "doi": "10.1017/jfm.2026.11715",
+    "url": "https://doi.org/10.1017/jfm.2026.11715",
+    "abstract": "We investigate the dynamics of inertial heavy particles in three-dimensional homogeneous isotropic turbulence, both with and without gravitational settling, by means of direct numerical simulation over a range of Stokes numbers ( 0.05 less than or slanted equals italic St less than or slanted equals 5 0.05 ⩽ St ⩽ 5 $0.05\\leqslant \\,\\textit{St}\\leqslant 5$ ) and at a Taylor-microscale Reynolds number italic Re Subscript lamda Baseline equals 204 Re λ = 204 $ \\textit{Re}_\\lambda = 204$ . Utilising a modified Voronoi tessellation, we compute the divergence, curl and helicity of particle velocities to quantify particle cloud self-organisation, including clustering, as well as vortical and swirling motions within particle clouds. We perform a novel graph-based multiresolution analysis by applyi…",
+    "authors": "Thibault Maurel-Oujia, Keigo Matsuda, Kai Schneider",
+    "published": "2026-06-24",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On the effect of airfoil geometry on extreme vortex-gust encounters",
+    "doi": "10.1017/jfm.2026.11711",
+    "url": "https://doi.org/10.1017/jfm.2026.11711",
+    "abstract": "Historically, investigations on gust encounters have been limited to thin airfoils. In this work, we examine vortex-gust encounters by a family of airfoils at a chord-based Reynolds number italic Re Subscript c Baseline equals 100 Re c = 100 ${\\textit{Re}}_c=100$ , which includes variations in the gust ratio, initial gust position, gust radius, angle of attack, airfoil thickness and airfoil camber. We examine differences in the flow fields, lift-element distributions and aerodynamic responses across several airfoil–gust interactions. We observe a large deviation of the flow fields and aerodynamic responses with respect to the baseline flows for increasing gust ratios and gust sizes. The initial position of the vortex gust influences the magnitude of the velocity gradients observed near the…",
+    "authors": "Barbara Lopez-Doriga, Anya R. Magaña Jones, Kunihiko Taira",
+    "published": "2026-06-24",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Experimental deep reinforcement learning control of the aerofoil flow separation with a plasma actuator",
+    "doi": "10.1017/jfm.2026.11730",
+    "url": "https://doi.org/10.1017/jfm.2026.11730",
+    "abstract": "In this study, experimental deep reinforcement learning (DRL) control of aerofoil flow separation is conducted at a chord-based Reynolds number of italic Re Subscript c Baseline equals 1.5 times 10 Superscript 5 Re c = 1.5 × 10 5 ${\\textit{Re}}_c=1.5\\times 10^5$ . A dielectric barrier discharge plasma actuator mounted at the leading edge and a hotwire placed in the separated shear layer act as the flow disturber and the state monitor, respectively. The closed-loop control law is parameterised by a radial basis function network and executed in real time on a field-programmable gate array at 1 kHz. With the aid of a deep deterministic policy gradient algorithm, a satisfying closed-loop control strategy can be derived in less than one minute, and the resulting lift coefficient increment (21 %…",
+    "authors": "Jiawei Xiang, Haohua Zong, Yun Wu, Jinping Li et al.",
+    "published": "2026-06-24",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Experimental observation of a pathological laminar separation bubble over an aerofoil",
+    "doi": "10.1017/jfm.2026.11709",
+    "url": "https://doi.org/10.1017/jfm.2026.11709",
+    "abstract": "It is a well-established fact that at a fixed angle of attack, with increasing Reynolds number, italic Re Re ${\\textit{Re}}$ , a laminar separation bubble (LSB) will shrink and eventually cease to exist, due to increase in the growth rate of hydrodynamic instability modes. However, during this wind tunnel test campaign, we observed that paradoxically the LSB increased in length from italic Re equals 2 times 10 Superscript 5 Re = 2 × 10 5 ${\\textit{Re}}=2\\times 10^5$ to italic Re equals 2.5 times 10 Superscript 5 Re = 2.5 × 10 5 ${\\textit{Re}}=2.5\\times 10^5$ . Further diagnostics showed that this was due to a modification of the background forcing environment, often neglected in the literature. The perturbation generated from potential aero–vibroacoustic interaction unexpectedly boosted To…",
+    "authors": "Erwin R. Gowree, Victoria Prieto, Stefano Bianchi",
+    "published": "2026-06-24",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Barents‐Kara Sea Ice Variability Drives Stronger Tropospheric Anomalies Over East Asia After 2000 Due To Weakened Stratospheric Polar Vortex",
+    "doi": "10.1029/2025jd046058",
+    "url": "https://doi.org/10.1029/2025jd046058",
+    "abstract": "Abstract This study investigates the midlatitude tropospheric teleconnection associated with February Barents‐Kara Sea (BKS) sea ice during 1979–2019 and finds evidence for its significant shift around the year 2000. Before 2000, BKS sea ice reduction is associated with an enhanced stratospheric wavenumber 1, but the relationship between BKS sea ice reduction and downstream tropospheric circulation is insignificant. After 2000, BKS sea ice reduction shows a weaker relationship with stratospheric wavenumber 1 but is accompanied by a significant strengthening of the East Asian trough in the troposphere. Both observational and modeling evidences suggest that this shift is partly attributable to the weaker background stratospheric polar vortex after 2000 compared to earlier decades. Before 200…",
+    "authors": "Chongyang Zhang, Jiankai Zhang, Amanda C. Maycock, James A. Screen et al.",
+    "published": "2026-06-24",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Impact of Enhanced Vertical Resolution on Seasonal Prediction Skill of the Quasi‐Biennial Oscillation and Its Teleconnections in CESM2: A New Community Hindcast Dataset",
+    "doi": "10.1029/2025jd046148",
+    "url": "https://doi.org/10.1029/2025jd046148",
+    "abstract": "Abstract Skillful seasonal forecasts of impactful climate events are in high demand yet remain a major challenge. Skill on seasonal timescales will arise from prediction of slowly varying predictable modes and their influence on the weather. The stratosphere provides one such mode, if it can be predicted, and if it exerts a sufficient influence on the troposphere below. Here we introduce a new seasonal hindcast data set with the Community Earth System Model version 2 (CESM2) with a raised atmospheric model lid and enhanced vertical resolution and compare with a companion hindcast set with CESM2's default vertical resolution. The enhanced vertical resolution enables considerably higher prediction skill of the Quasi‐biennial Oscillation (QBO). We further use this data set to probe for associ…",
+    "authors": "Isla R. Simpson, Michael J. DeFlorio, Jiabao Wang, Nora R. Mascioli et al.",
+    "published": "2026-06-24",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Accelerating Regime Restructuring of Ozone Sensitivity From VOC‐Limited to Transitional With Heatwave Intensification",
+    "doi": "10.1029/2026jd046849",
+    "url": "https://doi.org/10.1029/2026jd046849",
+    "abstract": "Abstract In eastern China, heatwaves increasingly co‐occur with extreme ozone pollution, posing substantial public health risks. However, the spatiotemporal heterogeneity of heatwave levels and their nonlinear modulation of photochemical mechanisms remain insufficiently resolved. Integrating explainable machine learning with WRF–CAMx simulations, this study quantifies key drivers of ozone variability, characterizes nationwide heatwave evolution, and evaluates how heatwave levels affect surface ozone formation and precursor control efficiency in the Yangtze River Delta (YRD). Machine learning results show that meteorological factors explain over 70% of daytime ozone variability, with temperature, solar radiation, and relative humidity exerting dominant influences. A threshold‐like temperatu…",
+    "authors": "Hanyu Zhang, Wantong Guo, Jungang Wang, Haozhen Du et al.",
+    "published": "2026-06-24",
+    "keywords_matched": [
+      "WRF",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "MSWD: A Hybrid Machine‐Learning Framework for Slant Wet Delay Modeling",
+    "doi": "10.1029/2026jd046410",
+    "url": "https://doi.org/10.1029/2026jd046410",
+    "abstract": "Abstract Space geodetic techniques such as Global Navigation Satellite Systems (GNSS) and Very Long Baseline Interferometry (VLBI) are limited by direction‐dependent tropospheric delays, with slant wet delay (SWD) being the most variable component and a major error source. Accurate SWD priors can accelerate convergence, stabilize parameter estimation, and improve positioning and atmospheric retrievals. Existing global empirical models, such as the state‐of‐the‐art GPT3 model, reconstruct SWD through a fixed pipeline of zenith wet delay (ZWD), wet mapping function (MFw), and wet horizontal gradients. They rely on simplified parameterizations and fixed coefficient tables, and because re‐estimating the full set of parameters is burdensome, products are rarely updated to reflect current condit…",
+    "authors": "Zhenyi Zhang, Benedikt Soja",
+    "published": "2026-06-24",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Prediction of bypass transition from wall measurements",
     "doi": "10.1017/jfm.2026.11594",
     "url": "https://doi.org/10.1017/jfm.2026.11594",
@@ -6042,116 +6152,6 @@
     "keywords_matched": [
       "wake",
       "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Dancing fibres in a microscale Burgers-like vortex",
-    "doi": "10.1017/jfm.2026.11342",
-    "url": "https://doi.org/10.1017/jfm.2026.11342",
-    "abstract": "An important category of microscale fluid–structure interactions concerns how flexible fibres deform and interact with flows. Many experimental and numerical studies have focused on the shape dynamics of fibres in linear shear flows. Here, instead, we consider a fully three-dimensional background flow with non-constant vorticity and study the shape evolution of fibres in a zero-Reynolds-number analogue of a Burgers vortex. This flow is created by the superposition of regularised singularities of the Stokes equations. Using a Kirchhoff rod model with regularised Stokeslet segments that track both curvature and torsion evolution along the fibre, we observe novel three-dimensional deformations. The shape dynamics depends on two non-dimensional parameters: an elastoviscous number and the ratio…",
-    "authors": "Rubaiyat Bin Islam, Adnan Morshed, Ricardo Cortez, Lisa Fauci",
-    "published": "2026-03-30",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Dynamics of azimuthally oscillating cylinder wakes",
-    "doi": "10.1017/jfm.2026.11375",
-    "url": "https://doi.org/10.1017/jfm.2026.11375",
-    "abstract": "We numerically study the flow past an azimuthally oscillating cylinder at Reynolds number ${\\textit{Re}}=250$ to analyse the three-dimensionalities observed in the recent experiments of Bhattacharyya et al. ( J. Fluid Mech. , vol. 950, 2022, p. A10). Specifically, we focus on the two newly discovered three-dimensional instability modes, referred to as modes Z and Y in the experiments, by suitably varying the cylinder oscillation amplitude and forcing frequency. Our direct numerical simulations (DNS) visually confirm the unique honeycomb-like structure of mode Y, also matching its spanwise wavelength, while mode Z, also referred to as mode D elsewhere, is not found at the expected parametric space but at an oscillation amplitude three times higher. Spectral proper orthogonal decomposition m…",
-    "authors": "Ayush Boral, Pradeep Moise, Arnab Samanta",
-    "published": "2026-03-30",
-    "keywords_matched": [
-      "wake",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Onset of spiral vortex breakdown in supersonic flows",
-    "doi": "10.1017/jfm.2026.11349",
-    "url": "https://doi.org/10.1017/jfm.2026.11349",
-    "abstract": "The onset of vortex breakdown in supersonic flows remains an unsolved problem in physics. In this study, a sufficient condition for spiral vortex breakdown to occur in supersonic flows was derived from the conserved total enthalpy at the vortex axis under complete supersonic inflow conditions. The theoretical threshold was simply determined by the relationship between the magnitudes of the kinetic and internal energies (i.e. axial velocity squared and static temperature, respectively) downstream. In addition, it was found that the squared velocity and static temperature in the sufficient condition were closely related to a rapid reduction in the helicity, which indicated that vortex breakdown occurred. Numerical simulations confirmed that the theoretical threshold corresponds to the onset …",
-    "authors": "Toshihiko Hiejima",
-    "published": "2026-03-30",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "A triple source model of pressure fluctuation analysis for a mixed-flow pump",
-    "doi": "10.1017/jfm.2026.11382",
-    "url": "https://doi.org/10.1017/jfm.2026.11382",
-    "abstract": "This paper investigates the physical origins of pressure fluctuations on the stationary shroud wall of a mixed-flow pump. A novel ‘triple source model’ is developed and applied to experimental validated stress-blended eddy simulations. The model decomposes stationary-frame pressure fluctuations into three distinct rotating-frame components to disentangle complex tip leakage vortex (TLV) interactions: (i) kinematic ‘non-uniform fluctuation’ ( $p_{\\textit{NUF}}$ ) from the steady blade sweep, (ii) dynamic ‘flow synchronous fluctuation’ ( $p_{\\textit{FSF}}$ ) phase-locked to rotation, and (iii) ‘flow asynchronous fluctuation’ ( $p_{\\textit{FAF}}$ ) from all non-phase-locked phenomena. Analysis reveals that shroud unsteadiness is over 90 % dominated by the synchronous components along the TLV …",
-    "authors": "Bingfu Han, Lei Tan",
-    "published": "2026-03-30",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Thermodynamics of oriented granular gases",
-    "doi": "10.1017/jfm.2026.11359",
-    "url": "https://doi.org/10.1017/jfm.2026.11359",
-    "abstract": "We use the principles of non-equilibrium thermodynamics to rigorously formulate the transport equations for granular systems consisting of oriented particles. The state variables are taken to be the density, velocity, thermal temperature, granular temperature (particles agitation) and the orientation tensor. The evolution of the state variables is governed by the associated balance laws in terms of fluxes. The contributions of the granular agitation energy and orientation to entropy are introduced into the Gibbs equation. The balance of entropy is used to identify the entropy production as the product of thermodynamics forces and fluxes. Using classical linear non-equilibrium thermodynamics the fluxes are considered to be linear in the thermodynamic forces. The Onsager–Casimir reciprocal r…",
-    "authors": "Meitham Amereh, Henning Struchtrup, Ben Nadler",
-    "published": "2026-03-30",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Isotropy and homogeneity of the Taylor–Green vortex at late stages using different initial conditions",
-    "doi": "10.1017/jfm.2026.11380",
-    "url": "https://doi.org/10.1017/jfm.2026.11380",
-    "abstract": "The Taylor–Green vortex (TGV) serves as a canonical benchmark for studying the transition from laminar to turbulent flow in the absence of solid boundaries. Despite its widespread use in turbulence model validation, the degree to which the TGV exhibits true isotropy and homogeneity, particularly at late stages of decay, remains insufficiently examined. This study employs high-order numerical simulations to investigate these properties for both the standard and isotropic variants of the TGV. Statistical measures, including Reynolds stress anisotropy, coherent structure functions, homogeneity indices and integral length scales, are used to assess flow behaviour over time. Results show that the standard TGV remains anisotropic and inhomogeneous even during late decay stages, with unequal long…",
-    "authors": "Markus Klein, Artur Tyliszczak, Josef Hasslberger, Massimo Germano",
-    "published": "2026-03-30",
-    "keywords_matched": [
-      "turbulence",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Examination of Ozone Sensitivity to Stomatal Conductance in Urban Areas",
-    "doi": "10.1029/2025jd045468",
-    "url": "https://doi.org/10.1029/2025jd045468",
-    "abstract": "Abstract Stomatal conductance is a key factor in controlling ozone deposition velocity. Little is known about stomatal conductance and its impacts on air quality in urban areas because urban vegetation in developed land cover types is often omitted in global and regional models. Recent studies show that urban trees have up to three times higher rates of stomatal conductance than their rural counterparts. We update the dry deposition scheme of WRF‐Chem by linking the dry deposition losses of atmospheric species to vegetation physiology and phenology, as WRF‐Chem by default assumes zero stomatal deposition for urban land cover types. We examine ozone sensitivity to a doubled stomatal conductance of urban trees. We find that surface conductance dominates dry deposition velocity in urban areas…",
-    "authors": "Dandan Wei, Sam J. Silva, Soroush E. Neyestani, Jiachen Zhang",
-    "published": "2026-03-30",
-    "keywords_matched": [
-      "WRF"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Forecasting Rainfall Event and Rainfall Duration Directly Using GPS‐Derived Zenith Wet Delay Estimates",
-    "doi": "10.1029/2025jd045322",
-    "url": "https://doi.org/10.1029/2025jd045322",
-    "abstract": "Abstract Rainfall forecasting based on the Global Navigation Satellite System (GNSS) plays an important role in GNSS‐meteorology applications. However, traditional methods that rely on GPS‐ZTD (Zenith Total Delay) are limited by the influence of ZHD (Zenith Hydrostatic Delay), while those based on GPS‐PWV (Precipitable Water Vapor) depend heavily on external meteorological parameters. Moreover, most existing studies have not addressed the forecasting of rainfall duration. In this study, the feasibility of rainfall forecasting using GPS‐ZWD (zenith wet delay) is demonstrated through theoretical analysis and correlation assessment. A new method is proposed for forecasting light, medium, and heavy rainfall events, as well as rainfall duration, directly based on GPS‐ZWD. Data sets collected fr…",
-    "authors": "Cong Chen, Mingkun Su, Yang Gao, Tianjun Liu et al.",
-    "published": "2026-03-30",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Significant Contribution of Gaseous Organic Nitrogen to Wet and Dry Nitrogen Deposition: Evidence From Year‐Long Monitoring in Coastal Hong Kong",
-    "doi": "10.1029/2025jd046052",
-    "url": "https://doi.org/10.1029/2025jd046052",
-    "abstract": "Abstract Atmospheric nitrogen (N) deposition critically affects ecosystem dynamics and carbon cycling, yet organic N (ON) remains under‐monitored relative to inorganic N (IN), limiting constraints on global N budgets and impacts. We conducted year‐long dry and wet deposition measurements of water‐soluble ON (WSON) and IN at a coastal Hong Kong site using an innovative dual‐surface collector, enabling simultaneous dry deposition to pure water and to a quartz filter. Dry deposition to water exceeded that to the filter by 26.6 × (NH 4 + ‐N), 1.6 × (NO 3 − ‐N), and 4.3 × WSON, evidencing strong uptake of water‐soluble gaseous N by the water surface. We provide the first quantification of gaseous versus particulate WSON in dry ON deposition, revealing a dominant gaseous contribution reaching up…",
-    "authors": "Xu Yu, Wing Hei Marco Wong, Cong Cao, Kun Zhang et al.",
-    "published": "2026-03-30",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
