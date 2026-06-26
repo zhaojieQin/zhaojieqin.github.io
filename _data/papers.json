@@ -1,6 +1,42 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Extreme vortex gust encounters by a square wing",
+    "doi": "10.1017/jfm.2026.11728",
+    "url": "https://doi.org/10.1017/jfm.2026.11728",
+    "abstract": "Extreme gust encounters by finite wings with disturbance velocity exceeding their cruise speed remain largely unexplored, while being particularly relevant to miniature-scale aircraft. This study considers extreme aerodynamic flows around a square wing and the large, unsteady forces that result from gust encounters. We analyse the evolution of three-dimensional, large-scale vortical structures and their complex interactions with the wing by performing direct numerical simulations at a chord-based Reynolds number of 600. We find that a strong incoming positive gust vortex induces a prominent leading-edge vortex (LEV) on the upper surface of the wing, accompanied by tip vortices (TiVs) strengthened through the interaction. Conversely, a strong negative gust vortex induces an LEV on the lower…",
+    "authors": "Hiroto Odaka, Luke Smith, Kunihiko Taira",
+    "published": "2026-06-25",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On the generation of free-surface waves by instabilities in quadratic shear flows",
+    "doi": "10.1017/jfm.2026.11705",
+    "url": "https://doi.org/10.1017/jfm.2026.11705",
+    "abstract": "This paper investigates the generation of free-surface waves in a liquid layer driven by linear instabilities in Couette–Poiseuille (quadratic) shear flows. The base velocity profiles are characterized by a curvature parameter, and two-dimensional viscous and inviscid perturbations are analysed across a wide parameter space of curvature, wavenumber and Reynolds number, for fixed Froude and Bond numbers. In the inviscid limit, analytical solutions of the Rayleigh equation reveal that velocity profiles ranging from half-parabolic to linear flows remain stable against the rippling instability, with long-wave growth occurring only under strong interfacial forcing, whereas weaker forcing produces well-defined stability boundaries. For the viscous problem, Orr–Sommerfeld computations and asympto…",
+    "authors": "Harishankar Muppirala, Ramana Patibandla, Anubhab Roy",
+    "published": "2026-06-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Noise reduction by the streamwise-decreasing impedance trailing edges of a NACA-0012 airfoil: insights based on the Kutta condition",
+    "doi": "10.1017/jfm.2026.11741",
+    "url": "https://doi.org/10.1017/jfm.2026.11741",
+    "abstract": "We investigate the noise reduction performance of a NACA-0012 airfoil at a low subsonic Mach number and a moderate Reynolds number. Noise suppression at the trailing edge is targeted by minimising the wall-pressure jump, which is stipulated by the unsteady Kutta condition. Guided by this principle, we propose an effective trailing-edge configuration capable of significantly suppressing the radiated noise. Numerical results reveal that a pure streamwise-decreasing impedance trailing edge fails to provide effective noise reduction across a broad range of characteristic frequencies; in some cases, it even leads to a significant increase in noise radiation levels. Therefore, we develop an extended trailing-edge (ETE) configuration, which achieves a notable noise reduction of 3.62 dB. This perf…",
+    "authors": "Ya-Sen Hu, Zhen-Hua Wan, De-Jun Sun, Xi-Yun Lu",
+    "published": "2026-06-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Microstructure and thickening of bi-disperse granular suspensions in simple shear flow",
     "doi": "10.1017/jfm.2026.11717",
     "url": "https://doi.org/10.1017/jfm.2026.11717",
@@ -6114,44 +6150,6 @@
     "published": "2026-03-31",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Development of a Mesoscale‐ and Tide‐Resolving Ocean–Biogeochemistry Model for the Pacific: Tidal Enhancement of the Biological Carbon Pump",
-    "doi": "10.1029/2025ms005458",
-    "url": "https://doi.org/10.1029/2025ms005458",
-    "abstract": "Abstract This study presents a new physical‐biogeochemical simulation of the Pacific Ocean that resolves mesoscale dynamics and explicitly includes tidal forcing. The primary objective is to develop and document a modeling framework that serves both as a detailed record of model configuration and forcing preparation, and as a reference for future regional downscaling. The model is extensively evaluated against physical and biogeochemical data sets and successfully reproduces large‐scale circulation patterns and key biogeochemical features. The second objective is to assess the impact of explicitly including tidal forcing on primary production and carbon export, thereby clarifying the biogeochemical consequences of tidal dynamics. While tides are known to energize high‐frequency motions, th…",
-    "authors": "Pierre Damien, Jeroen Molemaker, Daniel McCoy, Devin Dollery et al.",
-    "published": "2026-03-31",
-    "keywords_matched": [
-      "tidal"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Toward generalisable turbulence modelling via radial-basis-function-based corrections using data assimilation with fused multi-fidelity observations",
-    "doi": "10.1017/jfm.2026.11155",
-    "url": "https://doi.org/10.1017/jfm.2026.11155",
-    "abstract": "This paper employs the ensemble-based data assimilation method to develop a closed-form correction term for the Spalart–Allmaras (S–A) turbulence model to enhance predictive accuracy in separated flows through model-form uncertainty reduction. A compact radial-basis-function expression is proposed as correction model to supersede conventional modification procedures in classic field inversion and machine learning frameworks, achieving computational economy through spatially bounded correction regions. The correction model is derived via the Ensemble Kalman method with effective utilisation of synthesised observations based on the multi-fidelity data aggregation. The modified compact expression trained on a single case is systematically evaluated against unseen separation scenarios and the …",
-    "authors": "Lifeng Gou, Jian Ye, Zhengping Zou",
-    "published": "2026-03-30",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Flow asymmetry over a body of revolution",
-    "doi": "10.1017/jfm.2026.11221",
-    "url": "https://doi.org/10.1017/jfm.2026.11221",
-    "abstract": "This paper investigates the mean flow asymmetry about the meridional plane in crossflow over a 6 : 1 prolate spheroid using high-fidelity numerical simulations. A series of direct numerical simulations are performed at diameter-based Reynolds number $\\textit{Re}_{\\!D} = 3.0 \\times 10^3$ over a range of angles of attack. We identify a critical angle of attack for the onset of mean flow asymmetry between $40^\\circ$ and $42^\\circ$ . In cases where asymmetry eventually develops, the flow initially remains symmetric for an extended period before turbulent fluctuations in the wake perturb the symmetry. As wake turbulence becomes more vigorous at higher Reynolds numbers, this observation suggests a reduced critical angle of attack – an expectation confirmed by simulations at $\\textit{Re}_{\\!D} = …",
-    "authors": "Samuel M. Johnson, Sven Schmitz, Xiang I.A. Yang, Thomas S. Chyczewski",
-    "published": "2026-03-30",
-    "keywords_matched": [
-      "wake",
-      "turbulence"
     ]
   }
 ]
