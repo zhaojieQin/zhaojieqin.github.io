@@ -1,5 +1,66 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Issue Information",
+    "doi": "10.1029/jgrd.70732",
+    "url": "https://doi.org/10.1029/jgrd.70732",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-06-26",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Evaporation and Cold Pools Beneath Trade Cumulus Clouds",
+    "doi": "10.1029/2025jd044917",
+    "url": "https://doi.org/10.1029/2025jd044917",
+    "abstract": "Abstract The sources of air and water vapor in the tropical trade‐wind Atlantic subcloud boundary layer (SBL) are analyzed using in situ measurements of temperature, specific humidity, and stable water isotopologues (HDO and H 2 18 O) from shipboard observations in January‐February 2020. The coldest cold pools had a higher maximum D and coincided with precipitation. The hydrogen isotope ratio (D) of water vapor was greater within 9 (64% of 14) cold pools than in their surroundings. The strongest D change at the arrival (or front) of a cold pool was ‰ (−72‰ to −66‰). The isotopic composition, potential temperature, and specific humidity can be explained by evaporation of hydrometeors in convective downdrafts. In these cases, evaporation of enriched hydrometeors dominates over depletion of a…",
+    "authors": "Estefanía Quiñones Meléndez, Simon P. de Szoeke, Peter N. Blossey, David Noone et al.",
+    "published": "2026-06-26",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Performance Evaluation of the Makkonen Model Driven by the Output of the WRF Model in Simulating Power Line Icing Thickness in the Mountainous Regions of Southwest Sichuan, China",
+    "doi": "10.1029/2026jd046315",
+    "url": "https://doi.org/10.1029/2026jd046315",
+    "abstract": "Abstract Power line icing frequently occurs in the mountainous regions of southwestern Sichuan, China, posing significant risks to power system operations. Numerical simulation offers an effective tool for predicting icing processes; however, the applicability of the Makkonen model driven by the output of the weather research and forecast (WRF) model in this region remains uncertain. In this study, a series of simulations were conducted using the WRF and Makkonen models with four nested domains (9, 3, 1, and 0.33 km) and two cloud microphysical schemes (Thompson and Morrison), based on eight observed icing events at Erlangshan station. Results show that the WRF output‐driven Makkonen model can reasonably reproduce the icing process although the icing thickness is generally underestimated. …",
+    "authors": "Jiangxin Luo, Guoyu Wang, Anning Huang, Xinchun Guo et al.",
+    "published": "2026-06-26",
+    "keywords_matched": [
+      "WRF",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Surface Energy Partitioning Biases in Major Reanalyses Revealed by Soil Moisture Drying Dynamics",
+    "doi": "10.1029/2025jd046087",
+    "url": "https://doi.org/10.1029/2025jd046087",
+    "abstract": "Abstract Identifying the flux partition regimes between soil moisture (SM) and evaporative fraction (EF, ratio of evapotranspiration to available energy) is important for understanding the hydrometeorological processes as well as the development of Land Surface Models (LSMs). However, evaluating the SM‐EF regimes (i.e., whether EF is controlled by energy or water availability) in LSMs remains challenging since concurrent large‐scale observations of the diagnostic variables are often scarce. Recent advancements in satellite techniques provide unique advantages for evaluating the models' performance. Here, we use long‐term satellite SM data sets NNSM and observation‐based meteorological forcing data sets to evaluate the SM‐EF regime in six major reanalyses (i.e., GLDAS‐Noah, GLDAS‐CLSM, MERR…",
+    "authors": "Qing He, Xin Huang, Hui Lu, Kun Yang et al.",
+    "published": "2026-06-26",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Issue Information",
+    "doi": "10.1029/jame.70398",
+    "url": "https://doi.org/10.1029/jame.70398",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-06-26",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Extreme vortex gust encounters by a square wing",
     "doi": "10.1017/jfm.2026.11728",
@@ -6086,67 +6147,6 @@
     "url": "https://doi.org/10.1017/jfm.2026.11313",
     "abstract": "A joint experimental–computational investigation was conducted to examine the aerodynamic behaviour of a partially closed cavity model in Mach-6 flow. The model, consisting of a flat plate with a rectangular cavity and a forward-facing hinged door, resulted in a strong 500 Hz fluctuation with a 7.5 $^\\circ$ door and 25 mm cavity depth. The experiments revealed a recirculation bubble present upstream of the cavity region. The fluctuations, detected by surface pressure sensors on the upper surface, upstream cavity wall and cavity floor, were caused by oscillations of the separation bubble along the streamwise axis. Notably, this phenomenon is not explained by established empirical models for cavity flows, such as the Rossiter mechanism or closed-box acoustic resonance. To further elucidate t…",
     "authors": "Elizabeth K. Benitez, Nicholas J. Bisek, Matthew P. Borg",
-    "published": "2026-03-31",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "The influence of body anisotropy on wake characteristics and enstrophy production for prolate ellipsoids at\n                    <i>Re</i>\n                    <sub>\n                      <i>D</i>\n                    </sub>\n                    = 10 000",
-    "doi": "10.1017/jfm.2026.11367",
-    "url": "https://doi.org/10.1017/jfm.2026.11367",
-    "abstract": "The flow around prolate ellipsoids is investigated using large-eddy simulation at a Reynolds number of Re D = 10 000. Five different aspect ratios are considered, with AR = H/D varying from 5 : 1 to 1 : 1, where D and H represent the minor- and major-axes, respectively. The major axes of the ellipsoids are set perpendicular to the free stream, and the influence of body anisotropy on boundary layer separation, shear layer behaviour, enstrophy production and local flow topology is examined. Higher body anisotropy leads to early separation of the boundary layer in the equatorial plane, resulting in a wider wake and a monotonic increase in pressure drag and total drag. Positive enstrophy production reaches a maximum approximately 2.5 D downstream of the ellipsoids independently of body anisotr…",
-    "authors": "Sartaj Tanweer, Mukesh Sharma, Aditya R. Nayak, Edwin Malkiel et al.",
-    "published": "2026-03-31",
-    "keywords_matched": [
-      "wake"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Variability of mean-flow reversals in stably stratified fluids with stochastic wave forcing",
-    "doi": "10.1017/jfm.2026.11389",
-    "url": "https://doi.org/10.1017/jfm.2026.11389",
-    "abstract": "The quasi-biennial oscillation (QBO) of Earth’s stratosphere is a slowly reversing, large-scale mean flow that is generated by fast, small-scale waves. The variability of QBO reversals in recent years has triggered significant interests in the intrinsic variability of wave-driven mean flows. In this paper, we show a direct connection between the statistical properties of gravity waves randomly emitted at the bottom of a stably stratified fluid and the statistics of mean-flow reversals. We perform wave-resolved, direct numerical simulations of the two-dimensional Navier–Stokes equations under the Boussinesq approximation. We generate waves monochromatic in space at the bottom of the layer using three different types of temporal forcing: a constant-amplitude monochromatic forcing, a finite b…",
-    "authors": "Jason Reneuve, Louis-Alexandre Couston",
-    "published": "2026-03-31",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Channel confinement enhances group cohesion of self-propelled flapping plates via flow-mediated interactions",
-    "doi": "10.1017/jfm.2026.11384",
-    "url": "https://doi.org/10.1017/jfm.2026.11384",
-    "abstract": "The hydrodynamic interactions involved in the self-organisation phenomenon in biological systems are not fully understood and have attracted significant attention. A previous study (Peng et al. 2018 J. Fluid Mech. , vol. 853, pp. 587–600) found that, arranged in an unbounded fluid, the largest cluster of self-propelled bodies in tandem, capable of spontaneously forming an ordered configuration, consists of eight swimmers. Here, we numerically investigate the collective behaviour of multiple self-propelled plates in tandem within a channel of width $H$ , confined by two parallel walls. These plates are driven by harmonic flapping motions of uniform frequency and amplitude. Results demonstrate for the first time that the channel confinement significantly enhances group cohesion, with up to 7…",
-    "authors": "Linlin Kang, Ze-Rui Peng, Pingyu Xu, Jun Zhang et al.",
-    "published": "2026-03-31",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "South American Mesoscale Convective Systems: Present and Future Climates",
-    "doi": "10.1029/2025jd045438",
-    "url": "https://doi.org/10.1029/2025jd045438",
-    "abstract": "Abstract This study investigates the mesoscale convective systems (MCSs) over South America in a future climate using two distinct modeling approaches: the Weather Research and Forecasting (WRF) regional model with dynamical downscaling and pseudoglobal warming, and the Nonhydrostatic Icosahedral Atmospheric Model (NICAM) global cloud‐resolving model within the Coupled Model Intercomparison Project (CMIP6) High Resolution Model Intercomparison Project (HighResMIP) framework. Results are analyzed in terms of changes in MCS occurrence, precipitation contribution, maximum precipitation rates, and precipitation volume across subregions of South America. MCSs in the future climate tend to exhibit higher maximum precipitation rates and larger precipitation volumes across South America. This tend…",
-    "authors": "Amanda Rehbein, Tercio Ambrizzi, Andreas F. Prein",
-    "published": "2026-03-31",
-    "keywords_matched": [
-      "WRF",
-      "weather research and forecasting"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Advancing crop modeling and data assimilation using AquaCrop v7.2 in NASA's Land Information System Framework v7.5",
-    "doi": "10.5194/gmd-19-2551-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2551-2026",
-    "abstract": "Abstract. This paper introduces the open-source AquaCrop v7.2 model as a new process-based crop model within NASA's Land Information System Framework (LISF) v7.5. The LISF enables high-performance crop modeling with efficient geospatial data handling, and paves the way for scalable satellite data assimilation into AquaCrop. Through three exploratory showcases, we demonstrate the current capabilities of AquaCrop in the LISF, along with topics for future development. First, coarse-scale (0.1°) generic crop growth simulations with various crop parameterizations are performed over Europe. Satellite-based estimates of land surface phenology are used to inform spatially variable crop parameters. These parameters improve canopy cover simulations in growing degree days compared to using uniform cr…",
-    "authors": "Gabriëlle J. M. De Lannoy, Louise Busschaert, Michel Bechtold, Niccolò Lanfranco et al.",
     "published": "2026-03-31",
     "keywords_matched": [
       "ABL"
