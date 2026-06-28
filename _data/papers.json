@@ -1,6 +1,19 @@
 [
   {
     "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Added Value of Three‐Dimensional Planetary Boundary Layer Schemes for Simulating Local‐Scale Circulations Over Complex Terrain on the Tibetan Plateau",
+    "doi": "10.1029/2025jd046165",
+    "url": "https://doi.org/10.1029/2025jd046165",
+    "abstract": "Abstract Complex terrain and heterogeneous land surfaces on the Tibetan Plateau (TP) induce local‐scale circulations such as mountain‐valley winds and lake‐land breezes. Most numerical models employ one‐dimensional (1D) planetary boundary layer (PBL) schemes that inadequately represent horizontal turbulent mixing, resulting in poorly represented local‐scale circulations. In contrast, three‐dimensional (3D) PBL schemes account for turbulent mixing in both the vertical and horizontal directions. In this study, we assessed the performance of six PBL schemes, including 1D and 3D schemes, in the Weather Research and Forecasting (WRF) model for simulating local‐scale circulations validated against in situ observations. The results demonstrate that 3D PBL schemes outperform 1D PBL schemes in capt…",
+    "authors": "Hanying Xu, Cunbo Han, Yunshuai Zhang, Xu Zhang et al.",
+    "published": "2026-06-27",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Issue Information",
     "doi": "10.1029/jgrd.70732",
     "url": "https://doi.org/10.1029/jgrd.70732",
@@ -6136,18 +6149,6 @@
     "abstract": "Abstract Stable water isotopes serve as tracers of climate processes and are useful for identifying drivers of regional and global hydrological variability. To get a precise picture of spatiotemporal changes in the water cycle, it is necessary to describe the mechanisms in a coherent way among the involved climatic reservoirs (atmosphere, land, and ocean). For example, in the Pacific Ocean, the oxygen isotopic composition (denoted δ 18 O) of surface seawater recorded in corals is widely used to reconstruct the El Niño–Southern Oscillation (ENSO). However, the influences of atmosphere–ocean feedback and ocean circulation on the δ 18 O–ENSO relationship are not fully understood. Describing water isotopes in the full climate system is one way to tackle this issue. Therefore, this study introd…",
     "authors": "Yifan Li, Alexandre Cauquoin, Atsushi Okazaki, Kei Yoshimura",
     "published": "2026-04-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Aerodynamic unsteadiness from a forward-facing door over a cavity at Mach 6",
-    "doi": "10.1017/jfm.2026.11313",
-    "url": "https://doi.org/10.1017/jfm.2026.11313",
-    "abstract": "A joint experimental–computational investigation was conducted to examine the aerodynamic behaviour of a partially closed cavity model in Mach-6 flow. The model, consisting of a flat plate with a rectangular cavity and a forward-facing hinged door, resulted in a strong 500 Hz fluctuation with a 7.5 $^\\circ$ door and 25 mm cavity depth. The experiments revealed a recirculation bubble present upstream of the cavity region. The fluctuations, detected by surface pressure sensors on the upper surface, upstream cavity wall and cavity floor, were caused by oscillations of the separation bubble along the streamwise axis. Notably, this phenomenon is not explained by established empirical models for cavity flows, such as the Rossiter mechanism or closed-box acoustic resonance. To further elucidate t…",
-    "authors": "Elizabeth K. Benitez, Nicholas J. Bisek, Matthew P. Borg",
-    "published": "2026-03-31",
     "keywords_matched": [
       "ABL"
     ]
