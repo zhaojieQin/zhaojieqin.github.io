@@ -1,5 +1,53 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Droplet impact dynamics on micropillar-structured surfaces with heterogeneous wettability",
+    "doi": "10.1017/jfm.2026.11593",
+    "url": "https://doi.org/10.1017/jfm.2026.11593",
+    "abstract": "Droplet impingement is one of the most common phenomena in nature. However, the impact dynamics of droplets on structured heterogeneous wettability surfaces remain little explored. In this work, an investigation is conducted into the droplet impact on heterogeneous wettability surfaces composed of superhydrophobic micropillars on a hydrophilic substrate, by using an improved phase-field lattice Boltzmann model. In particular, the effects of surface geometry and impact conditions on droplet bouncing and wetting behaviours are scrutinised. Four distinct impact outcomes are identified: complete bouncing, pancake bouncing, partial wetting and complete wetting. Based on the competition among capillary, inertial and viscous forces, an analytical model is proposed to predict the maximum droplet p…",
+    "authors": "Geng Wang, Jianlong Ren, Xiao Zhao, Ziyi Guo et al.",
+    "published": "2026-06-29",
+    "keywords_matched": [
+      "lattice boltzmann"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Global climate modeling with improved precipitation  characteristics by learning physics (GRIST-MPS v1.0)  from global storm-resolving modeling",
+    "doi": "10.5194/gmd-19-5553-2026",
+    "url": "https://doi.org/10.5194/gmd-19-5553-2026",
+    "abstract": "Abstract. This study develops a machine learning (ML)-based physics parameterization suite trained on 80 d global storm-resolving model (GSRM) simulation data (5 km), with the aim of replacing all conventional physics tendencies in a general circulation model (GCM, 120 km) for real-world simulations with realistic surface topography. The GSRM data are generated using the Global–Regional Integrated Forecast System (GRIST) and subsequently coarse-grained, after which the residual method is applied to derive the corresponding GCM physics tendencies. The resulting workflow relies on standardized pressure-level variables as input features, enabling the GCM – through physics–dynamics coupling – to effectively emulate the multiscale flow interactions captured by the GSRM. This ML-enhanced GCM sus…",
+    "authors": "Yiming Wang, Yi Zhang, Yilun Han, Wei Xue et al.",
+    "published": "2026-06-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Surface horizontal kinetic energy sensitivity to numerical parameters in tidal-resolving North and Equatorial Atlantic simulations",
+    "doi": "10.5194/gmd-19-5571-2026",
+    "url": "https://doi.org/10.5194/gmd-19-5571-2026",
+    "abstract": "Abstract. Surface horizontal kinetic energy (SHKE) reflects the distribution of ocean circulation across temporal and spatial scales, shaping energy transfer and mixing in the upper ocean. Quantifying both total SHKE and its frequency content helps characterize processes from low-frequency motions to tides and near-inertial waves, but SHKE variability is difficult to quantify with observations alone. High-resolution tidal-resolving ocean models can bridge gaps in our understanding, yet the modeling results depend on the realism of the configuration choices. In this study, we isolate the role of individual model parameters by comparing seven tidal-resolving HYbrid Coordinate Ocean Model (HYCOM) simulations of the North and Equatorial Atlantic, in which only one parameter is varied at a time…",
+    "authors": "Rémi Laxenaire, Eric P. Chassignet, Xiaobiao Xu, Alan J. Wallcraft et al.",
+    "published": "2026-06-29",
+    "keywords_matched": [
+      "tidal"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "CaMa-Flood-GPU: a GPU-based hydrodynamic model implementation for scalable global simulations",
+    "doi": "10.5194/gmd-19-5623-2026",
+    "url": "https://doi.org/10.5194/gmd-19-5623-2026",
+    "abstract": "Abstract. Floods are among the costliest natural hazards, demanding scalable models to simulate river and floodplain dynamics at a global scale. The Catchment-based Macro-scale Floodplain (CaMa-Flood) model is a leading system for this purpose, but its CPU-based implementation is computationally demanding. This paper introduces CaMa-Flood-GPU, a fundamental refactoring of the model optimized for Graphics Processing Unit (GPU) architectures. We systematically reinterpreted its core algorithms – including river routing on irregular networks, runoff interpolation, and water depth diagnosis – into highly parallel, GPU-native operations. Key challenges were addressed by implementing scatter-add for flux updates, sparse matrix multiplication for runoff mapping, and branchless kernels for floodpl…",
+    "authors": "Shengyu Kang, Jiabo Yin, Dai Yamazaki",
+    "published": "2026-06-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Added Value of Three‐Dimensional Planetary Boundary Layer Schemes for Simulating Local‐Scale Circulations Over Complex Terrain on the Tibetan Plateau",
     "doi": "10.1029/2025jd046165",
@@ -6097,57 +6145,6 @@
     "url": "https://doi.org/10.1029/2025ms005551",
     "abstract": "Abstract We analyze the Lorenz Energy Cycle of the ocean simulated by FESOM on several unstructured meshes, with nominal horizontal resolution ranging from 1/4 to 1/12°. Some meshes are more strongly refined in regions where the eddy kinetic energy (EKE) is large, whereas others follow a standard design, with resolution gently increasing toward high latitudes. We show that, except for the coarsest (1/4°) mesh, the generation of kinetic energy (KE), the generation of available potential energy (APE), and the conversion between mean KE and APE are insensitive to resolution and mesh design. EKE and the conversions between mean and eddy APE, and between eddy APE and KE, show a weak but systematic increase with resolution. The EKE‐based mesh design yields specific advantages at the highest reso…",
     "authors": "A. Koldunov, D. Sidorenko, N. Koldunov, S. Danilov et al.",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Impact of unsteady suction actuation on drag and wake dynamics of a vehicle model",
-    "doi": "10.1063/5.0321105",
-    "url": "https://doi.org/10.1063/5.0321105",
-    "abstract": "This study employs wall-resolved large-eddy simulations to investigate the effectiveness of unsteady suction actuation applied near the upper edge of the slant surface of a 25° Ahmed body at a Reynolds number of 7.6 × 105. A key approach to this work is the validation of the baseline flow, which achieves a drag coefficient of 0.31, closely matching the benchmark experimental from Ahmed et al. [“Some salient features of the time-averaged ground vehicle wake,” SAE Trans. 93, 473–503 (1984)]. From this validated baseline case, the application of an unsteady suction jet with an optimal momentum coefficient Cμ=2.6×10−3 leads in a drag value of 0.274 and reduction of approximately 12%. This study establishes a clear connection between targeted momentum injection and drag reduction through detail…",
-    "authors": "Mohammed Khalid Hossen, Mohammad Saeedi",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "wake",
-      "ABL",
-      "drag reduction"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Inflection point instability in Hartmann channel flow with variable electric conductivity",
-    "doi": "10.1063/5.0319437",
-    "url": "https://doi.org/10.1063/5.0319437",
-    "abstract": "The stability of a flow of an electrically conducting, incompressible fluid in a channel with an imposed uniform wall-normal magnetic field and electrically insulating walls is studied using linear stability analysis and direct numerical simulations. The novelty of the system, which differentiates it from the classical Hartmann channel flow, is that, as in some technological applications of liquid metals, the electric conductivity and viscosity of the fluid vary across the channel. This variation is found to have a strong influence on the stability characteristics of the flow. Specifically, a linear variation in electric conductivity significantly alters the base velocity profile, leading to pronounced asymmetry and the development of inflection points. When this transformation is sufficie…",
-    "authors": "R. Okatev, O. Zikanov, D. Krasnov, P. Frick",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Reynolds-averaged Navier–Stokes and stress-blended eddy simulation applications toward a realistic cough jet simulations in different oral configurations",
-    "doi": "10.1063/5.0316118",
-    "url": "https://doi.org/10.1063/5.0316118",
-    "abstract": "The influence of turbulence modeling and oral cavity geometry on cough jet predictions was investigated using Computational Fluid and Particle Dynamics. Three oral geometries were examined: two realistic geometries with teeth details and different mouth openings, plus a simplified circular opening. The Reynolds-Averaged Navier–Stokes Shear Stress Transport (SST) k–ω model and hybrid Stress-Blended Eddy Simulation (SBES) model were compared to assess droplet dispersion predictions. The SST k–ω model overpredicts droplet diffusion, producing approximately 24% greater lateral dispersion than SBES simulations. SBES resolved coherent vortex structures critical to realistic particle transport in cough clouds, balancing computational cost with accuracy. A realistic narrow oral opening generated c…",
-    "authors": "Mostafa Aboelsaud, Islam M. S. Abouelhamd, Kazuki Kuga, Kiao Inthavong et al.",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "turbulence",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Improved Response of δ\n                    <sup>18</sup>\n                    O\n                    <sub>sw</sub>\n                    in the Pacific Ocean to Atmosphere‐ocean Interaction and ENSO Using the Isotope‐Enabled Fully Coupled Model MIROC6‐Iso",
-    "doi": "10.1029/2025ms005082",
-    "url": "https://doi.org/10.1029/2025ms005082",
-    "abstract": "Abstract Stable water isotopes serve as tracers of climate processes and are useful for identifying drivers of regional and global hydrological variability. To get a precise picture of spatiotemporal changes in the water cycle, it is necessary to describe the mechanisms in a coherent way among the involved climatic reservoirs (atmosphere, land, and ocean). For example, in the Pacific Ocean, the oxygen isotopic composition (denoted δ 18 O) of surface seawater recorded in corals is widely used to reconstruct the El Niño–Southern Oscillation (ENSO). However, the influences of atmosphere–ocean feedback and ocean circulation on the δ 18 O–ENSO relationship are not fully understood. Describing water isotopes in the full climate system is one way to tackle this issue. Therefore, this study introd…",
-    "authors": "Yifan Li, Alexandre Cauquoin, Atsushi Okazaki, Kei Yoshimura",
     "published": "2026-04-01",
     "keywords_matched": [
       "ABL"
