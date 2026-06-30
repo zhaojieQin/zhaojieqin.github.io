@@ -1,6 +1,20 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Data-driven reduced-order modelling of wake dynamics in hovering flapping flight",
+    "doi": "10.1017/jfm.2026.11742",
+    "url": "https://doi.org/10.1017/jfm.2026.11742",
+    "abstract": "As insects flap their wings, they generate complex wake structures critical to their aerodynamic force production. Specific flow structures such as the leading-edge vortex have been studied for decades; however, a complete understanding of the transient dynamics and energy exchange mechanisms in insect wakes remains elusive. To help bridge this gap, we employ data-driven reduced-order modelling techniques to identify a simple and interpretable model for a hovering hawkmoth’s wake. We begin by using an in-house immersed-boundary-method computational fluid dynamics solver to simulate hovering hawkmoth flight. We then perform dynamic mode decomposition to distil the resulting flow field into a set of time-varying modes. Finally, we employ sparse regression to identify a model capturing the dr…",
+    "authors": "Seth Lionetti, Bryan E. Schmidt, Chengyu Li",
+    "published": "2026-06-30",
+    "keywords_matched": [
+      "wake",
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Droplet impact dynamics on micropillar-structured surfaces with heterogeneous wettability",
     "doi": "10.1017/jfm.2026.11593",
     "url": "https://doi.org/10.1017/jfm.2026.11593",
@@ -42,6 +56,103 @@
     "url": "https://doi.org/10.5194/gmd-19-5623-2026",
     "abstract": "Abstract. Floods are among the costliest natural hazards, demanding scalable models to simulate river and floodplain dynamics at a global scale. The Catchment-based Macro-scale Floodplain (CaMa-Flood) model is a leading system for this purpose, but its CPU-based implementation is computationally demanding. This paper introduces CaMa-Flood-GPU, a fundamental refactoring of the model optimized for Graphics Processing Unit (GPU) architectures. We systematically reinterpreted its core algorithms – including river routing on irregular networks, runoff interpolation, and water depth diagnosis – into highly parallel, GPU-native operations. Key challenges were addressed by implementing scatter-add for flux updates, sparse matrix multiplication for runoff mapping, and branchless kernels for floodpl…",
     "authors": "Shengyu Kang, Jiabo Yin, Dai Yamazaki",
+    "published": "2026-06-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Strongly nonlinear isotropic models for long internal waves in fluids of great depth",
+    "doi": "10.1017/jfm.2026.11738",
+    "url": "https://doi.org/10.1017/jfm.2026.11738",
+    "abstract": "We are concerned with the nonlinear modelling of three-dimensional internal gravity waves in the lower atmosphere. A simplified configuration of density stratification is adopted, assuming that the atmosphere consists of two layers of uniform density with a sharp interface between the two bulk fluids. A time-dependent topography is considered to model a non-uniform, time-varying background current over variable terrain. Based on the Ablowitz–Fokas–Musslimani formulation for irrotational flows, both fully and weakly nonlinear long-wave isotropic models are derived in the Benjamin–Ono regime, where the upper layer is set to be semi-infinite. Two atmospheric gravity wave phenomena, motivated by satellite observations, are simulated using two modified numerical schemes to showcase the newly de…",
+    "authors": "Zhan Wang, Paul A. Milewski",
+    "published": "2026-06-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Quasi-geostrophic limiting dynamics and energetics of the Lagrangian-averaged Navier–Stokes-alpha\n                    <mml:math xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:mnf=\"http://cambridge.org/core/manifest\" xmlns:cup=\"http://contentservices.cambridge.org\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:m=\"http://cambridge.org/core/metadata\" xmlns:core=\"http://cambridge.org/core\" xmlns:c=\"http://cambridge.org/core/content\">\n                      <mml:mi>α</mml:mi>\n                    </mml:math>\n                    $\\alpha$\n model",
+    "doi": "10.1017/jfm.2026.11720",
+    "url": "https://doi.org/10.1017/jfm.2026.11720",
+    "abstract": "The Lagrangian-averaged Navier–Stokes- alpha α $\\alpha$ (LANS- alpha α $\\alpha$ ) model, a turbulence closure scheme based on energy-conserving modifications to nonlinear advection, can produce more energetic simulations than standard models, leading to improved fidelity (e.g. in ocean models). However, comprehensive understanding of the mechanism driving this energetic enhancement has proven elusive. To address this, we derive the fast quasi-geostrophic limit of the three-dimensional, stably stratified LANS- alpha α $\\alpha$ equations. This provides both the slow, balanced flow and the leading-order fast wave dynamics. Analysis of these wave dynamics suggests that an explanation for the energetic enhancement lies in the dual role of the smoothing parameter itself: increasing alpha α $\\alp…",
+    "authors": "L.R. Seitz, Beth A. Wingate",
+    "published": "2026-06-29",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "A simplified resolvent model for connecting linear amplifications to linear mechanisms in channel flow",
+    "doi": "10.1017/jfm.2026.11724",
+    "url": "https://doi.org/10.1017/jfm.2026.11724",
+    "abstract": "The linearised Navier–Stokes (LNS) equations are employed in channel flow to study linear amplification mechanisms from an input–output point of view. We consider two models: the full LNS system and a simplified model. In the simplified model, we retain only the forcing pathways that pertain to the shear-driven lift-up mechanism. This approach enables individual analysis of the Orr–Sommerfeld and Squire operators as subsystems, revealing the relationship between linear amplification and the linear mechanisms from which it arises. We examine wavenumber regions corresponding to streamwise streaks, oblique waves and Tollmien–Schlichting (TS) waves, linking the underlying mechanisms back to the LNS equations. Analysis is performed for laminar Poiseuille flow, laminar Couette flow and turbulent…",
+    "authors": "Austin Palya, Nicholas Hutchins, Simon J. Illingworth",
+    "published": "2026-06-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On the interaction between the sheet and tip vortex cavitation over an elliptical hydrofoil",
+    "doi": "10.1017/jfm.2026.11739",
+    "url": "https://doi.org/10.1017/jfm.2026.11739",
+    "abstract": "This study investigates the unsteady oscillation cycle of sheet and tip vortex cavitation over an elliptical NACA 66 Subscript 2 66 2 $66_2$ -415 hydrofoil using high-speed imaging and time-resolved tomographic particle image velocimetry. Synchronised measurements of radiated noise are conducted. The oscillation cycle consists of three phases, involving growth and collapse of the sheet and tip vortex cavitation, followed by intermittent rebounding of the tip vortex cavity. The collapse of the sheet cavity is triggered by a side-entrant jet, leading to the formation of the cloud and secondary vortex cavitation. The interaction between the secondary and tip vortex cavities further promotes the collapse of the latter. The three-dimensional instantaneous flow organisation indicates that the ev…",
+    "authors": "Yuwei Wang, Xueming Shao, Qingqing Ye",
+    "published": "2026-06-29",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Settling of chiral particles in a turbulent flow",
+    "doi": "10.1017/jfm.2026.11726",
+    "url": "https://doi.org/10.1017/jfm.2026.11726",
+    "abstract": "Chiral particles are experimentally investigated while settling in water with various turbulence intensity levels. The locations and orientations of the particles are tracked over time, allowing the close investigation of the particles’ settling dynamics. The generated turbulent flow is measured using laser Doppler anemometry, and the turbulence strength varies between experiments in the range 0 less than or slanted equals italic Re Subscript lamda Baseline less than or slanted equals 250 0 ⩽ Re λ ⩽ 250 $0 \\leqslant \\textit{Re}_\\lambda \\leqslant 250$ . Starting with quiescent particle settling, the chiral particle’s orientation dynamics is studied, revealing a preferred alignment and a strong translation–rotation coupling. The particle chirality determines the preferred rotation direction,…",
+    "authors": "Mees M. Flapper, John E. Sader, Detlef Lohse, Sander G. Huisman",
+    "published": "2026-06-29",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Searching for invariant solutions to wall-bounded flows using resolvent-based optimisation",
+    "doi": "10.1017/jfm.2026.11722",
+    "url": "https://doi.org/10.1017/jfm.2026.11722",
+    "abstract": "We present a robust optimisation framework for computing invariant solutions of wall-bounded flows by recasting the Navier–Stokes equations as a variational problem as established in Ashtari &amp; Schneider ( J. Fluid Mech ., vol. 977, 2023, A7). The approach minimises the residual of the governing equations over a finite-time horizon, seeking periodic or equilibrium solutions. A novel contribution is made by including a Galerkin projection onto a basis of divergence-free modes that satisfy the no-slip boundary conditions. This projection not only makes the variational framework applicable to wall-bounded flows but it also yields a low-order representation of the dynamics. The basis is derived from resolvent analysis, which provides an orthonormal set. We demonstrate the method on a stream…",
+    "authors": "Thomas Burton, Sean Symon, Davide Lasagna",
+    "published": "2026-06-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Precipitation Microphysics in Intensifying and Weakening Tropical Cyclones Over the Western North Pacific: Insights From GPM DPR",
+    "doi": "10.1029/2026jd046538",
+    "url": "https://doi.org/10.1029/2026jd046538",
+    "abstract": "Abstract Shear‐relative, quadrant‐scale differences in precipitation microphysics between intensifying tropical cyclones (ITCs) and weakening tropical cyclones (WTCs) are investigated using Ku/Ka‐band observations from the Global Precipitation Measurement (GPM) Dual‐frequency Precipitation Radar (DPR) over the western North Pacific during 2014–2024. The results indicate that ITCs exhibit a higher fraction of convective pixels and statistically significantly larger near‐surface drop sizes compared with WTCs, despite their weaker instantaneous storm intensities. Notably, the downshear right (DR) quadrant of ITCs acts as a convective initiation zone, exhibiting the highest convective fraction yet the lowest mean storm echo top height, with microphysical signatures of more active drop breakup.…",
+    "authors": "Hao Huang, Chen Lu, Zhiyang Liu, Wenxuan Zhao et al.",
+    "published": "2026-06-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "MESMER v1.0.0: consolidating the modular Earth system model emulator into a sustainable research software package",
+    "doi": "10.5194/gmd-19-5669-2026",
+    "url": "https://doi.org/10.5194/gmd-19-5669-2026",
+    "abstract": "Abstract. We present version v1.0.0 of MESMER – the Modular Earth System Model Emulator with spatially Resolved output. MESMER is a comprehensive software package for spatially resolved climate emulation. Version 1.0.0 revises the source code of several emulation approaches developed as part of earlier versions of MESMER and integrates them into a single python package that is readily available to the scientific community. We present the different MESMER components and the development strategy used to integrate them. MESMER v1.0.0 is numerically stable, faster than previous versions, employs a modern data structure, and better disentangles data handling and the statistical core. We demonstrate that MESMER v1.0.0 is now a sustainable research software according to requirements for modularit…",
+    "authors": "Victoria M. Bauer, Mathias Hauser, Yann Quilcaille, Sarah Schöngart et al.",
     "published": "2026-06-29",
     "keywords_matched": [
       "ABL"
@@ -6034,120 +6145,6 @@
     "keywords_matched": [
       "wake",
       "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Resonant spectral cascade in Womersley flow triggered by arterial geometry",
-    "doi": "10.1063/5.0319995",
-    "url": "https://doi.org/10.1063/5.0319995",
-    "abstract": "Age-related arterial remodeling is dominated by progressive loss of elastic-fiber function and concomitant stiffening, and in many vascular beds, it is also accompanied by measurable geometric remodeling (e.g., elongation and tortuosity). These changes are clinically relevant because they modify pulsatile phase relationships, near-wall shear, and axial transport, yet the precise physical mechanisms by which geometry modulates spectral energy redistribution remain insufficiently resolved. While complex geometry is known to increase viscous resistance, its active role in modulating flow dynamics is not fully understood. Here, we solve a mathematical model to show that arterial geometry can trigger a resonant transfer of energy to short-wavelength components of the flow. The investigation, co…",
-    "authors": "Khalid M. Saqr",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Flow and dispersion characteristics of sediment plumes induced by a moving vehicle in deep-sea mining",
-    "doi": "10.1063/5.0316795",
-    "url": "https://doi.org/10.1063/5.0316795",
-    "abstract": "Deep-sea mining disturbs benthic sediments, generating plumes that can mobilize heavy metal ions and pose ecotoxicological risks to marine ecosystems. Understanding the associated wake and plume dynamics is therefore crucial for environmental impact assessment. This study develops a novel particle–turbulence interacting Eulerian (PT–Euler) model, which modifies governing-equation source terms to resolve PT interactions. Model validation shows less than 5% deviation in key concentration fields and good agreement in plume morphology with experimental data. Simulations investigate the trailing plume dispersion from a mining vehicle, focusing on the dimensionless vehicle speed (Vn: the ratio of vehicle movement speed to sediment discharge speed; Vn = 0–2) and initial sediment concentration (αs…",
-    "authors": "Xiu Li, Lixin Xu, Yajiao Liu, Zhichao Hong",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "wake",
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Streamwise velocity and temperature coupling in compressible turbulent channel flow: Correlation and streak overlap analysis",
-    "doi": "10.1063/5.0323794",
-    "url": "https://doi.org/10.1063/5.0323794",
-    "abstract": "This paper employs direct numerical simulation to systematically investigate the correlation between velocity and temperature in compressible turbulent channel flows at Mach numbers 0.5, 1.5, and 3.0. The mean and fluctuating velocity and temperature fields are analyzed using relevant statistical measures. In addition to conventional statistics of velocity–temperature correlation, an image recognition algorithm based on the Intersection Over Union (IOU) metric is introduced to analyze the overlapping characteristics of near-wall streaks, enabling quantitative characterization of the overlap ratio between low-velocity and low-temperature streaks. The results show that in the near-wall region, velocity and temperature fluctuations exhibit a strong positive correlation modulated by coherent s…",
-    "authors": "Fangliang Xu, Kai Zhang, Peng Zhang",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Large-eddy simulation of flow mechanisms and wake dynamics around a wall-mounted square cylinder with façade ribs under turbulent inflow",
-    "doi": "10.1063/5.0327268",
-    "url": "https://doi.org/10.1063/5.0327268",
-    "abstract": "Façade ribs are typically investigated as a modification strategy to improve flow control performance around a square cylinder. However, the effect of façade ribs on the flow control mechanisms and wake dynamics around a wall-mounted square cylinder is poorly understood. In this study, a large-eddy simulation is used to investigate the flow structures and forces around a wall-mounted square cylinder with various rib configurations. The results indicate that façade ribs significantly alter the mean flow, turbulent kinetic energy, and vortex structures, with continuous ribs having a more distinct effect. Vertical ribs generate localized corner vortices that mitigate turbulence and vortex shedding, whereas horizontal ribs reduce sidewall suction. Horizontal ribs have a negligible impact on dr…",
-    "authors": "Jinyang Liu, Yi Hui, Qingshan Yang, Xin Guan",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "wake",
-      "turbulence",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Surrogate-based robust design of asymmetric splitter plates for aerodynamic performance efficiency of flatback airfoils",
-    "doi": "10.1063/5.0325553",
-    "url": "https://doi.org/10.1063/5.0325553",
-    "abstract": "Flatback airfoils are widely employed in the inboard regions of large wind turbine blades due to their structural advantages; however, their blunt trailing edges generate significant base drag and unsteady wake dynamics that degrade aerodynamic efficiency. While splitter plates reported in the literature are predominantly symmetric and center-mounted, this study introduces a surrogate-based optimization framework for the aerodynamic design of asymmetric trailing-edge (TE) splitter plates aimed to stabilize the wake and enhance aerodynamic performance. A parametric splitter geometry defined by length, inclination angle, vertical offset, and thickness is investigated for airfoils with 5% and 10% of chord TE thicknesses. Gaussian process regression models trained on Reynolds-averaged Navier–S…",
-    "authors": "Yunus Celik",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "wind turbine",
-      "wake"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Numerical Water Tracers in the Atmospheric Component of the Energy Exascale Earth System Model: Implementation and Changes in Moisture Origin",
-    "doi": "10.1029/2025ms005287",
-    "url": "https://doi.org/10.1029/2025ms005287",
-    "abstract": "Abstract Numerical water tracers are implemented in the Energy Exascale Earth System Model version 2. Simulations performed with the water‐tag‐enabled model for both pre‐industrial and future greenhouse gas concentrations reveal a marked increase in the role of mid‐latitude and southern subtropical regions as exporters of atmospheric moisture—to the extratropical upper troposphere and the tropical free troposphere. For the latter, the northward shift of the Intertropical Convergence Zone increases cross‐hemispheric transport of subtropical water vapor to the Northern Hemisphere. In the polar regions, most of the lower tropospheric moistening instead arises from increases in local evaporation. These findings illustrate the utility of the water tags, underscore critical changes in global hyd…",
-    "authors": "Alexandre Audette, Nicole Feldl, Hansi Singh, Kyle Heyblom et al.",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Reducing base drag on road vehicles using pulsed jets optimized by hybrid genetic algorithms",
-    "doi": "10.1063/5.0313874",
-    "url": "https://doi.org/10.1063/5.0313874",
-    "abstract": "Aerodynamic drag on flat-backed vehicles like vans and trucks is dominated by a low-pressure wake, whose control is critical for reducing fuel consumption. This paper presents an experimental study at ReW≈78 300 on active flow control using four pulsed jets at the rear edges of a bluff-body model. A hybrid genetic algorithm, combining a global search with a local gradient-based optimizer, was used to determine the best-performing jet actuation parameters in an experiment-in-the-loop setup. The cost function was designed to achieve a net energy saving by simultaneously minimizing aerodynamic drag and penalizing the actuation's energy consumption. The optimization campaign successfully identified a control strategy that yields a drag reduction of approximately 8.8%. The best-performing contr…",
-    "authors": "Isaac Robledo, Juan Alfaro, Víctor Duro, Alberto Solera-Rico et al.",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "wake",
-      "drag reduction"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Recent advances in flapping-wing aerodynamics: Mechanisms, kinematics, and bioinspired configurations",
-    "doi": "10.1063/5.0323309",
-    "url": "https://doi.org/10.1063/5.0323309",
-    "abstract": "Flapping-wing aerodynamics governs the flight performance of insects, birds, and bioinspired micro air vehicles operating in low-Reynolds-number regimes. Unlike classical steady aerodynamics, flapping flight is dominated by unsteady vortex dynamics, including leading-edge vortex stabilization, rotational lift, wake capture, and wing–wake interactions. Over the past two decades, extensive experimental, numerical, and theoretical studies have improved understanding of these mechanisms, while advances in kinematic optimization, bioinspired wing geometry, and data-driven modeling have expanded the design space of flapping-wing micro air vehicles. Despite these developments, existing research remains fragmented across aerodynamic mechanisms, kinematic control, wing morphology, wake topology, an…",
-    "authors": "Kim Boon Lua",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "wake",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Lorenz Energy Cycle of the Global Eddying Ocean Simulated on Meshes With Different Designs and Resolutions",
-    "doi": "10.1029/2025ms005551",
-    "url": "https://doi.org/10.1029/2025ms005551",
-    "abstract": "Abstract We analyze the Lorenz Energy Cycle of the ocean simulated by FESOM on several unstructured meshes, with nominal horizontal resolution ranging from 1/4 to 1/12°. Some meshes are more strongly refined in regions where the eddy kinetic energy (EKE) is large, whereas others follow a standard design, with resolution gently increasing toward high latitudes. We show that, except for the coarsest (1/4°) mesh, the generation of kinetic energy (KE), the generation of available potential energy (APE), and the conversion between mean KE and APE are insensitive to resolution and mesh design. EKE and the conversions between mean and eddy APE, and between eddy APE and KE, show a weak but systematic increase with resolution. The EKE‐based mesh design yields specific advantages at the highest reso…",
-    "authors": "A. Koldunov, D. Sidorenko, N. Koldunov, S. Danilov et al.",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
