@@ -15,6 +15,104 @@
   },
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Drag coefficient of a rough grain submerged in low-Reynolds-number flow",
+    "doi": "10.1017/jfm.2026.11753",
+    "url": "https://doi.org/10.1017/jfm.2026.11753",
+    "abstract": "Controversy exists regarding whether grain morphology reduces or enhances the drag of a single grain in creeping flows. Further complication occurs when orientation dependence of aspherical grains comes into play. To bridge this gap, this study investigates numerically the drag on fractally rough grains depicted by spherical harmonics. Rough shapes could induce drag reduction, indicated by a lower mean value of drag coefficients upper C Subscript upper D C D $C_{\\!D}$ at various rotation angles, compared with that of the corresponding smooth sphere. Moreover, the derived power law between upper C Subscript upper D C D $C_{\\!D}$ and the projected area upper A Subscript p A p $A_{\\!p}$ perpendicular to the flow direction, expressed as upper C Subscript upper D Baseline proportional to upper …",
+    "authors": "Si Suo, Deheng Wei, Budi Zhao, Chongpu Zhai",
+    "published": "2026-06-30",
+    "keywords_matched": [
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Wavenumber–frequency spectrum model of fluctuating pressure on flat plate and circular cylinder in compressible flow",
+    "doi": "10.1017/jfm.2026.11744",
+    "url": "https://doi.org/10.1017/jfm.2026.11744",
+    "abstract": "This study develops wavenumber–frequency spectrum models for wall-pressure fluctuations in turbulent boundary layers on flat plates and cylinders in compressible flow. Through non-dimensionalisation and solution of the momentum and continuity equations, a unified physical framework integrating near-field pressure and far-field acoustic regions is established, extending Lighthill’s acoustic analogy. Starting from the fluctuating pressure governing equation, Mach number effects in the acoustic region are explicitly introduced for the first time, and unified analytical expressions across the full wavenumber range are derived for both geometries. The proposed models achieve high-precision prediction across the entire wavenumber domain. Validation is performed via cylinder wind tunnel experimen…",
+    "authors": "Ji-Jun Pu, Rongping Zhang, Fengjie Li, Peng-Jun-Yi Zhang et al.",
+    "published": "2026-06-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Deformation and motion of a thin sessile drop in shear flow",
+    "doi": "10.1017/jfm.2026.11746",
+    "url": "https://doi.org/10.1017/jfm.2026.11746",
+    "abstract": "Drop deformation and motion driven by shear flows are widespread phenomena in nature and underpin a variety of technological applications. We investigate the deformation, motion and contact-line dynamics of two-dimensional drops in steady shear flows within the framework of lubrication theory. For pinned drops with 180 Superscript ring 180 ∘ $180^\\circ$ hysteresis, we identify a critical shear rate, beyond which the upstream side becomes unstable and a thinning film develops. At late stage, the thinning film connects to the bulk drop through a self-similar capillary transition structure. For moving drops with 0 Superscript ring 0 ∘ $0^\\circ$ hysteresis, the dynamical behaviours can be classified into three regions: in the low-shear region, the steady-state drop velocity increases linearly …",
+    "authors": "Xi-Hu Wu, Hang Ding, Peng Gao",
+    "published": "2026-06-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Stabilisation of adverse density gradients in binary mixtures via transverse confinement: comparison of theory, numerics and experiment",
+    "doi": "10.1017/jfm.2026.11755",
+    "url": "https://doi.org/10.1017/jfm.2026.11755",
+    "abstract": "We investigate the effect of the transverse aspect ratio ( upper B B $B$ ) of a thermogravitational column (TGC) on the stability of a binary fluid mixture with a negative separation ratio ( psi ψ $\\psi$ ), which generates an adverse vertical density gradient. In extended systems, this configuration is unstable and limits separation. Here we show that confinement fundamentally alters this behaviour and can fully suppress the instability. Combining linear stability analysis of the three-dimensional basic state, three-dimensional simulations and experiments, we identify upper B B $B$ as the key control parameter. Linear stability analysis yields a correlation for the critical aspect ratio upper B Subscript italic c Baseline left parenthesis psi right parenthesis B c ( ψ ) $B_{\\textit{c}}(\\ps…",
+    "authors": "Antton Sanjuan Esnaola, Katia Ali Amar, Silvia C. Hirata, Valentina Shevtsova et al.",
+    "published": "2026-06-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Characterising drag and wall heat flux reduction of micro-blowing control in compressible turbulent boundary layers",
+    "doi": "10.1017/jfm.2026.11740",
+    "url": "https://doi.org/10.1017/jfm.2026.11740",
+    "abstract": "Direct numerical simulations are performed on compressible turbulent boundary layers with micro-blowing controls applied to the walls at a free stream Mach number of 2.0 to investigate the influences of wall-blowing mass flux and spatial arrangements on drag reduction. Using law-of-the-wall for uniform blowing control, an estimation of skin friction is proposed based on Reynolds number and wall-blowing mass flux. At a given Reynolds number, the drag reduction rate increases almost logarithmically with wall-blowing mass flux within the control region. Downstream of the interaction zone, the drag reduction rate increases linearly. The disparities of the drag reduction rate in the integral sense among cases with different spatial arrangements are attributed to the asymmetric pressure gradient…",
+    "authors": "Ming Yu, Cheng Peng, Pengxin Liu, Xianxu Yuan et al.",
+    "published": "2026-06-30",
+    "keywords_matched": [
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Elasto-thinning dynamics of viscoelastic flow past a square cylinder at extreme Weissenberg numbers",
+    "doi": "10.1017/jfm.2026.11725",
+    "url": "https://doi.org/10.1017/jfm.2026.11725",
+    "abstract": "We investigate viscoelastic flow past a square cylinder using the Phan-Thien–Tanner model to disentangle the competing effects of elasticity and shear-thinning. Simulations cover Weissenberg numbers ranging from 0.1 to 10 000, at a fixed Reynolds number of 10 and a solvent viscosity ratio of 0.6. The results are compared with the Newtonian, Oldroyd-B and Carreau–Yasuda models to isolate the influence of each rheological mechanism on drag, vortex shedding and wake structure. For Weissenberg numbers less than 50, elastic stresses dominate; drag increases by up to 30 %, vortex shedding is delayed as the critical Reynolds number increases by approximately 18 %, and the wake contracts sharply, with recirculation lengths reduced by up to 85 %. In the intermediate regime, where Weissenberg number…",
+    "authors": "Ali Minaeian, Ying Xu, Shiying Xiong",
+    "published": "2026-06-30",
+    "keywords_matched": [
+      "wake",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Improving Short‐Term Analyses and Forecasts of an EF2 Tornadic Supercell Through EnKF X‐Band Phased Array Radar Assimilation",
+    "doi": "10.1029/2026jd046951",
+    "url": "https://doi.org/10.1029/2026jd046951",
+    "abstract": "Abstract This study investigates the impact of assimilating X‐band Phased Array Radar (XPAR) data on the analysis and forecast of an EF2 tornadic supercell in China using a deterministic forecast‐updated Ensemble Kalman Filter method that avoids the potential smoothing of fine‐scale storm details associated with ensemble averaging. Observations indicate that XPAR provides a more continuous spatiotemporal sampling of the low‐level mesocyclone and echo structure than operational S‐band radar. Assimilating reflectivity (RF) and radial velocity (RV) from the S‐band radar fail to reproduce the hook echo and key low‐level rotational signatures, with substantial deviations in the predicted supercell and the low‐level vortex track. Joint assimilation of XPAR RF and RV enables earlier vortex analys…",
+    "authors": "Feifei Shen, Jiajun Chen, Naigeng Wu, Jinzhong Min et al.",
+    "published": "2026-06-30",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Improvement of the Rnnmm-type climate index approach with a spatio-temporal model based on the Hawkes process",
+    "doi": "10.5194/gmd-19-5689-2026",
+    "url": "https://doi.org/10.5194/gmd-19-5689-2026",
+    "abstract": "Abstract. This paper proposes an innovative geostatistical model based on self-exciting Hawkes processes for modeling the Rnnmm-type extreme climate index, representing a novel contribution to the literature on climate extremes. The proposed approach generalizes non-homogeneous spatio-temporal Poisson models by incorporating temporal dependence between events through excitation functions, enabling the capture of clustering patterns commonly observed in precipitation time series. The model is formulated within a Bayesian framework, with parameter estimation performed via Markov Chain Monte Carlo (MCMC) methods. Spatial dependence is introduced through hierarchical Gaussian processes, allowing for interpolation in locations without observed data. The model is applied to the R20mm index (annu…",
+    "authors": "Fidel Ernesto Castro Morales, Antonio Marcos Batista do Nascimento, Marina Silva Paez, Daniele Torres Rodrigues et al.",
+    "published": "2026-06-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Droplet impact dynamics on micropillar-structured surfaces with heterogeneous wettability",
     "doi": "10.1017/jfm.2026.11593",
     "url": "https://doi.org/10.1017/jfm.2026.11593",
@@ -6046,105 +6144,6 @@
     "published": "2026-04-01",
     "keywords_matched": [
       "lattice boltzmann"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Passive flow control using a detached triangular splitter plate behind a circular cylinder: Effect of spacing ratio",
-    "doi": "10.1063/5.0321401",
-    "url": "https://doi.org/10.1063/5.0321401",
-    "abstract": "A numerical study is conducted to analyze the flow past a circular cylinder equipped with a detached triangular splitter plate placed downstream at four different spacing ratios. The objective of this investigation is to evaluate a passive flow control method for drag reduction and mitigation of flow-induced vibrations, which are common issues in engineering applications such as underwater pipelines and cables. The reduction of unsteady forces enhances structural stability, extends service life, and reduces fatigue damage. In this passive flow control technique, four spacing ratios (SR=0.25–1.0) are considered. Simulations are performed using an incompressible finite-volume method to analyze the flow dynamics at Reynolds numbers (Re=150, 180, and 200). Compared to the bare cylinder, drag r…",
-    "authors": "Malwika Choudhary, Chandan Kumar Bharti, Geeta Verma, Rabindra Nath Barman",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "ABL",
-      "drag reduction"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Investigations of intermediate buzz phenomenon during streamtraced inlet restart",
-    "doi": "10.1063/5.0313906",
-    "url": "https://doi.org/10.1063/5.0313906",
-    "abstract": "Intermittent buzz prolongs the process of reestablishment of the design air flow through supersonic/hypersonic intakes, called “restart,” in the event of an accidental unstart or engine stall. The present work investigates the processes that drive intermittent buzz in a self-starting axisymmetric hypersonic Busemann inlet. The restart process is triggered by rapidly decreasing the aerodynamic blockage from a high-bandwidth high-momentum counter-injected jet at the isolator exit. The short timescale of aerodynamic blockage removal mimics the high-bandwidth fuel throttling in practical scenarios. Two-dimensional time-resolved pressure fields over inlet and isolator surfaces and time-resolved external shock fields are obtained at a 10 kHz repetition rate, which is an order of magnitude higher…",
-    "authors": "Ethan C. Johnson, Venkateswaran Narayanaswamy",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Numerical study on the effect of moist air non-equilibrium condensation on the aerodynamic performance of a supersonic airfoil",
-    "doi": "10.1063/5.0320450",
-    "url": "https://doi.org/10.1063/5.0320450",
-    "abstract": "The effect of non-equilibrium condensation in moist air on the aerodynamic performance of supersonic airfoils is a critical issue in the design of hypersonic vehicles. In this study, numerical simulation of non-equilibrium condensation in moist air was performed using a modified model in Fluent and validated with experimental data. The effects of humidity, inflow velocity, and flight altitude on the flow field, aerodynamic performance, and condensation characteristics of the Royal Aircraft Establishment 2822 (RAE2822) airfoil were systematically investigated. The results show that the increase in humidity expands the supersonic region on the suction surface (Mach number peak rising from 1.1 to 1.3), reduces the static pressure coefficient, and simultaneously decreases the lift-to-drag rati…",
-    "authors": "Di Liang, Kangbo Lu, Cong Liu, Yimin Li et al.",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "A differentiable, shock-capturing neural solver for compressible flow simulation",
-    "doi": "10.1063/5.0316706",
-    "url": "https://doi.org/10.1063/5.0316706",
-    "abstract": "Understanding shock–solid interactions remains a central challenge in compressible fluid dynamics. We present JAX-Shock (just-in-time compiled, exact shock-capturing solver with automatic differentiation): a fully-differentiable, graphics processing unit-accelerated, high-order shock-capturing solver for efficient simulation of the compressible Navier–Stokes equations. Built entirely in JAX, the framework leverages automatic differentiation to enable gradient-based optimization, parameter inference, and end-to-end training of deep learning-augmented models. The solver integrates fifth-order weighted essentially non-oscillatory reconstruction with an Harten-Lax-van Leer-Contact flux to resolve shocks and discontinuities with high fidelity. To handle complex geometries, an immersed boundary …",
-    "authors": "Bo Zhang",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Wave energy harvesting and motion mitigation of floating structures via oscillating water column devices",
-    "doi": "10.1063/5.0311905",
-    "url": "https://doi.org/10.1063/5.0311905",
-    "abstract": "A floating structure integrated with dual oscillating water column (OWC) wave energy converters is numerically investigated using OpenFOAM and waves2Foam to explore its potential for simultaneous wave energy harvesting and motion mitigation. The volume of fluid method for interface capturing, the six-degree-of-freedom dynamic mesh solver waveDyFoam for motion responses and the porous media layer method for power take-off (PTO) damping are adopted to systematically analyze the influence of OWCs' relative chamber width, wall draft depth, and PTO settings on integrated floating structure's motion suppression and energy capture performance under regular waves. The results show that integrating dual OWC devices substantially alters the peak values of the floating structure's motions while shift…",
-    "authors": "Zhengzhi Deng, Wei Hua, Xizeng Zhao, Pengda Cheng",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "wave energy"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Propagation mechanisms and identification of acoustic vortex affected by oceanic reflection and refraction",
-    "doi": "10.1063/5.0302278",
-    "url": "https://doi.org/10.1063/5.0302278",
-    "abstract": "Acoustic reflection and refraction caused by the ocean channel pose challenges to the stable underwater propagation and application of acoustic vortices. This paper focuses on the propagation mechanisms and effective identification of acoustic vortices in marine environments. The proposed Gaussian beam-based parallel computing and least squares (LS) channel equalization methods improve computational efficiency and topological charge identification accuracy. First, we theoretically reveal that the spacing of acoustic vortex phase interference fringes in free space depends on the frequency-to-propagation distance ratio. Subsequently, the interference patterns of acoustic vortices with opposite topological charges caused by surface reflection are investigated. Shallow sources suffer more seve…",
-    "authors": "Xiaojin Guo, Shuqing Ma, Guodong Hao, Qiang Lan et al.",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "ABL",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Double dam-break-generated swash flows on a rough planar beach",
-    "doi": "10.1063/5.0315268",
-    "url": "https://doi.org/10.1063/5.0315268",
-    "abstract": "Swash–swash interactions are investigated using a numerical model. The numerical model is based on open field operation and manipulation (OpenFOAM), which solves the Reynolds-averaged Navier–Stokes equations for two immiscible fluids with a k-ω shear stress transport turbulence closure. The numerical results are validated with laboratory data for swash flows on a rough planar beach driven by a double dam-break swash apparatus. Good agreement is obtained for free surface elevation, flow velocity, and horizontal pressure gradient. Based on the numerical results, swash–swash interactions are classified into wave merging (WM), wave capturing (WC), and backwash–uprush interaction (BUI), with distinct flow characteristics identified for each swash type. The analysis shows the potential for bed i…",
-    "authors": "Yongchim Min, Juhee Ok, Yeulwoo Kim, Marie-Pierre C. Delisle et al.",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Three-dimensional flow dynamics and vibration characteristics of flexible multi-stepped cylinders",
-    "doi": "10.1063/5.0311155",
-    "url": "https://doi.org/10.1063/5.0311155",
-    "abstract": "The vortex-induced vibrations (VIVs) of a flexible multi-stepped cylinder that models a buoyancy-moduled riser are investigated using 3D direct numerical simulations at Reynolds number Re = 100 across a reduced velocity range of Ur = 5.9–38.3. The structure has aspect ratio L/d = 50 and three modules (D/d = 2) arranged in a staggered pattern with 50% coverage. Space–time fields, variational mode decomposition, force–velocity phase diagnostics isolate power-delivering components from harmonic content and correlate them with wake organization. A regime map emerges with increasing Ur: (regime I) a standing 1st-mode cross-flow lock-in with 2nd-mode in-line; (regime II) dominance of 1st-mode cross-flow vibration, accompanied by a detuned second harmonic in the in-line direction and step-induced…",
-    "authors": "Cheng Lu, Zhimeng Zhang, Chunning Ji",
-    "published": "2026-04-01",
-    "keywords_matched": [
-      "wake",
-      "vortex"
     ]
   }
 ]
