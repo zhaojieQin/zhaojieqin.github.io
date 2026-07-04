@@ -1,6 +1,18 @@
 [
   {
     "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "High‐Resolution Analysis of Mesospheric Instabilities on 31 March 2022 at Poker Flat",
+    "doi": "10.1029/2025jd046149",
+    "url": "https://doi.org/10.1029/2025jd046149",
+    "abstract": "Abstract Atmospheric instabilities that moved against the background mean wind were observed directly on 31 March 2022 from Poker Flat, Alaska using both hydroxyl airglow imaging and sodium resonance LiDAR. These instabilities were extracted from data using a series of Fourier and Morse wavelet transforms to isolate them from background gravity waves (GWs) and therefore minimize contamination. Horizontal wavelength, direction, period, and an estimation of the vertical extent of the unstable layer were measured from ripples in airglow images. Density fluctuations in simultaneous LiDAR data exhibited a similar period and were then used to measure vertical extent and altitudinal location. Together, these observations enabled a set of instabilities to be described in quasi‐3D: horizontal wavel…",
+    "authors": "J. M. Norrell, K. Bossert, R. L. Collins, P. D. Pautet",
+    "published": "2026-07-03",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Evaluation of AMSU‐A and MHS Radiance Assimilation Strategies in MPAS–JEDI 4DEnVar for Mountain‐to‐Plain Convection Over Beijing, China",
     "doi": "10.1029/2025jd044672",
     "url": "https://doi.org/10.1029/2025jd044672",
@@ -6133,19 +6145,6 @@
     "authors": "L. Kang, R. Wood, P. N. Blossey, J. D'Alessandro et al.",
     "published": "2026-04-07",
     "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Direct numerical simulation of turbulent flow in a flexible pipe with imposed standing-wave vibration",
-    "doi": "10.1017/jfm.2026.11392",
-    "url": "https://doi.org/10.1017/jfm.2026.11392",
-    "abstract": "Direct numerical simulations of turbulence in a flexible pipe with imposed standing-wave vibration are performed to reveal the flow dynamics inside an oscillating pipe. We choose the parameters of standing-wave vibration with small amplitude as the most unstable mode in flow-induced free vibration. The flow is driven under the condition of constant mass flow rate, with the bulk Reynolds number, based on the bulk velocity and pipe diameter, being ${\\textit{Re}}_b$ = 5300. In response to the imposed vibration, the evolution of the flow inside manifests obvious space–time-dependent characteristics. Specifically, the streamwise velocity fluctuation is enhanced downstream of the crest – the convex region on the internal pipe wall – an event often accompanied by localised flow separation. Meanwh…",
-    "authors": "Xu Liu, Hongbo Zhu, Yan Bao, Benlong Wang et al.",
-    "published": "2026-04-06",
-    "keywords_matched": [
-      "turbulence",
       "ABL"
     ]
   }
