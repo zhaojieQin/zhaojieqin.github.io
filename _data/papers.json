@@ -1,6 +1,44 @@
 [
   {
     "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Cold Pools, Breezes, and Monsoons: Propagating Convection Over New Guinea",
+    "doi": "10.1029/2025jd044429",
+    "url": "https://doi.org/10.1029/2025jd044429",
+    "abstract": "Abstract The diurnal cycle of precipitation near New Guinea involves intricate land‐ocean‐atmosphere interactions, posing substantial challenges for tropical weather and climate simulations. Using over two decades of GPM satellite observations and convection‐permitting Weather Research and Forecasting simulations, this study examines the physical mechanisms governing the pronounced offshore propagation of diurnal convection over New Guinea. We identify two distinct convective propagation modes: (a) a “ridge‐to‐coast” mode originated over elevated terrain and migrating toward the coastline, and (b) an “over‐ocean” mode initiated near the coast, separated by a spatial gap of approximately 100 km. Our findings highlight the critical role of multi‐scale thermally driven flow in shaping boundar…",
+    "authors": "Mingyue Tang, Jimy Dudhia, Changhai Liu, Giuseppe Torri",
+    "published": "2026-07-04",
+    "keywords_matched": [
+      "weather research and forecasting",
+      "diurnal cycle"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Dominant Time Scales of CO Variability From Satellites and Models Using Power Spectral Analysis",
+    "doi": "10.1029/2025jd045888",
+    "url": "https://doi.org/10.1029/2025jd045888",
+    "abstract": "Abstract Understanding spatiotemporal patterns in trace gases aids in separating sources and sinks and reducing model biases. As a proof‐of‐concept, we apply power spectral analysis to monthly total‐column CO from satellites (MOPITT and IASI) and models (CAMS reanalysis and CAM‐chem), along with tagged‐tracer simulations, to disentangle dominant patterns of CO. The dominant time scales (seasonal, interannual, and transport modes) derived from power distributions are used to attribute model and satellite biases to physical processes driving CO variability. We show that the interannual modes reflect interhemispheric exchange while seasonal modes reflect regional transport. A combined analysis of the dominant scales of CAM‐Chem tags showed that IASI and CAMS are able to detect more interannua…",
+    "authors": "John M. McKinnon, Chayan Roychoudhury, Mohammad Amin Mirrezaei, Benjamin Gaubert et al.",
+    "published": "2026-07-04",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Sensitivity of East Asian Meso‐\n                    <i>β</i>\n                    ‐Scale Convective Systems Identification to Microphysical Processes in a Convection‐Permitting Model",
+    "doi": "10.1029/2026jd046317",
+    "url": "https://doi.org/10.1029/2026jd046317",
+    "abstract": "Abstract Mesoscale convective systems (MCSs) are key contributors to heavy rainfall in the East Asian summer monsoon, yet their statistics and internal structure remain difficult to simulate, even in convection‐permitting models (CPMs). This study evaluates the performance of the newly developed Unified Forecast System Double‐Moment microphysics scheme (UDM) in a convection‐permitting configuration of the Weather Research and Forecasting (WRF) model for June‐September 2020 over East Asia. We compare UDM and the WRF Double‐Moment 7‐class microphysics scheme (WDM7) against satellite‐based identification of meso‐ α ‐ and meso‐ β ‐ scale convective systems ( α MCSs and β MCSs), and perform component‐wise sensitivity experiments in which individual UDM components (reduced ice‐phase accretion ra…",
+    "authors": "Taeho Mun, Dong‐Hyun Cha, Song‐You Hong, Jimy Dudhia",
+    "published": "2026-07-04",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "High‐Resolution Analysis of Mesospheric Instabilities on 31 March 2022 at Poker Flat",
     "doi": "10.1029/2025jd046149",
     "url": "https://doi.org/10.1029/2025jd046149",
@@ -6107,42 +6145,6 @@
     "url": "https://doi.org/10.5194/gmd-19-2593-2026",
     "abstract": "Abstract. The global transition to clean energy is sharply increasing demand for rare earth elements (REEs), yet discovery rates are declining, especially in areas concealed by younger cover. Deep learning (DL) offers new opportunities for mineral prospectivity mapping (MPM), but its application is challenged by sparse labelled mineral occurrences, strong class imbalance, and limited model transparency. To address these issues, we present DEEP-SEAM, an explainable semi-supervised DL framework that integrates geological, geophysical, geochemical, remote sensing, and topographic datasets to predict REE prospectivity in the northern Curnamona Province, South Australia. The framework employs the Deviation Network (DevNet), a semi-supervised anomaly detection model that learns from a small numb…",
     "authors": "Zijing Luo, Ehsan Farahbakhsh, Stephen Hore, R. Dietmar Müller",
-    "published": "2026-04-07",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "The Scenario Model Intercomparison Project for CMIP7 (ScenarioMIP-CMIP7)",
-    "doi": "10.5194/gmd-19-2627-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2627-2026",
-    "abstract": "Abstract. Scenarios serve as a critical tool in climate change analysis, enabling the exploration of future evolution of the climate system, climate impacts, and the human system (including mitigation and adaptation actions). This paper describes the scenario framework for ScenarioMIP as part of CMIP7. The design process has involved various rounds of interaction with the research community and user groups at large. The proposal covers a set of scenarios exploring high levels of climate change (to explore high-end climate risks), medium levels of climate change (anchored to current policy), and low levels of climate change (aligned with current international agreements). These scenarios follow very different trajectories in terms of emissions, with some likely to experience peaks and subse…",
-    "authors": "Detlef P. Van Vuuren, Brian C. O'Neill, Claudia Tebaldi, Benjamin M. Sanderson et al.",
-    "published": "2026-04-07",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Validation strategies for deep learning-based groundwater level time series prediction using exogenous meteorological input features",
-    "doi": "10.5194/gmd-19-2657-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2657-2026",
-    "abstract": "Abstract. Due to the growing reliance on machine learning (ML) approaches for predicting groundwater levels (GWL), it is important to examine the methods used for performance estimation. A suitable performance estimation method provides the most accurate estimate of the accuracy the model would achieve on completely unseen test data to provide a solid basis for model selection decisions. This paper investigates the suitability of the following performance estimation strategies (validation methods) for predicting GWL: blocked cross-validation (bl-CV), repeated out-of-sample validation (repOOS) and out-of-sample validation (OOS). The strategies are tested on an one-dimensional convolutional neural network (1D-CNN) and a long-short-term memory (LSTM) network. Unlike previous comparative studi…",
-    "authors": "Fabienne Doll, Tanja Liesch, Maria Wetzel, Stefan Kunz et al.",
-    "published": "2026-04-07",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Understanding Aitken Mode Aerosol Variability Over the Southern Ocean and Antarctica: Insights From Cloud Condensation Nuclei Data",
-    "doi": "10.1029/2025jd045489",
-    "url": "https://doi.org/10.1029/2025jd045489",
-    "abstract": "Abstract Aitken mode aerosol particles can influence cloud properties and lifetime by acting as a reservoir of potential cloud condensation nuclei (CCN) that can replenish the CCN population against precipitation scavenging. However, data on Aitken‐mode aerosols in remote regions are limited. In this study, we developed a method to estimate Aitken mode aerosol concentrations and size distribution using CCN measurements and κ ‐Köhler theory. The performance of this method was evaluated using scanning mobility particle sizer data from recent field campaigns to demonstrate its skills and applicability. The method reasonably estimates Aitken‐ and accumulation‐mode aerosol concentrations, achieving correlations of 0.7–0.9 with only modest biases (mean fractional bias within ±23% for Aitken mode…",
-    "authors": "L. Kang, R. Wood, P. N. Blossey, J. D'Alessandro et al.",
     "published": "2026-04-07",
     "keywords_matched": [
       "ABL"
