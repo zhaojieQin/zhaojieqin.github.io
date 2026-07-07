@@ -1,6 +1,43 @@
 [
   {
     "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "A Lidar‐Validated Comparison of Two Multistatic Meteor Radar‐Based Wind Retrieval Methods for Spatially Resolved Horizontal Winds",
+    "doi": "10.1029/2025jd046277",
+    "url": "https://doi.org/10.1029/2025jd046277",
+    "abstract": "Abstract The mesosphere and lower thermosphere (MLT) region plays a crucial role in the vertical coupling between the lower and upper atmosphere, but continuous regional observations of its wind field remain rare. In this study, we utilize observations from the Eastern China Multistatic Meteor Radar Network (ECMMET) to evaluate two 3‐dimensional wind retrieval methods: the newly developed Volume Velocity Processing (VVP) (NDVVP) and the 3‐dimensional variational assimilation using the divergence constraint (3DVAR+DIV). Both methods maintain stable performance at temporal resolutions as high as 10 min and yield highly consistent horizontal winds, with mean wind correlation coefficients exceeding 0.9 and wind velocity mean differences within 1 m/s. Comparisons with simultaneous lidar observa…",
+    "authors": "Jie Zeng, Wen Yi, Gunter Stober, Xianghui Xue et al.",
+    "published": "2026-07-06",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Exploring Physical Mechanisms for Superior Tropical Cyclone Track Forecasting in AI‐Based Ensemble Weather Prediction Models",
+    "doi": "10.1029/2025jd046208",
+    "url": "https://doi.org/10.1029/2025jd046208",
+    "abstract": "Abstract Tropical cyclones (TCs) are highly destructive and inherently uncertain systems. Ensemble forecasting is critical for quantifying these uncertainties, yet traditional systems are constrained by high computational costs and limited representation of atmospheric nonlinearity. AI‐based ensemble forecasting has emerged as a promising paradigm and shows encouraging performance in TC forecasting, yet the underlying physical mechanisms remain to be explored. Here, we take FuXi‐ENS, which generates ensemble forecasts using a flow‐dependent learnable perturbation scheme, as a representative case and compare it against ECMWF‐ENS for all 90 global TCs in 2018. Results show that FuXi‐ENS produces smaller ensemble mean TC track errors than ECMWF‐ENS, which is physically consistent with its mor…",
+    "authors": "Jun Liu, Tao Zhou, Jiarui Li, Xiaohui Zhong et al.",
+    "published": "2026-07-06",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "On the Great Arctic Cyclone and Record‐Low Sea Ice in 2012: A Tropical Western Pacific–Arctic Teleconnection",
+    "doi": "10.1029/2025jd045538",
+    "url": "https://doi.org/10.1029/2025jd045538",
+    "abstract": "Abstract The minimum Arctic sea ice extent has drawn considerable attention due to its global climate impacts and implications for Arctic shipping routes. In August 2012, an exceptionally strong Arctic cyclone (AC12) contributed to the September sea ice extent reaching its lowest level since 1979. However, the cause of the extreme intensity of AC12 has not been fully understood. In this study, we propose that a tropical–Arctic teleconnection is responsible for the rapid intensification of AC12, which is triggered by extremely strong convection over the western North Pacific (WNP) and elongated by the extremely northward‐displaced North Pacific Jet (NPJ). AC12 reinforces the preexisting Arctic tropopause polar vortex by anomalous poleward heat and moisture transport and enhanced baroclinici…",
+    "authors": "Jing Chen, Zhiping Wen, Xiaodan Chen, Yuanyuan Guo",
+    "published": "2026-07-06",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Cold Pools, Breezes, and Monsoons: Propagating Convection Over New Guinea",
     "doi": "10.1029/2025jd044429",
     "url": "https://doi.org/10.1029/2025jd044429",
@@ -678,6 +715,55 @@
     "published": "2026-07-01",
     "keywords_matched": [
       "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Richtmyer–Meshkov mixing induced by spike–spike collision for a shock-accelerated light fluid layer",
+    "doi": "10.1063/5.0339819",
+    "url": "https://doi.org/10.1063/5.0339819",
+    "abstract": "Richtmyer–Meshkov mixing induced by spike–spike collision in a light fluid layer is numerically studied. Eight SF6/air/SF6 fluid layers with different combinations of initial perturbation amplitudes and wavelengths are examined to assess the dependence of mixing on initial conditions. The spike–spike collision significantly suppresses the mixing-width growth, whereas it has almost no influence on the mixedness evolution, indicating that molecular-level mixing is insensitive to large-scale finger interactions. When the interacting interfaces are in the early stage of their evolution, the collision significantly affects the scalar dissipation rate of the SF6 mass fraction, leading to a non-monotonic evolution prior to the eventual decay. Moreover, the collision fails to establish an effectiv…",
+    "authors": "Dugang Zheng, Xu Guo, Zhigang Zhai, Xisheng Luo",
+    "published": "2026-07-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Large eddy simulation study of cavitating flow dynamics on a small-amplitude oscillating blade",
+    "doi": "10.1063/5.0334012",
+    "url": "https://doi.org/10.1063/5.0334012",
+    "abstract": "Unsteady cavitating flow dynamics over oscillating blades have attracted increasing attention in recent years. To elucidate cavitation instabilities induced by small-amplitude blade oscillations, this study employs large eddy simulation to investigate cavitation behavior over both stationary and oscillating blades. For the stationary configuration, the numerical results reasonably reproduce the experimentally observed transition from non-cavitating flow to attached cavitation and unsteady cloud cavitation with increasing angle of attack. For the oscillating configuration, the largest cavitation cloud appears during the transition from the maximum angle toward the mean angle due to hysteresis effects. Cavity destabilization is associated with the upstream propagation of a condensation shock…",
+    "authors": "Tingyun Yin, Giorgio Pavesi",
+    "published": "2026-07-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Hydrodynamics of a microswimmer in a variable viscosity medium",
+    "doi": "10.1063/5.0329578",
+    "url": "https://doi.org/10.1063/5.0329578",
+    "abstract": "The locomotion of microswimmers in spatially varying viscous media is governed by a complex interplay between fluid heterogeneity and surface-driven activity. In the present analysis, the viscosity profile μ(r) is modeled based on concentration gradients, aligning with the formulation by Housiadas and Beris [Phys. Fluids 31, 113105 (2019)]. The viscosity variation is governed by a control parameter ξ, while surface activity is induced by diffusiophoresis. We employ a reduced form of the governing equations and use an asymptotic power series expansion to derive analytical expressions for the velocity field, swimmer speed, power dissipation, and swimming efficiency. In the depletion regime (0≤ξ≤1), the swimmer's speed increases with the viscosity contrast η, reflecting improved propulsion ef…",
+    "authors": "Shiba Biswas, Arindam Basak, Abyaya Dhar, G. P. Raja Sekhar",
+    "published": "2026-07-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Assimilation of Fullness to Improve the Intensity and Structure of Tropical Cyclone Forecasting",
+    "doi": "10.1029/2025ms005339",
+    "url": "https://doi.org/10.1029/2025ms005339",
+    "abstract": "Abstract Numerical forecasts often underestimate the intensity of tropical cyclones (TCs). One strategy to mitigate the intensity underestimation is to improve the realism of the initial vortex. However, direct observations of TC intensities and structures are limited. It is thus necessary to utilize indirect observations. One such example is TC fullness—an integral measure of TC intensity and size. In this study, TC fullness is assimilated through an ensemble Kalman filter, for typhoons Hagibis (2019) and Haishen (2020) that experienced rapid intensification. The fullness obtains more coherent correlations with the mass and wind fields than either the radius of maximum wind (RMW) or radii of gale‐force wind (R17). The correlations of state variables with the fullness have larger magnitude…",
+    "authors": "Yangjinxi Ge, Lili Lei, Linfan Zhou, Zhe‐Min Tan et al.",
+    "published": "2026-07-01",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
     ]
   },
   {
@@ -6060,94 +6146,6 @@
     "published": "2026-04-07",
     "keywords_matched": [
       "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Data-based transient growth analysis",
-    "doi": "10.1017/jfm.2026.11396",
-    "url": "https://doi.org/10.1017/jfm.2026.11396",
-    "abstract": "Transient growth analysis has been extensively studied in asymptotically stable flows to identify their short-term amplification of perturbations. Generally, in global transient growth analyses, matrix-free methods are adopted, requiring the construction of adjoint equations, either in the discrete or continuous form. This paper introduces a data-driven algorithm that circumvents the adjoint equations by extracting the optimal initial perturbation and its energy growth over a specified time horizon from transient snapshots of perturbations. This method is validated using data from the linearised complex Ginzburg–Landau equation, backward-facing step flow and the Batchelor vortex. Unlike model-based methods, which require $S$ sets of integrations of the linearised governing equation and its…",
-    "authors": "Yin Wang, Xuerui Mao",
-    "published": "2026-04-07",
-    "keywords_matched": [
-      "ABL",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Which different turbulent flow states are allowed in centrifugal convection?",
-    "doi": "10.1017/jfm.2026.11413",
-    "url": "https://doi.org/10.1017/jfm.2026.11413",
-    "abstract": "Turbulence is often treated as memoryless. Once the forcing and control parameters are fixed and after any transients have decayed, the system settles into a unique, statistically stable turbulent state. A growing body of work shows that this paradigm does not have to be true. Even under identical forcing and boundary conditions, turbulent flows may sustain multiple long-lived structures, each with its own characteristic transport properties and fluctuations. The paper by Yao et al. (2026 J. Fluid Mech. , vol. 1030, R4) demonstrates this phenomenon particularly clearly for centrifugal convection, where the flow self-organises into different numbers of coherent rolls depending on the initial conditions. Beyond reporting the observation of multiple flow states, they provide a theoretical exp…",
-    "authors": "Heng-Dong Xi",
-    "published": "2026-04-07",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Acoustic resonance in rotor cascades caused by inlet distortion",
-    "doi": "10.1017/jfm.2026.11417",
-    "url": "https://doi.org/10.1017/jfm.2026.11417",
-    "abstract": "Acoustic resonance is a critical issue in turbomachinery that induces noise and structural vibrations. The resonant mechanism for stator blade rows was first revealed more than half a century ago, along with the well-known concept of stationary Parker modes. However, despite various efforts based on this mechanism, previous studies have failed to explain the experimental Parker-type resonance results observed in rotor blade rows. This study establishes a theoretical model to elucidate acoustic resonance phenomena in rotating annular cascades, with focus on the effects of inlet distortion. The results demonstrate that the present model captures the experimental trends for Parker-type rotor acoustic resonances, which also implies that the conventional stationary Parker modes no longer exist …",
-    "authors": "Zihan Shen, Yuqing Wang, Guangyu Zhang, Xiaoyu Wang et al.",
-    "published": "2026-04-07",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Stability prediction of vortex-induced vibrations of multiple freely oscillating bodies",
-    "doi": "10.1017/jfm.2026.11365",
-    "url": "https://doi.org/10.1017/jfm.2026.11365",
-    "abstract": "The vortex-induced vibration of multiple spring-mounted bodies free to move in the orthogonal direction of the flow is investigated. In a first step, we derive a linear arbitrary Lagrangian–Eulerian method to solve the fluid–structure linear problem as well as a forced problem where a harmonic motion of the bodies is imposed. We then propose a low computational-cost impedance-based criterion to predict the instability thresholds. A global stability analysis of the fluid–structure system is then performed for a tandem of cylinders and the instability thresholds obtained are found to be in perfect agreement with the predictions of the impedance-based criterion. An extensive parametric study is then performed for a tandem of cylinders and the effects of mass, damping and spacing between the b…",
-    "authors": "Théo Mouyen, Javier Sierra-Ausín, Flavio Giannetti, David Fabre",
-    "published": "2026-04-07",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Simulations of a High Ozone Episode and Heatwave Day Using a Coupled Multi‐Layer Urban Canopy and Chemistry Model",
-    "doi": "10.1029/2025jd045552",
-    "url": "https://doi.org/10.1029/2025jd045552",
-    "abstract": "Abstract Coastal cities face critical challenges in managing ozone pollution because of high population density and complex interactions between urbanization and coastal meteorology. Using New York City (NYC) as a case study, this work examines how urban surfaces influence heatwaves, sea‐breeze circulations, and boundary‐layer dynamics, and how these processes shape nitrogen dioxide () distributions and ozone formation. Observations from the 2018 Long Island Sound Tropospheric Ozone Study (LISTOS), collected with an airborne high‐resolution ultraviolet–visible spectrometer, provide tropospheric column densities for evaluating the Weather Research and Forecasting model coupled with Chemistry (WRF‐Chem) in multiple urban canopy configurations. Results show that the early‐morning urban heat i…",
-    "authors": "H. Gamarro, W. M. Angevine, B. C. McDonald, R. Bornstein et al.",
-    "published": "2026-04-07",
-    "keywords_matched": [
-      "WRF",
-      "weather research and forecasting"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Improving Air Quality Simulations in California's San Joaquin Valley Using Land Surface Remote Sensing",
-    "doi": "10.1029/2025jd045616",
-    "url": "https://doi.org/10.1029/2025jd045616",
-    "abstract": "Abstract Accurate regional air quality modeling is crucial for the development of effective air pollution mitigation plans. Precisely simulating meteorological conditions, especially planetary boundary layer (PBL) properties, is challenging due to complex land surface conditions. In this study, we used the NASA‐Unified (NU) Weather Research and Forecasting (WRF)/Community Multiscale Air Quality (CMAQ) modeling system to assess the benefits of land surface remote sensing in simulating PBL properties and air quality in California's San Joaquin Valley (SJV), a nonattainment region for both PM 2.5 and O 3 in 2018. NASA‐Unified Weather Research and Forecasting Model (NU‐WRF) runs that assimilated remote sensing of land use, leaf area index (LAI), green vegetation fraction, and soil moisture dat…",
-    "authors": "Yueqi Jiang, Li Zhang, Fan Wu, Sarika Kulkarni et al.",
-    "published": "2026-04-07",
-    "keywords_matched": [
-      "WRF",
-      "weather research and forecasting"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "DEEP-SEAM: an explainable semi-supervised deep learning framework for mineral prospectivity mapping",
-    "doi": "10.5194/gmd-19-2593-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2593-2026",
-    "abstract": "Abstract. The global transition to clean energy is sharply increasing demand for rare earth elements (REEs), yet discovery rates are declining, especially in areas concealed by younger cover. Deep learning (DL) offers new opportunities for mineral prospectivity mapping (MPM), but its application is challenged by sparse labelled mineral occurrences, strong class imbalance, and limited model transparency. To address these issues, we present DEEP-SEAM, an explainable semi-supervised DL framework that integrates geological, geophysical, geochemical, remote sensing, and topographic datasets to predict REE prospectivity in the northern Curnamona Province, South Australia. The framework employs the Deviation Network (DevNet), a semi-supervised anomaly detection model that learns from a small numb…",
-    "authors": "Zijing Luo, Ehsan Farahbakhsh, Stephen Hore, R. Dietmar Müller",
-    "published": "2026-04-07",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
