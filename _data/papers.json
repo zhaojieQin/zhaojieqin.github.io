@@ -1,5 +1,163 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Mechanism of flow separation control by coherent vortices induced by synthetic jet",
+    "doi": "10.1017/jfm.2026.11754",
+    "url": "https://doi.org/10.1017/jfm.2026.11754",
+    "abstract": "This study employs synthetic jet actuation (SJA) to control large-scale flow separation on the suction side of a NACA0015 aerofoil at a Reynolds number of 2.1 times × $\\times$ 10 Superscript 5 10 5 $10^5$ and an angle of 18 Superscript ring 18 ∘ $18^\\circ$ . The underlying control mechanism is investigated using large-eddy simulations to resolve the dynamics of jet-induced coherent structures associated with the low-frequency actuation. During the periodic blowing and suction cycle, two distinct types of spanwise coherent vortices are identified: blowing-induced vortices (BIVs) and suction-induced vortices (SIVs), which differ significantly in spatial distribution and energy content. As these vortices are convected downstream at speeds comparable to the free-stream velocity, BIVs exhibit a…",
+    "authors": "Hao Wang, Zhen Bing Luo, Xiong Deng, Qiang Liu et al.",
+    "published": "2026-07-07",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Bi-global instability analysis of sidewall effects on an oscillating liquid film",
+    "doi": "10.1017/jfm.2026.11745",
+    "url": "https://doi.org/10.1017/jfm.2026.11745",
+    "abstract": "The stability of a horizontally oscillating liquid film under sidewall confinement is investigated through a bi-global Floquet analysis. The classical two-dimensional oscillating liquid film is extended to a three-dimensional configuration with oscillating sidewalls. This framework resolves the high-dimensional eigenvalue problem arising from the spatio-temporal coupling in this three-dimensional system. For long-wave instabilities, a semi-analytical asymptotic approach is adapted to capture the growth rates efficiently, while the arbitrary-wavelength instabilities are solved via Chebyshev spectral collocation methods. The asymptotic and numerical results reveal that the sidewalls suppress both long-wave and finite-wavelength instabilities by contracting the unstable frequency range and el…",
+    "authors": "Yue Xiao, Shaofeng Du, Shaowei Wang, Moli Zhao et al.",
+    "published": "2026-07-07",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "When structural damping enhances flow-induced vibrations",
+    "doi": "10.1017/jfm.2026.11748",
+    "url": "https://doi.org/10.1017/jfm.2026.11748",
+    "abstract": "This work uncovers a counterintuitive effect of structural damping on vortex-induced vibrations (VIV). The influence of structural damping is examined numerically in the canonical problem usually considered to study these vibrations driven by flow-body synchronisation, i.e. a circular cylinder free to oscillate within a uniform cross-current, for Reynolds numbers up to 160 160 $160$ , based on the body diameter and inflow velocity. For rectilinear VIV without structural restoring force, the peak-amplitude responses, which develop for low structure to displaced fluid mass ratios, are always attenuated by damping, as previously reported. Yet, the lower-amplitude responses occurring for higher mass ratios exhibit a contrasting trend: they are amplified by damping. The amplification can be sub…",
+    "authors": "Rémi Bourguet",
+    "published": "2026-07-07",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Unsteady characteristics of vortex structures in front of surface-mounted obstacles",
+    "doi": "10.1017/jfm.2026.11772",
+    "url": "https://doi.org/10.1017/jfm.2026.11772",
+    "abstract": "The flow characteristics over isolated surface-mounted obstacles are investigated with time-resolved particle image velocimetry. Three different geometries (square cylinder, circular cylinder, and hemisphere) are considered maintaining the same aspect ratio of 0.5, and are completely submerged in the laminar boundary layer. The height-based Reynolds number is 1530. The time-averaged flow topologies around the three obstacles are quite similar. However, the unsteady characteristics over the square cylinder are significantly stronger than those over the circular cylinder and hemisphere. The vortices upstream of the square cylinder experience periodic amplification and decay while their cores oscillate along the flow direction. These two dynamic mechanisms corresponding to different character…",
+    "authors": "Jiaxin Liu, Yichen Zhu, Jinjun Wang",
+    "published": "2026-07-07",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Numerical study on the magnetic field-induced dynamics of microparticles in a microchannel by three-dimensional lattice Boltzmann simulation",
+    "doi": "10.1017/jfm.2026.11749",
+    "url": "https://doi.org/10.1017/jfm.2026.11749",
+    "abstract": "Microfluidic systems integrated with magnetic manipulation of microparticles, serving as a functional component, have been extensively used in various applications, including biomedical diagnostics and targeted drug delivery. Microparticle dynamics in confined microchannels is governed by hydrodynamic viscous effects, magnetic dipole interactions and enhanced interactions with microchannel boundaries, while an in-depth understanding of the underlying mechanisms is still evolving. This work presents a systematic investigation on the dynamic response of microparticles suspended in a quasi-stationary liquid within a microchannel under an external magnetic field using a three-dimensional lattice Boltzmann model (LBM). The hydrodynamic viscous effects and the two-way fluid–structure interaction…",
+    "authors": "Zhi-Qiang Dong, Xiang Li, Hiroshi Yamaguchi, Peng Yu",
+    "published": "2026-07-07",
+    "keywords_matched": [
+      "lattice boltzmann",
+      "LBM"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Noise dissipation mechanisms of an acoustic liner under grazing flow",
+    "doi": "10.1017/jfm.2026.11759",
+    "url": "https://doi.org/10.1017/jfm.2026.11759",
+    "abstract": "High-fidelity lattice–Boltzmann very-large-eddy simulations are performed to describe the noise dissipation mechanisms in a single cavity acoustic liner subjected to grazing turbulent flow at a centreline Mach number of 0.3 and plane acoustic waves. The study examines the effects of sound pressure level (SPL; ranging from 130 to 160 dB) and source frequency, as well as of the direction of acoustic-wave propagation relative to the grazing flow. The acoustic energy dissipation mechanisms are the viscous losses within the shear layer forming along the internal walls of the orifice and the vortex shedding. The latter is quantified through Howe’s energy corollary. In the absence of grazing flow, acoustic energy is dissipated almost equally during both inflow and outflow phases, with vortex shed…",
+    "authors": "Francesco Scarano, Angelo Paduano, Francesco Avallone",
+    "published": "2026-07-07",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Mach reflection of a detonation wave over a concave double wedge",
+    "doi": "10.1017/jfm.2026.11751",
+    "url": "https://doi.org/10.1017/jfm.2026.11751",
+    "abstract": "In this study, the Mach reflection of a detonation wave in 2H Subscript 2 2 $_2$ + O Subscript 2 2 $_2$ + 2Ar over a concave double wedge was experimentally investigated. Three Mach reflection configurations could be observed successively, namely, Mach reflection of a Chapman–Jouguet detonation over the first surface, Mach reflection of an overdriven detonation wave over the second surface, and Mach reflection after the interaction of two triple points. The experimental results indicated that the classical reactive theories based on the straight Mach stem assumption are unable to accurately predict the behaviours of the latter two Mach reflections. The asymptotic triple-point trajectory angle of the secondary Mach reflection, chi 2 χ 2 $\\chi _2$ , is significantly smaller than the theoreti…",
+    "authors": "Zhen-Yang Zhou, Hong-Hao Ma, Lu-Qing Wang",
+    "published": "2026-07-07",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Energy dissipation of Oldroyd-B fluids in plane Couette flow",
+    "doi": "10.1017/jfm.2026.11731",
+    "url": "https://doi.org/10.1017/jfm.2026.11731",
+    "abstract": "This paper establishes a rigorous upper bound on the infinite-time-averaged energy dissipation rate of Oldroyd-B fluids in plane Couette flow. The bound depends only on system parameters – the Reynolds number, Weissenberg number and viscosity ratio – and applies to all steady and unsteady solutions within a certain region in parameter space. The bound is proven by extending the ‘background-flow method’ to the case where the system energy is no longer a quadratic functional of the underlying flow fields, and is obtained by using a non-polynomial auxiliary functional related to the free polymeric energy. Within the range of the flow parameters in which the steady solution is known to be globally stable, the dissipation rate of the steady flow is recovered, and in the Newtonian limit the resu…",
+    "authors": "Haoting Grange Chen, Sergei I. Chernyshenko, Andrew Wynn",
+    "published": "2026-07-07",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Non-spherical oscillations of an encapsulated magnetic microbubble",
+    "doi": "10.1017/jfm.2026.11602",
+    "url": "https://doi.org/10.1017/jfm.2026.11602",
+    "abstract": "This paper presents a model for non-spherical oscillations of a lipid-encapsulated bubble infused with magnetic particles, developed using membrane theory for thin, weakly magnetic membranes. The model assumes that only the applied magnetic field contributes significantly to the Maxwell stress, with the membrane under generalised plane stress. Axisymmetric deformations are analysed under two external magnetic field configurations: symmetrically arranged current-carrying coils and symmetrically placed magnetic dipoles. The non-spherical oscillations are restricted to the linear regime, with the second mode dominating within the stable pressure range. The pressure–frequency stability region is computed, and its dependence on material properties and magnetic forcing is examined, and natural f…",
+    "authors": "Arun Krishna B.J., Ganesh Tamadapu",
+    "published": "2026-07-07",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "A model of unsteady line-vortex dynamics in free-surface gravity-wave flow",
+    "doi": "10.1017/jfm.2026.11698",
+    "url": "https://doi.org/10.1017/jfm.2026.11698",
+    "abstract": "Meandering is the prototype of the unsteady dynamics of line vortices observed in experiments and has never been examined subject to free-surface gravity-wave flow explicitly before. With this study, we pursue the objective to make progress in developing a theoretical vortex-meandering model from first principles. As in recently proposed models, we start our modelling from the experimentally measurable vortex-centre integral, which we consider as the definition of vortex meandering. We then derive an equation of motion for the vortex centre assuming three-dimensional vorticity dynamics, which has not been reported in the literature previously. Considering meandering to correspond to the lateral displacement of the vortex as a whole, we demonstrate theoretically that practically all terms i…",
+    "authors": "Tobias Bölle, Thomas Leweke",
+    "published": "2026-07-07",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Temporally and Spatially Dependent Error Characterization for Geostationary Hyperspectral Infrared Sounder Observations",
+    "doi": "10.1029/2026jd046706",
+    "url": "https://doi.org/10.1029/2026jd046706",
+    "abstract": "Abstract Geostationary hyperspectral infrared sounder observations provide two distinctive advantages: high temporal resolution and fixed observation geometry. However, conventional application frameworks have tended to focus on the quality of individual observations at a single time step and a single footprint without considering the temporal and spatial connections, thereby not able to fully exploit these unique strengths. Based on FY‐4A/GIIRS observations, this study establishes a dynamic error characterization framework that employs multidimensional grouping across temporal, spatial, and detector arrays to statistically model the varying observation errors. Built upon this framework, key parameters for quantitative applications, radiance bias correction coefficients, observation error …",
+    "authors": "Pengyu Huang, Min Min, Jun Li, Di Di et al.",
+    "published": "2026-07-07",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Thermodynamic and Microphysics Interactions in the Formation of a Meso‐\n                    <i>β</i>\n                    ‐Scale Downburst: A Numerical Case Study of a Thunderstorm in Shanghai",
+    "doi": "10.1029/2025jd045512",
+    "url": "https://doi.org/10.1029/2025jd045512",
+    "abstract": "Abstract Downbursts pose severe threats to socioeconomic development due to their abruptness and unpredictability, yet forecasting whether a convective system will produce a downburst remains a major operational challenge. Although synoptic and mesoscale conditions facilitate probabilistic forecasting of convection, more accurate prediction of downburst demands an understanding of cloud microphysical processes. By means of a cloud‐resolving simulation at 333 m horizontal grid spacing of an observed downburst event associated with a multi‐cell mesoscale convective system in Shanghai, we examine the thermodynamic–microphysical interaction mechanisms responsible for generating intense downdraft. We find that latent cooling from rainwater evaporation and graupel melting establishes a persisten…",
+    "authors": "Yanan Liu, Jingyuan Li, Jiahua Mao, Fan Ping et al.",
+    "published": "2026-07-07",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Contribution of physical latent knowledge to the emulation of an atmospheric physics model: a study based on the LMDZ Atmospheric General Circulation Model",
+    "doi": "10.5194/gmd-19-5907-2026",
+    "url": "https://doi.org/10.5194/gmd-19-5907-2026",
+    "abstract": "Abstract. In an Atmospheric General Circulation Model (AGCM), the representation of subgrid-scale physical phenomena, also referred to as physical parameterizations, requires computational time which constrains model numerical efficiency. However, the development of emulators based on Machine Learning offers a promising alternative to traditional approaches. We have developed offline emulators of the physics parameterizations of an AGCM, ICOLMDZ, in an idealized aquaplanet configuration. The emulators reproduce the profiles of the tendencies of the state variables for each independent atmospheric column. In particular, we compare Dense Neural Network (DNN) and U-Net models. The U-Net provides better predictions in terms of mean and variance. For the DNN, while it consistently delivers good…",
+    "authors": "Ségolène Crossouard, Soulivanh Thao, Thomas Dubos, Masa Kageyama et al.",
+    "published": "2026-07-07",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "A Lidar‐Validated Comparison of Two Multistatic Meteor Radar‐Based Wind Retrieval Methods for Spatially Resolved Horizontal Winds",
     "doi": "10.1029/2025jd046277",
@@ -763,6 +921,43 @@
     "published": "2026-07-01",
     "keywords_matched": [
       "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Prediction formula for wind speed reduction by windscreens in three-dimensional flow conditions",
+    "doi": "10.1063/5.0336035",
+    "url": "https://doi.org/10.1063/5.0336035",
+    "abstract": "Windscreens play a vital role in engineering applications such as building insulation, ventilation, or dust suppression in open-pit stockyards. They not only reduce wind loads on structures and regulate indoor–outdoor air exchange rates but also contribute to improving local air quality and mitigating dust dispersion. Their protective performance is typically evaluated through wind tunnel experiments or numerical simulations; however, a reliable formula for accurately predicting the actual wind reduction effectiveness of windscreens remains lacking. In this study, Computational Fluid Dynamics simulations were employed to quantitatively investigate the effects and underlying mechanisms of six physical parameters—windscreen height, width, model scale, turbulence intensity, wind speed, and wi…",
+    "authors": "Deqing Zhu, Tingguo Chen, Chengjiao Ren",
+    "published": "2026-07-01",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Unifying formalism and closures for coarse-grained approaches to turbulence",
+    "doi": "10.1063/5.0332795",
+    "url": "https://doi.org/10.1063/5.0332795",
+    "abstract": "We propose the use of a unifying paradigm for the assessment and development of closed forms of the coarse-grained Navier–Stokes equations across approaches ranging from the statistical to the scale-resolving ones. It consists in the exact formalism provided by the temporally filtered Navier–Stokes equations. The fundamental idea is that the smoothing action of turbulent stresses can be described as a temporal filtering operator implicitly applied to the solution. Contrary to the average and spatial filtering operators, the temporal filter is a unifying operator that smoothly varyies within the statistical and scale-resolving realms. The potential of the temporal filtering paradigm is highlighted here by unveiling relevant algebraic properties and by deriving a new class of turbulence clos…",
+    "authors": "A. Cimarelli, N. Marras, B. Niceno, Y. Tessier Urrecha",
+    "published": "2026-07-01",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Mechanism of dynamic stall delay via leading edge vortex control by steady and pulsed plasma actuation",
+    "doi": "10.1063/5.0331912",
+    "url": "https://doi.org/10.1063/5.0331912",
+    "abstract": "Bioinspired flapping-wing propulsion for micro air vehicles exploits flow unsteadiness to enhance lift at lower flight speeds and Reynolds numbers. However, it poses challenges, including leading edge vortex (LEV) detachment and, eventually, dynamic stall. The present study investigates the LEV detachment mechanism and its control using an alternating current dielectric barrier discharge plasma actuator on a two-dimensional pure plunging airfoil. The volumetric plasma body force generated by the plasma actuator is modeled through an indirect method based on the Navier–Stokes equations and the experimental velocity database. The starting vortex induced by the actuator and the wall-jet velocities are well captured, validating the plasma force distribution. We employ counter-flow plasma, whic…",
+    "authors": "C. P. AbdulGafoor, B. B. Raghuram, Krishma Rajesh Mehta, Aniruth Arun et al.",
+    "published": "2026-07-01",
+    "keywords_matched": [
       "vortex"
     ]
   },
@@ -5950,202 +6145,6 @@
     "published": "2026-04-13",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "“Norkyst” version 3: the coastal ocean  forecasting system for Norway",
-    "doi": "10.5194/gmd-19-2785-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2785-2026",
-    "abstract": "Abstract. We describe the operational forecasting system “Norkyst”, now in version 3, which is used for predicting the ocean circulation along the coast of mainland Norway and in the fjords. The forecasting system is based on the Regional Ocean Modeling System (ROMS), and has sub-kilometric horizontal resolution to resolve mesoscale features. Here we describe the basic configuration and report verification statistics of unconstrained model runs. The main features of the circulation and hydrography, including seasonal variations, are well represented in Norkyst v.3, making the forecast system suitable for its intended use as an open service for users in public or private sectors such as aquaculture, fishery, shipping, research, consulting, environmental management, and others who needs deta…",
-    "authors": "Kai Håkon Christensen, Jon Albretsen, Lars Asplin, Håvard Guldbrandsen Frøysa et al.",
-    "published": "2026-04-13",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "High-performance coupled surface-subsurface  flow simulation with SERGHEI-SWE-RE",
-    "doi": "10.5194/gmd-19-2799-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2799-2026",
-    "abstract": "Abstract. This work presents SERGHEI-SWE-RE, a performance-portable, parallel model that couples a fully dynamic two-dimensional Shallow Water Equation (SWE) solver with a three-dimensional Richards Equation (RE) solver within the Kokkos framework to simulate surface–subsurface flow exchange. The model features a modular architecture with sequential coupling strategy, supporting both synchronous and asynchronous executions of surface and subsurface modules. The SERGHEI-SWE-RE model is validated against five benchmark problems incorporating stationary and fluctuating free-surface tests, a tilted v-catchment, a lateral-flow slope without ponding, and a heterogeneous superslab. The results demonstrate good agreement with established models. Asynchronous coupling reduces wall-clock time by up …",
-    "authors": "Na Zheng, Zhi Li, Gregor Rickert, Mario Morales-Hernández et al.",
-    "published": "2026-04-13",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Subseasonal Forecasting of Snow Cover and Cold Compound Extremes: Insights From MPAS‐A Over Midlatitude East Asia",
-    "doi": "10.1029/2025jd045631",
-    "url": "https://doi.org/10.1029/2025jd045631",
-    "abstract": "Abstract Snow cover and cold compound extremes can generate multiple hazards. Subseasonal forecasts of these compound extremes hold considerable socioeconomic value; however, snow–atmosphere interactions introduce additional challenges that may limit forecast skill. This study evaluates the subseasonal forecast performance of these compound extremes in midlatitude East Asia using the Model for Prediction Across Scales–Atmosphere (MPAS‐A), with a focus on snow–atmosphere interactions. At the onset of these compound extremes, rapid snow cover expansion and abrupt decreases in surface air temperature occur regionally across midlatitude East Asia. MPAS‐A can forecast these extreme variations in the snow cover fraction and temperature up to two pentads in advance, with skill declining but remai…",
-    "authors": "Wenkai Li, Wenxin Ruan, Weidong Guo",
-    "published": "2026-04-11",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Simultaneous drag and lift reduction by half-rotation from the perspective of force-element analysis for turbulent flow past a sphere",
-    "doi": "10.1017/jfm.2026.11404",
-    "url": "https://doi.org/10.1017/jfm.2026.11404",
-    "abstract": "In a previous study, we have proposed a mechanism for simultaneous reduction of drag and lift by half-rotation at moderately low Reynolds numbers. The axis of rotation ( $z$ ) is perpendicular to both the drag ( $x$ ) and lift ( $y$ ) directions, i.e. the rotation is transverse to the incoming flow direction. Under laminar flow conditions, force-element analysis indicates that a partially rotating sphere can significantly reduce both drag and lift with suppression of vortex shedding. This study extends investigation of the same mechanism of half-rotating a sphere to the turbulence regime at a Reynolds number $Re = 1 \\times 10^4$ . Similar to the laminar case, half-rotation of the sphere introduces a significant negative velocity drag term, which effectively counteracts the rapid increase i…",
-    "authors": "Sheng Sheng Lu, Chien-Cheng Chang",
-    "published": "2026-04-10",
-    "keywords_matched": [
-      "turbulence",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Nonlinear evolution of vortical disturbances entrained in the entrance region of a channel",
-    "doi": "10.1017/jfm.2026.11424",
-    "url": "https://doi.org/10.1017/jfm.2026.11424",
-    "abstract": "The nonlinear evolution of free-stream vortical disturbances entrained in the entrance region of a channel is investigated using asymptotic and numerical methods, building on the linear framework developed by Ricco &amp; Alvarenga (2021 J. Fluid Mech. , vol. 927, A18). The focus is on low-frequency disturbances that induce streamwise-elongated structures at Reynolds numbers for which the entrance flow is locally stable according to classical linear stability theory. The perturbation flow along the channel entrance is generated by free-stream vortical disturbances located at the channel inlet. These disturbances are symmetric or antisymmetric with respect to the centreplane and their amplitude is sufficiently intense to provoke nonlinear interactions within the channel. The formation and ev…",
-    "authors": "Kaixin Zhu, Pierre Ricco",
-    "published": "2026-04-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Convection in spherical Taylor–Couette flow under the influence of the dielectrophoretic force",
-    "doi": "10.1017/jfm.2026.11399",
-    "url": "https://doi.org/10.1017/jfm.2026.11399",
-    "abstract": "This study investigates convection in a non-isothermal spherical Taylor–Couette flow (sTC) under the influence of the dielectrophoretic (DEP) force. The convective flow is driven by differential rotation of the inner and outer boundaries rotating with $\\varOmega$ and $\\Delta {\\varOmega }$ in combination of an electric tension applied between both shells to induce thermo-electrohydrodynamic (TEHD) convection. To understand the interaction between DEP force-driven and rotation-driven mechanisms, we first analysed TEHD convection and non-isothermal sTC flow independently. For the TEHD case, we establish scaling relations for heat transport by expressing the Nusselt number, ${\\textit{Nu}}$ , as a function of the electric Rayleigh number, ${\\textit{Ra}}_{{E}}$ , and the kinetic energy density, …",
-    "authors": "Yann Gaillard, Peter Sebastian Benedek Szabo, Christoph Egbers",
-    "published": "2026-04-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Anomalous scaling of passive scalar fluctuations in experiments of turbulent pipe flow",
-    "doi": "10.1017/jfm.2026.11436",
-    "url": "https://doi.org/10.1017/jfm.2026.11436",
-    "abstract": "The anomalous scaling of passive scalar fluctuations is experimentally investigated in turbulent pipe flow with a Taylor-microscale Péclet number of $\\mathcal{O}(10^5)$ , where the turbulence is known to deviate from the homogeneous isotropic turbulence. The scalar structure functions and intermittency in the mixing are examined. The experimental results consolidate that the scaling exponents of scalar structure functions saturate at high-order even moments, evidenced previously in homogeneous isotropic turbulence with a Taylor-microscale Péclet number of $\\mathcal{O}(10^3)$ . The saturation scaling exponent decreases to approach unity as the Taylor-microscale Péclet number increases. This saturation scaling exponent is further corroborated by the fractal codimension of sharp scalar fronts…",
-    "authors": "Huixin Li, Duo Xu, Guowei He",
-    "published": "2026-04-10",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "A reduced-order unsteady lift model for the local sweep morphing of avian-inspired gliding wing",
-    "doi": "10.1017/jfm.2026.11425",
-    "url": "https://doi.org/10.1017/jfm.2026.11425",
-    "abstract": "Birds extend their flight envelope and adapt to time-varying aerodynamic demands by actuating the shoulder and wrist joints to morph the local sweep angles of the inner and outer wings. However, the local sweep morphing may cause unfavourable unsteady lift on the lifting surface. We investigate these unsteady lift responses using an avian-inspired wing with local sweep morphing under different morphing strategies. The unsteady lift is computed through numerically solving the incompressible Navier–Stokes equations. The results show that the local sweep morphing wing experiences a substantial maximum lift overshoot when forward sweeping and a notable maximum lift undershoot when backward sweeping. These lift over/undershoot phenomena can be alleviated by three measures: adopting smooth nonli…",
-    "authors": "Chunyu Wang, Shizhao Wang, Guowei He",
-    "published": "2026-04-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Trends in Annual Maximum Sub‐Daily to Daily Precipitation Over Australia",
-    "doi": "10.1029/2025jd044650",
-    "url": "https://doi.org/10.1029/2025jd044650",
-    "abstract": "Abstract Extreme sub‐daily precipitation can lead to significant impacts, predominately through flash‐flooding. As the climate warms it is expected that the increased water‐holding capacity of the atmosphere—∼7% per C via the Clausius‐Clapeyron (CC) scaling relationship—will contribute to increases in the intensity of severe rainfall events, particularly at short time scales. In this study, trends in annual and seasonal maxima of sub‐daily precipitation accumulations from 1 to 24 hr are evaluated over regions of Australia within a quality controlled sub‐daily precipitation gauge data set. Station‐based trends are shown to be sensitive to choice of start and end year, but trends over periods longer than ∼25 years are less susceptible to internal variability and appear to be more stable. Hou…",
-    "authors": "Tony S. Rafter, Andrew D. King, Todd P. Lane",
-    "published": "2026-04-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Issue Information",
-    "doi": "10.1029/jgrd.70555",
-    "url": "https://doi.org/10.1029/jgrd.70555",
-    "abstract": "No abstract is available for this article.",
-    "authors": "",
-    "published": "2026-04-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "State estimation in homogeneous isotropic turbulence using super-resolution with a 4DVar training algorithm",
-    "doi": "10.1017/jfm.2026.11378",
-    "url": "https://doi.org/10.1017/jfm.2026.11378",
-    "abstract": "Variational data assimilation and machine-learning based super-resolution are two alternative approaches to state estimation in turbulent flows. The former is an optimisation problem featuring a time series of coarse observations, the latter usually requires a library of high-resolution ‘ground truth’ data. We show that the classic ‘4DVar’ data assimilation algorithm can be used to train neural networks for super-resolution in three-dimensional isotropic turbulence without the need for high-resolution reference data. To do this, we adapt a pseudo-spectral version of the fully differentiable JAX-CFD solver (Kochkov et al. , Proc. Natl Acad. Sci. USA, vol. 118, issue 21, 2021, e2101784118) to three-dimensional flows and combine it with a convolutional neural network for super-resolution. As …",
-    "authors": "Markus Weyrauch, Moritz Linkmann, Jacob Page",
-    "published": "2026-04-09",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Ground‐Based Microwave Measurements of ClO and O\n                    <sub>3</sub>\n                    Over Scott Base, Antarctica",
-    "doi": "10.1029/2025jd045421",
-    "url": "https://doi.org/10.1029/2025jd045421",
-    "abstract": "Abstract We present measurements from a new microwave instrument that has been deployed at Scott Base, Antarctica, primarily to measure ClO. The new instrument allows for the extension of the time series of lower stratospheric ClO measurements begun in 1996 at this site, while some of the technical improvements offer the possibility of making additional measurements. We show measurements of ClO and O 3 in both the upper and lower stratosphere near both the fall and spring equinox and document the diurnal variations of these measurements throughout the season. The ground‐based measurements are compared with Aura Microwave Limb Sounder (MLS) measurements, which are available twice per day, and with a NASA Goddard 2D model (GSFC2D) simulation. We show that, in agreement with the GSFC2D model …",
-    "authors": "Gerald E. Nedoluha, R. Michael Gomez, Ian Boyd, Helen Neal et al.",
-    "published": "2026-04-09",
-    "keywords_matched": [
-      "diurnal variation",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Assessing the Contribution of Marine Isoprene Emissions to Ground‐Level Ozone Formation in East Asia",
-    "doi": "10.1029/2025jd044760",
-    "url": "https://doi.org/10.1029/2025jd044760",
-    "abstract": "Abstract Marine isoprene emissions (MIEs), primarily from biogenic sources influence oceanic/coastal atmospheric chemistry but receive less attention than terrestrial emissions. To date, their contributions to ozone (O 3 ) pollution in East Asia remain poorly quantified. Here, we investigate the contribution of MIEs to near‐surface O 3 in East Asia in 2017 using a source‐tagging method integrated into a regional chemical transport model. The results indicate that MIEs increase O 3 by up to 4.6 ppb over coastal seas and 1–2 ppb inland. The contribution is highest in summer (up to 10 ppb), with notable influences in spring and autumn in southern coastal regions. For 12 coastal cities, MIEs contributed an average of 0.5–2.9 ppb to surface O 3 (accounting for 1.2%–4.9% of total) during January…",
-    "authors": "Songci Zheng, Fei Jiang, Yong Lai, Qian Liu et al.",
-    "published": "2026-04-09",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Laboratory Experiments on Savannah and European Boreal Forest Fire Emissions",
-    "doi": "10.1029/2025jd044543",
-    "url": "https://doi.org/10.1029/2025jd044543",
-    "abstract": "Abstract Landscape fire is among the largest sources of aerosols and trace gases globally. However, the emissions are highly variable and strongly affected by the type of biomass and combustion characteristics. We investigated the effect of combustion characteristics on the burning emissions from three biomass types: woody plants and grasses from southern African savannah and European boreal forest surface based on experiments at the ILMARI combustion facility in Kuopio, Finland. Considering emission factors (EF) for organic aerosol (OA) and for the sum of volatile organic compounds (VOCs), we observed a linear increase in the EF with decreasing modified combustion efficiency (MCE) down to MCE of 0.6. For instance, for woody plants from savannah flaming combustion EF OA is 6.1 g kg −1 at M…",
-    "authors": "V. Vakkari, L. Vettikkat, S. Kommula, A. Mukherjee et al.",
-    "published": "2026-04-09",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Effects of wall roughness on coupled flow and heat transport in fractured media",
-    "doi": "10.1017/jfm.2026.11403",
-    "url": "https://doi.org/10.1017/jfm.2026.11403",
-    "abstract": "Heat transfer in fractured media results from the interplay between advective transport within the fracture and conductive heat exchange with the surrounding rock matrix. Aperture heterogeneity structures this interplay by generating preferential flow channels and quasi-stagnant zones, leading to early-time anomalous transport dominated by advective channelling and to late-time non-Fickian dynamics controlled by matrix conduction. This study develops a physics-based stochastic framework that couples a time-domain random walk (TDRW) representation of in-fracture advection and conduction with a semi-analytical description of matrix–fracture heat exchange, enabling a unified characterisation of both short- and long-time anomalous heat-transport regimes. Matrix trapping times follow a Lévy–Smi…",
-    "authors": "Alessandro Lenci, Yves Méheust, Maria Klepikova, Vittorio Di Federico et al.",
-    "published": "2026-04-07",
-    "keywords_matched": [
-      "ABL",
-      "heat transfer"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Particle flocs in homogeneous isotropic turbulence: formation, destruction and lifetime",
-    "doi": "10.1017/jfm.2026.11314",
-    "url": "https://doi.org/10.1017/jfm.2026.11314",
-    "abstract": "Flocculation of suspended cohesive particles in turbulence plays a crucial role in various natural and industrial processes. In this study, we carry out direct numerical simulations with a cohesive discrete element method to investigate the evolution of cohesive particle flocs in homogeneous isotropic turbulence. We focus on how particle flocs are formed and destructed in turbulence, and the influences of cohesive strength, particle inertia, particle volume fraction and turbulence intensity. The statistics show that the formation and destruction of cohesive particle flocs vary across different flocculation stages and conditions. At the early developing stage, flocs primarily form through coagulation, where individual primary particles collide and adhere together. As the system approaches e…",
-    "authors": "Jianda Huang, Kunpeng Zhao, Xinyu Jiang, Zhiwen Cui et al.",
-    "published": "2026-04-07",
-    "keywords_matched": [
-      "turbulence"
     ]
   }
 ]
