@@ -25,6 +25,90 @@
   },
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Effects of subgrid-scale anisotropy on wall-modelled large-eddy simulation of turbulent flow with smooth-body separation",
+    "doi": "10.1017/jfm.2026.11793",
+    "url": "https://doi.org/10.1017/jfm.2026.11793",
+    "abstract": "We examine the role of anisotropic subgrid-scale (SGS) stress in wall-modelled large-eddy simulation of flow over a spanwise-uniform Gaussian-shaped bump, with emphasis on predicting flow separation. The simulations show that eddy-viscosity-based SGS models often yield non-monotonic predictions of the mean separation bubble size on the leeward side under grid refinement, whereas models incorporating anisotropic SGS stress produce more consistent results. To identify where SGS anisotropy is most critical, we introduce anisotropic SGS stress in selected regions of the domain. The results reveal that the windward side, where a strong favourable pressure gradient (FPG) occurs, is crucial in determining downstream separation. Analysis of the Reynolds stress transport equation shows that fluctua…",
+    "authors": "Di Zhou, Hyunji Jane Bae",
+    "published": "2026-07-09",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Effects of vortex dynamics on rotor aeroacoustics during blade–vortex interaction",
+    "doi": "10.1017/jfm.2026.11750",
+    "url": "https://doi.org/10.1017/jfm.2026.11750",
+    "abstract": "Blade-vortex interaction (BVI) is a significant aerodynamic phenomenon for rapidly developed electric vertical takeoff and landing aircraft, which generates high-amplitude noise when a rotor blade passes tip vortices. In this work, we experimentally investigate effects of vortex dynamics on rotor aeroacoustics during BVI in edgewise flows at a low Reynolds number ( Re ) range from 3.9 times 10 Superscript 4 3.9 × 10 4 $3.9\\times 10^4$ to 1.0 times 10 Superscript 5 1.0 × 10 5 $1.0\\times 10^5$ , and over a practical advance ratio ( mu μ $\\mu$ ) range from 0 to 0.5, using anechoic wind tunnel tests. Thrust and power coefficients exhibit a linear relationship with mu μ $\\mu$ . The BVI process can be categorized into three flow regimes based on difference in vortex dynamics, each with distinct …",
+    "authors": "Xiangtian Li, Wangqiao Chen, Zhenjun Peng, Peng Zhou et al.",
+    "published": "2026-07-09",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "From equilibrium multistability to spatiotemporal chaos in channel flows of nematic fluids",
+    "doi": "10.1017/jfm.2026.11800",
+    "url": "https://doi.org/10.1017/jfm.2026.11800",
+    "abstract": "We investigate channel-confined, nematic liquid crystals using the Beris–Edwards model of nematohydrodynamics. Using strong homeotropic anchoring at the walls, we find multistability, i.e. multiple coexisting states where the uniform nematic state coexists with states having spatially varying scalar nematic order and director fields. When a pressure gradient is applied, flows develop, and the inherent multistability of the system organises a variety of complex dynamics. For low pressure gradients, steady flows are established, and the director fields that emerge from the multistable states at equilibrium correspond to Bowser and Dowser configurations similar to those reported in experiments. An increasing pressure gradient destabilises steady Bowser and Dowser flow states sequentially, lea…",
+    "authors": "Rahil N. Valani, Sumesh P. Thampi, Julia M. Yeomans",
+    "published": "2026-07-09",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Mechanisms of local flexible membrane leeward surface on airfoil aerodynamic performance",
+    "doi": "10.1017/jfm.2026.11666",
+    "url": "https://doi.org/10.1017/jfm.2026.11666",
+    "abstract": "An experimental investigation is conducted in a wind tunnel on a NACA0012 airfoil with a partially flexible polydimethylsiloxane membrane leeward surface extended from 16.7 % to 83.3 % of the chord length. Aerodynamic forces, membrane deformation and the surrounding flow field are measured simultaneously. The results show that membrane vibration effectively reduces the extent of the recirculation zone, thereby improving aerodynamic performance. Specifically, the stall angle is delayed by 3 Superscript ring 3 ∘ $3^\\circ$ , and the maximum lift coefficient is increased by 12.4 % compared with that of the rigid airfoil. Novel insights into the flow–structure interaction are established from both spatial and temporal perspectives. Spatially, comparisons across angles of attack reveal that memb…",
+    "authors": "Siyuan Feng, Xi He, Yichen Zhu, Jinjun Wang",
+    "published": "2026-07-09",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Hydrodynamic and material response to droplet impact on coated turbine blades: implications for cavitation erosion",
+    "doi": "10.1017/jfm.2026.11727",
+    "url": "https://doi.org/10.1017/jfm.2026.11727",
+    "abstract": "The impact of droplets, such as rain and sea sprays, on wind turbine blade surfaces can lead to significant damage due to leading-edge erosion (LEE). Traditionally, LEE on wind turbine blades has been solely attributed to material fatigue from repeated impacts; however, studies in similar engineering applications, such as steam turbines, suggest that cavitation may also play a critical role. This study develops a novel fluid–structure interaction (FSI) model that, for the first time, explicitly incorporates phase change in the liquid flow inside the droplet. Droplet impingement simulations cover a broad range of impact speeds relevant to most engineering applications, considering both cavitation and non-cavitation scenarios. The results present temporal evolutions of the pressure wave insi…",
+    "authors": "Hao Hao, Haotian Chen, Sheng Xu, Maria N. Charalambides et al.",
+    "published": "2026-07-09",
+    "keywords_matched": [
+      "wind turbine"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Understanding the Response of the Quasi‐Biennial Oscillation to Carbon Dioxide and Sea Surface Temperature Increases in Aqua‐Planet Simulations",
+    "doi": "10.1029/2025jd045481",
+    "url": "https://doi.org/10.1029/2025jd045481",
+    "abstract": "Abstract The Quasi‐Biennial Oscillation (QBO) of the tropical stratospheric zonal winds influences tracer transport, the stratospheric polar vortex, and extra‐tropical surface variability. However, the response of the QBO to increasing greenhouse gas concentrations is still uncertain. In this study, an idealized aqua‐planet configuration of the upcoming Community Atmosphere Model version 7 (CAM7) is leveraged to understand the drivers of QBO changes in a future climate. The aqua‐planet model does not have a seasonal cycle and uses prescribed, zonally symmetric sea surface temperatures (SSTs), simplifying the attribution of QBO trends to dynamical and radiative drivers. In an idealized climate change scenario with quadrupled carbon dioxide concentrations and increased (by 4 K) SSTs, the QBO…",
+    "authors": "A. M. Johnson, M. G. Flanner, C. Jablonowski",
+    "published": "2026-07-09",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Cleo: the fundamental design of a new superdroplet model for high computational performance (v0.39.0)",
+    "doi": "10.5194/gmd-19-6099-2026",
+    "url": "https://doi.org/10.5194/gmd-19-6099-2026",
+    "abstract": "Abstract. Cleo is a novel implementation of the Super-Droplet Method (SDM) aiming to be efficient on and portable across exascale high-performance computers. It is motivated by the need to develop a SDM that can model warm-cloud microphysics in domains large enough to resolve shallow mesoscale cloud organisation 𝒪(100 km). This paper introduces Cleo's fundamental structure. First, it explains the choices we made to exploit shared memory spaces on single nodes of high-performance computers. In particular, we discuss our reasoning behind Cleo's ordered and contiguous arrays of structures for superdroplets and grid-boxes, and how we can allocate resources economically and portably through Cleo's MPI domain decomposition, Kokkos library thread parallelism, and coupling to a host dynamical driv…",
+    "authors": "Clara J. A. Bayley, Tobias Kölling, Ann Kristin Naumann, Raphaela Vogel et al.",
+    "published": "2026-07-09",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Cavitation bubble collapse near a wall: a numerical study on a bubble initially generated by laser",
     "doi": "10.1017/jfm.2026.11781",
     "url": "https://doi.org/10.1017/jfm.2026.11781",
@@ -6060,90 +6144,6 @@
     "published": "2026-04-16",
     "keywords_matched": [
       "WRF"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "A Signal‐Derived Retrieval Reduces Bias in TEMPO NO\n                    <sub>2</sub>",
-    "doi": "10.1029/2025jd045606",
-    "url": "https://doi.org/10.1029/2025jd045606",
-    "abstract": "Abstract Satellite measurements of are widely used for investigations of emissions, pollution exposure, and photochemical ozone production. The most commonly available data products compromise on accuracy and spatial resolution in favor of lower compute time. In addition to limited spatial resolution, inaccurate modeling of winds and misrepresentation of the lifetime contribute to large systematic errors in the satellite retrievals that depend on these modeled outputs. We introduce a signal‐derived retrieval (SDR) for Tropospheric Emissions: Monitoring of Pollution (TEMPO) which derives instrument‐resolution a priori profiles from measured slant column densities. This approach enables fast reprocessing of TEMPO data and removes the gradient smoothing caused by low resolution priors and sys…",
-    "authors": "S. J. Beaudry, R. C. Cohen",
-    "published": "2026-04-15",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "What Dominates the Enhanced Impact of Tropical Pacific on Semicircumpolar Jets?",
-    "doi": "10.1029/2025jd045855",
-    "url": "https://doi.org/10.1029/2025jd045855",
-    "abstract": "Abstract Connections between tropical and Arctic climates have important implications for the Northern Hemisphere climate. This study considers the connection between sea surface temperature anomalies (SSTAs) of the central tropical Pacific and the semicircumpolar jet in summer. We find robust evidence from structurally different reanalyses that this connection has strengthened since the mid‐1980s. Climate models are able to simulate such changes as well, but available evidence from models does not suggest that external forcing has played a discernable role in the observed strengthening. In contrast, our analysis suggests that the change is primarily due to low frequency natural internal variability associated with the Atlantic Multidecadal Oscillation (AMO). The warm SSTAs in the Atlantic…",
-    "authors": "Wanling Li, Bo Sun, Francis Zwiers, Huijun Wang et al.",
-    "published": "2026-04-15",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Advances in Atmospheric Sciences",
-    "title": "China’s 1 km Daily Surface Soil Moisture Fusion Dataset (2000–2025) Based on Explainable Machine Learning",
-    "doi": "10.1007/s00376-026-5612-9",
-    "url": "https://doi.org/10.1007/s00376-026-5612-9",
-    "abstract": "Abstract High-resolution soil moisture (SM) data are critical for drought monitoring and flood forecasting. This paper describes the establishment of an interpretable machine learning (ML)-based framework for SM data fusion and generates a daily-scale, 1-km resolution, surface SM (0–10 cm) dataset over China (2000–2025). Four state-of-the-art ML models—Random Forest, XGBoost, LightGBM, and CatBoost—were trained based on in situ SM data from 2371 automatic observation stations across China. Model performance was optimized via Recursive Feature Elimination (RFE) and automated hyperparameter tuning using Optuna, while SHapley Additive exPlanations (SHAP) provided mechanistic interpretability of the ML models. The key findings of this study are as follows: (1) The fusion model primarily enhanc…",
-    "authors": "Yifan Dong, Huiling Yuan",
-    "published": "2026-04-15",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Advances in Atmospheric Sciences",
-    "title": "Dataset of China Kuroshio Extension Observatory (CKEO): Moored Buoy Observations in the Kuroshio–Oyashio Transition Zone",
-    "doi": "10.1007/s00376-025-5673-1",
-    "url": "https://doi.org/10.1007/s00376-025-5673-1",
-    "abstract": "Abstract The Kuroshio–Oyashio Transition Zone (KOTZ) serves as a vital dynamic interface between the warm Kuroshio Extension and the cold Oyashio Current. However, severe sea conditions with strong ocean currents, winds and waves pose challenges for sustained in situ observations of both oceanic and atmospheric variables. This paper introduces the China Kuroshio Extension Observatory (CKEO), a moored observatory program designed for long-term observations in the KOTZ. We provide a dataset of meteorological and oceanographic properties, including sea surface wind, air temperature, atmospheric pressure, relative humidity, sea surface temperature, sea surface salinity, ocean currents in the upper 100 m, and temperature profile in the upper 500 m. The CKEO, which began operations in 2019, prov…",
-    "authors": "Zhaohui Chen, Yueqi Zhang, Ruichen Zhu, Zhongxiang Fan et al.",
-    "published": "2026-04-15",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Data-driven turbulence closure using a tensor basis neural network without reliance on baseline models",
-    "doi": "10.1017/jfm.2026.11414",
-    "url": "https://doi.org/10.1017/jfm.2026.11414",
-    "abstract": "We propose a novel machine-learning-based turbulence closure framework in which a tensor basis neural network (TBNN) is directly embedded into a Reynolds-averaged Navier–Stokes (RANS) formulation, eliminating reliance on traditional baseline turbulence models. The TBNN is trained to predict the Reynolds stress anisotropic tensor from local invariant inputs and geometry-informed features, including stream function and velocity potential. Its output is processed by a regression model that generates an optimised eddy viscosity field, which is then integrated into the RANS equations as a zero-equation turbulence closure. The framework is evaluated on three turbulent flows over complex geometries: a wavy-bottom channel, a smoothed step and a backward-facing step. Incorporating geometry-informed…",
-    "authors": "Yao-Hung Tsai, Yi Wang, Che-Jung Cheng, Chen-Yen Hung et al.",
-    "published": "2026-04-14",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "An Integrated Uncertainty Framework for the China‐MST 3.0 Global Surface Temperature Data Set",
-    "doi": "10.1029/2025jd044732",
-    "url": "https://doi.org/10.1029/2025jd044732",
-    "abstract": "Abstract Global Mean Surface Temperature (GMST) is among the most important indicators of climate change, and its associated uncertainties affect the assessment of historical warming and the formulation of mitigation and adaptation policies. China‐MST 3.0 is a newly updated global surface temperature data set that merges China‐LSAT 2.1 for Land Surface Air Temperature (LSAT) and ERSST v6 for Sea Surface Temperature (SST). In this study, we develop a systematic and traceable uncertainty analysis framework for the construction process of this data set. Specifically, we comprehensively evaluate three components of LSAT uncertainty: observation, analysis, and coverage uncertainties, while describing SST uncertainty in terms of both parametric and reconstruction uncertainties. We also provide a…",
-    "authors": "Zichen Li, Qingxiang Li, Boyang Jiao, Qiya Xu et al.",
-    "published": "2026-04-14",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Extreme Zonal Dipole Pattern of January Blocking Days Between the Eastern North Atlantic and Ural in 2008: The Combined Impact of Sea Surface Temperature and Newly Formed Arctic Sea Ice Anomalies",
-    "doi": "10.1029/2025jd045202",
-    "url": "https://doi.org/10.1029/2025jd045202",
-    "abstract": "Abstract A pronounced dipole anomaly of blocking days (BDD) between the eastern North Atlantic (ENA) and Ural occurred in January 2008, representing the strongest positive phase in recent decades, marked by considerably increased (decreased) Ural (ENA) blocking days. The background circulation exhibits a positive North Atlantic Oscillation phase, with diminished (strengthened) westerly winds and meridional potential vorticity gradients over Ural (ENA), which enhances (suppresses) blocking days. Under the combined anomalies of strong North Atlantic warming, robust La Niña and substantial Barents–Kara newly formed sea ice reduction, along with their joint effects inducing significant atmospheric wave responses, the notable BDD is facilitated. Over the North Atlantic, enhanced surface turbule…",
-    "authors": "Yifan Xu, Ke Fan",
-    "published": "2026-04-14",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
