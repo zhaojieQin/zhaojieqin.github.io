@@ -1,5 +1,79 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Electrohydrodynamic nano-patterning in thin nematic films: a multi-scale study on coalescence arrest and surface functionality",
+    "doi": "10.1017/jfm.2026.11786",
+    "url": "https://doi.org/10.1017/jfm.2026.11786",
+    "abstract": "Electrohydrodynamic (EHD) instabilities at the free deformable surface of thin nematic liquid crystal (NLC) films can generate large-area, self-organised, multi-scale surface morphologies under an external electrostatic field. In this work, we present a comprehensive investigation of EHD patterning in thin NLC films combining continuum-scale nonlinear simulations (NS) and molecular dynamics (MD). The multi-scale analysis identifies three principal morphological pathways: (i) no-patterning mode, observed at low electric fields; (ii) columnar mode, emerging above a critical field; and (iii) coalescence mode, characterised by lateral merging of patterns at higher field strengths. The NS further unveil two distinct pathways of the columnar mode – the secondary structure mode (SSM), exhibiting …",
+    "authors": "Prateek Chowdhury, Satyajeet Choudhury, Debdip Bhandary, Abir Ghosh",
+    "published": "2026-07-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Freak wave in a two-dimensional directional wavefield with bottom topography change. Part II. Oblique incident waves and crossing waves",
+    "doi": "10.1017/jfm.2026.11790",
+    "url": "https://doi.org/10.1017/jfm.2026.11790",
+    "abstract": "This study investigates the oblique incident wave and the wave crossing in nonlinear wave evolution under variable directional spreading and bathymetry. Building on the depth-modified nonlinear Schrödinger (dNLS) model for a two-dimensional random wavefield, we incorporate wave refraction and symmetric crossing wave systems to numerically simulate realistic ocean conditions more accurately. Monte Carlo simulations are conducted to analyse wave spectrum, surface morphology and statistical moments (skewness and kurtosis). Results show that small incident angles have a very limited effect on extreme events and nonlinear interactions in a single system, but even small-angle wave crossing leads to an increase in the occurrence probability of freak waves from single system to multi-system. As th…",
+    "authors": "Zuorui Lyu, Nobuhito Mori",
+    "published": "2026-07-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Linking flow structures and aerodynamic performance for low-aspect-ratio plates at low Reynolds numbers",
+    "doi": "10.1017/jfm.2026.11791",
+    "url": "https://doi.org/10.1017/jfm.2026.11791",
+    "abstract": "This study presents an experimental investigation of the flow over a trapezoidal plate and its wake at a chord-based Reynolds number of 5800 5800 $5800$ . The plate has an aspect ratio of 1.38 1.38 $1.38$ and the angle of attack varies from 4 Superscript ring 4 ∘ $4^\\circ$ to 10 Superscript ring 10 ∘ $10^\\circ$ . Volumetric flow fields are acquired through stereoscopic particle image velocimetry and aerodynamic forces are estimated via the wake-integral approach. A key novel finding is achieved: the swallow-tailed separation bubble, characterised by a distinct concavity, enables the plate to achieve its maximum lift-to-drag ratio. This favourable performance arises from the formation of a counter-rotating vortex pair in the vicinity of the bubble concavity. This vortex pair suppresses the …",
+    "authors": "Yichen Zhu, Jiaxin Liu, Jinjun Wang, Lihao Feng",
+    "published": "2026-07-10",
+    "keywords_matched": [
+      "wake",
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Issue Information",
+    "doi": "10.1029/jgrd.70733",
+    "url": "https://doi.org/10.1029/jgrd.70733",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-07-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "ICON coupled to HAM-lite 1.0 in limited-area mode:  an efficient framework for targeted kilometer-scale  simulations with interactive aerosols",
+    "doi": "10.5194/gmd-19-6167-2026",
+    "url": "https://doi.org/10.5194/gmd-19-6167-2026",
+    "abstract": "Abstract. We present a new limited-area version of the aerosol–climate modeling system ICON coupled to HAM-lite. This new version is capable of simulating anthropogenic and natural aerosols and their climate effects in specific target regions. We demonstrate its flexibility and applicability through three case studies covering distinct aerosol regimes and processes: air pollution episodes in Central Europe, the emission and transport of sea salt aerosol in the Atlantic Arctic, and the simultaneous formation of smoke and desert dust plumes during the 2019–2020 Australian bushfire season. These case studies show the ability of the model to capture the regional-scale patterns and diurnal variability of the predominant aerosol types. They also indicate, however, systematic biases related to th…",
+    "authors": "Bernd Heinold, Philipp Weiss, Sadhitro De, Anne Kubin et al.",
+    "published": "2026-07-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "New framework for benchmarking decadal predictions leveraging the PCMDI Metric Package with interactive visualization",
+    "doi": "10.5194/gmd-19-6189-2026",
+    "url": "https://doi.org/10.5194/gmd-19-6189-2026",
+    "abstract": "Abstract. Reliable climate predictions across multiple timescales are increasingly critical as climate-related risks continue to rise. With the growing number and diversity of climate prediction systems, systematic intercomparison has become essential. Here, we present a comprehensive evaluation framework based on the PCMDI Metric Package to assess the performance of multiple decadal climate prediction systems. Unlike uninitialized simulations, initialized predictions exhibit bias and predictive skill that evolve with forecast lead time. To address this, we introduce (1) model-by-lead-time portrait plots, which efficiently summarize metrics of global temperature, precipitation, and Arctic/Antarctic sea-ice extent, and (2) an HTML-based interactive visualization platform that provides detai…",
+    "authors": "Jung Choi, Jiwoo Lee, Kristin Chang, Paul A. Ullrich et al.",
+    "published": "2026-07-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "CMIP7 data request: ocean and sea  ice priorities and opportunities",
     "doi": "10.5194/gmd-19-6043-2026",
@@ -6070,80 +6144,6 @@
     "published": "2026-04-18",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Morphology and Fractal Dimension of Ambient Soot Particles From Vehicular Emissions in Three Contrasting Urban Tunnels",
-    "doi": "10.1029/2025jd045306",
-    "url": "https://doi.org/10.1029/2025jd045306",
-    "abstract": "Abstract Vehicular emissions are a major source of soot particles, which significantly impact climate at regional and global scales. However, the morphology of ambient vehicle‐emitted soot particles remains inadequately understood, creating uncertainties in evaluating their warming potential. In this study, soot samples were collected from three urban tunnels with varying vehicle emission standards: Tunnel‐1 and Tunnel‐3 (strict standards) and Tunnel‐2 (less restrictive standards). Notably, sampling in Tunnel‐3 occurred during periods of fog and high humidity. Transmission electron microscopy was employed to analyze the morphological characteristics, fractal dimensions ( D f ), and mixing states of individual particles. Soot particles directly emitted from vehicles showed a higher proporti…",
-    "authors": "Yuner Pang, Weijun Li, Yuanyuan Wang, Liang Xu et al.",
-    "published": "2026-04-17",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Improving FY‐4A/AGRI BT Simulations Over Rugged Areas via Enhanced Solar Radiative Effects in WRF",
-    "doi": "10.1029/2025jd045837",
-    "url": "https://doi.org/10.1029/2025jd045837",
-    "abstract": "Abstract Effective assimilation of satellite land surface‐sensitive infrared brightness temperature (BT) depends critically on accurate background land surface temperature (LST), which is closely linked to surface downward solar radiation () simulations. However, current numerical models often neglect topographic effects on , producing significant biases over rugged terrain and consequently degrading modeled LST. This study aims to improve FY‐4A/Advanced Geosynchronous Radiation Imager clear‐sky surface‐sensitive infrared BT simulations by enhancing the representation of and LST over mountainous regions. To this end, a three‐dimensional sub‐grid terrain solar radiative effect scheme (3DSTSRE) is incorporated into the Weather Research and Forecasting model. The analysis focuses on areas spa…",
-    "authors": "Yang Wu, Xin Li, Anning Huang, Chunlei Gu et al.",
-    "published": "2026-04-17",
-    "keywords_matched": [
-      "WRF",
-      "weather research and forecasting"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Resolvent-based estimation of a turbulent wake",
-    "doi": "10.1017/jfm.2026.11444",
-    "url": "https://doi.org/10.1017/jfm.2026.11444",
-    "abstract": "We present a resolvent-based framework for estimating turbulent velocity fluctuations in the wake of a spanwise-periodic NACA0012 airfoil at Mach 0.3, Reynolds number 23 000, and an angle of attack of $6^{\\circ }$ . Building on the methodology of Jung et al. (2025, J. Fluid Mech. 1016, A41), we extend the approach to the more complex regime of a turbulent wake, which involves three primary challenges: (i) globally unstable modes in the linearised Navier–Stokes operator, (ii) multi-scale turbulent structures and (iii) high-dimensional datasets. To address these challenges, we employ a data-driven approach that constructs causal resolvent-based estimation kernels from cross-spectral densities obtained via large-eddy simulations. These kernels are derived using the Wiener–Hopf method, which o…",
-    "authors": "Junoh Jung, Aaron Towne",
-    "published": "2026-04-16",
-    "keywords_matched": [
-      "wake",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Wave-induced drift in third-order deep-water theory",
-    "doi": "10.1017/jfm.2026.11448",
-    "url": "https://doi.org/10.1017/jfm.2026.11448",
-    "abstract": "The goal of this work is to investigate particle motions beneath unidirectional, deep-water waves up to the third-order in nonlinearity. A particular focus is on the approximation known as Stokes drift and how it relates to the particle kinematics as computed directly from the particle trajectory mapping. The reduced Hamiltonian formulation of Zakharov and Krasitskii serves as a convenient tool to separate the effects of weak nonlinearity, in particular, the appearance of bound harmonics and the mutual corrections to the wave frequencies. By numerical integration of the particle trajectory mappings, we are able to compute motions and resulting drift for sea-states with one, two and several harmonics. We find that the classical Stokes drift formulation provides a slight underestimate of the…",
-    "authors": "Raphael Stuhlmeier",
-    "published": "2026-04-16",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Constraining the Aerosol Effects on Deep Convective Clouds by Considering the Coupling Between Clouds and the Planetary Boundary Layer",
-    "doi": "10.1029/2025jd045263",
-    "url": "https://doi.org/10.1029/2025jd045263",
-    "abstract": "Abstract Several mechanisms have been proposed for the aerosol invigoration effect. Although their principles are well established, their actual magnitudes and roles in cloud development remain uncertain and debatable. This uncertainty partly stems from observational‐based studies, in which it has been challenging to separate the co‐variability between aerosols and meteorology. Addressing this problem requires large data samples. To this end, this study employs the Atmospheric Radiation Measurement data set expanding to 16 years (some up to 17 years, compared to 10 years in previous work) in the U.S. Southern Great Plains. It also conducts a more careful and rigorous analysis to isolate the influences of convective available potential energy (CAPE) and synoptic patterns to address a previo…",
-    "authors": "Natalia Roldán‐Henao, Zhanqing Li, Tianning Su, Jiwen Fan et al.",
-    "published": "2026-04-16",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Towards improved Euro-Mediterranean discharge  simulations in regional coupled climate models: a  comparative assessment of hydrologic performance",
-    "doi": "10.5194/gmd-19-2881-2026",
-    "url": "https://doi.org/10.5194/gmd-19-2881-2026",
-    "abstract": "Abstract. River discharge into the Mediterranean Sea is a vital component of the regional water cycle, influencing ecological and climatic dynamics. Although some regional coupled models that include a river routing component exist for the Mediterranean region, their performance in reproducing river discharge is poor. This study compares the hydrological routing models CaMa-Flood and WRF-Hydro for discharge simulations into the Mediterranean Sea, with the prospect of future coupling into regional and Earth system models such as ENEA-REG. Evaluating their performance across key basins, this study highlights CaMa-Flood's computational efficiency but underperformance in flow variability and high-flow extremes, contrasted by WRF-Hydro's superior timing and bias reduction, especially after cali…",
-    "authors": "Mohamed Hamitouche, Giorgia Fosser, Arezoo RafieeiNasab, Alessandro Anav",
-    "published": "2026-04-16",
-    "keywords_matched": [
-      "WRF"
     ]
   }
 ]
