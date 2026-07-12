@@ -1,5 +1,53 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Sprites Observed by ASIM: First Imaging Data Set and Temporal UV Emission Patterns",
+    "doi": "10.1029/2025jd045666",
+    "url": "https://doi.org/10.1029/2025jd045666",
+    "abstract": "Abstract We present the first data set analysis of 41 imaging‐confirmed sprite events detected by the ASIM‐MMIA instrument. They were visible in the 337 nm camera images from an initial list of 102 candidates identified by the ultraviolet (UV 180–230 nm) photometer. The spatial distribution of confirmed sprites (mapped with the ASIM‐MMIA imaging locations) reveals a distribution largely constrained to land areas and pronounced tropical clustering, with 61% of events over Africa, 24% in the Americas, 12% in Asia, and 2% in Europe. Cloud‐to‐ground (CG) lightning parent strokes were positive in 89% of the cases and negative in 11% according to the GLD360 network. High‐resolution UV photometer temporal profiles enabled classification into three groups: (a) Elve‐preceded sprites (20% of events)…",
+    "authors": "J. A. López, J. Montanyà, O. van der Velde, D. Romero et al.",
+    "published": "2026-07-11",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Urban Enhancement of Organized Convective Systems and Extreme Rainfall Along the South China Coast Under Distinct Synoptic Patterns",
+    "doi": "10.1029/2025jd046085",
+    "url": "https://doi.org/10.1029/2025jd046085",
+    "abstract": "Abstract Rapid urbanization significantly modulates extreme rainfall over the Guangdong‐Hong Kong‐Macao Greater Bay Area (GBA) along the South China coast. Based on 10 years of surface rainfall observations and radar mosaics, this study identifies the urban‐mountain interface in the northeastern GBA as the primary hotspot for extreme short‐term heavy rainfall events (76 cases) and tracks the associated organized convective systems (OCSs). This urban hotspot is governed by two dominant synoptic patterns: the southwesterly monsoon pattern (P1) and the low‐level vortex pattern (P2). While both primarily involve propagating and local OCSs, the local type predominates (more than 55%). These OCSs exhibit distinct organizational characteristics. Compared to P1, local OCSs in P2 appear as smaller,…",
+    "authors": "Xiaona Rao, Kun Zhao, Sheng Hu, Ang Zhou et al.",
+    "published": "2026-07-11",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Seasonal Dynamics of Atmospheric Carbon Dioxide (CO\n                    <sub>2</sub>\n                    ) Over the Arabian Peninsula Using High‐Resolution WRF‐GHG Simulations",
+    "doi": "10.1029/2026jd046685",
+    "url": "https://doi.org/10.1029/2026jd046685",
+    "abstract": "Abstract This study presents an analysis of atmospheric carbon dioxide (CO 2 ) variations over the Arabian Peninsula (AP), a region characterized by intense anthropogenic emissions. Atmospheric CO 2 variability remains poorly characterized due to sparse in situ monitoring, limited satellite coverage, and the coarse resolution of existing global models. We employ the WRF‐GHG modeling framework to conduct the first high‐resolution (9 × 9 km) regional CO 2 simulations over the AP for 2015–2019. The results show that the simulated surface CO 2 concentrations are in good agreement with ground‐based measurements collected at the Weizmann Institute of Science, Israel (29.9°N, 35.0°E). The WRF‐GHG simulated column‐averaged CO 2 (XCO 2 ) also shows high correspondence with OCO‐2 satellite observati…",
+    "authors": "Rama Krishna Karumuri, Mayasaki Takigawa, Ravi Kumar Kunchala, Harikishan Gandham et al.",
+    "published": "2026-07-11",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Bayesian Inversion of NO\n                    <sub>x</sub>\n                    Emissions Over Northern Egypt Using TROPOMI‐NO\n                    <sub>2</sub>\n                    Satellite Observations",
+    "doi": "10.1029/2025jd045931",
+    "url": "https://doi.org/10.1029/2025jd045931",
+    "abstract": "Abstract The assessment of NO x emissions plays a key role in air quality monitoring, but national emission inventories are often outdated and incomplete, leading to inaccurate emission estimates. This study presents an optimal estimation of daily NO x emissions over northern Egypt, subdivided into 12 subregions for seven main sectors of activity using TROPOMI NO 2 tropospheric column retrievals assimilated in a Bayesian atmospheric inversion framework. Performed over two contrasted climatic conditions, our Bayesian inversion system uses NO 2 concentrations simulated from the WRF‐Chem model and a modified version of the EDGAR HTAP v3 air pollutants 2000–2018 inventory as prior. New sources were added manually based on missing plumes in simulated NO 2 concentrations (from recent development…",
+    "authors": "Yathin Kudupaje Laxmana, Thomas Lauvaux, Philippe Ciais, Jinghui Lian et al.",
+    "published": "2026-07-11",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Electrohydrodynamic nano-patterning in thin nematic films: a multi-scale study on coalescence arrest and surface functionality",
     "doi": "10.1017/jfm.2026.11786",
@@ -6093,57 +6141,6 @@
     "published": "2026-04-20",
     "keywords_matched": [
       "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "The Century‐Record‐Breaking Extreme Precipitation From Typhoon Haikui Enhanced by the Megacities in South China",
-    "doi": "10.1029/2025jd046081",
-    "url": "https://doi.org/10.1029/2025jd046081",
-    "abstract": "Abstract On 7 September 2023, a century‐record‐breaking precipitation occurred in the world's largest urban agglomeration. Notably, the precipitating system of Typhoon Haikui was significantly enhanced rapidly as it approached the metropolitan areas. This study investigates the underlying mechanisms and relative contributions of urban‐anthropogenic impacts on metropolitan precipitation using the three‐dimensional variational radar data assimilation and the Weather Research and Forecasting model. The results suggest that urban land use (URBAN), urban canopy (UC), anthropogenic sensible heat (ASH), anthropogenic latent heat (ALH), and building heights (BH) enhance precipitation by 40.6%, 18.0%, 17.5%, 12.7%, and 6.5%, respectively. Specifically, ASH and ALH increase temperature and humidity,…",
-    "authors": "Zixin Shan, Ang Zhou, Haiqin Chen, Kun Zhao et al.",
-    "published": "2026-04-20",
-    "keywords_matched": [
-      "weather research and forecasting",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "The Community Fire Behavior model for coupled fire–atmosphere modeling: implementation in the Unified Forecast System",
-    "doi": "10.5194/gmd-19-3035-2026",
-    "url": "https://doi.org/10.5194/gmd-19-3035-2026",
-    "abstract": "Abstract. There is an increasing need for simulating the evolution of wildland fires. The realism of the simulation increases by accounting for feedbacks between the fire and the atmosphere. These coupled models combine a fire behavior model with a regional numerical weather prediction model and have been used for fire research during the last few decades. This is the case, for instance, for the widely adopted Weather Research and Forecasting model with fire extensions (WRF-Fire). Typically, the coupling includes specific code for the particular models being coupled such as interpolation procedures to exchange variables between the atmospheric grid to the fire grid, and vice versa. However, having a fire modeling framework that can be coupled to different atmospheric models is advantageous…",
-    "authors": "Pedro A. Jiménez y Muñoz, Maria Frediani, Masih Eghdami, Daniel Rosen et al.",
-    "published": "2026-04-20",
-    "keywords_matched": [
-      "WRF",
-      "weather research and forecasting",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "The Relationship of Isolated Deep Convection Initiation to Orography and Sea Breezes Over Hainan Island and Leizhou Peninsula",
-    "doi": "10.1029/2025jd045737",
-    "url": "https://doi.org/10.1029/2025jd045737",
-    "abstract": "Abstract Hainan Island and Leizhou Peninsula in South China are characterized by abundant deep convection initiation (DCI), relatively complex orography, and strong sea breezes. This study uses the high‐resolution (0.02° × 0.02°, 10‐min interval) Himawari‐8 satellite data to identify the isolated DCI events and employs statistical methods to relate the DCI occurrence to local orography and wind conditions. The statistics are based on 10,731 DCI events that occurred during the daytime of 412 locally forced DCI days in the warm seasons of 2016–2022. A 1‐month WRF simulation, driven by the averaged reanalysis fields of these locally forced DCI days, is conducted to derive the local winds in the study area. The spatial distribution of DCI shows hotspots over mountains with high elevation and l…",
-    "authors": "Guilin Lu, Ke Cao, Shizuo Fu, Lanqiang Bai et al.",
-    "published": "2026-04-19",
-    "keywords_matched": [
-      "WRF"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Stratospheric Intrusions Over Hong Kong: Impact and Seasonality Based on Long‐Term Ozonesonde Records",
-    "doi": "10.1029/2025jd045067",
-    "url": "https://doi.org/10.1029/2025jd045067",
-    "abstract": "Abstract Stratospheric intrusions (SI) is a natural source of tropospheric O 3 , yet quantifying their contribution remains challenging in the Pearl River Delta (PRD) of China, a region characterized by high anthropogenic emissions, distant from the stratosphere‐to‐troposphere transport (STT) hotspots, but vulnerable to the topographic effect of the Tibetan Plateau (TP). Combining ozonesondes, reanalysis and trajectory simulations, we find that tropopause foldings are the primary trigger for SI, facilitating the injection of stratospheric airmasses, while the TP promotes their downstream transport. Furthermore, we establish an SI climatology by detecting the distinct SI chemical features from long‐term ozonesondes with sufficient constraints. SI events are most frequent and deepest in wint…",
-    "authors": "Zhixiong Chen, Renjie Luo, Jane Liu, Xiushu Qie et al.",
-    "published": "2026-04-18",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
