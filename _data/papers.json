@@ -1,5 +1,81 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Aeroacoustics of a forward-flight propeller ingesting small- and large-scale turbulent wakes",
+    "doi": "10.1017/jfm.2026.11801",
+    "url": "https://doi.org/10.1017/jfm.2026.11801",
+    "abstract": "This work presents high-fidelity simulations of the aerodynamic noise characteristics of a forward-flight propeller ingesting turbulent wakes of cylinders. Two cylinders with different diameters are employed to generate turbulent wakes with distinct turbulence intensity and length scales, namely small-scale turbulence (SST) and large-scale turbulence (LST). The lattice Boltzmann–very large-eddy simulation solver, PowerFLOW, coupled to an impermeable surface Ffowcs Williams–Hawkings formulation, is used for the forward-flight propeller configuration, matching that of an earlier experimental study. The aerodynamic results show that SST ingestion preserves a coherent tip–vortex path and confines elevated fluctuations to a limited portion of the blades. In contrast, LST ingestion disrupts the …",
+    "authors": "Leone Trascinelli, Gianluca Romani, Damiano Casalino, B. Zang et al.",
+    "published": "2026-07-13",
+    "keywords_matched": [
+      "lattice boltzmann",
+      "wake",
+      "turbulence",
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Beyond the One Way Cascade: A Hidden Energy Pathway From Kelvin–Helmholtz Instability Radiated Gravity Waves in the Middle Atmosphere",
+    "doi": "10.1029/2026jd046416",
+    "url": "https://doi.org/10.1029/2026jd046416",
+    "abstract": "Abstract Energy and momentum exchange among tides, gravity waves (GWs), and turbulence shapes the mesosphere and lower thermosphere, yet it is commonly treated as a one‐way cascade from large‐scale waves to small‐scale dissipation. Using coordinated sodium resonance and Rayleigh LiDARs at Poker Flat Research Range, Chatanika, Alaska, on 12 April 2022, we resolve three Kelvin–Helmholtz billow events near 87–90 km and simultaneously detect short‐period gravity‐wave packets (10–30 min; vertical wavelengths 10–20 km) propagating away from these instabilities. Wavelet analyses show that wave power increases following the peak of the instability, consistent with GWs radiated during billow breakdown. To test causality and quantify the coupling, we perform high‐resolution three‐dimensional compres…",
+    "authors": "Wenjun Dong, Jintai Li, Thomas S. Lund, Richard L. Collins et al.",
+    "published": "2026-07-13",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Influence of Model Resolution on Simulated Extreme Wildfire Plume Heights During the 2019/2020 Australian New Year Event",
+    "doi": "10.1029/2025jd046190",
+    "url": "https://doi.org/10.1029/2025jd046190",
+    "abstract": "Abstract Pyrocumulonimbus (pyroCb) events, smoke‐infused thunderstorm clouds triggered by intense wildfires under suitable meteorological conditions, are an efficient pathway for transporting smoke to elevated altitudes. In some cases, smoke reaches the upper troposphere and lower stratosphere region, where it can persist for extended time periods and influences climate, air quality, and atmospheric composition. The initial injection height of a wildfire plume is a key parameter in wildfire modeling. Plume‐rise models are commonly employed to determine injection heights, yet they often underestimate the heights reached during extreme events. This bias is amplified in global simulations with relatively coarse spatial resolution, where key dynamical processes cannot be adequately resolved. T…",
+    "authors": "Tabea Unser, Lisa Janina Muth, Corinna Hoose, Gholam Ali Hoshyaripour",
+    "published": "2026-07-13",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Development of the TCWA2 bulk cloud microphysics scheme and its integration with a dual-polarization radar operator for forecasting applications",
+    "doi": "10.5194/gmd-19-6231-2026",
+    "url": "https://doi.org/10.5194/gmd-19-6231-2026",
+    "abstract": "Abstract. This study presents the development and evaluation of TCWA2, a double-moment bulk cloud microphysics scheme designed for weather forecasting that incorporates radar observations at the Taiwan Central Weather Administration. By simplifying the triple-moment NTU microphysics scheme, TCWA2 retains a gamma-type particle size distribution with variable spectral parameters, diagnoses hydrometeor-associated physical properties, revises number sinks due to evaporation loss, and implements theoretically based fall-speed formulations that account for particle density and aspect ratio. To connect bulk microphysics parameterizations with radar-based diagnostics, TCWA2 is coupled with a customized bulk dual-polarization radar operator derived from offline bin-based scattering calculations und…",
+    "authors": "Tzu-Chin Tsai, Jen-Ping Chen, Zhiquan Liu, Siou-Ying Jiang et al.",
+    "published": "2026-07-13",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "<i>HyperGas</i>\n                    1.0: a python package for analyzing hyperspectral data for greenhouse gases from retrieval to emission rate quantification",
+    "doi": "10.5194/gmd-19-5979-2026",
+    "url": "https://doi.org/10.5194/gmd-19-5979-2026",
+    "abstract": "Abstract. We present HyperGas, an open-source Python package for the retrieval and estimation of atmospheric greenhouse gas concentration enhancements and plume emission rates using data from hyperspectral imagers such as the PRecursore IperSpettrale della Missione Applicativa (PRISMA), the Environmental Mapping and Analysis Program (EnMAP), and the Earth Surface Mineral Dust Source Investigation (EMIT). The software is designed for compatibility with any three-dimensional hyperspectral radiance dataset. HyperGas supports multiple retrieval algorithms, including matched filter and lognormal matched filter, and offers two emission rate estimation methods: the integrated mass enhancement and cross-sectional flux approaches. The software provides a scalable batch-processing framework that sup…",
+    "authors": "Xin Zhang, Joannes D. Maasakkers, Tobias A. de Jong, Paul Tol et al.",
+    "published": "2026-07-13",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "CarboKitten.jl – an open source toolkit  for carbonate stratigraphic modeling",
+    "doi": "10.5194/gmd-19-6207-2026",
+    "url": "https://doi.org/10.5194/gmd-19-6207-2026",
+    "abstract": "Abstract. Stratigraphic forward modeling is a powerful tool for testing hypotheses about the geological record and conducting numerical experiments in stratigraphy at timescales not accessible to direct human observation. Open Source software for stratigraphic modeling available so far has previously focused on siliciclastic or terrestrial depositional environments. CarboKitten is a stratigraphic forward modeling toolkit for carbonate platforms. With performance and accessibility in mind, CarboKitten is implemented in Julia, using the literate programming approach. CarboKitten integrates three components: the carbonate production model of Bosscher and Schlager (1992), the cellular automaton for spatial heterogeneity introduced by Burgess (2013), and a novel finite difference transport mode…",
+    "authors": "Johan Hidding, Emilia Jarochowska, Niklas Hohmann, Xianyi Liu et al.",
+    "published": "2026-07-13",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Sprites Observed by ASIM: First Imaging Data Set and Temporal UV Emission Patterns",
     "doi": "10.1029/2025jd045666",
@@ -6067,80 +6143,6 @@
     "published": "2026-04-22",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Boundary layer transition as succession of temporal and spatial symmetry breaking",
-    "doi": "10.1017/jfm.2026.11423",
-    "url": "https://doi.org/10.1017/jfm.2026.11423",
-    "abstract": "We show that both temporal and spatial symmetry breaking in canonical K-type boundary layer transition arise as organised structures with quantifiable energetic pathways rather than unstructured noise. Before the skin-friction maximum, the flow is described by a periodic, spanwise-symmetric fundamental harmonic response (FHR) to the Tollmien–Schlichting wave. The FHR is spatially compact, produces hairpin packets and remains fully harmonic despite a turbulence-like appearance, thereby delimiting the deterministic regime. Past this point, a distinct regime change occurs: a hierarchy of quasi-periodic and aperiodic structures emerges, followed shortly by anti-symmetric structures that develop similarly despite no anti-symmetric inputs. We identify these structures as symmetry-decomposed spec…",
-    "authors": "Cong Lin, Oliver T. Schmidt",
-    "published": "2026-04-21",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Effects of bulk viscosity on statistical scaling in compressible isotropic turbulence",
-    "doi": "10.1017/jfm.2026.11466",
-    "url": "https://doi.org/10.1017/jfm.2026.11466",
-    "abstract": "We perform numerical simulations of forced homogeneous isotropic turbulence over a range of bulk viscosities, Reynolds numbers and Mach numbers to investigate the scaling of key flow statistics. Using the Helmholtz decomposition, we analyse the scalings of Favre-averaged turbulent kinetic energy (TKE), root-mean-square (r.m.s.) pressure, pressure dilatation, dilatational dissipation and higher-order velocity-gradient moments. Additionally, new models are proposed for the pressure-dilatation term and the bulk-viscosity dependence of dilatational dissipation. Although the solenoidal and dilatational components of the Favre-averaged TKE are not strictly orthogonal, our numerical results demonstrate that their ratio is well approximated by the squared ratio of the corresponding r.m.s. velociti…",
-    "authors": "Yiming Qi, Jie Shen, Lian-Ping Wang, Tianbai Xiao et al.",
-    "published": "2026-04-21",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Impact of vertical coordinate systems on simulations of barotropic and baroclinic tides in the Yellow Sea using a regional MOM6 configuration for the Northwest Pacific",
-    "doi": "10.5194/gmd-19-3053-2026",
-    "url": "https://doi.org/10.5194/gmd-19-3053-2026",
-    "abstract": "Abstract. An accurate representation of tidal dynamics is critical for simulating physical and biogeochemical processes in marginal seas, such as the Yellow Sea, where energetic tides and strong seasonal stratification coexist. This study assessed the impact of vertical coordinate systems on the simulation of barotropic and baroclinic tides using Modular Ocean Model version 6, evaluating two configurations: the z* coordinate system (ZSTAR) and hybrid z*-isopycnal coordinate system (HYBRID). The model outputs were validated against satellite-derived sea surface temperatures, in situ temperature profiles, and TPXO tidal harmonics, with a focus on contrasting winter and summer conditions. HYBRID more accurately reproduced sea surface temperatures and vertical thermal structures, particularly …",
-    "authors": "Inseong Chang, Young Ho Kim, Young-Gyu Park, Hyunkeun Jin et al.",
-    "published": "2026-04-21",
-    "keywords_matched": [
-      "tidal"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Direct numerical simulations of out-scale-actuated spanwise wall oscillation in turbulent boundary layers",
-    "doi": "10.1017/jfm.2026.11454",
-    "url": "https://doi.org/10.1017/jfm.2026.11454",
-    "abstract": "Spanwise wall oscillation (SWO) of turbulent boundary layers (TBLs) is investigated via direct numerical simulations (DNS) over an extended actuation region (momentum Reynolds number $344\\lt Re_\\theta \\lt 2340$ ) with oscillation periods up to $T_{\\textit{sc}}^+=600$ , scaled by the uncontrolled friction velocity $u_{\\tau 0}$ at the onset of SWO (i.e. $ \\textit{Re}_\\theta =344$ ). For low periods ( $T_{\\textit{sc}}^+\\lt 200$ ), drag reduction ( $ \\textit{DR} $ ) decreases with increasing $ \\textit{Re}_\\theta$ , consistent with conventional inner-scaled control strategies targeting near-wall turbulence. In sharp contrast, for large periods ( $T_{\\textit{sc}}^+\\gt 200$ ), $ \\textit{DR} $ increases with $ \\textit{Re}_\\theta$ . For example, at $T_{\\textit{sc}}^+=600$ , $ \\textit{DR} $ rises fr…",
-    "authors": "Jizhong Zhang, Fazle Hussain, Jie Yao",
-    "published": "2026-04-20",
-    "keywords_matched": [
-      "turbulence",
-      "drag reduction"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "On the wall-normal velocity variance in canonical wall-bounded turbulence",
-    "doi": "10.1017/jfm.2026.11450",
-    "url": "https://doi.org/10.1017/jfm.2026.11450",
-    "abstract": "The variance and spectra of wall-normal velocities are investigated for direct numerical simulations of turbulent flow in a channel, pipe and zero-pressure-gradient boundary layer across a decade of friction Reynolds numbers. Spectra along the spanwise wavenumber have a pronounced peak well described by the turbulent dissipation rate and the local shear stress throughout the bottom half of the boundary layer. Deviations in the local stress from the surface shear velocity $U_\\tau$ account for almost all of the differences in wall-normal velocity variance observed across different canonical flows, including for plane Couette flow. The dependence on the local stress is attributed to the fact that wall-normal motions are predominately ‘active’ per Townsend’s attached eddy hypothesis and direct…",
-    "authors": "Michael Heisel, Rahul Deshpande, Gabriel G. Katul",
-    "published": "2026-04-20",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "A systematic characterisation of canopy density based on turbulent-structure penetration",
-    "doi": "10.1017/jfm.2026.11446",
-    "url": "https://doi.org/10.1017/jfm.2026.11446",
-    "abstract": "We investigate turbulent flows over canopies of rigid elements with different geometries, spacings and Reynolds numbers to identify and characterise different canopy density regimes. In the sparse regime, the overlying turbulence penetrates relatively unhindered within the canopy, whereas in the dense regime, this penetration is limited. The frontal density, $\\lambda _f$ , a common a measure of canopy density, is effective for e.g. conventional vegetation with no preferential orientation, but we observe that it does not fully characterise the density regime for some less conventional topologies, suggesting it may not always capture the underlying physics. To address this, we propose to quantify turbulence penetration directly, from the position and extent of individual turbulent eddies, pa…",
-    "authors": "Zishen Chen, Ricardo García-Mayoral",
-    "published": "2026-04-20",
-    "keywords_matched": [
-      "turbulence"
     ]
   }
 ]
