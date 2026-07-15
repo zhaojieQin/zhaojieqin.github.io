@@ -1,6 +1,42 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Experimental investigation of the second oscillatory bifurcation past a stationary sphere",
+    "doi": "10.1017/jfm.2026.11768",
+    "url": "https://doi.org/10.1017/jfm.2026.11768",
+    "abstract": "We report experimental results on the low-frequency dynamics in the wake of a stationary sphere and the corresponding bifurcation. This low frequency is the second frequency appearing past a sphere when the Reynolds number is increased. We measure the velocity field using particle image velocimetry in transverse planes past a sphere placed in a water channel, and obtain the streamwise vorticity. We compute the position of the barycentre of the absolute value of the vorticity and projected the vorticity on azimuthal mode 1. We deduce from periodograms of these signals the Strouhal numbers upper S t Subscript 1 S t 1 $\\mathit{St}_1$ and italic St Subscript 2 St 2 ${{\\textit{St}}_2}$ associated with the first ( f 1 f 1 $f_1$ ) and second ( f 2 f 2 $f_2$ ) frequencies. The frequency ratio f 2 …",
+    "authors": "Guy-Jean Michon, Jose Eduardo Wesfreid, Benoit Semin",
+    "published": "2026-07-14",
+    "keywords_matched": [
+      "wake"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "On the Tropical Nature of an Intense Mediterranean Cyclone in the Ocean‐Atmosphere System",
+    "doi": "10.1029/2025jd046105",
+    "url": "https://doi.org/10.1029/2025jd046105",
+    "abstract": "Abstract The Mediterranean basin hosts a large number of cyclones every year. Among them, some rare cases named medicanes present similarities with tropical cyclones but their dynamical characteristics are debated. The ocean‐atmosphere dynamics of Medicane Ianos (2020) are studied here through km‐scale fully coupled ocean‐wave‐atmosphere simulations. These allow investigating the tropical nature of Ianos in terms of both atmospheric circulation and thermal structure, and of oceanic cold wake response which feedbacks negatively onto the cyclone's intensity. Simulations match in situ and remotely sensed observations in the ocean and atmosphere well. Three life cycle phases can be distinguished with a central phase during which the cyclone is compact and axisymmetric. Orographic acceleration …",
+    "authors": "Sophia E. Brumer, Florian Pantillon, Joris Pianezze, Yann Le Péru‐Morvan et al.",
+    "published": "2026-07-14",
+    "keywords_matched": [
+      "wake"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Version 3.0.2 of the Crocus snowpack model",
+    "doi": "10.5194/gmd-19-6273-2026",
+    "url": "https://doi.org/10.5194/gmd-19-6273-2026",
+    "abstract": "Abstract. This article presents a comprehensive description of the 3.0.2 stable release of the Crocus snowpack model in the SURFEX modelling platform. It synthesizes and harmonizes a number of equations disseminated in various previous publications, introduces a number of unpublished parameterizations and includes new developments implemented since 2012. Among the novelties, an explicit representation of the evolution of impurity mass in snow (e.g. black carbon, mineral dust) allows representing their impact on solar radiation absorption in the snowpack at different wavelengths and their feedback on all snowpack properties. The model also allows the formation of surface ice layers due to freezing rain. In addition, Crocus is coupled to the MEB “big-leaf” vegetation scheme and can therefore…",
+    "authors": "Matthieu Lafaysse, Marie Dumont, Basile De Fleurian, Mathieu Fructus et al.",
+    "published": "2026-07-14",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Aeroacoustics of a forward-flight propeller ingesting small- and large-scale turbulent wakes",
     "doi": "10.1017/jfm.2026.11801",
     "url": "https://doi.org/10.1017/jfm.2026.11801",
@@ -6106,43 +6142,6 @@
     "published": "2026-04-22",
     "keywords_matched": [
       "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Drag on a penetrable two-dimensional disk in a superfluid",
-    "doi": "10.1017/jfm.2026.11467",
-    "url": "https://doi.org/10.1017/jfm.2026.11467",
-    "abstract": "The motion of a body through a superfluid can generate phenomena distinct from a normal viscous fluid. This includes the absence of drag below a critical body speed with the shedding of quantised vortices and non-zero drag above this speed. These phenomena are often modelled using the Gross–Pitaevskii (GP) equation, which describes the wavefunction of a weakly interacting Bose–Einstein condensate and its superfluid dynamics. We study the drag experienced by a penetrable circular disk of radius, $a$ , in the form of a two-dimensional potential barrier of height, $V_0$ , that is moving in a superfluid of bulk density, $n_\\infty$ , by solving the GP equation. The drag is found to exhibit a unimodal dependence on the disk speed for a fixed value of its barrier height. This behaviour is quantif…",
-    "authors": "John Elie Sader, Alex Nunn, D.I. Pullin",
-    "published": "2026-04-22",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Collapse of turbulence in optimised curved pipe flow",
-    "doi": "10.1017/jfm.2026.11427",
-    "url": "https://doi.org/10.1017/jfm.2026.11427",
-    "abstract": "Turbulence-induced friction is a significant contributor to energy consumption in the fluid-transport and piping industries. Here, we describe a passive approach to suppress turbulence and reduce friction: we show that a local increase in streamwise flow curvature, combined with changing a circular cross-section to an oval, relaminarises turbulent flow in curved pipes. We exemplify this effect in a $180^{\\circ }$ bend at ${\\textit{Re}}_D=10\\,000$ and $20\\,000$ (based on bulk velocity $U_B$ and pipe diameter $D$ ), well above the limit for sustained turbulence in straight pipes and the linear stability limit in $180^{\\circ }$ bends. Curvature inhibits streamwise Reynolds stresses, and cross-sectional modifications weaken the unstable secondary flow, together disrupting the near-wall regener…",
-    "authors": "Eman Bagheri, Stefan Becker, Philipp Schlatter",
-    "published": "2026-04-22",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "DSCALE v0.1 – an open-source algorithm for downscaling regional and global mitigation pathways to the country level",
-    "doi": "10.5194/gmd-19-3157-2026",
-    "url": "https://doi.org/10.5194/gmd-19-3157-2026",
-    "abstract": "Abstract. Integrated Assessment Models (IAMs) provide low-carbon scenarios at a global scale or for broad economic aggregates, as running these models for every country would be computationally demanding. Lack of national results from IAMs, hinders the enhancement of NDCs (Nationally Determined Contributions) and LTS (Long Term Strategies) in accordance with the 1.5 °C target and best available science. To address this limitation, we have developed DSCALE (Downscaling Scenarios to the Country level for Assessment of Low carbon Emissions), a novel algorithm designed to downscale regional IAMs outcomes to the country level. In this paper we present the methodology and show results for both current policy and 1.5 °C scenarios from the NGFS 2023 release. This downscaling tool provides insights…",
-    "authors": "Fabio Sferra, Bas van Ruijven, Keywan Riahi, Philip Hackstock et al.",
-    "published": "2026-04-22",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
