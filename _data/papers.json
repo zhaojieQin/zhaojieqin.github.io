@@ -1,6 +1,92 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "A strongly coupled fluid–structure interaction network for predictive modelling of vortex-induced vibrations",
+    "doi": "10.1017/jfm.2026.11766",
+    "url": "https://doi.org/10.1017/jfm.2026.11766",
+    "abstract": "Fluid–structure interaction (FSI) poses a significant computational challenge due to the complex, multiscale nonlinearities of both fluid and structural dynamics. In this study, a novel strongly coupled FSI network is developed for accurate and efficient predictive modelling of FSI problems. Specifically, the framework architecture integrates a physics-constrained convolutional neural network autoencoder (CAE) with a strong coupling (SC) prediction module containing both fluid and structural dynamic prediction modules (DP) that perform recursive prediction simultaneously and interactively. First, the physics-constrained CAE learns low-dimensional nonlinear normal modes (NNMs) representations of the high-dimensional fluid field’s spatiotemporal dynamics. Subsequently, the fluid DP module in…",
+    "authors": "Xiangxiang Zhu, Shanwu Li, Yong Cao, Shengqi Zhang et al.",
+    "published": "2026-07-15",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Linear stability analysis of particle-laden Couette–Poiseuille flows: effect of porous walls",
+    "doi": "10.1017/jfm.2026.11783",
+    "url": "https://doi.org/10.1017/jfm.2026.11783",
+    "abstract": "The current study presents a three-dimensional linear stability analysis of particle-laden Couette-Poiseuille flow (CPF) suspended in a Newtonian fluid between two parallel plates, with the lower plate coated by a porous medium. The influence of suspended particles is examined using a two-domain formulation in which particles are confined to the fluid layer and do not penetrate the porous substrate. The particle-laden suspension is modelled using the dusty gas framework, while the flow within the porous layer is described by the volume-averaged Navier–Stokes equations. In particle-laden flows over impermeable walls, particle inertia may either stabilise or destabilise the flow depending on the governing parameters. In contrast, the presence of a porous layer introduces an additional permea…",
+    "authors": "Ananthapadmanabhan Ramesh, Abbas Moradi Bilondi, Mohammadreza Mahmoudian, Parisa Mirbod",
+    "published": "2026-07-15",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "The impact of injection rate, number and location of injection wells on structural CO Subscript 2\n                    <mml:math xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:mnf=\"http://cambridge.org/core/manifest\" xmlns:cup=\"http://contentservices.cambridge.org\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:m=\"http://cambridge.org/core/metadata\" xmlns:core=\"http://cambridge.org/core\" xmlns:c=\"http://cambridge.org/core/content\">\n                      <mml:msub>\n                        <mml:mrow>\n                          <mml:mrow>\n                            <mml:mtext>CO</mml:mtext>\n                          </mml:mrow>\n                        </mml:mrow>\n                        <mml:mrow>\n                          <mml:mn>2</mml:mn>\n                        </mml:mrow>\n                      </mml:msub>\n                    </mml:math>\n                    ${\\textrm {CO}}_{2}$\n trapping in deep saline aquifers",
+    "doi": "10.1017/jfm.2026.11780",
+    "url": "https://doi.org/10.1017/jfm.2026.11780",
+    "abstract": "In this paper, we use a two-dimensional depth-averaged model to explore the spreading of a CO Subscript 2 CO 2 ${\\textrm {CO}}_{2}$ plume from a series of injection wells arranged around the crest of an axisymmetric anticline structure of finite vertical extent and which is connected to a laterally extensive aquifer. For a constant CO Subscript 2 CO 2 ${\\textrm {CO}}_{2}$ injection rate, we calculate both the fraction of available pore space in the anticline filled by structurally trapped CO Subscript 2 CO 2 ${\\textrm {CO}}_{2}$ at the point at which the plume spills from the lower boundary of the anticline into the aquifer and the maximum pressure within the anticline throughout the injection process. We find that the fraction of the anticline filled with CO Subscript 2 CO 2 ${\\textrm {CO…",
+    "authors": "R.G. Shepherd, A.W. Woods",
+    "published": "2026-07-15",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Enhancement and reduction of settling velocity of heavy particles in homogeneous turbulence",
+    "doi": "10.1017/jfm.2026.11776",
+    "url": "https://doi.org/10.1017/jfm.2026.11776",
+    "abstract": "Several mechanisms have been identified by which turbulence may either enhance or reduce the settling velocity of heavy particles. However, the conditions under which some of them may dominate over others are not well known, thwarting our ability to predict the net outcome. We investigate this issue experimentally, focusing on spherical particles of size comparable to the Kolmogorov scale in homogeneous turbulence. We combine results obtained in two zero-mean-flow chambers working with water and air and various particle densities, leveraging high-resolution imaging of both phases and spanning a substantially wider range of parameters compared with previous studies. The change in settling velocity is found to be dictated by a single parameter: the ratio between the still-fluid fall speed an…",
+    "authors": "Matteo Clementi, Marcel Frederik Wedi, Filippo Coletti",
+    "published": "2026-07-15",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Low-dimensional description of turbulent superstructures in three-dimensional Kolmogorov flow",
+    "doi": "10.1017/jfm.2026.11714",
+    "url": "https://doi.org/10.1017/jfm.2026.11714",
+    "abstract": "We investigate three-dimensional Kolmogorov flow as a model flow featuring turbulent superstructures, i.e. large-scale coherent structures within a turbulent flow. Previous works have shown that turbulent Kolmogorov flow features the emergence of various configurations of large-scale vortex pairs and dynamic switching between these flow states. Here, we devise a low-dimensional model and characterise the meandering of these large scales between different numbers of vortex pairs through two complex amplitudes. We identify these different large-scale states as remnants of instabilities far from the onset of turbulence. We obtain the statistics of the two complex amplitudes from direct numerical simulations. We then construct a set of stochastic amplitude equations whose statistical propertie…",
+    "authors": "Fabián Álvarez-Garrido, Michael Wilczek",
+    "published": "2026-07-15",
+    "keywords_matched": [
+      "turbulence",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Characterizing the Source and Formation of Gaseous Nitrated Phenolic Compounds in Urban Shanghai",
+    "doi": "10.1029/2026jd046679",
+    "url": "https://doi.org/10.1029/2026jd046679",
+    "abstract": "Abstract Nitrated phenolic compounds (NPs) are important components of brown carbon and contribute to the formation of HONO and OH radicals, yet their gas‐phase abundance and formation mechanisms in polluted urban environments remain poorly understood. In this study, continuous measurements of gaseous NPs were conducted in urban Shanghai during the summer of 2021 using a nitrate‐based chemical ionization time‐of‐flight mass spectrometer. Sixteen NP species, including eight mono‐NPs and eight di‐NPs, were identified and quantified, with total concentrations ranging from 3.5 to 151.8 pptv. Pronounced diurnal variations were observed, with mono‐NPs peaking during daytime and most di‐NPs accumulating at night, indicating distinct formation pathways. Budget analysis based on box model simulatio…",
+    "authors": "Jiali Zhong, Yi Chen, Dandan Huang, Qianying Liu et al.",
+    "published": "2026-07-15",
+    "keywords_matched": [
+      "diurnal variation"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "mLDNDCv1.0: a machine learning-based surrogate of LandscapeDNDC for optimising cropping systems in Denmark",
+    "doi": "10.5194/gmd-19-6335-2026",
+    "url": "https://doi.org/10.5194/gmd-19-6335-2026",
+    "abstract": "Abstract. Optimising Danish arable management is critical for reducing greenhouse-gas (GHG) emissions and nitrogen (N) losses while maintaining or even improving crop productivity and soil health. Process-based models such as LandscapeDNDC can simulate the effects of management on agroecosystem functioning. However, their computational demand limits large-scale optimisation. Here we present mLDNDCv1.0, a tree-based machine-learning surrogate of LandscapeDNDC that allows for the rapid exploration of large decision spaces while maintaining high fidelity to the parent process-based model's input-output behaviour. We generated a synthetic training set of &gt;45 million LandscapeDNDC simulations from a full factorial of soils, climate (2011–2020), and management options for winter wheat. We ben…",
+    "authors": "Meshach Ojo Aderele, Edwin Haas, Licheng Liu, João Serra et al.",
+    "published": "2026-07-15",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Experimental investigation of the second oscillatory bifurcation past a stationary sphere",
     "doi": "10.1017/jfm.2026.11768",
     "url": "https://doi.org/10.1017/jfm.2026.11768",
@@ -6057,90 +6143,6 @@
     "published": "2026-04-24",
     "keywords_matched": [
       "wake",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Long‐Term Variability of Homogenized GPS‐Derived Precipitable Water Vapor Over Chinese Stations (2000–2020)",
-    "doi": "10.1029/2025jd046275",
-    "url": "https://doi.org/10.1029/2025jd046275",
-    "abstract": "Abstract As a vital atmospheric component, water vapor influences climate change and drives numerous weather‐related processes. The Global Positioning System (GPS) provides a valuable tool for investigating Precipitable Water Vapor (PWV). This study reanalyzed the raw GPS data from 2000 to 2020 at 25 stations over China to generate a consistent and reliable GPS PWV data set. To obtain homogenized GPS PWV time series, potential artificial shifts in the mean caused by changes in instruments and environmental conditions were identified and corrected based on GPS station log files and comparisons with numerical weather prediction reanalysis PWV from the ECMWF Reanalysis v5 (ERA5) and satellite PWV observations from the Moderate Resolution Imaging Spectrometer (MODIS). A comprehensive assessmen…",
-    "authors": "Jingna Bai, Roeland Van Malderen, Eric Pottiaux, Weixing Zhang et al.",
-    "published": "2026-04-24",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Aircraft‐Based Observational Analysis of the Coupling Between Thermodynamic and Microphysical Structures in Bow Echoes Over Central China",
-    "doi": "10.1029/2025jd045773",
-    "url": "https://doi.org/10.1029/2025jd045773",
-    "abstract": "Abstract Using in situ aircraft observations, this study analyzes the evolution of dynamic, thermodynamic, and microphysical characteristics during the developing and mature stages of a bow echo associated with a squall line that occurred in Central China on 15–16, 2019. During this squall line event, the radar‐observed bow echo underwent multiple stages, including the formation and merging of convective cell clusters, the establishment of the bow echo structure, and its subsequent intensification. As the convective cell developed, a 0.3 km thick inversion layer within its core region elevated the melting layer by approximately 0.6 km, which not only promoted energy accumulation but also supplied ample supercooled water, favoring further intensification of the convective activity. This lif…",
-    "authors": "Dejun Li, Shanqiang Gu, Chuanfeng Zhao, Jiefan Yang et al.",
-    "published": "2026-04-24",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "A fast and physically grounded ocean model for GCMs: the Dynamical Slab Ocean Model of the Generic-PCM (rev. 3423)",
-    "doi": "10.5194/gmd-19-3285-2026",
-    "url": "https://doi.org/10.5194/gmd-19-3285-2026",
-    "abstract": "Abstract. We present an improved dynamical slab ocean model implemented in a 3-D General Circulation Model (GCM) called the Generic Planetary Climate Model (Generic-PCM; formerly the LMD-Generic GCM). Earlier two-layer slab ocean models featured wind-driven Ekman transport, horizontal diffusion and convective adjustment. Building upon this, our updated parallelised model introduces a Sverdrup balance scheme for Ekman transport, the first application of the Gent–McWilliams (GM) parameterisation of mesoscale eddies in a slab ocean model, and a spectrally and thickness dependent formulation of sea ice and snow albedo. We validate this model in an idealised aquaplanet setting under various OHT configurations. We show that enabling OHT transforms not only surface features – such as cooler tropi…",
-    "authors": "Siddharth Bhatnagar, Francis Codron, Ehouarn Millour, Emeline Bolmont et al.",
-    "published": "2026-04-24",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Numerical strategies for representing Richards' equation and  its couplings in snowpack models",
-    "doi": "10.5194/gmd-19-3193-2026",
-    "url": "https://doi.org/10.5194/gmd-19-3193-2026",
-    "abstract": "Abstract. The physical processes of heat conduction, liquid water percolation, and phase changes govern the transfer of mass and energy in snow. They are therefore at the heart of any physics-based snowpack model. In the last decade, the use of Richards' equation has been proposed to better represent liquid water percolation in snow. While this approach allows the explicit representation of capillary effects, it can also be problematic as it usually presents a large increase in numerical complexity and cost. This notably arises from the problem of applying a water retention curve in a fully-dry medium such as snow, leading to a divergence and degeneracy in Richards' equation. Moreover, the difficulty of representing both dry and wet snow in a single framework hinders the concomitant solvin…",
-    "authors": "Kévin Fourteau, Julien Brondex, Clément Cancès, Marie Dumont",
-    "published": "2026-04-23",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "MeteoSaver v1.0: a machine-learning based software  for the transcription of historical weather data",
-    "doi": "10.5194/gmd-19-3213-2026",
-    "url": "https://doi.org/10.5194/gmd-19-3213-2026",
-    "abstract": "Abstract. Archives of observed weather data present unique opportunities for scientists to obtain long time series of the historical climate for many regions of the world. Unfortunately, most of these observational records are to-date available only on paper, and thus require digitization and transcription to facilitate analysis of climatic trends. Here we present a new open-source software, MeteoSaver, that uses machine learning (ML) algorithms to transcribe handwritten records of historical weather data. MeteoSaver version 1.0 processes images of tabular sheets alongside user-defined configuration settings, performing transcription through five sequential steps: (i) image pre-processing, (ii) table and cell detection, (iii) transcription, (iv) quality assessment and quality control, and …",
-    "authors": "Derrick Muheki, Bas Vercruysse, Krishna Kumar Thirukokaranam Chandrasekar, Christophe Verbruggen et al.",
-    "published": "2026-04-23",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Two-dimensional turbulence over topography of varying roughness",
-    "doi": "10.1017/jfm.2026.11455",
-    "url": "https://doi.org/10.1017/jfm.2026.11455",
-    "abstract": "We numerically study weakly decaying two-dimensional turbulence over topography of varying roughness by comparing long-term flow states from simulations to the minimum enstrophy state (MES) proposed by Bretherton &amp; Haidvogel ( J. Fluid Mech. , vol. 78, 1976, issue 1, pp. 129–154). The presence of isolated vortices in the numerical simulations leads to significant differences from the theory. These vortices are either roaming or topographically locked, with this distinction depending on the topographic roughness, the initial length scale and the initial non-dimensional energy ( $E/E_{\\#}$ ), where $E_{\\#}$ denotes the critical energy proposed by Siegelman &amp; Young ( Proc. Natl. Acad. Sci. USA , vol. 120, 2023, issue 44, p. e2308018120). For low-energy and weakly rough topography, sca…",
-    "authors": "V.R. Krishna Priya, Snehal Sunil Patil, Kannabiran Seshasayanan, Rajaram Lakkaraju",
-    "published": "2026-04-22",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "On the essential structure of exact travelling-wave solutions in viscoelastic flow",
-    "doi": "10.1017/jfm.2026.11457",
-    "url": "https://doi.org/10.1017/jfm.2026.11457",
-    "abstract": "We examine elastic travelling-wave (‘arrowhead’) solutions in a viscoelastic, unidirectionally body-forced flow, focusing on their existence and morphological changes as the Weissenberg number ${\\textit{Wi}}$ and streamwise duct length $L$ are varied. We find that, First, branch topology varies from an isola at low $L$ through a two-sided reconnection at intermediate $L$ to a branch that exists at asymptotically large ${\\textit{Wi}}$ for larger $L$ . At intermediate $L$ , more than two arrowhead solutions can coexist at a given $({\\textit{Wi}},L)$ choice due to extra saddle–node bifurcations. Second, the canonical arrowhead consists of two legs joined by an arched head that blocks throughflow and traps a counter-rotating vortex pair, while a polymer strand can emerge as a by-product of a s…",
-    "authors": "Lu Zhu, Rich R. Kerswell",
-    "published": "2026-04-22",
-    "keywords_matched": [
       "vortex"
     ]
   }
