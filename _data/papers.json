@@ -1,6 +1,30 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Drag on prolate spheroids in wall-bounded shear flow",
+    "doi": "10.1017/jfm.2026.11826",
+    "url": "https://doi.org/10.1017/jfm.2026.11826",
+    "abstract": "The dynamics of non-spherical particles in wall-bounded flows plays a fundamental role in numerous natural and industrial processes, such as pollen dispersion, fibre suspensions and biomedical flows. Predictive simulations of such systems often employ an Euler–Lagrange approach, for which the accuracy hinges on the drag model used. Although reliable correlations exist for particles in unbounded flow or in direct contact with a wall, the intermediate regime of finite wall distance has received little attention, despite its prevalence in practical applications. For prolate spheroids – a common non-spherical particle shape – the drag force in this regime results from a complex interplay among the particle Reynolds number, the wall-normal distance and the particle’s three-dimensional orientati…",
+    "authors": "Jianzhi Yang, Chenghuan He, Luoqin Liu, Chenyue Xie et al.",
+    "published": "2026-07-16",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "A pair of oblate bubbles rising in line: a linear stability analysis",
+    "doi": "10.1017/jfm.2026.11771",
+    "url": "https://doi.org/10.1017/jfm.2026.11771",
+    "abstract": "The stability of two bubbles rising initially in line through a viscous liquid is revisited using a global linear stability analysis formulated within an arbitrary Lagrangian–Eulerian framework, complemented by fully resolved embedded boundary method simulations. Whereas previous studies attributed the promoted in-line stability of oblate bubbles to a deformation-enhanced wake entrainment, the present analysis demonstrates that the dominant stabilizing mechanism arises instead from an inclination-induced rotational feedback generated as the trailing bubble (TB) experiences the asymmetric shear of the leading bubble’s wake. This inclination–shear coupling, rather than deformation itself, governs the recovery of stability with increasing aspect ratio. Furthermore, the results reveal that the…",
+    "authors": "Wei-Qiang Liu, Jian-Ming Jiang, Jie Zhang",
+    "published": "2026-07-16",
+    "keywords_matched": [
+      "wake"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "A strongly coupled fluid–structure interaction network for predictive modelling of vortex-induced vibrations",
     "doi": "10.1017/jfm.2026.11766",
     "url": "https://doi.org/10.1017/jfm.2026.11766",
@@ -6119,31 +6143,6 @@
     "published": "2026-04-25",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Interference of Gravity Waves Above the Antarctic Peninsula Studied Using a Spectral Rotary Method During the SOUTHTRAC Campaign",
-    "doi": "10.1029/2025jd044692",
-    "url": "https://doi.org/10.1029/2025jd044692",
-    "abstract": "Abstract In the context of the SOUTHTRAC (Southern Hemisphere Transport, Dynamics, and Chemistry) campaign, carried out by a specialized aircraft in the southern Patagonia, one of the flights was analyzed using a spectral rotary method in order to understand the vertical energy transport of gravity waves (GWs) above the Antarctic Peninsula. The interpretations and capabilities of the rotary method were first tested using a set of synthetic waves. The importance of the flight chosen for this study was due to the high resolution data obtained over the Antarctic Peninsula and southern Patagonia. The most valuable data due to its wide observational window, collected by the on‐board ALIMA (Airborne LiDAR for Middle Atmospheric Research) LiDAR, provided temperature profiles roughly from 20 to 70…",
-    "authors": "T. Marcos, A. de la Torre, P. Alexander, M. Geldenhuys et al.",
-    "published": "2026-04-25",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Modulation and classification of wake transitions through vortex evolution phases in undulated cylinders at low Reynolds number – ERRATUM",
-    "doi": "10.1017/jfm.2026.11522",
-    "url": "https://doi.org/10.1017/jfm.2026.11522",
-    "abstract": "",
-    "authors": "Hyun Sik Yoon, Gourisaran Baiju Sony, Seok Beom Hong",
-    "published": "2026-04-24",
-    "keywords_matched": [
-      "wake",
-      "vortex"
     ]
   }
 ]
