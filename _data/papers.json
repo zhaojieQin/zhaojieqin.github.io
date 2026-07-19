@@ -1,5 +1,17 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Linking Interregional NASA Airborne Observations of Near‐Storm Environments to Tropical Oceanic Convective Structure",
+    "doi": "10.1029/2025jd046153",
+    "url": "https://doi.org/10.1029/2025jd046153",
+    "abstract": "Abstract Deep tropical oceanic convection is a key component of the tropical atmosphere, with environmental moisture and vertical wind shear influencing its structure and intensity. However, attempts to generalize convection‐environment relationships across the broad‐scale tropics have produced inconsistent results, partly owing to limits of reanalysis, modeling, and satellite remote sensing, along with suggested regional variability that altogether behoove regionally targeted field campaigns. The NASA 2022 Convective Processes Experiment—Cabo Verde (CPEX‐CV) airborne field campaign collected rare, coincident, high‐resolution convective structure and near‐storm environmental measurements suitable to investigate convection‐environment relationships in the tropical East Atlantic. Analysis of…",
+    "authors": "Benjamin D. Rodenkirch, Angela K. Rowe",
+    "published": "2026-07-18",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Vortex nucleation in uniform superfluid flow past a flat solid wall",
     "doi": "10.1017/jfm.2026.11747",
@@ -6129,18 +6141,6 @@
     "url": "https://doi.org/10.1017/jfm.2026.11464",
     "abstract": "Neural network observers (NNOs) are proposed for online estimation of fluid flows, addressing a key challenge in flow control: obtaining flow states online from a limited set of sparse and noisy sensor data. For this task, we propose a generalisation of the classical Luenberger observer. In the present framework, the estimation loop is composed of subsystems modelled as neural networks (NNs). By combining flow information from selected probes and a neural network surrogate model (NNSM) of the flow system, we train NNOs capable of fusing information to provide the best estimation of the states, that can in turn be fed back to a neural network controller (NNC). The NNO capabilities are demonstrated for three nonlinear dynamical systems. First, a variation of the Kuramoto–Sivashinsky (KS) equ…",
     "authors": "Tarcísio Costa Déda, Brener Ramos, William Wolf, Scott T.M. Dawson",
-    "published": "2026-04-27",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Geostationary Air Quality Monitoring Substantiates Column NO\n                    <sub>2</sub>\n                    as a Better O\n                    <sub>3</sub>\n                    Formation Regime Indicator in China",
-    "doi": "10.1029/2025jd045271",
-    "url": "https://doi.org/10.1029/2025jd045271",
-    "abstract": "Abstract China has become a global hotspot of ozone (O 3 ) pollution, and understanding O 3 formation regime is crucial for air quality management. Satellite‐observed formaldehyde‐to‐nitrogen‐dioxide ratio (HCHO/NO 2 , FNR) has long been demonstrated as an efficient way to infer O 3 formation regime. However, reported FNR thresholds that divide O 3 formation regimes into VOC‐limited, transitional, and NO x ‐limited regimes uncover considerable differences. Using data from the world's first geostationary air quality monitoring instrument Geostationary Environment Monitoring Spectrometer, we report the spatiotemporal variations, particularly diurnal features, of O 3 ‐FNR relationships and O 3 formation regimes in China. We find that O 3 ‐FNR relationships fluctuate significantly over time an…",
-    "authors": "Qianqian Yang, Xiaomeng Jin, Haolin Wang, Arlene M. Fiore et al.",
     "published": "2026-04-27",
     "keywords_matched": [
       "ABL"
