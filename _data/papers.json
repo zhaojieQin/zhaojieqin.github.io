@@ -1,5 +1,34 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Stratification, turbulence organisation and pressure-strain effects on surface-layer turbulence anisotropy",
+    "doi": "10.1017/jfm.2026.11761",
+    "url": "https://doi.org/10.1017/jfm.2026.11761",
+    "abstract": "At large scales, the Reynolds stress tensor exhibits notable anisotropy, a key feature of all wall-bounded turbulent flows. Yet, how the drivers of this anisotropy evolve with shearing and thermal stratification in the atmospheric surface layer (ASL) remains a daunting challenge for theory and models alike. Here, the velocity variance budgets are used to explore the evolution of anisotropy in the daytime ASL close to the surface, a region known to be problematic for large-eddy simulations. A special focus is placed on the importance of slow and rapid pressure-strain correlations, and the role of transport on partitioning the turbulent kinetic energy among the velocity components. Results obtained from near-surface observations of four datasets over flat and horizontally homogeneous terrain…",
+    "authors": "Ivana Stiperski, Gabriel G. Katul, Elie Bou-Zeid, Marc Calaf",
+    "published": "2026-07-20",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Generalised actuator disk theory: wake development with turbulent entrainment",
+    "doi": "10.1017/jfm.2026.11732",
+    "url": "https://doi.org/10.1017/jfm.2026.11732",
+    "abstract": "Classical actuator disk theory, developed more than a century ago, provides an idealised description of turbine rotor performance. It treats a rotor as an infinitesimally thin permeable disk and applies the governing flow equations over a streamtube encompassing the disk. A well-known limitation of the theory is its assumption of ideal flow downstream of the disk, which restricts its applicability to short downwind distances before turbulence and mixing processes governing the wake evolution take hold. The classical theory also leads to unphysical predictions of thrust and power coefficients for highly loaded rotors. Turbulent axisymmetric wakes, by contrast, represent an extensively studied canonical free shear flow with much of the progress and its applications to wind turbines limited t…",
+    "authors": "Majid Bastankhah, Peter Hydon, Carl Shapiro, Dennice Gayme et al.",
+    "published": "2026-07-20",
+    "keywords_matched": [
+      "wind turbine",
+      "wind turbines",
+      "wake",
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Linking Interregional NASA Airborne Observations of Near‐Storm Environments to Tropical Oceanic Convective Structure",
     "doi": "10.1029/2025jd046153",
@@ -6120,30 +6149,6 @@
     "published": "2026-04-27",
     "keywords_matched": [
       "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Experimental and numerical study of rigid particles with two planes of symmetry approaching a stable, stationary orientation while sedimenting",
-    "doi": "10.1017/jfm.2026.11438",
-    "url": "https://doi.org/10.1017/jfm.2026.11438",
-    "abstract": "This work investigates experimentally and numerically the dynamics of rigid particles with two orthogonal symmetry planes settling under gravity in a highly viscous fluid at a Reynolds number much smaller than one. Joshi &amp; Govindarajan (2025 Phys. Rev. Lett . 134(1), 014002), showed theoretically that for such shapes, the dynamics are qualitatively different for different signs of the product of two rotational–translational mobility coefficients, evaluated with respect to the particle centre of mass in a symmetric reference frame. However, upon examining a particle’s shape, it is not immediately evident if this product is negative, positive or zero. In this paper, we demonstrate how to estimate these coefficients and the sign of their product from experiments, using special initial ori…",
-    "authors": "Chandra Shekhar, Harish N. Mirajkar, Piotr Zdybel, Yevgen Melikhov et al.",
-    "published": "2026-04-27",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Observer-based neural networks for flow estimation and control",
-    "doi": "10.1017/jfm.2026.11464",
-    "url": "https://doi.org/10.1017/jfm.2026.11464",
-    "abstract": "Neural network observers (NNOs) are proposed for online estimation of fluid flows, addressing a key challenge in flow control: obtaining flow states online from a limited set of sparse and noisy sensor data. For this task, we propose a generalisation of the classical Luenberger observer. In the present framework, the estimation loop is composed of subsystems modelled as neural networks (NNs). By combining flow information from selected probes and a neural network surrogate model (NNSM) of the flow system, we train NNOs capable of fusing information to provide the best estimation of the states, that can in turn be fed back to a neural network controller (NNC). The NNO capabilities are demonstrated for three nonlinear dynamical systems. First, a variation of the Kuramoto–Sivashinsky (KS) equ…",
-    "authors": "Tarcísio Costa Déda, Brener Ramos, William Wolf, Scott T.M. Dawson",
-    "published": "2026-04-27",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
