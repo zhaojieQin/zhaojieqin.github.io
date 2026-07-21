@@ -1,6 +1,19 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Wake instability past a sphere settling in a strongly stratified fluid",
+    "doi": "10.1017/jfm.2026.11816",
+    "url": "https://doi.org/10.1017/jfm.2026.11816",
+    "abstract": "The wake of a body moving across the isopycnals of a strongly stratified fluid is characterised by the presence of an intense jet which, under certain circumstances, may become unstable. To get insight into the phenomenology of this instability and the underlying mechanisms, we conduct fully resolved three-dimensional time-dependent simulations of the flow past a rigid sphere settling steadily through a linearly stratified fluid over a wide range of flow parameters which include the case of salt-stratified water. Results reveal a rich dynamics characterised by distinct wake symmetries, vortical structures and transverse force signatures. Simulations evidence the existence of varicose and sinuous instability modes that arise from distinct physical mechanisms. Thanks to several metrics, we b…",
+    "authors": "Changfan Mo, Matthieu J. Mercier, Jacques Magnaudet, Jie Zhang",
+    "published": "2026-07-21",
+    "keywords_matched": [
+      "wake",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Stratification, turbulence organisation and pressure-strain effects on surface-layer turbulence anisotropy",
     "doi": "10.1017/jfm.2026.11761",
     "url": "https://doi.org/10.1017/jfm.2026.11761",
@@ -25,6 +38,78 @@
       "wind turbines",
       "wake",
       "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Exchange flows between viscoplastic and Newtonian fluids in vertical and inclined pipes",
+    "doi": "10.1017/jfm.2026.11834",
+    "url": "https://doi.org/10.1017/jfm.2026.11834",
+    "abstract": "In this study, we investigate the dynamics of a viscoplastic fluid placed above a Newtonian fluid in an inclined, long tube. The two fluids are miscible and have a density difference, with the viscoplastic fluid always denser. The experimental set-up allows varying inclination angles. Initially, the fluids are separated by a gate valve; upon opening it, distinct flow behaviours are observed, captured using cameras. The flow regimes depend on the interplay between buoyancy (due to the density difference), the yield stress of the viscoplastic fluid and the inclination angle. In tilted tubes, exchange flow with a slumping regime is observed, while in vertical configurations, a stable finger front forms at high values of the yield number ( upper Y Y $Y$ ), representing the ratio of yield stres…",
+    "authors": "Soheil Akbari, Mahdi Izadi, Yuhan Zeng, Ian A. Frigaard",
+    "published": "2026-07-20",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Low-frequency bandgaps for water waves enabled by flexible plate metamaterials",
+    "doi": "10.1017/jfm.2026.11809",
+    "url": "https://doi.org/10.1017/jfm.2026.11809",
+    "abstract": "This study investigates a novel class of flexible plate metamaterials (FPMMs), consisting of a periodic array of bottom-mounted flexible structures, designed for the sub-wavelength manipulation of surface gravity waves. A theoretical framework is developed by coupling the matched eigenfunction expansion method with a modal expansion technique, incorporating Bloch’s theorem to characterise the band structures and complex dispersion relations. Numerical analysis reveals that the structural flexibility facilitates the formation of low-frequency, broadband bandgaps, primarily driven by a local resonance (LR) mechanism. It is shown that wave propagation can be effectively suppressed within these bandgap regimes through the synergistic interaction between the incident wave field and the structur…",
+    "authors": "Huaqing Jin, Haicheng Zhang, Siming Zheng, Xiaofan Li et al.",
+    "published": "2026-07-20",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On particle dynamics in steady axial rotor flows",
+    "doi": "10.1017/jfm.2026.11767",
+    "url": "https://doi.org/10.1017/jfm.2026.11767",
+    "abstract": "We investigate the effect of rotor velocity induction on the distribution of particles impinging on rotor blades and model the delayed response of a particle to the rotor-induced velocity field. We consider as reference a wind turbine rotor and a small-scale propeller in axial flow conditions. We first show that the classical two-dimensional (2-D) modelling of the multiphase flow can generate a systematic error with respect to the three-dimensional (3-D) solution. We consider two limiting cases: particles in equilibrium with the rotor-induced velocity field, where the carrier phase is computed using the section’s aerodynamic velocity vector, and induction-independent particles, where the geometric velocity vector is used. The 3-D solution differs from the two limiting cases when particles …",
+    "authors": "Francesco Caccia, Alberto Guardone",
+    "published": "2026-07-20",
+    "keywords_matched": [
+      "wind turbine"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Tangential and radial mean momentum and stress analysis of rotating disk turbulent boundary layers",
+    "doi": "10.1017/jfm.2026.11841",
+    "url": "https://doi.org/10.1017/jfm.2026.11841",
+    "abstract": "Turbulence statistics of a three-dimensional boundary layer over a rotating disk are measured using molecular tagging velocimetry and laser Doppler velocimetry up to a friction Reynolds number of asymptotically equals ≃ $\\simeq$ 3000. The present new water-based facility results in the achievement of relatively high Reynolds numbers, and we overcome the challenges associated with mimicking an infinite disk scenario using a finite tank. For the first time, the mean momentum balance and mean stress budget of this flow are investigated in the tangential/streamwise direction and are contrasted with those in a zero-pressure-gradient turbulent boundary layer over a flat plate. Furthermore, the mean momentum and stress balance in the radial direction are examined to better understand the cross-fl…",
+    "authors": "Mohammadreza Mollaei, Jimmy Philip, Joseph Klewicki",
+    "published": "2026-07-20",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Precipitation Reconstruction in the Asian Monsoon Region During the 4.2 ka Event With Paleoclimate Data Assimilation",
+    "doi": "10.1029/2025jd045745",
+    "url": "https://doi.org/10.1029/2025jd045745",
+    "abstract": "Abstract For a long time, the 4.2 ka event was considered sufficiently significant to mark the onset of the Meghalayan Age, the latest stage of the Holocene. However, the spatial distribution and temporal evolutions of precipitation changes remain controversial in many regions, especially in monsoon Asia. In this study, combining the high‐resolution speleothem calcite oxygen isotope ratio value (δ 18 O c ) records and the transient simulation of an isotope enabled earth system model, we reconstruct the spatiotemporal evolution of δ 18 O c and precipitation in the Asian monsoon region during the 4.2 ka event (4.3–3.9 ka BP) with 10‐year temporal resolution and 2.5° × 1.9° spatial resolution, using an offline ensemble Kalman filter. Based on these reconstructed results, we analyze the charac…",
+    "authors": "Fangmiao Xing, Liang Ning, Zhengyu Liu, Jian Liu et al.",
+    "published": "2026-07-20",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Interpretation and representation in geomodels: the POKIMON  ontology for formalizing geomodelling knowledge",
+    "doi": "10.5194/gmd-19-6517-2026",
+    "url": "https://doi.org/10.5194/gmd-19-6517-2026",
+    "abstract": "Abstract. With the rapid growth of the development and use of three-dimensional (3D) geological models, understanding their interpretative and representational aspects has become increasingly important. Such understanding will not only clarify key premises, inferences, and conclusions, but also enable more informed applications. Yet the epistemic foundations are often opaque. Critical information about assumptions, conceptual structures, reasoning steps, and uncertainties often remains tacit in the mind of the geomodeller, and this lack of transparency hampers explainability, reproducibility, and broader utility. Current practices therefore limit trust, knowledge transfer, and automation in geomodelling workflows. To address these limitations, we develop the POKIMON ontology, designed to m…",
+    "authors": "Imadeddine Laouici, Boyan Brodaric, Christelle Loiselet, Gautier Laurent",
+    "published": "2026-07-20",
+    "keywords_matched": [
       "ABL"
     ]
   },
@@ -6064,91 +6149,6 @@
     "published": "2026-04-27",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Is it true that no mathematical relation exists between the Navier–Stokes equations and the multifractal model?",
-    "doi": "10.1017/jfm.2026.11445",
-    "url": "https://doi.org/10.1017/jfm.2026.11445",
-    "abstract": "Contrary to accepted turbulence folklore, which holds that no mathematical relation exists between the Navier–Stokes equations (NSEs) and the multifractal model (MFM) of Parisi and Frisch, we develop a theory that reconciles the MFM with Leray’s weak solutions of Navier–Stokes analysis. From a combination of Euler invariant scaling and the NSEs set in a three-dimensional box of side $L$ , we also derive the Paladin–Vulpiani scale $\\eta_{h,pav}$ which is related to the Reynolds number Re by $L\\eta _{h,\\textit{pa}v}^{-1} = \\textit{Re}^{1/(1+h)}$ , and which acts as a mediator between the two theories. This is achieved by considering $L^{2m}$ -norms of the velocity gradient to find a correspondence between $m$ and the local scaling exponent $h$ in the multifractal model. The parameter $m$ act…",
-    "authors": "John David Gibbon, Dario Vincenzi",
-    "published": "2026-04-27",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "How orcas capture seals resting on ice floes",
-    "doi": "10.1017/jfm.2026.11483",
-    "url": "https://doi.org/10.1017/jfm.2026.11483",
-    "abstract": "Flow around a submerged cylinder near a free surface reveals that adjusting the Froude number and gap ratio influences the underwater jet pattern, vortex shedding frequency and free-surface deformation. The jet typically separates near the trough, leading to vorticity concentration and breaking waves that dissipate wave energy. Antarctic orcas collaborate to generate deep depression waves, breaking ice and washing seals from floes. Orcas raise their heads and tap their tails downward when approaching ice, which may benefit strong wave generation. We investigate the wave-generating hydrodynamics using a towing tank and particle image velocimetry. A scaled model with an elliptical body and wedge-shaped tail was tested under Froude number similarity. Experiments covered towing speeds of $0.3-…",
-    "authors": "Wenyuan Zhou, Jiale An, Lamberto Rondoni, Yuliang Zhang et al.",
-    "published": "2026-04-27",
-    "keywords_matched": [
-      "vortex",
-      "wave energy"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Turbulence closure in Reynolds-averaged Navier–Stokes and flow inference around a cylinder using physics-informed neural networks and sparse experimental data",
-    "doi": "10.1017/jfm.2026.11471",
-    "url": "https://doi.org/10.1017/jfm.2026.11471",
-    "abstract": "Traditional Reynolds-averaged Navier–Stokes (RANS) closures, based on the Boussinesq eddy-viscosity hypothesis and calibrated on canonical flows, often yield inaccurate predictions of both mean flow and turbulence statistics. Here, we consider flow past a circular cylinder over a range of Reynolds numbers ( $3900$ – $100\\,000$ ) and Mach numbers ( $0$ – $0.3$ ), encompassing incompressible and weakly compressible regimes, with the goal of improving predictions of mean velocity and Reynolds forces. To this end, we assemble a cross-validated dataset comprising hydrodynamic particle image velocimetry (PIV) in a towing tank, aerodynamic PIV in a wind tunnel and high-fidelity spectral element direct numerical simulation and large eddy simulation. Analysis of these data reveals a universal distr…",
-    "authors": "Zhen Zhang, Khemraj Shukla, Zhicheng Wang, Anthony Morales et al.",
-    "published": "2026-04-27",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Asymmetric shock reflection in supersonic overexpanded jet",
-    "doi": "10.1017/jfm.2026.11449",
-    "url": "https://doi.org/10.1017/jfm.2026.11449",
-    "abstract": "This paper investigates asymmetric shock reflection in a supersonic overexpanded jet. A theoretical model that can predict the size and shape of flow field structures such as shocks, expansion waves and sliplines is established. For symmetric Mach reflection, the current model exhibits better agreement with numerical simulation results. For asymmetric Mach reflection, the current model also shows good agreement with numerical simulation results in predicting Mach stem height. The research indicates that the Mach stem height decreases with increasing nozzle pressure ratio and nozzle exit length difference, and decreases as the nozzle exit Mach number decreases. In addition, the critical geometric condition for complete misalignment of the upper and lower slipline interference segments (i.e.…",
-    "authors": "Boyuan Liu, Zhudi Li, Chenyuan Bai",
-    "published": "2026-04-27",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Reciprocal swimming in viscoelastic granular hydrogels",
-    "doi": "10.1017/jfm.2026.11477",
-    "url": "https://doi.org/10.1017/jfm.2026.11477",
-    "abstract": "We experimentally study a scallop-like swimmer with reciprocally flapping wings in a nearly frictionless, cohesive granular medium consisting of hydrogel spheres. Significant locomotion is found when the swimmer’s flapping frequency matches the inverse relaxation time of the material. Remarkably, the swimmer moves in the opposite direction compared with its motion in a cohesion-free granular material of hard plastic spheres. At higher or lower frequencies, we observe no motion of the swimmer, apart from a short initial transient phase. X-ray radiograms reveal that the wing motions create low-density zones, which in turn give rise to a hysteresis in drag and propulsion forces. This time-dependent effect, combined with the swimmer’s inertia, accounts for locomotion at intermediate frequencie…",
-    "authors": "Hongyi Xiao, Jing Wang, Achim Sack, Ralf Stannarius et al.",
-    "published": "2026-04-27",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Uncovering the parameter variations of the inner–outer interaction model across incompressible and compressible wall-bounded turbulence",
-    "doi": "10.1017/jfm.2026.11452",
-    "url": "https://doi.org/10.1017/jfm.2026.11452",
-    "abstract": "The inner–outer interaction model (IOIM), first proposed by Marusic et al. ( Science , 2010, vol. 329, pp. 193–196), has proven to be an effective turbulence model for canonical and non-canonical wall-bounded flows, where a reference velocity signal from the logarithmic region acts as the input for predicting near-wall velocity fluctuations. Its most recent iteration by Baars et al. ( Phys. Rev. Fluids , 2016, vol. 1, p. 054406) further proposes a user-independent scale separation point, refining model parameters. In this study, we compared the long-perceived universal IOIM’s parameters, including the linear transfer kernel, amplitude modulation coefficients and the universal signal for a range of Reynolds and Mach numbers, where mathematical relationships between the parameters are propos…",
-    "authors": "Justin E. Ka Ip Sun, Anjia Ying, Lin Fu",
-    "published": "2026-04-27",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Two-point turbulence closures in physical space",
-    "doi": "10.1017/jfm.2026.11485",
-    "url": "https://doi.org/10.1017/jfm.2026.11485",
-    "abstract": "This work presents a predictive two-point statistical closure framework for turbulence formulated in physical space. A closure model for ensemble-averaged, incompressible homogeneous isotropic turbulence (HIT) is developed as a starting point to demonstrate the viability of the approach in more general flows. The evolution equation for the longitudinal correlation function is derived in a discrete form, circumventing the need for a Fourier transformation. The formulation preserves the near-exact representation of the linear terms, a defining feature of rapid distortion theory. The closure of the nonlinear higher-order moments follows the phenomenological principles of the eddy-damped quasi-normal Markovian (EDQNM) model of Orszag ( J. Fluid Mech. , vol. 41, 1970, pp. 363–386). Several key …",
-    "authors": "Noah Zambrano, Karthik Duraisamy",
-    "published": "2026-04-27",
-    "keywords_matched": [
-      "turbulence"
     ]
   }
 ]
