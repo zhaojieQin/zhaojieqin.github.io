@@ -14,6 +14,42 @@
   },
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Effects of variable thermophysical properties on the layered structure of incompressible turbulent channel flows",
+    "doi": "10.1017/jfm.2026.11803",
+    "url": "https://doi.org/10.1017/jfm.2026.11803",
+    "abstract": "This study employs a scaling-patch framework to investigate how variable thermophysical properties modify the layered structure and scaling behaviour of turbulent channel flows. Direct numerical simulation data of wall-heated and wall-cooled turbulent gas flows are analysed to quantify the effects of wall-normal variations in density, viscosity and thermal conductivity on momentum and heat transport across distinct flow regions. The results suggest the presence of a near-wall variable-property sublayer, in which viscous effects associated with wall-normal viscosity gradients contribute appreciably to the local momentum balance. A dimensionless parameter is introduced to characterise the influence of the wall-normal viscosity gradient at the wall, and a Stratford–Mellor-type scaling is prop…",
+    "authors": "Tie Wei, Davide Modesti, Alessandro Ceci, Sergio Pirozzoli",
+    "published": "2026-07-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "From Nocturnal Warm–Rain Processes to Afternoon Mixed–Phase Precipitation: A Diurnal Transition in the Dynamical–Microphysical Pathways of Heavy Rainfall Over North China",
+    "doi": "10.1029/2026jd046391",
+    "url": "https://doi.org/10.1029/2026jd046391",
+    "abstract": "Abstract Heavy rainfall occurs frequently over North China in summer, yet the multiscale dynamical‐microphysical processes that initiate and organize these events remain inadequately understood, limiting progress in quantitative precipitation forecasting over complex terrain. This study investigates a representative event occurred during–31 July 2024 using dual‐polarization radar observations and three‐dimensional wind fields retrieved from the Variational Doppler Radar Analysis System. We compare the triggering conditions, organizational structures, and microphysical processes of two distinct rainfall stages: a nocturnal period (P1) and an afternoon period (P2). Both P1 and P2 occurred under a similar large‐scale circulation background, which provided a favorable environment for moisture …",
+    "authors": "Tong Wang, Yuanchun Zhang, Jianhua Sun, Chong Wu et al.",
+    "published": "2026-07-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Triple Isotopes of Oxygen as a Proxy for Carbon Dioxide in Altered Early Pleistocene Ice Core Samples",
+    "doi": "10.1029/2025jd045900",
+    "url": "https://doi.org/10.1029/2025jd045900",
+    "abstract": "Abstract Traditional ice cores provide invaluable insights into changes in past atmospheric greenhouse gas levels, like carbon dioxide (CO 2 ), and their relationship to climate over the last 800,000 years. Recently, ice as old as 6 million years (Ma) has been retrieved from the Allan Hills Blue Ice Area (BIA), Antarctica. However, CO 2 levels in samples older than 3 Ma are anomalously elevated by post‐depositional processes. In this work, we explore the viability of using triple isotopic composition of atmospheric oxygen (Δ 17 O‐O 2 ) as an independent approach for reconstructing atmospheric CO 2 from such altered samples. Atmospheric Δ 17 O‐O 2 and CO 2 are dynamically linked via photochemically driven isotope exchange reactions in the stratosphere. While Δ 17 O‐O 2 is also modulated by …",
+    "authors": "Asmita Banerjee, Edward J. Brook, Christo Buizert, John Higgins et al.",
+    "published": "2026-07-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Stratification, turbulence organisation and pressure-strain effects on surface-layer turbulence anisotropy",
     "doi": "10.1017/jfm.2026.11761",
     "url": "https://doi.org/10.1017/jfm.2026.11761",
@@ -6111,42 +6147,6 @@
     "abstract": "The interaction of a spark-generated cavitation bubble with an initially perturbed free surface is investigated experimentally, numerically and analytically. By exploiting contact-line pinning, we accurately prescribe an initial meniscus with a thin, hydrophilic-coated rod inserted into the liquid. A pronounced surface cavity, driven by the oscillating bubble, forms and penetrates downward to a scale comparable to the bubble itself. The coupled cavity–bubble system exhibits two distinct regimes – coalescence and non-coalescence – separated by a critical condition governed by the non-dimensional stand-off parameter $\\gamma$ and the initial meniscus height $h_m$ . In the non-coalescence regime, the cavity evolves through inception, expansion and rebound/jetting. The maximum cavity length $h_…",
     "authors": "Jingyu Gu, Zirui Liu, A-Man Zhang, Shuai Li",
     "published": "2026-04-28",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Turbulence in subsonic jets in the Navier–Stokes solutions obtained with a 24th-order multi-operators-based scheme",
-    "doi": "10.1017/jfm.2026.11440",
-    "url": "https://doi.org/10.1017/jfm.2026.11440",
-    "abstract": "Numerical solutions of the Navier–Stokes equations in the problem of subsonic jets obtained using a scheme with the 24th-order multi-operators-based dissipation-free approximations are presented and analysed. The spectral properties of the scheme obtained as a result of optimisation for high resolution of small solutions scales are described. The role of added multi-operators in excitation of instability, which make a 23rd-order contribution to the approximation error and form a dissipative component of the scheme, is studied. It is shown how well-known structures of jets with laminar regions of instability development, coherent structures and turbulent regimes at low and moderately high Reynolds numbers are displayed in numerical solutions. Comparisons with experimental data and results o…",
-    "authors": "Andrei Tolstykh, Michael Lipavskii, Igor Konshin",
-    "published": "2026-04-28",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Issue Information",
-    "doi": "10.1029/jame.70352",
-    "url": "https://doi.org/10.1029/jame.70352",
-    "abstract": "No abstract is available for this article.",
-    "authors": "",
-    "published": "2026-04-28",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Stabilising large-scale motions to enhance passive scalar transport in spanwise rotating plane Poiseuille flows",
-    "doi": "10.1017/jfm.2026.11486",
-    "url": "https://doi.org/10.1017/jfm.2026.11486",
-    "abstract": "A recent study by Zhang et al. (2024, J. Fluid Mech. , vol. 979, A43) introduced an effective control strategy, namely streamwise-uniform spanwise equally distributed injection/suction slots on the pressure (unstable) wall, to enhance passive scalar transport in spanwise rotating plane Poiseuille flows (RPPFs). In this work, we employ direct numerical simulations to further investigate the scalar transport increase rate ( $\\textit{STI}$ ) under different slot configurations. Two distinct configurations are investigated, namely uniform-width slots, where injection and suction slots share identical dimensions, and non-uniform-width slots, where their widths vary independently. The former is to examine the effect of slot width, whereas the latter is devoted to distinguishing the individual ro…",
-    "authors": "Wenlu Guo, Shengqi Zhang, Yaxing Li, Zhenhua Xia",
-    "published": "2026-04-27",
     "keywords_matched": [
       "ABL"
     ]
