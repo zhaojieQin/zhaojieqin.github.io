@@ -1,5 +1,58 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Evaluation of High‐Resolution Numerical Simulations of Storm Initiation and Intensification of a Multi‐Cell Thunderstorm in Shanghai",
+    "doi": "10.1029/2026jd046891",
+    "url": "https://doi.org/10.1029/2026jd046891",
+    "abstract": "Abstract This study explores the potential of operating numerical weather prediction (NWP) models at hectometer‐scale resolution to forecast a locally triggered and rapidly evolving thunderstorm over Shanghai on 8 August 2024. Two simulations are conducted using the Weather Research and Forecasting (WRF) model at convection‐permitting resolution (1 km) and large‐eddy‐resolving resolution (200 m), supplemented by a sensitivity experiment designed to clarify the lifting mechanisms responsible for convection initiation (CI). Results show that both simulations capture the basic storm evolution and overall morphology. Increasing horizontal resolution substantially alters the representation of pre‐convective boundary‐layer dynamics. The hectometer‐scale simulation explicitly resolves stronger an…",
+    "authors": "W. Wu, M. Liu, Z. Huo, W. Huang",
+    "published": "2026-07-22",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Understanding Model Diversity in Seasonal Prediction of the Winter Surface Air Temperature Variations Over China",
+    "doi": "10.1029/2026jd046650",
+    "url": "https://doi.org/10.1029/2026jd046650",
+    "abstract": "Abstract Accurate prediction of winter surface air temperature (SAT) is crucial for proactive government responses to potential winter hazards. However, current state‐of‐the‐art operational seasonal forecast systems still face challenges in skillfully predicting winter SAT variations over China, with considerable model diversity in prediction skill. Here, we identified the critical physical processes that determine the prediction skill of winter SAT over China to better understand the sources of model diversity. The first empirical orthogonal function (EOF) mode of interannual variability of winter SAT over China is dominated by the East Asian winter monsoon (EAWM), whereas the second mode is dominated by the Arctic Oscillation (AO) along with a wave train over the Eurasian continent (EAWT…",
+    "authors": "Wanyi Jiang, Shuai Hu, Julia F. Lockwood, Bo Wu et al.",
+    "published": "2026-07-22",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Transition of Dust Transport Characteristics From the Near to Far‐Wake of Wind Turbines",
+    "doi": "10.1029/2026jd046645",
+    "url": "https://doi.org/10.1029/2026jd046645",
+    "abstract": "Abstract Wind turbine wakes can substantially modify the flow structure of the atmospheric boundary layer (ABL); however, their effects on dust particle transport and deposition—particularly the differences between the near‐wake and far‐wake regions—remain insufficiently quantified. In this study, the spatial evolution of dust particle transport within wind turbine wakes is systematically investigated under neutral ABL conditions using improved delayed detached‐eddy simulation coupled with a Lagrangian particle tracking approach. The results show that, in the near‐wake region, the combined effects of rotation‐induced mean momentum transport and turbulent structures significantly enhance upwash motions, leading to particle uplift. In the far‐wake region, the mean vertical velocity is substa…",
+    "authors": "Jixiang Chang, Hongchao Dun, Xiaoting Liu, Ming Qin et al.",
+    "published": "2026-07-22",
+    "keywords_matched": [
+      "wind turbine",
+      "wind turbines",
+      "wake",
+      "atmospheric boundary layer",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Computational library for the nutrient-unicellular-multicellular plankton modeling framework v. 1.0",
+    "doi": "10.5194/gmd-19-6627-2026",
+    "url": "https://doi.org/10.5194/gmd-19-6627-2026",
+    "abstract": "Abstract. The nutrient-unicellular-multicellular (NUM) model is a trait-based model of unicellular and multicellular plankton that uses body size as the main structuring variable for community composition. The central feature is that body size is used for structuring predator-prey interactions and to scale parameters. For unicellular plankton, trophic strategies across the full range from osmotrophy, phototrophy, phagotrophy, and mixotrophy are an emergent outcome of the model. Another distinguishing feature is that the multicellular component, represented by copepods, includes ontogeny, which is crucial in shaping population dynamics. In addition, the framework encompasses a nutrient pool consisting of nitrogen, silica and dissolved organic carbon (DOC) which interacts dynamically with th…",
+    "authors": "Amalia Papapostolou, Anton V. Almgren, Trine F. Hansen, Athanasios Kandylas et al.",
+    "published": "2026-07-22",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Wake instability past a sphere settling in a strongly stratified fluid",
     "doi": "10.1017/jfm.2026.11816",
@@ -6101,54 +6154,6 @@
       "wake",
       "turbulence",
       "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Initial Atmospheric Waves Experiment (AWE) Imaging Analyses: Gravity Wave Sources, Temperatures, Pseudomomentum Fluxes, and Horizontal Wavenumber Spectra at the OH Layer",
-    "doi": "10.1029/2025jd045796",
-    "url": "https://doi.org/10.1029/2025jd045796",
-    "abstract": "Abstract The NASA Atmospheric Waves Experiment (AWE) employs an OH imager that began measurements aboard the International Space Station (ISS) on 22 November 2023. The motivation for AWE was to quantify gravity wave (GW) responses to diverse sources and their influences extending into the mesosphere and higher altitudes. AWE measures temperatures at 2‐km cross‐track resolution in a 600‐km wide imaging swath at ∼87 km during nighttime. AWE swaths reveal a remarkable range of nighttime GW and instability responses from small to very large spatial scales over diverse terrain, deep convection, and oceans where no sources are apparent. Mountain wave responses over small islands and large‐scale orography exhibit horizontal wavelengths of λ h ∼ 10–300 km or longer. Convective GWs likewise reveal …",
-    "authors": "David C. Fritts, Robert G. Stockwell, Thomas S. Lund, P.‐Dominique Pautet et al.",
-    "published": "2026-04-29",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Toward Closing the Hydroxyl Radical (OH) Budget: Assessing the Feasibility and Uncertainties in Constraining primary OH Production From Space",
-    "doi": "10.1029/2025jd045499",
-    "url": "https://doi.org/10.1029/2025jd045499",
-    "abstract": "Abstract Recent progress in constraining the atmosphere's primary oxidant, the hydroxyl radical (OH), with machine learning (ML) and satellite data raises the intriguing possibility of also constraining individual OH chemical production and loss terms. Here, we present a methodology to constrain primary OH production (i.e., OH production from the reaction of water vapor with O 1 D) from 60°S–60°N at 500m above ground level (magl) (P OH _500) using a combination of ML, satellite observations, and meteorological data. The aim of this work is to establish methodological feasibility and to assess and quantify the uncertainties of that methodology. This methodology produces geophysically credible distributions of P OH _500 across all seasons, with seasonal variability being driven primarily by …",
-    "authors": "Daniel C. Anderson, Bryan N. Duncan, Amir H. Souri, Junhua Liu et al.",
-    "published": "2026-04-29",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Turbulence modulation by Taylor-scale settling particles",
-    "doi": "10.1017/jfm.2026.11476",
-    "url": "https://doi.org/10.1017/jfm.2026.11476",
-    "abstract": "In this study, we investigate the modulation of sustained turbulence by settling spherical particles using particle-resolved direct numerical simulations. Gravity effects are studied by varying the Galileo number, ${\\textit{Ga}}$ , through the particle–fluid density ratio for particles of Taylor-scale size. Particle sedimentation causes enhanced viscous dissipation and anisotropy of the fluid velocity fluctuations, which increase with ${\\textit{Ga}}$ . More significantly, the energy spectra exhibit a $\\kappa ^{-3}$ scaling, which coexists with the classic $\\kappa ^{-5/3}$ law for particle-laden turbulence with weak sedimentation ( ${\\textit{Ga}} \\lesssim 40$ ); the $\\kappa ^{-3}$ scaling widens its wavenumber range with ${\\textit{Ga}}$ and dominates the energy spectrum at the highest ${\\te…",
-    "authors": "Xinyu Jiang, Shahab Mirzareza, Marco Crialesi Esposito, Luca Brandt",
-    "published": "2026-04-28",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Cavitation–bubble interaction with an initially perturbed free surface",
-    "doi": "10.1017/jfm.2026.11459",
-    "url": "https://doi.org/10.1017/jfm.2026.11459",
-    "abstract": "The interaction of a spark-generated cavitation bubble with an initially perturbed free surface is investigated experimentally, numerically and analytically. By exploiting contact-line pinning, we accurately prescribe an initial meniscus with a thin, hydrophilic-coated rod inserted into the liquid. A pronounced surface cavity, driven by the oscillating bubble, forms and penetrates downward to a scale comparable to the bubble itself. The coupled cavity–bubble system exhibits two distinct regimes – coalescence and non-coalescence – separated by a critical condition governed by the non-dimensional stand-off parameter $\\gamma$ and the initial meniscus height $h_m$ . In the non-coalescence regime, the cavity evolves through inception, expansion and rebound/jetting. The maximum cavity length $h_…",
-    "authors": "Jingyu Gu, Zirui Liu, A-Man Zhang, Shuai Li",
-    "published": "2026-04-28",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
