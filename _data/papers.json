@@ -1,5 +1,102 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Mitigating adjoint chaos in wall turbulence",
+    "doi": "10.1017/jfm.2026.11822",
+    "url": "https://doi.org/10.1017/jfm.2026.11822",
+    "abstract": "Estimating past events in wall turbulence based solely on surface measurements and first principles is an ill-posed problem that is complicated by chaos. The sensitivity of a measurement to the earlier flow state is described by the adjoint Navier–Stokes equations, which are solved in reverse time starting from the measurement kernel at the sensing position and time. The resulting adjoint field is the spatio-temporal domain of dependence (DOD) of the sensor, which is a dual to the concept of the domain of influence (DOI) of an actuator in the linearised forward equations. In channel turbulence, the energy of each adjoint realisation grows exponentially in backward time according to the Lyapunov exponent, even though the energy of the ensemble average should decay. We introduce a linear edd…",
+    "authors": "Qi Wang, Tamer A. Zaki",
+    "published": "2026-07-23",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Lateral self-propulsion of Marangoni droplets in stratified fluids",
+    "doi": "10.1017/jfm.2026.11828",
+    "url": "https://doi.org/10.1017/jfm.2026.11828",
+    "abstract": "Stable vertical stratification of liquids significantly influences the dynamics of both rigid and deformable bodies immersed in them. Recent research has shown that the interplay between buoyancy and Marangoni convection induced by surface tension gradients gives rise to periodic vertical bouncing of droplets (e.g. of silicone oil) immersed in a stable concentration gradient (e.g. of ethanol in water). Here, we report that such droplets also exhibit lateral self-propulsion, which may or may not be accompanied by bouncing, when the radius of the droplet is large enough. We investigate experimentally and theoretically how the droplet radius and the magnitude of the ethanol concentration gradient influence the onset of self-propulsion and the steady lateral self-propulsion speed far beyond on…",
+    "authors": "Xiaolai Li, Neil M. Ribe, Yanshen Li, Xiangwei Li et al.",
+    "published": "2026-07-23",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Selective topographic suppression and vertical structure of eddy buoyancy fluxes in three-layer retrograde QG flows",
+    "doi": "10.1017/jfm.2026.11848",
+    "url": "https://doi.org/10.1017/jfm.2026.11848",
+    "abstract": "The turbulent eddy fluxes in three-layer retrograde quasi-geostrophic (QG) flows are investigated theoretically and numerically, with a focus on the joint impacts from an interior potential vorticity (PV) gradient and a bottom slope with isobaths aligned with the thermal shear. While a bottom slope overall suppresses geostrophic turbulence, this suppression is selective in the baroclinic modes. In a surface-intensified thermal shear, a bottom slope depletes (replenishes) turbulent energy in the first (second) baroclinic mode, alleviating its suppression effect on the second baroclinic mode. By contrast, in a bottom-intensified thermal shear, a bottom slope shunts turbulent energy from both baroclinic modes into the barotropic mode; yet by occupying a broader spectral range, the second baro…",
+    "authors": "Peng Deng, Yan Wang",
+    "published": "2026-07-23",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Investigating Rayleigh–Taylor instabilities using a statistically stationary and homogeneous simulation framework",
+    "doi": "10.1017/jfm.2026.11779",
+    "url": "https://doi.org/10.1017/jfm.2026.11779",
+    "abstract": "Homogeneous buoyant turbulence (HBT) is developed as a novel direct numerical simulation (DNS) framework for modelling the small scales of turbulence in a temporally evolving Rayleigh–Taylor instability (TRT). Using a set of coordinate and variable transformations, statistical stationarity and homogeneity in all three directions are introduced to the TRT flow variables. These transformations produce a set of source terms in the governing equations, which, within a region surrounding the TRT midplane, reduce to just two non-negligible terms in the momentum and scalar transport equations. When applied to a periodic box domain, the new governing equations are verified to produce a stationary, homogeneous flow. Validation is performed for HBT against a large-scale TRT DNS, where probability de…",
+    "authors": "Aaron Nelson, Guillaume Blanquart",
+    "published": "2026-07-23",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Droplet evaporation on mesas",
+    "doi": "10.1017/jfm.2026.11733",
+    "url": "https://doi.org/10.1017/jfm.2026.11733",
+    "abstract": "Droplet evaporation on a mesa, a raised region with a flat top, occurs in spray coating, microreactors and printed-electronics fabrication. In printed-electronics fabrication, maintaining a pinned contact line is often desirable, and depositing droplets on wide and short mesas offers a simple and effective way to achieve this. We combine flow-visualisation experiments with mathematical modelling to systematically characterise contact-line motion on mesas having heights much smaller than their widths. Flow visualisation reveals that the contact line pins at the mesa edge for a significant amount of time, with lower heating temperatures or larger initial liquid volumes further prolonging this pinning. To interpret these trends, we construct a lubrication-theory-based model that employs a pre…",
+    "authors": "Li-Hsuan Chang, Jonathan D. Nguyen, Satish Kumar",
+    "published": "2026-07-23",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Revisiting interaction of linear waves with an oblique shock: a spatial analysis and the inverse problem",
+    "doi": "10.1017/jfm.2026.11794",
+    "url": "https://doi.org/10.1017/jfm.2026.11794",
+    "abstract": "The interaction of linear waves with a planar shock is analysed using a spatial framework. Unlike conventional temporal analyses which often overlook post-shock evanescent waves, our spatial framework intrinsically captures all wave modes. By prescribing the frequency and tangential wavenumbers, the shock-normal wavenumbers are solved simultaneously on both sides, yielding a complete wavevector correspondence across the shock. Based on this relationship, a linear system is established that links the amplitudes of all six incident waves (from either side) to five downstream responses: the four generated post-shock waves plus shock deformation. This system enables the solution of both the forward problem (predicting downstream responses from given incident waves) and the inverse problem. Spe…",
+    "authors": "Jianhong He, Caihong Su",
+    "published": "2026-07-23",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Dynamics of a free rectangular vortex ring generated by an impulsively driven piston",
+    "doi": "10.1017/jfm.2026.11813",
+    "url": "https://doi.org/10.1017/jfm.2026.11813",
+    "abstract": "Large-eddy simulations were conducted on the formation and behaviour of an aspect ratio of 2 rectangular vortex ring (RVR) modelled after an impulsively driven piston for a ‘cylindrical-slug’-based approach, instead of assuming idealised conditions for its initialisation. Results show the occurrence of over-pressure effects where the orifice exit velocity profile varies with time, evolving from a ‘saddleback’ to a ‘top-hat’ profile as the RVR is being generated. A robust axis-switching behaviour is observed with localised effects conferred by the four corners, leading to intriguing changes to the RVR shape during a full cycle and agrees well with earlier results from Ghasemi et al. (2018 Phys. Fluids , vol. 30, no. 12). However, comparisons with the earlier study reveal that the present RV…",
+    "authors": "Yanqiao Song, Bowen Xu, T.H. New",
+    "published": "2026-07-23",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Radar Reflectivity Assimilation Method Based on Adaptive Hydrometeor Phase Identification Algorithm Using Dual‐Polarization Radar and Its Impacts on Severe Weather Prediction",
+    "doi": "10.1029/2025jd045344",
+    "url": "https://doi.org/10.1029/2025jd045344",
+    "abstract": "Abstract The indirect radar reflectivity assimilation method, which utilizes hydrometeor retrieved from radar reflectivity, is straightforward, computationally efficient, and beneficial for improving severe weather forecasting. However, this method is susceptible to retrieval errors due to inherent uncertainties when deriving multiple hydrometeor species from reflectivity alone. To address this, this study introduces a blended retrieval approach within the WRFDA framework, enhancing hydrometeor retrieval accuracy by incorporating dual‐polarization radar measurements. Specifically, the proposed method first estimates the individual hydrometeor contribution factors to the total reflectivity using two existing retrieval schemes. These initial estimates are then refined by integrating dominant…",
+    "authors": "Feifei Shen, Shen Wan, Jinzhong Min, Lixin Song et al.",
+    "published": "2026-07-23",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Evaluation of High‐Resolution Numerical Simulations of Storm Initiation and Intensification of a Multi‐Cell Thunderstorm in Shanghai",
     "doi": "10.1029/2026jd046891",
@@ -6054,106 +6151,6 @@
     "published": "2026-04-30",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "The DLR CO\n                    <sub>2</sub>\n                    -equivalent estimator FlightClim v1.0: an easy-to-use estimation of per flight CO\n                    <sub>2</sub>\n                    and non-CO\n                    <sub>2</sub>\n                    climate effects",
-    "doi": "10.5194/gmd-19-3551-2026",
-    "url": "https://doi.org/10.5194/gmd-19-3551-2026",
-    "abstract": "Abstract. As aviation's contribution to anthropogenic climate change is increasing, the sector aims at reducing its climate effect in accordance with international agreements. The strong and variable non-CO2 effects are complex, making reliable climate effect quantification a necessary first step. To support this, we develop the easy-to-use first-order climate effect estimator for single flights FlightClim v1.0. The tool estimates the flight-specific climate effect with a simplified calculation model, without requiring detailed information on exact routing, amount of fuel burn, or weather conditions. For this purpose, we first analyze a global flight dataset containing detailed trajectories, associated flight emissions, and climate responses. Similar flights are grouped into clusters, and …",
-    "authors": "Hannes Bruder, Robin N. Thor, Malte Niklaß, Katrin Dahlmann et al.",
-    "published": "2026-04-30",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "GSV-SRTS: a heterogeneous landscape soil-canopy reflectance model over sloping terrain with an extended GSV and stochastic radiative transfer theory",
-    "doi": "10.5194/gmd-19-3531-2026",
-    "url": "https://doi.org/10.5194/gmd-19-3531-2026",
-    "abstract": "Abstract. Accurately modelling radiation interactions within canopy layers and soil backgrounds is crucial for biophysical variables retrieval across regional or global scales. However, terrain relief introduces significant uncertainties in modeling CR by modulating solar and viewing geometry and exacerbating landscape heterogeneity. Traditional CR models, designed primarily for flat and homogeneous landscapes, often inadequately represent these complex interactions. In this study, we present a canopy reflectance model suitable for heterogeneous structures on sloping terrain. By extending the stochastic radiative transfer theory from flat terrain to sloping terrain and integrating the soil General Spectral Vector, the GSV-SRTS model was introduced. This enables accurate prediction of soil-…",
-    "authors": "Siqi Li, Guyue Hu, Shaoda Li, Ronghao Yang et al.",
-    "published": "2026-04-30",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Exploring Ways to Reduce Biases in a Hybrid Global Climate Model With Machine‐Learned Moist Physics",
-    "doi": "10.1029/2025ms005522",
-    "url": "https://doi.org/10.1029/2025ms005522",
-    "abstract": "Abstract In a previous study (Han et al., 2023, https://doi.org/10.1029/2022ms003508 ), we implemented a deep convolutional residual neural network for moist physics into the 3‐D real‐geography CAM5 and carried out a stable multi‐year integration successfully. However, the simulation has large temperature and moisture biases in high latitude troposphere and dry bias in precipitation over tropical land. In this study, we explore several ways to reduce these biases. First, we train two shallow neural networks to correct the biases, one with relative humidity included in the input and one without. Second, instead of attempting to correct the biases with an additional neural network, we expand the input and output variables of the neural net by including radiation‐related physical quantities a…",
-    "authors": "Yilun Han, Guang J. Zhang, Yong Wang",
-    "published": "2026-04-30",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "A 243‐Year Tree‐Ring δ\n                    <sup>18</sup>\n                    O Record Reveals Shifts in Summer Moisture Regime and Large‐Scale Atmospheric Drivers in the Northernmost Taiga of China",
-    "doi": "10.1029/2025jd046167",
-    "url": "https://doi.org/10.1029/2025jd046167",
-    "abstract": "Abstract The Mohe region, situated in northeastern China at the southern boundary of both the global taiga biome and the continuous permafrost zone, is highly sensitive to climate change but remains underrepresented in long‐term climatic records. To bridge this gap, we developed a 243‐year stable oxygen isotope (δ 18 O) chronology from Larix gmelinii tree rings in the northernmost China’s Taiga, constituting the δ 18 O‐based hydroclimate reconstruction for this climatically critical area. Statistical analysis revealed a significant negative correlation between δ 18 O values and summer (June–September) relative humidity (RH) ( r = −0.719, R 2 = 0.517), enabling a robust reconstruction of RH from 1781 to 2023. The reconstruction indicates that prior to the 20th century, RH was generally high…",
-    "authors": "Jiachuan Wang, Qiang Li, Chenxi Xu, Yang Xu et al.",
-    "published": "2026-04-30",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Water waves over a compressible muddy seabed",
-    "doi": "10.1017/jfm.2026.11447",
-    "url": "https://doi.org/10.1017/jfm.2026.11447",
-    "abstract": "An asymptotic theory is developed to investigate the interaction of surface water waves and a compressible muddy seabed in water of intermediate depth. The water column is treated as inviscid outside a thin bottom boundary layer, the thickness of which is assumed to be of the same order of magnitude as the wave amplitude. The seabed is modelled as an isotropic and homogeneous poro-viscoelastic layer with an incompressible solid skeleton and a compressible pore fluid. The thickness of the seabed is assumed to be comparable to the wave amplitude. Using a perturbation approach, the leading-order analytical solutions for the wave and mud flow are derived, while the evolution of the wave envelope, the mean Eulerian velocity and the mass transport velocity beneath progressive waves are obtained …",
-    "authors": "Linlong Tong, Jisheng Zhang, Jinhai Zheng, Yakun Guo et al.",
-    "published": "2026-04-29",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Comparison between the wake systems of a rim driven thruster and a ducted propeller",
-    "doi": "10.1017/jfm.2026.11491",
-    "url": "https://doi.org/10.1017/jfm.2026.11491",
-    "abstract": "The wake systems of a conventional ducted propeller ( $\\mathrm{DP}$ ) and a rim driven thruster ( $\\mathrm{RDT}$ ) are compared. The latter is an innovative ducted propeller, whose blades are installed on a rim rotating within the nozzle, with their tips oriented inwards and no need of a rotating hub. The flow was reproduced by large eddy simulation (LES) on a cylindrical grid consisting of 6.3 billion points. Substantial deviations between the flow physics downstream of the two propellers are revealed and an order of magnitude drop in the pressure minima and turbulent stresses is found across the rotor and in the wake of $\\mathrm{RDT}$ . These changes are mainly attributable to the absence of the hub vortex, the helical vortices from the root of the blades, and the leakage flow generated …",
-    "authors": "Antonio Posa, Stefano Gaggero, Riccardo Broglia",
-    "published": "2026-04-29",
-    "keywords_matched": [
-      "wake",
-      "ABL",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Unstable Rossby waves over bathymetry",
-    "doi": "10.1017/jfm.2026.11482",
-    "url": "https://doi.org/10.1017/jfm.2026.11482",
-    "abstract": "The instability of baroclinic Rossby waves over two-dimensional topography is examined using a nonlinear model, a linear stability calculation and wave triads. In all cases, the Rossby waves are unstable, as seen previously over a flat bottom. But topography decreases the growth rates and changes the structure of the unstable waves. When the topographic height (or slope) exceeds a critical value, the instability is ‘locked’ to topography, in that the most unstable mode, particularly in the lower layer, resembles the bathymetry. In this limit, the growth rate becomes independent of topographic height. A triad calculation suggests that the growth rates in the locked state should depend on the lateral scale of the bathymetry but not its height, and that locking does not occur for topographic …",
-    "authors": "Joseph Henry LaCasce, Hennes Hajduk, Jostein Brændshoi",
-    "published": "2026-04-29",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Effect of a rear-attached splitter plate on the vortex dynamics and turbulence characteristics in a cylinder wake",
-    "doi": "10.1017/jfm.2026.11499",
-    "url": "https://doi.org/10.1017/jfm.2026.11499",
-    "abstract": "This study investigates the influence of a rear-attached splitter plate on the vortex dynamics and turbulence characteristics in the wake of a circular cylinder. Three-dimensional direct numerical simulations (DNS) are performed at a turbulent Reynolds number of 1000 and non-dimensional plate lengths ( $ L/D$ ) of 0–4. The splitter plate affects the vortex dynamics and turbulence characteristics in a highly non-monotonic manner. Specifically, both the strength of the primary vortices and the turbulent kinetic energy in the wake decrease with increasing $ L/D$ over $ L/D$ = 0–1.5, followed by a local increase over $ L/D$ = 1.5–2 and another decrease over $ L/D$ ≥ 2. The abnormal local increase is because the vortex formation location transitions from downstream of the splitter plate for $ L…",
-    "authors": "Yuxin Zhang, Xiaoying Ju, Hongyi Jiang",
-    "published": "2026-04-29",
-    "keywords_matched": [
-      "wake",
-      "turbulence",
-      "vortex"
     ]
   }
 ]
