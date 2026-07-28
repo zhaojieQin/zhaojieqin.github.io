@@ -1,6 +1,94 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Asymmetric velocity boundary conditions lead to zonal flow in centrifugal convection",
+    "doi": "10.1017/jfm.2026.11858",
+    "url": "https://doi.org/10.1017/jfm.2026.11858",
+    "abstract": "We perform two-dimensional direct numerical simulations of rapidly rotating annular centrifugal convection to investigate how mixed (asymmetric) velocity boundary conditions and geometric curvature shape the flow organisation and heat transfer in the quasi-two-dimensional, rotation-constrained regime. Motivated by the quasi-two-dimensionalisation under strong rotation and the long spin-up required for large-scale states, we employ two-dimensional simulations and consider four boundary-condition sets: no slip/no slip (INON), no slip/stress free (INOS), stress free/no slip (ISON) and stress free/stress free (ISOS). For fixed geometry with the radius ratio eta equals 0.5 η = 0.5 $\\eta =0.5$ and over the Rayleigh-number range italic Ra element of left bracket 10 Superscript 6 Baseline comma 10…",
+    "authors": "Jun Zhong, Chao Sun",
+    "published": "2026-07-27",
+    "keywords_matched": [
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Singularity formation in electrified vortex sheets",
+    "doi": "10.1017/jfm.2026.11860",
+    "url": "https://doi.org/10.1017/jfm.2026.11860",
+    "abstract": "This study investigates the effect of a tangential electric field on the curvature singularity encountered by evolving vortex sheets. Weakly nonlinear models are derived by using asymptotic expansions based on the Dirichlet–Neumann operators. A fully nonlinear boundary integral method based on Cauchy’s integral formula and an angle –arclength derivative formulation in a Lagrangian framework is proposed. Linear stability analysis reveals a transition from the unstable regime to a neutrally stable regime at a critical electric field strength. However, both weakly nonlinear models and fully nonlinear simulations suggest that the curvature singularity persists regardless of the value of the electric field strength. The analysis demonstrates that the singularity time obeys two different asympto…",
+    "authors": "Xin Guan, Demetrios T. Papageorgiou",
+    "published": "2026-07-27",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Singularity of the axisymmetric stagnation-point-like solution within a cylinder of the 3-D Euler incompressible fluid equations",
+    "doi": "10.1017/jfm.2026.11847",
+    "url": "https://doi.org/10.1017/jfm.2026.11847",
+    "abstract": "In this paper we investigate analytically the formation of finite time singularities in the three-dimensional (3-D) incompressible Euler equations under the Gibbon–Fokas–Doering model for vorticity stretching within a bounded cylindrical domain and under axisymmetric conditions. We derive explicit Lagrangian solutions for the vorticity, its stretching rate, fluid pathlines and velocity components by exploiting constants of motion associated with the field dependent infinitesimal symmetries of the system. The central finding is that the existence and nature of a finite time singularity are determined exclusively by the local geometric structure of the initial vortex stretching rate near its global minimum. Whether a singularity forms depends on how flat this profile is at the minimum. Flatt…",
+    "authors": "Yinshen Xu, Miguel David Bustamante",
+    "published": "2026-07-27",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Combining reinforcement learning and computational fluid dynamics for optimal kinematics of a robotic vertical-axis wind turbine",
+    "doi": "10.1017/jfm.2026.11811",
+    "url": "https://doi.org/10.1017/jfm.2026.11811",
+    "abstract": "Vertical-axis wind turbines (VAWTs) have emerged as natural complements to their horizontal counterparts but suffer from performance limitations associated with complex aerodynamics, in particular dynamic stall. To address this challenge, we employ deep reinforcement learning to identify optimal blade pitching policies. A framework based on the twin-delayed deep deterministic policy gradient algorithm is coupled with a validated numerical simulation of a two-bladed VAWT, aimed at maximising power generation. The agent receives only onboard measurements of blade pressure and position, rendering the problem partially observable. From these inputs, it learns policies for three distinct flow cases: one uniform flow and two shear flows. The resulting policies outperformed the optimum fixed-pitc…",
+    "authors": "Jarno Platenburg, Brice Martin, Thierry Jardin, Michaël Bauerheim",
+    "published": "2026-07-27",
+    "keywords_matched": [
+      "wind turbine",
+      "wind turbines",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Flow separation control of an infinite wing section via multi-agent reinforcement learning",
+    "doi": "10.1017/jfm.2026.11837",
+    "url": "https://doi.org/10.1017/jfm.2026.11837",
+    "abstract": "This study investigates the application of deep reinforcement learning (DRL) for active flow control in a three-dimensional NACA0012 wing section with periodic spanwise boundary conditions at low Reynolds number ( italic Re Subscript c Baseline equals 1000 Re c = 1000 $ \\textit{Re}_c=1000$ ) and high angle of attack ( AoA equals 20 Superscript ring AoA = 20 ∘ $\\text{AoA}=20^\\circ$ ), where the flow exhibits massive separation, strong vortex shedding and a chaotic three-dimensional wake. The baseline configuration is validated against previous numerical studies, showing the accuracy of the computational set-up. Two DRL control policies are trained with different reward functions, leading to fundamentally different control strategies. The DRL set-up uses a multi-agent reinforcement learning …",
+    "authors": "Ricard Montalà, Bernat Font, Pol Suárez, Jean Rabault et al.",
+    "published": "2026-07-27",
+    "keywords_matched": [
+      "wake",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Scaling the shape of shoaling and overturning solitary waves",
+    "doi": "10.1017/jfm.2026.11869",
+    "url": "https://doi.org/10.1017/jfm.2026.11869",
+    "abstract": "The shape of depth-limited overturning waves strongly influences turbulence and sediment transport in the surf zone. Bathymetric slope s s $s$ and initial wave height upper H 0 divided by h 0 H 0 / h 0 $H_0/h_0$ are key parameters that govern wave overturning shape, yet their effect has not been quantified. We use a two-dimensional fully nonlinear potential flow model to study shoaling and overturning solitary waves across a range of s s $s$ and upper H 0 divided by h 0 H 0 / h 0 $H_0/h_0$ representing spilling and plunging waves. Near-constant domain volume and energy demonstrate the model’s accuracy. Gentler slopes yield smaller, more inclined overturns with thinner jets, whereas steeper slopes produce larger, more horizontally inclined overturns with thicker jets. Wave breaking and over…",
+    "authors": "Kanoa Pick, Falk Feddersen",
+    "published": "2026-07-27",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "SST Sensitivity of Rapid Intensification in Typhoon Nanmadol (2022) Revealed by CNOP",
+    "doi": "10.1029/2026jd046367",
+    "url": "https://doi.org/10.1029/2026jd046367",
+    "abstract": "Abstract Sea surface temperature (SST) uncertainty is one of the major sources of error in tropical cyclone rapid intensification (RI) forecasts; however, the spatial sensitivity of these errors remains poorly understood. Specifically, it is still unclear which spatial pattern of SST errors has the greatest impact on RI enhancement under nonlinear model dynamics. Using the Conditional Nonlinear Optimal Perturbation of boundary condition (CNOP‐B) method within a cloud‐resolving model, we identify the SST pattern most favorable for affecting RI in Super Typhoon Nanmadol (2022) under fully nonlinear dynamics. The CNOP‐B produces a track‐following warm‐core anomaly, which strengthens RI and advances its onset by about 30 hr relative to the control simulation. The associated SST‐sensitive regio…",
+    "authors": "Kexin Song, Mu Mu, Ruifen Zhan, Yuqing Wang et al.",
+    "published": "2026-07-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Turbulent passive scalar transport at the canopy interface: the role of sweeps and ejections",
     "doi": "10.1017/jfm.2026.11853",
     "url": "https://doi.org/10.1017/jfm.2026.11853",
@@ -6064,92 +6152,6 @@
     "published": "2026-05-01",
     "keywords_matched": [
       "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Investigation of mixing enhancement mechanisms in a cavity-based combustor with an upstream wavy wall",
-    "doi": "10.1063/5.0319587",
-    "url": "https://doi.org/10.1063/5.0319587",
-    "abstract": "The cavity in a scramjet combustor plays a crucial role in stabilizing combustion, and fuel injection upstream of the cavity can enhance the mixing process within the combustor. It has been found that the installation of a periodic wavy wall in front of the injection hole can induce streamwise vortices, promoting deeper penetration of the fuel into the main flow and enabling more thorough mixing. This configuration can further expand the mixing-enhanced region and improve the overall mixing efficiency. To better understand the mechanism by which an upstream wavy wall enhances fuel mixing in cavity-type supersonic combustors, a numerical investigation using the large eddy simulation method is conducted. The study focuses on a cavity-based combustor with a wavy wall having an amplitude of 1.…",
-    "authors": "Kaifeng Wang, Wei Cao",
-    "published": "2026-05-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Spatiotemporal multistability in viscoelastic microcavity flows: Topological decoupling and rheological competition",
-    "doi": "10.1063/5.0326829",
-    "url": "https://doi.org/10.1063/5.0326829",
-    "abstract": "Microscale flows of viscoelastic fluids through complex geometries exhibit rich spatiotemporal dynamics, with significant implications for microfluidic applications and porous media transport. However, current understanding of such complex flow behaviors remains limited. In this study, we investigate the unsteady flow of polymer solutions, ranging from dilute to entangled regimes, in microcavity arrays by employing streak imaging and micro-particle image velocimetry. We report a robust “multistable flow” phenomenon characterized by spontaneous, stochastic switching between a “full-vortex” and a “partial-vortex” state. By mapping the global spatiotemporal dynamics, we reveal a mechanism of “topological decoupling,” where the contraction channels effectively decorrelate the local flow dynami…",
-    "authors": "Xiao-Yu Xu, Zhou-Yi Zheng, Jing-Tong Na, Chun-Dong Xue",
-    "published": "2026-05-01",
-    "keywords_matched": [
-      "ABL",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Development of a high-order generalized differential quadrature element method with thermal lattice Boltzmann flux solver for simulation of incompressible thermal flows",
-    "doi": "10.1063/5.0316793",
-    "url": "https://doi.org/10.1063/5.0316793",
-    "abstract": "This paper presents a high-order generalized differential quadrature element (GDQE)-thermal lattice Boltzmann flux solver (TLBFS) for simulating incompressible thermal flows. The GDQE method partitions the computational domain into multiple elements, within which the GDQ technique is applied to approximate solution gradients and flux divergences via high-order polynomial interpolations. The TLBFS is then utilized to reconstruct the distribution functions of density and internal energy, enabling the simultaneous evaluation of inviscid and viscous fluxes. Numerical examples confirm that the present method is well-suited for handling thermal flow problems with curved boundaries and complex geometry on arbitrary meshes, while achieving good solution accuracy and computational efficiency. The g…",
-    "authors": "Yuxin Song, Yaguang Liu, Liming Yang, Chang Shu et al.",
-    "published": "2026-05-01",
-    "keywords_matched": [
-      "lattice boltzmann",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Effects of traverse direction on swept-wing separation control using a traversing jet",
-    "doi": "10.1063/5.0324615",
-    "url": "https://doi.org/10.1063/5.0324615",
-    "abstract": "Flow separation on swept wings during high-lift configuration, such as takeoff and landing, presents a significant aerodynamic challenge. A traverse jet technique is proposed for efficient, low-energy-consumption flow control. The lift-enhancement potential of this technique at low mass flow rates is validated through integrated numerical simulations and wind tunnel tests. The flow mechanism by which the excitation frequency influences separation control is revealed. Furthermore, the traverse direction is found to have a significant impact on the control effectiveness for swept-wing flow separation. Results indicate that the control effect is most pronounced when the traverse excitation frequency approaches the characteristic vortex shedding frequency of the separated flow, leading to opti…",
-    "authors": "Jiaxin Pan, Wanbo Wang, Dangguo Yang, Yi Wang",
-    "published": "2026-05-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Geological engineering parameters influencing CO2-enhanced coalbed methane recovery and sequestration capacity",
-    "doi": "10.1063/5.0324907",
-    "url": "https://doi.org/10.1063/5.0324907",
-    "abstract": "CO2-enhanced coalbed methane recovery (CO2-ECBM) offers the dual benefit of improving methane production while simultaneously enabling CO2 sequestration, thereby supporting carbon-neutral energy development. However, the coupled effects of geological and engineering parameters on recovery and storage performance in deep, low-permeability coal reservoirs remain insufficiently understood. In this study, a fully coupled thermo–hydro–mechanical model was developed to describe CO2–CH4 competitive adsorption, diffusion-seepage, dissolution, and dynamic permeability evolution in coal reservoirs. After validation against field production data from the South Yanchuan block and published simulation results, the model was applied to evaluate the influences of injection pressure and initial permeabili…",
-    "authors": "Sijian Zheng, Shuxun Sang, Shiqi Liu, Yuchen Tian",
-    "published": "2026-05-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "A multigrid-based super-resolution convolutional neural network for multi-physical fields",
-    "doi": "10.1063/5.0320669",
-    "url": "https://doi.org/10.1063/5.0320669",
-    "abstract": "A novel convolutional neural network-based super-resolution (SR) method was proposed to accurately predict high-resolution flow fields from coarse-grid computational fluid dynamics (CFD) results. To mitigate boundary artifacts caused by transposed convolution, a Boundary Compensated Module was developed, ensuring input conservation by balancing the “Upper Layer Contribution Number.” A Two-step Preprocessing Scheme combined with the nondimensionalized mean square error was introduced, which effectively tackled the issues associated with “multi-physical variables” and “wide operating conditions.” Furthermore, a multigrid-based super-resolution convolutional neural network was developed, incorporating a three-stage progressive upsampling process with hierarchical loss and regularization. The …",
-    "authors": "Tieying Li, Changfu You",
-    "published": "2026-05-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Experimental investigate of upstream air venting dynamics in mixed air–water flow transients",
-    "doi": "10.1063/5.0327424",
-    "url": "https://doi.org/10.1063/5.0327424",
-    "abstract": "Air–water mixed flow frequently develops in urban drainage and hydropower tailrace systems, necessitating experimental clarification of vent-controlled pressure transients and two-phase flow dynamics. A visualized experimental system incorporating a transparent vertical vent shaft was established to systematically investigate the effects of vent orifice size on transient pressure response and air–water two-phase flow behavior during pipeline filling. The experimental facility consists of a 20 m long inclined pipe with an inner diameter of 0.15 m and a slope of 0.01, equipped with a vertical vent shaft located near the upstream end. Eighteen vent orifice diameters were tested, covering orifice diameter ratios from 0 to 0.5. High-frequency pressure measurements and high-speed visualizations …",
-    "authors": "Ruilin Feng, Ling Zhou, Yinying Hu",
-    "published": "2026-05-01",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
