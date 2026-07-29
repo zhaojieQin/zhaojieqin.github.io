@@ -1,6 +1,80 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Physical analysis of tonal component in flap side-edge noise generation: on the role of cross-flow wake",
+    "doi": "10.1017/jfm.2026.11785",
+    "url": "https://doi.org/10.1017/jfm.2026.11785",
+    "abstract": "This study aims to numerically investigate the flow dynamics at the flap side edge of a swept high-lift wing and its relation to the far-field noise thanks to an original scale-resolving approach coupling lattice Boltzmann method with Zonal Detached Eddy Simulation. The reason for this investigation stems from previous experimental work where it is shown that the flap noise radiated by the present configuration exhibits a quasi-tonal component of unknown origin around 6.6 kHz (Strouhal number upper S t Subscript c Sub Subscript italic flap Baseline equals 8 S t c flap = 8 ${St}_{c_{\\textit{flap}}} = 8$ based on flap chord c Subscript italic flap c flap $c_{\\textit{flap}}$ ), similar to what has been reported in other experimental studies. In light of the simulation analysis, the flow can b…",
+    "authors": "Julien Husson, Marc Terracol, Sébastien Deck",
+    "published": "2026-07-28",
+    "keywords_matched": [
+      "lattice boltzmann method",
+      "lattice boltzmann",
+      "wake"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Energy pathways and mixing transitions in stratified shear instabilities",
+    "doi": "10.1017/jfm.2026.11862",
+    "url": "https://doi.org/10.1017/jfm.2026.11862",
+    "abstract": "Stratified shear instabilities and associated turbulence can undergo an evolution cycle where the flow initially develops in two dimensions and then transitions to three dimensions before decaying and restratifying. While past studies have explored the overall energy evolution through this process, the role of pressure-mediated mechanisms, such as the redistribution of energy among different flow components, remain less understood. In this study, we expand the classical energy framework by separately tracking the energy in each directional component of the two-dimensional (2-D) and three-dimensional (3-D) flows. This is done by analysing energy budgets based on direct numerical simulations of Kelvin–Helmholtz and Holmboe instabilities. We identify four key physical pathways through which e…",
+    "authors": "Young Ro Yi, Adam Jiankang Yang",
+    "published": "2026-07-28",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Moisture Source Tracking Techniques and Physical Process Analysis Revealing Precipitation Improvement Over North America in CESM2",
+    "doi": "10.1029/2026jd046400",
+    "url": "https://doi.org/10.1029/2026jd046400",
+    "abstract": "Abstract The Community Earth System Model Version 2 (CESM2) represents a significant advancement over its predecessor in simulating global precipitation. However, the relative contributions of updated physical parameterizations versus higher model resolution have not been thoroughly investigated. Here, we focus on North America (NA), where CESM2 significantly reduces precipitation simulation biases from May to September during 2010–2019. Through comparative experiments conducted under MERRA‐2 nudging, updated physical processes notably reduce precipitation biases (&gt;45% in regions of severe precipitation biases), which surpasses the contribution of higher resolution (&lt;16%) over NA. Then, using the unique perspectives of atmospheric water tracer (AWT) and physical process analysis, we …",
+    "authors": "Peng Qian, Bin Zhu, Chen Pan, Tong Zhu et al.",
+    "published": "2026-07-28",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Rapid Outer‐Size Expansion of Typhoon Hinnamnor (2022): Role of Merger With a Tropical Depression",
+    "doi": "10.1029/2026jd046468",
+    "url": "https://doi.org/10.1029/2026jd046468",
+    "abstract": "Abstract Rapid expansion (RE) of tropical cyclones (TCs), which quickly increases their outer size and destructive potential, has not been thoroughly investigated in the merger of binary TCs. This study examines a rare case where typhoon Hinnamnor (2022) experienced RE during its merger with tropical depression (TD) 13W, growing from 125 to 275 km within 24 hr. Two experiments (with/without 13W in the initial field of simulation) were conducted to examine the roles of merger on RE. Only the experiment involving TD 13W successfully replicated the observed changes in size and intensity. While the favorable large‐scale flow caused relatively steady growth and contributed approximately 70% to the total expansion, the binary TC interaction abruptly induced the remaining 30% contribution by subs…",
+    "authors": "Minglin Zheng, Xiaodong Tang, Ze Zhang, Weimin Zhang et al.",
+    "published": "2026-07-28",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Sensitivity of NWP Over the Tibetan Plateau to Soil Moisture Uncertainties in Summer",
+    "doi": "10.1029/2026jd047335",
+    "url": "https://doi.org/10.1029/2026jd047335",
+    "abstract": "Abstract The Tibetan Plateau (TP), consisting of complex high mountains, is a key regional heat source where soil moisture (SM) modulates surface energy exchange and boundary layer processes. However, significant uncertainties (biases/errors) exist in SM data sets over the TP due to complex terrain. It is not known if and how the numerical weather prediction (NWP) of the surface meteorological fields over the TP is sensitive to these SM uncertainties. This has been investigated by using the WRF model. Two simulations for JJA 2023 were conducted, initialized with ERA5 (EXP_CTL) and GFS (EXP_GFS) SM data, representing typical errors/biases. Results show that SM uncertainties significantly alter the surface energy budget, generating differences in sensible and latent heat fluxes exceeding 300…",
+    "authors": "Peng Fan, Yang Yang, Xingwen Jiang, Guangjing Liu et al.",
+    "published": "2026-07-28",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "copan:LPJmL: a new hybrid modelling framework for dynamic land use and agricultural management",
+    "doi": "10.5194/gmd-19-6829-2026",
+    "url": "https://doi.org/10.5194/gmd-19-6829-2026",
+    "abstract": "Abstract. Dynamic Global Vegetation Models (DGVMs) are established in environmental and agricultural sciences for many purposes, e.g., modelling plant growth and productivity, water and carbon cycles, and biosphere-climate interactions. Nevertheless, DGVMs are still rather limited in terms of simulating mutual interactions between biospheric and human processes. While DGVMs such as the Lund Potsdam Jena managed Land (LPJmL) model have been successfully connected to Integrated Assessment Models (IAMs), the model couplings often remain loose and static over the simulation period. The copan:LPJmL modelling framework is an extension of the copan:CORE framework for integrated and dynamic human-Earth system modelling, and addresses this issue by integrating LPJmL via a new interface, consisting …",
+    "authors": "Jannes Breier, Luana Schwarz, Hannah Prawitz, Werner von Bloh et al.",
+    "published": "2026-07-28",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Asymmetric velocity boundary conditions lead to zonal flow in centrifugal convection",
     "doi": "10.1017/jfm.2026.11858",
     "url": "https://doi.org/10.1017/jfm.2026.11858",
@@ -6073,82 +6147,6 @@
     "url": "https://doi.org/10.1063/5.0320789",
     "abstract": "Chaotic recirculating flows in jet-mixing tanks can be controlled via vortex-jet interactions through topology modifications. For the case study of an automotive cleaning tank, the flow enters through an injection plenum and exits through a suction plenum. In Part 1, the diameter of the collector ports and the overall topology of the plenums were analyzed with computational fluid dynamics. Four configurations were compared: velocity, recirculation flow rate, and shear stress, which should be maximized to improve cleaning, and the vortice size, which should be minimized to uniformize impurities removal. For a parallelepiped tank, the best results are achieved with symmetric plenums and a collector close to the edge wall, behind the injectors. The collector should be positioned in the inject…",
     "authors": "Joana Matos, Nelson Lorenzoni, Carla Gomes, Mariana G. Domingos et al.",
-    "published": "2026-05-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Multi-turbine turbulent wake simulation using physics-informed neural networks",
-    "doi": "10.1063/5.0322331",
-    "url": "https://doi.org/10.1063/5.0322331",
-    "abstract": "In real-world fluid dynamics, turbulence is prevalent, from swirling coffee in a cup to galaxy formation. Physics-informed neural networks (PINNs) are pivotal in scientific machine learning and have been applied to engineering turbulence problems; however, they encounter challenges due to the chaotic and computationally intense nature of turbulence simulations. We introduce a PINN model for simulating turbulent wakes in multi-turbine configurations using a hybrid physics-data training strategy. Our method integrates data losses with boundary and partial differential equation losses, as formulated by the 2-equation k−ε turbulence model. Using sparse data for a single flow variable restricted to a plane, the model simulated flow variables in the three-dimensional domain, showing excellent ag…",
-    "authors": "Azhar Gafoor CTP, Sumanth Kumar Boya, Rishi Jinka, Abhineet Gupta et al.",
-    "published": "2026-05-01",
-    "keywords_matched": [
-      "wake",
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Coupled flow characteristics of high-speed free flow and cylindrical arrays",
-    "doi": "10.1063/5.0325152",
-    "url": "https://doi.org/10.1063/5.0325152",
-    "abstract": "The interaction between high-speed freestream flows and porous media involves complex coupled phenomena, including shock interactions, rarefaction effects, and unsteady wake dynamics, which are not fully understood. To elucidate these interactions, this study employs pore-scale numerical simulations using a simplified model system of regularly arranged cylinder arrays. The solid fraction (ϕ) is varied by adjusting the cylinder arrangement. The simulations cover a wide parameter space, with ϕ ranging from 0.043 to 0.315, the freestream Mach number (Ma∞) varying from 2 to 6, and the freestream Knudsen number (Kn∞) spanning from 7.4×10−6 to 9.9×10−4. To account for rarefaction effects in the slip-flow regime, velocity-slip, and temperature-jump boundary conditions are implemented at the cylin…",
-    "authors": "Wei Wu, Shangcheng Tang, Qi Li, Guangxue Wang et al.",
-    "published": "2026-05-01",
-    "keywords_matched": [
-      "wake"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Hyper-reflection of inertia-gravity waves by vortices",
-    "doi": "10.1063/5.0330610",
-    "url": "https://doi.org/10.1063/5.0330610",
-    "abstract": "We examine scattering of waves by a vortex under the f-plane approximation. Two kinds of vortices are considered: eddies (where the angular velocity decreases monotonically with radius) and rings (where the angular velocity peaks at a certain radius before decaying). Both kinds can reflect more energy than the incident wave carries, but over-reflection by eddies is relatively weak, whereas that by rings can be infinitely strong (hyper-reflection). The difference is attributed to stronger or weaker centrifugal force and other curvature-related effects. It is also shown that a hyper-reflecting flow is always marginal to a range of unstable flows, but the converse does not hold: flows that are unstable at frequencies lower than the minimum frequency of inertia-gravity waves cannot radiate; he…",
-    "authors": "C. Nolan, E. S. Benilov",
-    "published": "2026-05-01",
-    "keywords_matched": [
-      "ABL",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Real-time coupled potential and viscous flow method for floating structures with heave plates",
-    "doi": "10.1063/5.0321076",
-    "url": "https://doi.org/10.1063/5.0321076",
-    "abstract": "Heave plates are widely used to suppress the heave motion of floating structures by introducing substantial viscous damping and added-mass effects, both strongly dependent on the Keulegan–Carpenter number due to nonlinear vortex formation and shedding. While two-phase computational fluid dynamics (CFD) can accurately resolve these phenomena, its high computational cost limits routine engineering applications. Conversely, potential-flow methods augmented with Morison terms require empirical calibration of the drag coefficient (CD), reducing predictive robustness. This study presents a real-time coupled framework that integrates a global potential-flow solver for wave diffraction and radiation with a localized single-phase CFD solver to resolve the highly nonlinear flow around heave plates. …",
-    "authors": "Wei Meng, Yiren Li, Zhuang Kang, Gong Chen et al.",
-    "published": "2026-05-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Spectral modulation and suppression of coherent vortex shedding by inertial particles in transonic shock-separated flows",
-    "doi": "10.1063/5.0323432",
-    "url": "https://doi.org/10.1063/5.0323432",
-    "abstract": "The interaction between inertial particles and unsteady shock-induced separation represents a fundamental problem in compressible multiphase turbulence, yet the multiscale modulation mechanisms of coherent structures remain poorly understood. This study investigates the spatiotemporal evolution of transonic shock–boundary layer interactions laden with inertial particles using high-fidelity delayed detached-eddy simulation. By integrating proper orthogonal decomposition (POD) and spectral analysis, we identify a distinct spectral modulation mechanism governed by phase coupling. Results reveal that inertial particles act as a distributed momentum sink, smearing the Rankine–Hugoniot discontinuity and reducing the primary shock intensity by 20%–30%. This momentum deficit imposes a softer adver…",
-    "authors": "Yuanqi Zhao, Qi Yang, Deyou Li, Xiaolong Fu",
-    "published": "2026-05-01",
-    "keywords_matched": [
-      "turbulence",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Bio-inspired shape-morphing actuation of a heaving plate: An experimental study to explore its flow physics and hydrodynamic performance",
-    "doi": "10.1063/5.0324175",
-    "url": "https://doi.org/10.1063/5.0324175",
-    "abstract": "In this study, we present a comprehensive experimental investigation of the effect of shape-morphing on the flow physics of a submerged heaving plate in a quiescent, incompressible, Newtonian viscous fluid. Motivated by bio-inspired underwater swimmers that change body shape to optimize fluid–structure interactions (FSI), shape-morphing is explored here as a mechanism for adaptive hydrodynamic performance via modulation of vortex shedding and convection patterns. Shape-morphing is implemented on a robotic platform comprising a heaving plate actuated to produce dynamic changes of its cross section in phase with a rigid oscillation. To inform the experiments, a boundary element method model is first used to study an idealized shape-morphing heaver under linear hydrodynamic conditions, isolat…",
-    "authors": "Burak Gulsacan, Anna Zueva, Matteo Aureli",
     "published": "2026-05-01",
     "keywords_matched": [
       "vortex"
