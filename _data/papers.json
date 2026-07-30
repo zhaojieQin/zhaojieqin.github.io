@@ -1,6 +1,30 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Optimal free-stream perturbation to an airfoil flow",
+    "doi": "10.1017/jfm.2026.11827",
+    "url": "https://doi.org/10.1017/jfm.2026.11827",
+    "abstract": "Free-stream perturbations induce large coherent structures, crucial to the laminar–turbulent transition on flight vehicles and turbine blades, significantly affecting drag, heat transfer, noise, etc. This paper computes the optimal free-stream perturbations that undergo the strongest amplification using an adjoint method, specifically for the incompressible flow around a NACA0012 airfoil, in contrast to sharp (or no) leading-edge configurations. These perturbations are examined at different angles of attack (0 Superscript ring ∘ $^{\\circ }$ – 6 Superscript ring 6 ∘ $6^{\\circ }$ ) and Reynolds numbers ( italic Re equals 1000 Re = 1000 ${\\textit{Re}} = 1000$ – 8000 8000 $8000$ ). At low angles of attack, two extreme points of energy growth emerge in the frequency–spanwise wavenumber plane, b…",
+    "authors": "Yiping Yao, Dandan Xiao, Xuerui Mao",
+    "published": "2026-07-29",
+    "keywords_matched": [
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "The TIPMIP Earth system model experiment protocol: phase 1",
+    "doi": "10.5194/gmd-19-6941-2026",
+    "url": "https://doi.org/10.5194/gmd-19-6941-2026",
+    "abstract": "Abstract. We describe a new Earth system model (ESM) experiment protocol, as part of the international Tipping Points Modelling Intercomparison Project (TIPMIP) project. We propose this as a protocol for the Coupled Model Intercomparison Project 7 (CMIP7). The protocol requires ESMs to run in CO2-emission mode, with atmospheric CO2 a predicted variable. Forcing for the protocol consists solely of a constant emission of CO2, based on each model's transient climate response to cumulative emissions of carbon dioxide (TCRE) value, to give a common global mean surface warming rate of 2 °C per century. This positive emission (ramp-up) experiment is started from the pre-industrial state of a given model. When the ramp-up run first exceeds a specified level of global warming (2 and 4 °C) relative …",
+    "authors": "Colin Jones, Isaline Bossert, Donovan P. Dennis, Hazel A. Jeffery et al.",
+    "published": "2026-07-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Physical analysis of tonal component in flap side-edge noise generation: on the role of cross-flow wake",
     "doi": "10.1017/jfm.2026.11785",
     "url": "https://doi.org/10.1017/jfm.2026.11785",
@@ -6125,31 +6149,6 @@
     "published": "2026-05-01",
     "keywords_matched": [
       "turbulence"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Near-field flow interactions govern local ice melting dynamics",
-    "doi": "10.1063/5.0326595",
-    "url": "https://doi.org/10.1063/5.0326595",
-    "abstract": "While iceberg models typically parameterize global melt rates, the impacts of flow fields on localized ice melting are not captured by current models. In this work, ice cylinders are used to isolate flow separation and wake effects that drive melting via local heat transfer. Experiments reveal that melt rates vary spatially due to near-field flows driven by geometry and cross-flow velocity. Melting is higher where flow is attached and lower in flow recirculation regions, delineated by a flow separation point. For ice in proximity, individual wakes become coupled and lead to gap-dependent effects, hindering plume separation and reducing local melt rates.",
-    "authors": "Kari E. Perry, Sarah E. Morris",
-    "published": "2026-05-01",
-    "keywords_matched": [
-      "wake",
-      "heat transfer"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Vortex control in a jet-mixing tank of automotive manufacturing",
-    "doi": "10.1063/5.0320789",
-    "url": "https://doi.org/10.1063/5.0320789",
-    "abstract": "Chaotic recirculating flows in jet-mixing tanks can be controlled via vortex-jet interactions through topology modifications. For the case study of an automotive cleaning tank, the flow enters through an injection plenum and exits through a suction plenum. In Part 1, the diameter of the collector ports and the overall topology of the plenums were analyzed with computational fluid dynamics. Four configurations were compared: velocity, recirculation flow rate, and shear stress, which should be maximized to improve cleaning, and the vortice size, which should be minimized to uniformize impurities removal. For a parallelepiped tank, the best results are achieved with symmetric plenums and a collector close to the edge wall, behind the injectors. The collector should be positioned in the inject…",
-    "authors": "Joana Matos, Nelson Lorenzoni, Carla Gomes, Mariana G. Domingos et al.",
-    "published": "2026-05-01",
-    "keywords_matched": [
-      "vortex"
     ]
   }
 ]
