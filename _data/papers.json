@@ -1,5 +1,30 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Evaluation of Clouds and Precipitation in the WRF Convection‐Permitting Model Over the Tibetan Plateau",
+    "doi": "10.1029/2025jd046099",
+    "url": "https://doi.org/10.1029/2025jd046099",
+    "abstract": "Abstract Simulations of the Weather Research and Forecasting (WRF) at convective permitting resolutions of less than 4 km have become increasingly common and show increasing realism in representing clouds and precipitation. However, accurately modeling these features over the Tibetan Plateau (TP) remains a significant challenge. In this study, we evaluate WRF convective permitting simulations from 1–31 July 2016 using CALIPSO and CloudSat satellite observations, together with the COSP cloud simulator, focusing on four widely used microphysics schemes. The results show that all schemes reproduce the general vertical structure of clouds but systematically overestimate high clouds near 13 km and underestimate mid–low clouds around 7–8 km. Using dense rain‐gauge observations, we further assess…",
+    "authors": "Dingchi Zhao, Keyan Miuqian, Wenhao Dong, Yanluan Lin et al.",
+    "published": "2026-08-01",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Global Modeling of Atmospheric Amines: Sources and Sinks",
+    "doi": "10.1029/2025jd045898",
+    "url": "https://doi.org/10.1029/2025jd045898",
+    "abstract": "Abstract Atmospheric amines (methylamine, MMA; dimethylamine, DMA; and trimethylamine, TMA) are critical to new particle formation, air quality, and climate, yet an integrated global cycling framework remains absent. This study develops a global emission inventory that integrates six source categories spanning anthropogenic sources (agriculture, chemical industry, transportation, residential, other industry, and biomass burning) and marine biological processes. We established a full atmospheric amine cycling framework within the Community Earth System Model by implementing four key sink mechanisms. Our estimated global annual emissions are 42.2, 26.9, and 394.9 GgN year −1 for MMA, DMA, and TMA, respectively. Agricultural activities dominate MMA (54%) and DMA (79%) emissions, while marine …",
+    "authors": "Bei Zhang, Qinghao Guo, Yiyang Sun, Lehui Cui et al.",
+    "published": "2026-08-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Acoustic wave propagation in permeable media with rotating inclusions",
     "doi": "10.1017/jfm.2026.11836",
@@ -6124,30 +6149,6 @@
     "published": "2026-05-04",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Machine Learning‐Based Analysis of Atmospheric Process Sensitivity to Land Surface Properties Over Complex Terrain",
-    "doi": "10.1029/2025jd045540",
-    "url": "https://doi.org/10.1029/2025jd045540",
-    "abstract": "Abstract This study investigates the sensitivity of numerical simulations of atmospheric processes over complex terrain to land surface model (LSM) parameters, focusing on thermally driven circulations in an idealized valley. The sensitivity analysis is performed using the Weather Research and Forecasting model coupled with the Noah‐MP LSM, for forest and grassland land cover classes. An ensemble of 400 simulations for mixed forest and grassland is emulated with a suite of machine‐learning regressors, and variance‐based global sensitivity indices are computed from the surrogates. Sensitivity is evaluated for near‐surface wind, potential temperature, turbulent kinetic energy (TKE), and surface heat fluxes at representative valley locations. Results clearly discriminate influential and non‐i…",
-    "authors": "Dario Di Santo, Cenlin He, Fei Chen, Andrea Zonato et al.",
-    "published": "2026-05-02",
-    "keywords_matched": [
-      "weather research and forecasting"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Numerical investigation for flow induced vibration from two oscillating cylinders",
-    "doi": "10.1063/5.0324607",
-    "url": "https://doi.org/10.1063/5.0324607",
-    "abstract": "This study numerically investigates the flow-induced vibration characteristics of two tandem and side-by-side cylinders at Reynolds number of 100. The finite element method combined with the Arbitrary Lagrangian–Eulerian formulation is adopted to capture fluid–structure interaction behaviors. Numerical results reveal distinct flow regime transitions governed by spacing ratios. For tandem cylinders, the flow evolves sequentially from the extended-body regime and shear layer reattachment regime to the co-shedding regime as spacing increases. For side-by-side configurations, the flow transits from a single bluff-body pattern to a biased mode, eventually forming synchronized parallel vortex streets. For oscillating cylinders, strong near-field coupling dominates at small spacings, which weaken…",
-    "authors": "Jiangxin Wang, Mengxia Ma",
-    "published": "2026-05-01",
-    "keywords_matched": [
-      "vortex"
     ]
   }
 ]
