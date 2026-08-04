@@ -1,5 +1,54 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Elastic fibres in shear flow: rotating and non-rotating states",
+    "doi": "10.1017/jfm.2026.11859",
+    "url": "https://doi.org/10.1017/jfm.2026.11859",
+    "abstract": "Solid particles immersed in a low-Reynolds-number shear flow generally tend to rotate. It is, however, possible to construct rigid particles that adopt a constant orientation relative to the flow while drifting across the streamlines. A recent study by Roggeveen &amp; Stone (2022 J. Fluid Mech . 939, A23), analysed the existence and stability of such orientations for ‘boomerang’-shaped rigid fibres formed by two straight arms of different lengths. Given that slender fibres are easily deformed by the fluid traction, we extend their study to the case of elastic fibres, allowing for arbitrary stress-free initial shapes. We establish the conditions under which such fibres adopt a constant shape and orientation while drifting steadily across the streamlines. Numerical simulations show that, in …",
+    "authors": "Hao Ye, Draga Pihler-Puzović, Matthias Heil",
+    "published": "2026-08-03",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "A suspension of heavy Kolmogorov-size spheres suppresses the inertial cascade in homogeneous and isotropic turbulence",
+    "doi": "10.1017/jfm.2026.11867",
+    "url": "https://doi.org/10.1017/jfm.2026.11867",
+    "abstract": "The effect of Kolmogorov-size spherical particles on homogeneous and isotropic turbulence is investigated using particle-resolved direct numerical simulations at an unladen Taylor-scale Reynolds number of 150 150 $150$ . Four monodisperse suspensions of particles with identical diameter and volume fraction 10 Superscript negative 3 10 − 3 $10^{-3}$ are considered, while the particle-to-fluid density ratio varies between 100 100 $100$ and 1500 1500 $1500$ and the mass fraction between 0.1 0.1 $0.1$ and 0.6 0.6 $0.6$ . As particle inertia increases, the energy spectrum departs from the canonical Kolmogorov kappa Superscript negative 5 divided by 3 κ − 5 / 3 $\\kappa ^{-5/3}$ scaling and approaches a peculiar regime with kappa Superscript negative 1 κ − 1 $\\kappa ^{-1}$ , with kappa κ $\\kappa$…",
+    "authors": "Ludovico Fossà, Marco Edoardo Rosti",
+    "published": "2026-08-03",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Kilometer‐Scale (1‐km) Convection‐Permitting Simulations Over the Hindu Kush‐Himalayan Region: Processes of Winter Precipitation",
+    "doi": "10.1029/2025jd046137",
+    "url": "https://doi.org/10.1029/2025jd046137",
+    "abstract": "Abstract Kilometer‐scale (k‐scale) simulations, with explicit treatment of convection at sub‐grid scales, are useful for understanding precipitation characteristics. Such simulations with their high spatiotemporal resolution can be particularly valuable in complex topographic regions, such as the Hindu Kush Himalayas (HKH), where sparse observations and uncertainties in coarse‐resolution data sets pose challenges. This study evaluates an AMIP style k‐scale (1 km) simulation, initialized from the ECMWF IFS analysis, for winter precipitation (December 2018–February 2019) over the HKH region, with a focus on mean and extreme characteristics, elevation‐dependent variability, and diurnal precipitation cycles. The kilometer‐scale simulations were validated using available station observations an…",
+    "authors": "S. Nischal, Raju Attada, Kieran M. R. Hunt, Chandrasekar Radhakrishnan et al.",
+    "published": "2026-08-03",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Sensitivity of Arctic mixed-phase cloud simulations to ice microphysical modifications in the WDM6 scheme of WRF (v4.3.1)",
+    "doi": "10.5194/gmd-19-7069-2026",
+    "url": "https://doi.org/10.5194/gmd-19-7069-2026",
+    "abstract": "Abstract. Arctic mixed-phase clouds (MPCs) remain challenging to represent in atmospheric models, with bulk microphysics schemes typically biased toward either excessive glaciation or inadequate ice formation. This study evaluates the behavior of the Weather Research and Forecasting (WRF) Double-Moment 6-class (WDM6) scheme and its modified version (WDM6_ICE), which incorporates spherical ice shape, constrained nucleation, and prognostic cloud ice number concentration, under Arctic conditions using the Mixed-Phase Arctic Cloud Experiment (M-PACE) case (9–10 October 2004). WDM6 severely underestimates liquid water through efficient vapor deposition onto bullet-shaped ice. WDM6_ICE exhibits the opposite behavior, maintaining persistent liquid as cloud ice deposition is reduced by about 98 %.…",
+    "authors": "Hyun-Joon Sung, Kyo-Sun Lim, Song-You Hong, JiHoon Shin et al.",
+    "published": "2026-08-03",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Evaluation of Clouds and Precipitation in the WRF Convection‐Permitting Model Over the Tibetan Plateau",
     "doi": "10.1029/2025jd046099",
@@ -6101,54 +6150,6 @@
     "published": "2026-05-04",
     "keywords_matched": [
       "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Influence of plume activity on thermal convection in a rectangular cell",
-    "doi": "10.1017/jfm.2026.11526",
-    "url": "https://doi.org/10.1017/jfm.2026.11526",
-    "abstract": "We present three-dimensional direct numerical simulations of turbulent Rayleigh–Bénard convection in a closed rectangular box whose width $L_y$ and length $L_x$ are 0.8 and 2.4 times the height $H$ , respectively. The Rayleigh number $\\textit{Ra}$ varies from $10^5$ to $10^{10}$ , and the Prandtl number is unity. The advantages of the present configuration are: ( a ) a relatively stable unidirectional large-scale circulation, consisting of two counter-rotating rolls, fills the cell and fixes the thermal plume ejection- and shear-dominated regions, in contrast to those in closed cylindrical cells. ( b ) The regions of plume ejection are essentially independent of the sidewalls so that their autonomous existence can be studied. This is because there is some space, or ‘fetch’, for the velocit…",
-    "authors": "Ambrish Pandey, Jörg Schumacher, Matteo Parsani, Katepalli R. Sreenivasan",
-    "published": "2026-05-04",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Lyapunov stability analysis of the chaotic flow past two square cylinders",
-    "doi": "10.1017/jfm.2026.11489",
-    "url": "https://doi.org/10.1017/jfm.2026.11489",
-    "abstract": "We investigate the stability of the flow past two side-by-side square cylinders (at Reynolds number 200 and gap ratio 1) using tools from dynamical systems theory. The flow is highly irregular due to the complex interaction between the flapping jet emanating from the gap and the vortices shed in the wake. We first perform spectral proper orthogonal decomposition (SPOD) to understand the flow characteristics. We then conduct Lyapunov stability analysis by linearising the Navier–Stokes equations around the irregular base flow and find that it has two positive Lyapunov exponents. The covariant Lyapunov vectors (CLVs) are also computed. Contours of the time-averaged CLVs reveal that the footprint of the leading CLV is in the near-wake, whereas the other CLVs peak further downstream, indicating…",
-    "authors": "Sidhartha Sahu, George Papadakis",
-    "published": "2026-05-04",
-    "keywords_matched": [
-      "wake"
-    ]
-  },
-  {
-    "journal": "Advances in Atmospheric Sciences",
-    "title": "Building Drag Parameterization Including Anisotropy and Its Coupling with the Weather Research and Forecasting Model",
-    "doi": "10.1007/s00376-025-5424-3",
-    "url": "https://doi.org/10.1007/s00376-025-5424-3",
-    "abstract": "",
-    "authors": "Yuhang Tian, Zhenghui Xie, Jinbo Xie, Binghao Jia et al.",
-    "published": "2026-05-04",
-    "keywords_matched": [
-      "weather research and forecasting"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "The ocean model for E3SM global applications: Omega version 0.1.0 – a new high-performance computing code for exascale architectures",
-    "doi": "10.5194/gmd-19-3569-2026",
-    "url": "https://doi.org/10.5194/gmd-19-3569-2026",
-    "abstract": "Abstract. This paper introduces Omega, the Ocean Model for E3SM Global Applications. Omega is a new ocean model designed to run efficiently on high performance computing (HPC) platforms, including exascale heterogeneous architectures with accelerators, such as Graphics Processing Units (GPUs). Omega is written in C++ and uses the Kokkos performance portability library. These were chosen because they are well-supported and will help future-proof Omega for upcoming HPC architectures. Omega will eventually replace the Model for Prediction Across Scales-Ocean (MPAS-Ocean) in the US Department of Energy's (DOE's) Energy Exascale Earth System Model (E3SM). Omega runs on unstructured horizontal meshes with variable-resolution capability and implements the same horizontal discretization as MPAS-Oc…",
-    "authors": "Mark R. Petersen, Xylar S. Asay-Davis, Alice M. Barthel, Carolyn Branecky Begeman et al.",
-    "published": "2026-05-04",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
