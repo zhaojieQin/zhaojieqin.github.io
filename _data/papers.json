@@ -1,6 +1,42 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Determining how nonlinearities in the equation of state affect diffusive interfaces in the ocean",
+    "doi": "10.1017/jfm.2026.11889",
+    "url": "https://doi.org/10.1017/jfm.2026.11889",
+    "abstract": "In the ocean, favourable vertical gradients and the differing molecular diffusivities of salinity and temperature cause double diffusive instabilities. At high latitudes, double diffusive instabilities are in the ‘diffusive’ convection regime due to the colder, fresher waters that form atop warmer, saltier waters. Cold conditions at high latitudes also enhance effects of the nonlinear equation of state. Modelling studies of diffusive convection typically use a linear equation of state, thereby not including processes such as cabbeling, the gain in density upon mixing, which arises from nonlinearities in the equation of state. Here, we use a fully nonlinear equation of state in direct numerical simulations (DNS) to investigate the impact of cabbeling on diffusive convection and the resultin…",
+    "authors": "Josef I. Bisits, Trevor J. McDougall, Jan D. Zika",
+    "published": "2026-08-04",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The North Atlantic Tends to Amplify the Arctic Stratosphere‐Induced Eurasian Subseasonal Surface Air Temperature Anomalies During the Cold Season",
+    "doi": "10.1029/2026jd047001",
+    "url": "https://doi.org/10.1029/2026jd047001",
+    "abstract": "Abstract Based on atmospheric reanalysis data from 1979 to 2024 during the cold season, this study investigates the evolutionary mechanisms and predictability of the leading EOF mode of the Eurasian subseasonal surface air temperature (SAT). The results indicate that the early‐stage anomalous subseasonal signal appears to be associated with Arctic stratospheric potential vorticity (PV) anomalies and subsequently propagates southeastward toward Eurasia. The tripolar pattern of North Atlantic sea surface Net Turbulent Heat Flux (NTHF) anomalies relates to the secondary enhancement of the geopotential height anomalies over Eurasia by transmitting eastward wave activity flux. This enables the subseasonal signal to propagate downward into the lower‐tropospheric temperature field. To quantify th…",
+    "authors": "Shengyi Qian, Zhuojun Dai, Haibo Hu, Xiu‐Qun Yang et al.",
+    "published": "2026-08-04",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Outer‐Core Wind Structure Effects of Doksuri (2023) on the Heavy Rainfall Event in North China",
+    "doi": "10.1029/2026jd046658",
+    "url": "https://doi.org/10.1029/2026jd046658",
+    "abstract": "Abstract While considerable attention has been paid to factors that determine the inner‐core and remote structure of tropical cyclone (TC) rainfall, less attention has been paid to what modulates TC rainfall distribution at intermediate distances. This study investigates the sensitivity of TC rainfall post‐landfall to variations in the structure of the outer‐core wind, with a focus on the impact of these outer‐core wind variations on rainfall distributions at intermediate distances from the TC center, using TC Doksuri (2023) as a case study. Two sensitivity experiments are performed, where outer‐core wind speeds at landfall are increased by 25% (EXP1) and 50% (EXP2). Results have shown that stronger TC outer‐core wind has competing effects on the precipitation amounts both when the landfal…",
+    "authors": "Qijun Huang, Zifeng Yu, Robert Fulton Rogers",
+    "published": "2026-08-04",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Elastic fibres in shear flow: rotating and non-rotating states",
     "doi": "10.1017/jfm.2026.11859",
     "url": "https://doi.org/10.1017/jfm.2026.11859",
@@ -71,6 +107,131 @@
     "published": "2026-08-01",
     "keywords_matched": [
       "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Multi-resolution two-phase smoothed particle hydrodynamics method for simulating turbulent flows of breaking bow waves",
+    "doi": "10.1063/5.0342670",
+    "url": "https://doi.org/10.1063/5.0342670",
+    "abstract": "Breaking bow waves significantly affect ship resistance, energy dissipation, and air entrainment, yet the influence of draught on their dynamics remains underexplored. In this study, we numerically investigate the breaking bow waves of a Korea Research Institute of Ships and Ocean Engineering container ship model at a high Froude number (Fr = 0.471) under nine draught conditions ranging from T/T0 = 0.9 to 1.1, where T0 is the design draught. A multi-resolution two-phase smoothed particle hydrodynamics method coupled with the k–ω shear stress transport turbulence model is developed on a multi-graphics processing unit framework. The numerical model is validated against experimental data, showing good agreement in wave profiles and waterline positions. The results reveal that both the primary…",
+    "authors": "Wenhao Tang, Hua Liu",
+    "published": "2026-08-01",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "On the primary instability in the wake of polygonal cylinders",
+    "doi": "10.1063/5.0340202",
+    "url": "https://doi.org/10.1063/5.0340202",
+    "abstract": "A numerical study was undertaken to investigate the primary instability of the flow past polygonal cylinders, with the side number N∈Z[5,16], and at non-dimensional incidence angles (α*) from corner to face orientation. The primary instability is invariably the result of a Hopf bifurcation, with the bifurcation point determined using the linearized Landau equation. The critical Reynolds number, Recr, shows a nonlinear dependence on N and α*. Analysis of sensitivity to base flow modifications with respect to the circular cylinder revealed that the variation in Recr is related to the direction of backflow modifications, from which a negative correlation is established between Recr and the variation of eigenvalues calculated based on the direct and the adjoint eigenmodes of the perturbed fiel…",
+    "authors": "Adam Marshall, Lian Gan, David Sims-Williams, Esmaeel Masoudi",
+    "published": "2026-08-01",
+    "keywords_matched": [
+      "wake",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Physics-informed multi-scale spatiotemporal learning for transient incompressible flow prediction",
+    "doi": "10.1063/5.0342454",
+    "url": "https://doi.org/10.1063/5.0342454",
+    "abstract": "Data-driven learning provides a promising route for accelerating computational fluid dynamics, yet transient flow prediction remains challenging because models must simultaneously capture evolving temporal dynamics and cross-scale spatial structures while generalizing across geometries and operating conditions. In this work, we study one-step-ahead prediction of two-dimensional incompressible transient flows from historical snapshots and propose Multi-Scale Spatiotemporal Flow (MuST-Flow), a physics-informed multi-scale spatiotemporal network for recurrent forecasting of velocity and pressure fields. The central idea of MuST-Flow is to couple cross-scale feature extraction with physical regularization, enabling the model to better resolve localized high-gradient flow structures while maint…",
+    "authors": "Yan Liu, Jie Liu, Xinhai Chen, Qinglin Wang et al.",
+    "published": "2026-08-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Dynamic evolution of displacement patterns during thickened supercritical carbon dioxide flooding in heavy-oil reservoirs",
+    "doi": "10.1063/5.0340130",
+    "url": "https://doi.org/10.1063/5.0340130",
+    "abstract": "During heavy-oil displacement by supercritical carbon dioxide (sc-CO2), the large viscosity contrast between sc-CO2 and heavy oil induces fingering instability and gas channeling. Thickened sc-CO2 improves mobility control and partly suppresses fingering; however, CO2 dissolution and diffusion still alter the oil-phase viscosity near the displacement front. Thus, the classical Lenormand phase diagram cannot fully describe displacement-pattern evolution in this variable-viscosity system. To address this gap, the present study incorporates the oil-viscosity-reduction effect induced by the dissolution of thickened sc-CO2 into a coupled flow–mass transfer–diffusion mathematical model. The model is solved using a phase-field method to investigate the evolution of displacement patterns in thicke…",
+    "authors": "Yu Zhang, Daigang Wang, Fangzhou Liu, Nanyu Ji et al.",
+    "published": "2026-08-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Secondary-flow-controlled hydrocarbon fuel coking in curved regenerative cooling channels with evolving coke layers",
+    "doi": "10.1063/5.0344915",
+    "url": "https://doi.org/10.1063/5.0344915",
+    "abstract": "Reactive wall deposition in curved internal flows involves coupled secondary motion, heat transfer, chemical conversion, and moving-boundary evolution. In hydrocarbon-fuel regenerative cooling channels, curvature-induced secondary flow can enhance local heat transfer and suppress coke deposition, whereas the growing coke layer reshapes the flow passage, thermal resistance, and reaction. This study investigates the fluid-physical mechanisms governing coke deposition in a three-dimensional curved cooling channel. A novel critical vector method within a dynamic mesh framework is developed to directly track the evolving coke layer without prescribing its geometry. The results show that coke deposition is governed not only by wall temperature, but also by the redistribution of momentum, heat, a…",
+    "authors": "Chen Zhang, Jiajun Zhao, Guiping Lin, Hui Gao et al.",
+    "published": "2026-08-01",
+    "keywords_matched": [
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Dominant processes and characteristic timescales of intermodal coagulation for bimodal aerosols in decaying homogeneous isotropic turbulence",
+    "doi": "10.1063/5.0334145",
+    "url": "https://doi.org/10.1063/5.0334145",
+    "abstract": "Aerosol coagulation is a key process governing particle size distributions (PSDs) in engineering and environmental flows. Most traditional models are developed for unimodal aerosols and therefore struggle to capture intermodal coagulation in bimodal PSDs. In this study, an aerosol-turbulence modeling framework was established by coupling a bimodal population balance equation (PBE) with a decaying homogeneous isotropic turbulence field simulated in Open Field Operation and Manipulation (OpenFOAM). The PBE for Brownian and turbulent coagulation was solved using the Taylor-expansion method of moments (TEMOM), which was compared with the quadrature method of moments, the direct quadrature method of moments (DQMOM), and the inverse Gaussian distribution method of moments. The consistency of the…",
+    "authors": "Hong-Wei Li, Ming-Ze Sun, Ji-Ning Sun, Wen-Bo Duan",
+    "published": "2026-08-01",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Stability and nonlinear vibration control of an axially excited cantilevered fluid-conveying pipe using a track nonlinear energy sink",
+    "doi": "10.1063/5.0341234",
+    "url": "https://doi.org/10.1063/5.0341234",
+    "abstract": "This study investigates the stability and nonlinear vibration control of an axially excited vertical cantilevered fluid-conveying pipe equipped with a track nonlinear energy sink (TNES). A gravity-compensated TNES is considered to clarify how absorber friction and attachment location affect instability suppression in flow-excited piping systems. A coupled pipe TNES model is established and reduced by Galerkin discretization. Floquet analysis, alternating frequency–time harmonic balance method, and fourth-order Runge–Kutta methods are combined to determine stability boundaries and post-instability responses. The model equation is validated through critical-flow prediction, modal-truncation convergence over unstable excitation-frequency ranges, and verification of dry-friction TNES response …",
+    "authors": "Jiang Lan, LieDong Mi, Pihua Yang",
+    "published": "2026-08-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Tunnel cross-section study for 600 km/h high-speed maglev trains based on passenger pressure comfort and pressure load",
+    "doi": "10.1063/5.0343827",
+    "url": "https://doi.org/10.1063/5.0343827",
+    "abstract": "To determine a reasonable tunnel cross-sectional area for a 600 km/h high-speed maglev train passing through a tunnel, this study adopts the shear stress transport k–ω turbulence model and the overset grid method to investigate the effects of tunnel cross-sectional area, tunnel length, and train body dynamic airtightness index on the internal and external pressure variations. The numerical method's dependability is proven using a moving model test. When the eight-car high-speed maglev train passes through the tunnel at 600 km/h, the external peak-to-peak pressure is highest in the middle carriages, whereas the internal peak-to-peak pressure increases from the head carriage to the tail carriage. In contrast, the average peak-to-peak internal pressure increases gradually from the head carria…",
+    "authors": "Xiaohong Yuan, Yiming Tian, Junyan Wang, Yiping Wang et al.",
+    "published": "2026-08-01",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Modeling the critical conditions for puffing and microexplosion of unstable emulsified fuel droplets",
+    "doi": "10.1063/5.0336839",
+    "url": "https://doi.org/10.1063/5.0336839",
+    "abstract": "Intense heating of emulsified fuel droplets injected into combustion chambers of aviation engines leads to their puffing and microexplosions. In this study, we develop a new heat and mass transfer model, accounting for phase separation in emulsified fuel droplets and the formation of a core–film structure, to predict critical puffing/microexplosion conditions. The dynamics of phase separation in emulsion droplets containing various surfactants is investigated using a transient phase-field model. The problem considers coupled heating, evaporation, and phase separation of an emulsified fuel droplet in a gas–air environment. Numerical simulations are performed in software COMSOL Multiphysics using the heat transfer in solids and fluids, laminar flow, deformed geometry, and phase field modules…",
+    "authors": "Dmitriy V. Antonov, Pavel A. Strizhak",
+    "published": "2026-08-01",
+    "keywords_matched": [
+      "ABL",
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Collaborative active control of the wake of an Ahmed body using multiple sweeping jets",
+    "doi": "10.1063/5.0342154",
+    "url": "https://doi.org/10.1063/5.0342154",
+    "abstract": "Sweeping jet (SWJ) collaborative actuation offers a promising approach for manipulating the wake of a slanted Ahmed body, yet its underlying mechanisms remain insufficiently explored. In the present study, numerical simulations are performed at a Reynolds number of Re=1.97×105 to investigate the mean wake response under SWJs deployed at different locations. The results show that single-point actuation primarily induces localized modifications to the wake, such as altering the upper and lower recirculation bubbles or the corner vortices. Owing to the strong coupling between these structures, the overall drag reduction remains limited. In contrast, collaborative actuation produces a more global modification of the mean wake, characterized by an elongated and more symmetric recirculation regi…",
+    "authors": "Zhenlin Xie, Yijia Peng, Yingzheng Liu, Xin Wen",
+    "published": "2026-08-01",
+    "keywords_matched": [
+      "wake",
+      "drag reduction"
     ]
   },
   {
@@ -5992,164 +6153,6 @@
     "published": "2026-05-07",
     "keywords_matched": [
       "drag reduction"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Turbulence intermittency and velocity gradients",
-    "doi": "10.1017/jfm.2026.11494",
-    "url": "https://doi.org/10.1017/jfm.2026.11494",
-    "abstract": "A central problem in turbulence is understanding small-scale intermittency, which refers to the sporadic generation of intense fluctuations in velocity gradients and increments. These extreme events, strongly non-Gaussian in nature, govern dissipation, mixing and transport processes in virtually all turbulent flows. Yet, despite decades of study, a faithful and predictive characterisation of small scales remains elusive owing to the inherent mathematical intractability of the Navier–Stokes equations and the difficulty in resolving them in both simulations and experiments at high Reynolds numbers. Recent advances in high-resolution simulations and experiments have significantly reshaped this picture, particularly by providing precise data at high Reynolds numbers to probe the full tensorial…",
-    "authors": "Dhawal Buaria, Alain Pumir",
-    "published": "2026-05-07",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Unsteady foil propulsion over sediment beds: wake alteration and efficiency loss in particle-laden flows",
-    "doi": "10.1017/jfm.2026.11480",
-    "url": "https://doi.org/10.1017/jfm.2026.11480",
-    "abstract": "The current study examines the interaction between a pitching foil and sediment-laden flows, focusing on how particles affect propulsion performance and the sediment dynamics. We show that the presence of particles weakens vortex formation, reduces flow flux and alters the pressure distribution, leading to a decrease in propulsion efficiency. Additionally, sediment deformation and particle suspension under the flow are observed, driven by fluid–structure coupling rather than direct contact with the foil. The coupled dynamics between the foil’s motion, sediment evolution and particle transport creates a feedback loop that influences both the wake structure and sedimentary patterns. Our results underscore the importance of considering the interactions between the foil, flow and particles for…",
-    "authors": "Runguo Xiao, Guangsheng Su, Jian Zhao, Zhangying Ye et al.",
-    "published": "2026-05-07",
-    "keywords_matched": [
-      "wake",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Edge diffraction of in-duct modal waves by unflanged or flanged circular duct terminations",
-    "doi": "10.1017/jfm.2026.11460",
-    "url": "https://doi.org/10.1017/jfm.2026.11460",
-    "abstract": "An asymptotic approach is presented for studying the diffraction problem of in-duct acoustic modes by the termination of a rigid, circular duct with negligible thickness, based on Keller’s (1957, 1958, 1962) geometrical theory of diffraction (GTD). The diffracted field is solved first for the unflanged duct case, followed by an extension to the flanged duct case for which no closed-form exact solutions are available. The GTD solution for the primary diffraction of unflanged ducts, which invokes the half-plane diffraction coefficient obtained from Sommerfeld’s exact solution to the half-plane diffraction problem, is shown to yield agreement with the leading term of the Wiener–Hopf solution, in which the split functions of the Wiener–Hopf kernel are replaced with their steepest-descent appro…",
-    "authors": "Xiao Jing, Zhaohui Du",
-    "published": "2026-05-06",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "A predictive framework for energy harvesting based on four canonical modes of vortex–foil interaction",
-    "doi": "10.1017/jfm.2026.11519",
-    "url": "https://doi.org/10.1017/jfm.2026.11519",
-    "abstract": "This work presents a predictive framework for energy harvesting of two tandem and staggered flapping foils based on four canonical modes of vortex–foil interaction. The role of the incoming vortex generated by the leading foil in modulating the hydrodynamic load of the trailing foil is systematically analysed. Four canonical interaction modes are classified by the vortex rotation and its interaction position relative to the leading-edge vortex (LEV). The most effective configuration occurs when the foil encounters a counter-rotating vortex on the pressure side, which strengthens the LEV and consequently enhances the lift magnitude, with maximum efficiency achieved when vortex merging occurs near stroke reversal. A second constructive mode occurs when a co-rotating vortex on the suction sid…",
-    "authors": "Hong Ren, Li Wang, John Young, Fang-Bao Tian",
-    "published": "2026-05-06",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "An Optimized Parameterization of Sub‐Grid Scale Advection for Convection Permitting Models",
-    "doi": "10.1029/2025jd045433",
-    "url": "https://doi.org/10.1029/2025jd045433",
-    "abstract": "Abstract Convection‐permitting models (CPMs) explicitly resolve deep convection yet under‐resolve the organized lateral exchanges among drafts and their environment that control entrainment/detrainment, precipitation efficiency, and mesoscale structure. In this work, we introduce the Optimized Advection Scheme (OAS), which introduces a small rotation of the Cartesian frame of reference for the horizontal winds relative to other variables used in advection that induces cross‐gradient transport to mimic under‐resolved convective mixing. The rotation angle is selected to minimize the Kullback–Leibler divergence between the simulated and satellite observed precipitation intensity distributions, yielding a physically consistent perturbation that is computationally inexpensive and portable. Opti…",
-    "authors": "Samson Hagos, Zhe Feng, Adam C. Varble, Sheng‐Lun Tai",
-    "published": "2026-05-06",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Assessing the Role of Tropical Cyclones on Drought Characteristics in the Hurricane Region of the Americas Between 1983 and 2024",
-    "doi": "10.1029/2025jd045998",
-    "url": "https://doi.org/10.1029/2025jd045998",
-    "abstract": "Abstract Droughts and tropical cyclones (TCs) are among the deadliest and costliest natural hazards and are expected to intensify in the twenty‐first century due to anthropogenic climate change. The Hurricane Region of the Americas (HRA), an area frequently affected by TCs and droughts, is home to some of the most vulnerable countries to these hazards and the impacts of climate change worldwide. While TCs and drought have been extensively studied separately, little research has been conducted on their interplay in the HRA, particularly in areas lacking quality long‐term climate data. In this work, we analyze the impact of TCs on drought characteristics, such as severity and duration, in the HRA from 1983 to 2024. We use high‐resolution gridded climate data and a variety of drought metrics …",
-    "authors": "Dimitris A. Herrera, Christian Domínguez, Abel Centella, Ricardo Sánchez‐Murillo et al.",
-    "published": "2026-05-06",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Hydrodynamic properties of a flexible pipe in bidirectionally sheared flows undergoing vortex-induced vibration",
-    "doi": "10.1017/jfm.2026.11506",
-    "url": "https://doi.org/10.1017/jfm.2026.11506",
-    "abstract": "The hydrodynamics of vortex-induced vibration of a flexible pipe in bidirectionally sheared flows are investigated through combined experimental and numerical approaches. Such bidirectionally sheared flows are inspired by subsurface currents induced by internal solitons widely occurring in the ocean, which feature oppositely directed flow velocities along the flexible pipe. Experiments are conducted in an ocean basin using a tensioned pipe with distributed strain sensors, and numerical simulations are conducted by a validated strip method based framework. The mean in-line displacement, mean drag, shear force and bending moment are characterised. The mean in-line displacement, maximised over the spanwise direction, exhibits an approximately quadratic dependence on the maximum velocity in bi…",
-    "authors": "Xuepeng Fu, Shixiao Fu, Chang Liu, Jiawei Shen et al.",
-    "published": "2026-05-05",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Beyond secondary instability: on the emergence of finite-amplitude waves in Görtler vortices",
-    "doi": "10.1017/jfm.2026.11518",
-    "url": "https://doi.org/10.1017/jfm.2026.11518",
-    "abstract": "Görtler vortices developing over a concave wall support rapidly oscillating wavelike disturbances through secondary instabilities. Although experiments indicate that the finite-amplitude evolution of these waves acts as a precursor to turbulence transition, accurate and efficient prediction has remained out of reach. We overcome this limitation by using the parabolised coherent structures (PCS) method of Song &amp; Deguchi (2025 J. Fluid Mech. , vol. 1025, A42), which incorporates the nonlinear vortex-wave interaction into a standard spatial-marching approach. Our computational results agree well with the wave amplitude and displacement thickness observed in the widely known experiments of Swearingen &amp; Blackwelder (1987 J. Fluid Mech. , vol. 182, pp. 255–290).",
-    "authors": "Runjie Song, Kengo Deguchi",
-    "published": "2026-05-05",
-    "keywords_matched": [
-      "turbulence",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Horizontal pumping using topography and heating patterns",
-    "doi": "10.1017/jfm.2026.11515",
-    "url": "https://doi.org/10.1017/jfm.2026.11515",
-    "abstract": "Fluid pumping in a horizontal slot using the pattern interaction effect has been analysed. This pumping is of interest as it operates without external energy sources beyond those required to create the necessary heating patterns. Activation of this effect involves a combination of fixed surface topography and adjustable heating patterns. The flow rate, including its direction, can be controlled by moving the heating pattern relative to the groove pattern. This analysis extends that of Abtahi &amp; Floryan (2017 J. Fluid Mech . vol. 826, pp. 553–582), who considered only small-amplitude grooves in which the achieved flow rate is proportional to the groove amplitude. Grooves with arbitrary amplitudes spanning the slot were considered in the current analysis, and their most effective heights …",
-    "authors": "Wenxi Wang, Jerzy M. Floryan",
-    "published": "2026-05-05",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Exact coherent structures with dilute particle suspensions",
-    "doi": "10.1017/jfm.2026.11503",
-    "url": "https://doi.org/10.1017/jfm.2026.11503",
-    "abstract": "The physics of settling suspensions under shear are investigated by theoretical and numerical analyses of unstable equilibrium solutions to the incompressible Navier–Stokes equations, coupled with an advection–diffusion–settling equation for a dilute phase of particles. Two cases are considered: the ‘passive scalar’ regime, in which the sediment is advected by the fluid motion, but concentrations are too dilute to affect the flow; and the ‘stratified’ regime, where a non-uniform vertical distribution of sediment due to particle settling leads to a bulk stratification that feeds back on the flow via buoyancy. In the passive regime, we characterise the structure of the resultant sediment concentration fields and derive formulae for transport fluxes of sediment with asymptotically low and hig…",
-    "authors": "Jake Langham, Andrew J. Hogg",
-    "published": "2026-05-05",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "The Atlantic ocean's decadal variability in mid-Holocene simulations using Shannon's entropy",
-    "doi": "10.5194/gmd-19-3689-2026",
-    "url": "https://doi.org/10.5194/gmd-19-3689-2026",
-    "abstract": "Abstract. Quantifying climate variability in a way that is comparable across models, experiments, and observations remains challenging, particularly at decadal time scales where nonlinear dynamics dominate. Traditional variance-based metrics are sensitive to anomaly amplitude, mean-state biases, and units of measurement, limiting their robustness for inter-model analyses. Here, we introduce an information-theoretic framework that characterizes climate variability as trajectories in a discrete phase space and quantifies system organization using Shannon’s entropy. Using four coupled models (EC-Earth, GISS, iCESM, and CCSM-Toronto), we apply our methodology to compare the models' tropical and South Atlantic decadal variability, analyzing their sea surface temperature (SST) and precipitation …",
-    "authors": "Iuri Gorenstein, Ilana Wainer, Francesco S. R. Pausata, Luciana F. Prado et al.",
-    "published": "2026-05-05",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Prediction of the drag, lift and torque coefficients of non-spherical particles constrained by wall",
-    "doi": "10.1017/jfm.2026.11524",
-    "url": "https://doi.org/10.1017/jfm.2026.11524",
-    "abstract": "Accurate prediction of the hydrodynamic coefficients of non-spherical particles in wall-confined flows is crucial for understanding particle–fluid interactions and reliable modelling of particle motion. Under strong wall confinement, the hydrodynamic coefficients exhibit a highly nonlinear dependence on the Reynolds number, wall distance and particle orientation – posing significant modelling challenges. In this study, we propose a multi-stage physics-informed machine-learning (MSPIML) framework for modelling the drag, lift and pitching torque coefficients of a wall-bounded prolate spheroid over the explored parameter space. In the first stage, a physics-informed mixture-of-experts (PIMoE) model predicts the drag coefficient by intelligently blending empirical correlations with a data-driv…",
-    "authors": "Shuo Cheng, Chenghuan He, Jianzhi Yang, Chenyue Xie et al.",
-    "published": "2026-05-04",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Multiscale quasi-time-periodic coherent structures in shear flows",
-    "doi": "10.1017/jfm.2026.11500",
-    "url": "https://doi.org/10.1017/jfm.2026.11500",
-    "abstract": "Attempts to disentangle shear-flow turbulence often focus on identifying relatively simple solutions, such as travelling waves or periodic orbits. We show, however, that capturing multiscale features requires considering states at least as complex as quasi-time-periodic solutions. Approximations of these states can be computed efficiently using a quasi-linear model, consistent with the large-Reynolds-number asymptotic analysis. The quasi-linear structure is key to producing multiscale critical layers that generate vortices obeying Taylor’s frozen-flow hypothesis.",
-    "authors": "Runjie Song, Kengo Deguchi, Genta Kawahara, Yongyun Hwang",
-    "published": "2026-05-04",
-    "keywords_matched": [
-      "turbulence"
     ]
   }
 ]
