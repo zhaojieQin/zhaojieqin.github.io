@@ -1,5 +1,29 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Impact of Volatile Organic Compounds and Oxides of Nitrogen on Ground‐Level Ozone and Secondary Organic Aerosols Formation Over the Triad Region in North Carolina",
+    "doi": "10.1029/2025jd045859",
+    "url": "https://doi.org/10.1029/2025jd045859",
+    "abstract": "Abstract Ground‐level ozone and secondary organic aerosol (SOA) formation in urban‐rural environments involves complex interactions between nitrogen oxides (NO x ) and volatile organic compounds (VOCs). This study employed WRF‐Chem version 4.2 with SAPRC99 chemistry to investigate ozone and SOA formation in the Triad region NC during peak photochemical conditions (1–15 June 2013). Sensitivity simulations examined the impacts of NO x (±20%), anthropogenic VOCs (±20%, −80%), and biogenic emission removal across urban centers (Greensboro, Winston‐Salem, High Point) and rural areas (Ellisboro) using nested domains at 12 and 4 km grid spacing. VOC/NO x ratios consistently exceeded 5:1 throughout the region, confirming NO x ‐limited ozone formation conditions. Ozone showed substantial sensitivit…",
+    "authors": "Laxmi Odari, Brian J. Gaudet, Samson Hagos, Marc N. Fiddler et al.",
+    "published": "2026-08-08",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Dependence of Moist Vortex Intensification on Convection‐Induced Moisture Distribution and Low‐Level Inflow: Insights for Tropical Cyclone Seed Genesis",
+    "doi": "10.1029/2025jd045526",
+    "url": "https://doi.org/10.1029/2025jd045526",
+    "abstract": "Abstract This study proposes a novel idealized experimental design to investigate the process by which convection clusters transition into tropical cyclone seeds (TC seeds), with a particular focus on the role of convection‐induced transverse circulation in the radial–vertical plane. We use cloud‐resolving simulations of convection self‐aggregation to represent various initial states of convective cloud clusters, ranging from scattered to aggregated to systematically quantify the dependence of moist vortex intensification to the coupled structure of moisture, convection, and circulation. We then introduce a uniform Coriolis force to these initial states to simulate and examine the short‐term variations in vortex intensity under the same background vorticity. The centroid of positive vortic…",
+    "authors": "Shao‐Yu Tseng, Kuan‐Yu Lu, Chien‐Ming Wu, Wei‐Ting Chen",
+    "published": "2026-08-08",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Wave interactions in a screeching jet",
     "doi": "10.1017/jfm.2026.11818",
@@ -6132,30 +6156,6 @@
     "keywords_matched": [
       "WRF",
       "weather research and forecasting",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "On the transition zone in shock wave/boundary layer interactions",
-    "doi": "10.1017/jfm.2026.11596",
-    "url": "https://doi.org/10.1017/jfm.2026.11596",
-    "abstract": "According to the state of incoming boundary layer, shock wave/boundary layer interaction can be classified into three groups: shock wave/laminar boundary layer interaction (SLBLI), shock wave/transitional boundary layer interaction (STrBLI) and shock wave/turbulent boundary layer interaction (STBLI). Although STBLI has been comprehensively studied, the difference between SLBLI and STrBLI is still not fully understood, especially in the framework of laminar–turbulent transition. In this work, a compression-ramp flow at Mach 6.5 is studied using experiment, direct numerical simulations (DNS) and stability analysis. Two distinct transition scenarios are revealed. On the one hand, without introducing external disturbances in the DNS, transition to turbulence is observed downstream of reattachm…",
-    "authors": "Shibin Cao, Qiu Wang, Peixu Guo, Jiwei Li et al.",
-    "published": "2026-05-25",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Performance of a Dust Forecast System During the 2022 FIFA World Cup in Doha, Qatar",
-    "doi": "10.1029/2025jd045675",
-    "url": "https://doi.org/10.1029/2025jd045675",
-    "abstract": "Abstract Frequent dust storms in the Middle East cause major health and economic impacts. The Qatar Meteorology Department (QMD), Doha, in collaboration with the Indian Institute of Tropical Meteorology (IITM), Pune, and the Integrated Land Ecosystem‐Atmosphere Processes Study (iLEAPS) developed a dust forecast system in experimental mode to provide dust forecasts during the 2022 FIFA World Cup in Doha, Qatar. This system provided PM 10 (particulate matter with an aerodynamic diameter ≤10 μm) forecasts up to 3 days in advance from November–December 2022. It satisfactorily captured a dust storm on 9 November 2022 with observed and forecasted peaks of PM 10 at ∼1,600 μg/m 3 and ∼1,200 μg/m 3 , respectively. While the system exhibited reasonable performance (Mean Fractional Bias (MFB): −0.02,…",
-    "authors": "Rajmal Jat, Sachin D. Ghude, Krishna Kumar Kanikicharla, Prafull P. Yadav et al.",
-    "published": "2026-05-23",
-    "keywords_matched": [
       "ABL"
     ]
   }
