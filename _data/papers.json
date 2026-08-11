@@ -1,5 +1,128 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Falling dynamics of flexible plates with concentrated weight",
+    "doi": "10.1017/jfm.2026.11908",
+    "url": "https://doi.org/10.1017/jfm.2026.11908",
+    "abstract": "We investigate the free fall of a flexible plate with a concentrated central weight using numerical simulations to explore the coupling effects of structural flexibility and concentrated loading. Two-dimensional and three-dimensional (3-D) simulations, combining lattice Boltzmann and immersed boundary methods, identify four distinct falling modes: swing, stable falling, fluttering and tumbling. The swing and stable falling modes are reported for the first time in this context. By analysing the balance between bending stiffness upper K K $K$ and concentrated weight upper G G $G$ , we introduce a new dimensionless effective stiffness italic Kg equals upper K divided by upper G Kg = K / G $ \\textit{Kg} = K/G$ , which governs mode transitions and successfully collapses the kinematic data. A bi…",
+    "authors": "Junqi Xiong, Kui Liu, Zhi-Qiang Dong, Haibo Huang",
+    "published": "2026-08-10",
+    "keywords_matched": [
+      "lattice boltzmann",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Taylor dispersion in long straight channels of arbitrary and gradually changing size and shape",
+    "doi": "10.1017/jfm.2026.11864",
+    "url": "https://doi.org/10.1017/jfm.2026.11864",
+    "abstract": "Advective dispersion of neutral solutes in flow is pertinent to the design of a host of physical systems, including microfluidic devices and chemical separation systems. The cross-sectional shapes of the channels within these devices are often complex and may vary (in shape or area) in the flow direction. However, previous analyses of Taylor–Aris dispersion in channels of varying geometry typically focus on either periodic channels or channels with simple cross-sections. To our knowledge, no reduced-order theory exists to predict dispersion in channels of arbitrary cross-section whose shape or size may vary slowly in the axial direction. In the current study, we develop a theoretical framework for a reduced-order model applicable to the analysis of dispersion in channels with such shapes g…",
+    "authors": "Caleb Jonathan Samuel, Ray Chang, Kunlin Ma, Benjamin Milani Alessio et al.",
+    "published": "2026-08-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Diffusiophoresis of a non-polar fluid droplet laden with soluble ionic surfactants",
+    "doi": "10.1017/jfm.2026.11879",
+    "url": "https://doi.org/10.1017/jfm.2026.11879",
+    "abstract": "We investigate the diffusiophoresis of a non-polarizable droplet laden with soluble ionic surfactant, in which the surface charge arises from the adsorption of surfactant at the fluid–fluid interface. Unlike previous studies which assume either a fixed surface charge or instantaneous equilibrium between the interface and the adjacent electrolyte, we formulate the interfacial transport based on the mass-balance framework, incorporating Langmuir adsorption–desorption kinetics and finite surface diffusivity. The coupled electrokinetic problem is solved using a perturbation approach with imposed ionic concentration as a perturbation parameter. Analytical expressions for the droplet mobility and interfacial velocity are derived based on the Debye–Hückel approximation as well as the thin layer c…",
+    "authors": "Subrata Majhi, Somnath Bhattacharyya",
+    "published": "2026-08-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Interfacial dynamics and energy cascade in immiscible Rayleigh–Taylor turbulence",
+    "doi": "10.1017/jfm.2026.11905",
+    "url": "https://doi.org/10.1017/jfm.2026.11905",
+    "abstract": "We investigate interfacial dynamics and multiscale energy transfer in immiscible Rayleigh–Taylor turbulence using numerical simulations with varying surface-tension coefficients sigma σ $\\sigma$ . Capillarity is shown to control characteristic length scales, interfacial area, and global energy and enstrophy budgets. The flow exhibits self-similar evolution with respect to surface tension, with the maximum kinetic energy scaling as sigma Superscript 1 divided by 2 σ 1 / 2 $\\sigma ^{1/2}$ and the flow duration as sigma Superscript negative 1 divided by 4 σ − 1 / 4 $\\sigma ^{-1/4}$ . A scale-by-scale budget shows that surface tension removes kinetic energy at large scales while injecting it at small scales, with the crossover occurring near the Hinze scale. We further recast and verify a loca…",
+    "authors": "Dongxiao Zhao, Xiaoxue Huang, Gaojin Li",
+    "published": "2026-08-10",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Stochastic generation of velocity fields to reproduce the energy spectrum in wall turbulence",
+    "doi": "10.1017/jfm.2026.11886",
+    "url": "https://doi.org/10.1017/jfm.2026.11886",
+    "abstract": "Leveraging experimental measurements in rough-wall turbulent boundary layers that provided the spatial distribution and statistics of uniform momentum zones (UMZs), we previously introduced a stochastic model to generate two-dimensional modal velocity fields representative of the roughness sublayer and logarithmic region (Ehsani et al. 2024 a J. Fluid Mech. , vol. 979, p. A12; J. Fluid Mech. , 2024 b , vol. 999, p. A56). This synthetic flow comprises a streamwise concatenation of spatially correlated step-like velocity profiles, where each step corresponds to an internal shear layer separating UMZs, and the UMZs follow scaling consistent with wall-attached eddies. Here, we further develop the model to introduce small-scale swirling motions using vortex cores generated stochastically from p…",
+    "authors": "Roozbeh Ehsani, Michael Heisel, Michele Guala",
+    "published": "2026-08-10",
+    "keywords_matched": [
+      "turbulence",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Issue Information",
+    "doi": "10.1029/jgrd.70823",
+    "url": "https://doi.org/10.1029/jgrd.70823",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-08-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Total Ozone Reactivity Measurements Reveal Knowledge Gap in Volatile Organic Compound Emissions and Their Reactions",
+    "doi": "10.1029/2026jd047054",
+    "url": "https://doi.org/10.1029/2026jd047054",
+    "abstract": "Abstract Total ozone (O 3 ) reactivity monitors (TORMs) were used to investigate biogenic volatile organic compound (BVOC) emissions from several ecosystems. Measurements were conducted in temperate deciduous North American forests, during the CABINEX and SOAS campaigns, on tundra vegetation emissions at Toolik lake field station (TFS) in Alaska, and in a boreal fen in Finland. Deciduous tree emissions produced up to six times higher O 3 loss than emissions from conifers. Emissions from the fen resulted in maximum O 3 loss values comparable to deciduous tree emissions, whereas emissions from Arctic tundra ground vegetation generated the smallest signals. Across all ecosystems, the O 3 loss expected from the reactions with identified BVOCs was consistently lower than the directly measured O…",
+    "authors": "Arnaud P. Praplan, Steven J. Thomas, Ryan W. Daly, Jeong‐Hoo Park et al.",
+    "published": "2026-08-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Modification Effect of Ozone on Current and Future Health Burden Associated With Short‐Term Heatwave Exposure in China",
+    "doi": "10.1029/2026jd046638",
+    "url": "https://doi.org/10.1029/2026jd046638",
+    "abstract": "Abstract The co‐occurrence of heatwave (HW) and ozone pollution in China has increased significantly. Epidemiological studies indicate that ozone can modify the association between heatwaves and premature mortalities but quantitative health impacts remain poorly understood. This study evaluates premature cardiovascular mortalities attributable to short‐term heatwave exposure during warm seasons across China during 2013–2022 by integrating a widely‐used health impact assessment model with high‐resolution ERA5 meteorological data and TAP ozone concentrations, and quantitatively assesses the modifying effect of ozone on HW‐related mortality for the first time at the national scale. Future ozone‐modified health burden under different scenarios is also quantified by using multi‐model simulation…",
+    "authors": "Zijia Feng, Jia Zhu, Xueqing Wang, Lei Chen et al.",
+    "published": "2026-08-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Planetary Boundary Layer Height on the Northern Mount Qomolangma Region Retrieved From Wind LiDAR Observations",
+    "doi": "10.1029/2026jd046994",
+    "url": "https://doi.org/10.1029/2026jd046994",
+    "abstract": "Abstract A coherent Doppler wind LiDAR (Wind3D 6000) has been operating in the northern Mount Qomolangma region since 2023. We retrieved planetary boundary layer height (PBLH) from LiDAR observations collected from October 2023 to September 2025 using a hybrid algorithm combining signal‐to‐noise ratio (SNR)‐based thresholding and wavelet covariance transform (WCT). The method agrees well with the available daytime radiosonde measurements, although these radiosonde observations are limited to a short monsoon‐season period and therefore cannot fully validate all seasons. Case studies of a clear‐sky day, a cloudy day, and a strong‐wind episode show that the LiDAR‐derived PBLH captures rapid convective growth under clear skies, abrupt collapse under cloud‐limited conditions, and mechanically s…",
+    "authors": "Xiaowen Zhou, Yaoming Ma, Fanglin Sun, Zhengling Cai et al.",
+    "published": "2026-08-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Implementation of a three-dimensional planetary boundary  layer parameterization in a coupled modeling system and  evaluation of “gray zone” simulations of a wind-wave  event off the US California Coast using observations",
+    "doi": "10.5194/gmd-19-7369-2026",
+    "url": "https://doi.org/10.5194/gmd-19-7369-2026",
+    "abstract": "Abstract. A three-dimensional (3D) planetary boundary layer (PBL) parameterization was added to the Coupled Ocean Atmosphere Wave Sediment Transport (COAWST) model and the first coupled atmosphere/wave “gray zone” simulations were carried out using the 3D PBL parameterization. A case study of a significant wind-wave event from 4–8 November 2020 off the US west coast was examined, with a focus on the impacts of the event within an approximate 280×280 km central California coastal region covering the Bureau of Ocean Energy Management Morro Bay wind energy lease area. Simulations with both one-dimensional (1D; Yonsei University) and 3D PBL parameterizations were examined in this nest with Δx=400 m. Two-way coupling was active, with near-surface winds feeding back to the wave model and bulk wa…",
+    "authors": "Eric A. Hendricks, Timothy W. Juliano, Branko Kosović, Sue Ellen Haupt et al.",
+    "published": "2026-08-10",
+    "keywords_matched": [
+      "wind energy",
+      "ocean energy"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "The Impact of Volatile Organic Compounds and Oxides of Nitrogen on Ground‐Level Ozone and Secondary Organic Aerosols Formation Over the Triad Region in North Carolina",
     "doi": "10.1029/2025jd045859",
@@ -6033,130 +6156,6 @@
     "published": "2026-05-29",
     "keywords_matched": [
       "lattice boltzmann"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "An Analysis of Hurricane Eyewall Ice Using a Novel Lagrangian Trajectory and Growth Model",
-    "doi": "10.1029/2025jd046082",
-    "url": "https://doi.org/10.1029/2025jd046082",
-    "abstract": "Abstract Ice crystals in tropical cyclones (TCs) remain infrequently observed and difficult to model using Eulerian microphysics parameterizations. To better understand TC eyewall ice crystal processes, the Ice Crystal Trajectory Growth (ICTG) model, previously applied to an idealized squall line, was used to simulate Lagrangian ice crystal trajectories in a Weather Research and Forecasting (WRF) model simulation of Hurricane Harvey (2017). ICTG includes laboratory‐informed growth equations capable of simulating complex crystal morphologies and is used to assess how initial altitude, radius, and size influence crystal growth and advection. We introduce an initialization technique where the initial crystal locations and sizes best match WRF microphysical fields. Results showed that the init…",
-    "authors": "Bruno S. Rojas, Anthony C. Didlake, Jerry Y. Harrington, Chelsey N. Laurencin et al.",
-    "published": "2026-05-29",
-    "keywords_matched": [
-      "WRF",
-      "weather research and forecasting",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "S2AS v1.0 and 2D polarity–volatility lumping framework  v1.0: automated compound classification and scalable  lumping for organic aerosol modelling",
-    "doi": "10.5194/gmd-19-4601-2026",
-    "url": "https://doi.org/10.5194/gmd-19-4601-2026",
-    "abstract": "Abstract. Advancements in near-explicit chemical reaction mechanisms, such as the Master Chemical Mechanism (MCM) or the Generator of Explicit Chemistry and Kinetics of Organics in the Atmosphere (GECKO-A), have enabled highly detailed simulations of atmospheric chemistry. Such simulations offer a bottom-up approach to accompany and inform laboratory chamber experiments of organic aerosol formation or to model the complex chemistry of mixtures of volatile aerosol precursors for specific tropospheric conditions. These chemical reaction mechanisms, while comprehensive, generate hundreds to millions of organic components, creating computational challenges for subsequent applications in multiphase equilibrium gas–particle partitioning models to predict secondary organic aerosol (SOA) mass conc…",
-    "authors": "Dalrin Ampritta Amaladhasan, Dan Hassan-Barthaux, Andreas Zuend",
-    "published": "2026-05-28",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Issue Information",
-    "doi": "10.1029/jame.70359",
-    "url": "https://doi.org/10.1029/jame.70359",
-    "abstract": "No abstract is available for this article.",
-    "authors": "",
-    "published": "2026-05-28",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Flow Decomposition by Optimal Balance With Time‐Averaging",
-    "doi": "10.1029/2025ms005477",
-    "url": "https://doi.org/10.1029/2025ms005477",
-    "abstract": "Abstract Decomposing oceanic and atmospheric flow fields into their slowly evolving balanced components and fast evolving wave components is essential to study processes like spontaneous or stimulated wave emission. However, a decomposition into the linear geostrophic (slow) and non‐geostrophic (fast) components is often not precise enough to address the nonlinearity in the flow. Optimal balance (OB) and nonlinear normal mode decomposition account for nonlinear effects and thus are more precise, but their application has so far been limited to idealized model configurations that exclude lateral boundaries, varying stratification, a varying Coriolis parameter, or other changing flow parameters. Here we present a modified OB method that overcomes these limitations and is applicable to more c…",
-    "authors": "Silvano Gordian Rosenau, Manita Chouksey, Carsten Eden",
-    "published": "2026-05-28",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Long‐Term IASI Observations of Upper Tropospheric CO in the Asian Summer Monsoon Region: Trends and Eddy Shedding Signatures",
-    "doi": "10.1029/2025jd045647",
-    "url": "https://doi.org/10.1029/2025jd045647",
-    "abstract": "Abstract The Asian Summer Monsoon (ASM) acts as a key mechanism for the vertical transport of surface pollutants into the upper troposphere (UT), which can have far‐reaching impacts on air quality and climate at regional to global scales. We analyze 16 years (2008–2023) of carbon monoxide (CO) observations from the Infrared Atmospheric Sounding Interferometer (IASI) to investigate UT variabilities over the ASM region. Seasonal cycles, long‐term trends, and dynamic features such as eddy shedding are examined to assess pollution transport within and beyond the ASM anticyclone. IASI observations are sensitive in the 12–15 km range, showing reasonable agreement with in situ aircraft observations from the 2022 Asian Summer Monsoon Chemical and Climate Impact Project (ACCLIP), with a mean bias o…",
-    "authors": "Anne Boynard, Camille Viatte, Laura L. Pan, Shawn B. Honomichl et al.",
-    "published": "2026-05-27",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Issue Information",
-    "doi": "10.1029/jgrd.70625",
-    "url": "https://doi.org/10.1029/jgrd.70625",
-    "abstract": "No abstract is available for this article.",
-    "authors": "",
-    "published": "2026-05-27",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "The Radiative Forcing Model Intercomparison  Project (RFMIP2.0) for CMIP7",
-    "doi": "10.5194/gmd-19-4447-2026",
-    "url": "https://doi.org/10.5194/gmd-19-4447-2026",
-    "abstract": "Abstract. An external perturbation to the climate system from anthropogenic or natural activity first impacts the climate by inducing an alteration to Earth's energy budget, known as a radiative forcing. The characteristics of the radiative forcing, such as its global-mean magnitude and spatial pattern, determine the subsequent climate response. Therefore, understanding projections of climate change first requires diagnosing radiative forcing and evaluating its persistent uncertainty in Global Climate Models. As part of the Coupled Model Intercomparison Project phase 7 (CMIP7), the second iteration of the Radiative Forcing Model Intercomparison Project (RFMIP2.0) will enable the systematic characterization of effective radiative forcing and its components across state-of-the-art climate mo…",
-    "authors": "Ryan J. Kramer, Chris Smith, Timothy Andrews",
-    "published": "2026-05-26",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Cloud Condensation Nuclei and the Contribution of New Particle Formation in the Yangtze River Delta of Eastern China",
-    "doi": "10.1029/2025jd045881",
-    "url": "https://doi.org/10.1029/2025jd045881",
-    "abstract": "Abstract Cloud condensation nuclei (CCN) serve as a critical link between aerosols and clouds, with new particle formation (NPF) recognized as a major source of CCN. However, the quantitative contribution of NPF to CCN remains highly variable and insufficiently constrained by in situ observations. To address this gap, 2‐year synchronized observations of CCN, particle number size distribution (PNSD), and chemical composition were conducted in an urban area of eastern China. The average CCN concentration (N CCN ) was 2,220 ± 1,050, 3,510 ± 1,500, 4,050 ± 1,640, and 4,400 ± 1,740 cm −3 at 0.2%, 0.4%, 0.6%, and 0.8% supersaturations, respectively. CCN closure analysis indicated that predicting N CCN from PNSD and bulk aerosol hygroscopicity yielded a certain degree of uncertainty, particularly…",
-    "authors": "Guangdong Niu, Ximeng Qi, Liangduo Chen, Jiamin Ma et al.",
-    "published": "2026-05-26",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Satellite‐Based Estimation of Carbon‐to‐Nitrogen Emission Ratios From Large Point Sources With Implications for Future Missions",
-    "doi": "10.1029/2025jd045649",
-    "url": "https://doi.org/10.1029/2025jd045649",
-    "abstract": "Abstract Quantifying the carbon dioxide (CO 2 ) to nitrogen oxides (NO x ) emission ratio (CNER) from space provides valuable information on combustion efficiency and pollution control. We develop a satellite‐based inversion framework that derives CNER from co‐located CO 2 and NO 2 enhancements observed by OCO‐2 and TROPOMI, combining cross‐sectional flux fitting with an exponentially modified Gaussian correction for NO 2 decay. Applied to six overpasses of three isolated U.S. coal‐fired power plants, the retrieved CNER (938–4166) agrees with hourly in situ measurements ( r = 0.67) within a factor of two. CNER exhibits greater temporal stability (±30%) than individual fluxes of each species (±60%) and shows pronounced differences among plants, reflecting fundamental differences in fuel com…",
-    "authors": "Tianyi Wang, Bo Zheng, Kexin Zhang, Jiaxin Qiu",
-    "published": "2026-05-26",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Preconditioning of Local Convective Initiation in Central Europe by Land–Atmosphere Coupling: Heated Condensation Framework Diagnostics",
-    "doi": "10.1029/2025jd045685",
-    "url": "https://doi.org/10.1029/2025jd045685",
-    "abstract": "Abstract This study investigates the role of land‐atmosphere coupling in favorable conditions for locally triggered convection in central Europe. The region is in so‐called transitional zones located between wet and dry climates, which favor land‐atmosphere coupling in summer. To quantify the strength of such land‐atmosphere coupling and its impact on local convection events, the Heated Condensation Framework is applied to analyze hourly vertical profiles of temperature and moisture. The analyzed profiles are based on simulations over the 2000–2011 period at convection permitting scale with the Weather Research and Forecasting (WRF) model. Depending on the characteristics of these profiles, regions either require more heat or more moisture to initiate convection during the course of the da…",
-    "authors": "Kirsten Warrach‐Sagi, Noah Breuninger, Josipa Milovac",
-    "published": "2026-05-25",
-    "keywords_matched": [
-      "WRF",
-      "weather research and forecasting",
-      "ABL"
     ]
   }
 ]
