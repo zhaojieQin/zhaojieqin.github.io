@@ -1,5 +1,30 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Tropical Diurnal Cycle of Ocean Surface Winds From CYGNSS Observations",
+    "doi": "10.1029/2026jd047780",
+    "url": "https://doi.org/10.1029/2026jd047780",
+    "abstract": "Abstract The diurnal cycle of ocean surface wind reflects the daily response of air–sea thermal and dynamical processes. Using 1‐hr wind speed data from the Cyclone Global Navigation Satellite System (CYGNSS, 2018–2024), this study refines the characterization of tropical ocean diurnal winds and evaluates their consistency with ERA5 reanalysis. Compared with conventional 6‐hourly satellite records, the hourly sampling of CYGNSS provides sufficient temporal coverage for harmonic fitting, yielding diurnal phase estimates with sub‐hour precision and revealing coherent nighttime wind maxima between 23:00 and 06:00 local time. Both data sets show stronger amplitudes near coasts, straits, and bays, and weaker but detectable signals over open oceans. ERA5 amplitudes are approximately 1.4 times th…",
+    "authors": "Ning Guan, Baojian Liu",
+    "published": "2026-08-11",
+    "keywords_matched": [
+      "diurnal cycle",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "GLIDE-SOL: a GPU-accelerated global lightweight infrastructure for diagnostic environmental modeling with SOLWEIG",
+    "doi": "10.5194/gmd-19-7389-2026",
+    "url": "https://doi.org/10.5194/gmd-19-7389-2026",
+    "abstract": "Abstract. GLIDE-SOL is a fully scripted and globally re-deployable Python workflow that operationalizes SOLWEIG for rapid and repeatable thermal-comfort mapping across diverse urban environments. GLIDE-SOL is built on the SOLWEIG radiative balance libraries, but rewrites the surrounding system – including automated input generation, the execution engine, and post-processing – so that the model can be driven by globally available datasets and executed efficiently on GPUs. All inputs (terrain, building morphology, canopy height, land cover, and meteorology) are automatically derived from global products, eliminating local preprocessing while enabling consistent applications from neighborhood-scale analyses to city-wide and multi-city experiments. In addition, GLIDE-SOL introduces lightweight…",
+    "authors": "Andrea Zonato, Harsh G. Kamath, Naveen Sudharsan, Luca Monaco et al.",
+    "published": "2026-08-11",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Falling dynamics of flexible plates with concentrated weight",
     "doi": "10.1017/jfm.2026.11908",
@@ -6132,30 +6157,6 @@
     "keywords_matched": [
       "turbulence",
       "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Stability of radially expanding thin liquid sheets: a modified thinning model",
-    "doi": "10.1017/jfm.2026.11508",
-    "url": "https://doi.org/10.1017/jfm.2026.11508",
-    "abstract": "The growth of instabilities and the subsequent break-up of liquid sheets have been widely studied to understand nozzle atomisation. Two different theoretical approaches have been proposed to explain the spatial growth of instabilities. The first is based on the aerodynamic interactions between the liquid sheet and the surrounding air, in which the sheet becomes unstable to infinitesimal perturbations, similar to the Kelvin–Helmholtz instability. In the absence of aerodynamic interactions, the theory predicts zero spatial growth. An alternate theory ignores the surrounding air and instead relies on the thinning of the liquid sheet to predict spatial growth. Here, we rederive the governing equations for the thinning theory and show that when a small vertical displacement (or perturbation) wi…",
-    "authors": "Soumya Kedia, Mahesh S. Tirumkudulu",
-    "published": "2026-05-29",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Lattice Boltzmann modelling of molecular interaction governing multiphase flow in nanoporous media",
-    "doi": "10.1017/jfm.2026.11591",
-    "url": "https://doi.org/10.1017/jfm.2026.11591",
-    "abstract": "Understanding multiphase flow in nanoconfined spaces is essential for a wide range of scientific and engineering applications. In these systems, strong fluid–fluid and fluid–solid molecular interactions induce non-negligible nanoscale effects, resulting in complicated and poorly understood non-Darcy flow behaviours, thereby rendering many existing conventional pore-scale simulation methods inadequate. In this work, a nanoscale pseudopotential lattice Boltzmann model incorporating molecular interactions that give rise to wall slip, interfacial slip and heterogeneous viscosity, is developed to investigate the underlying mechanisms of molecular interactions governing multiphase flow in nanoporous media. The theoretical solutions of single-phase and two-phase flow in nanopores are first analys…",
-    "authors": "Han Wang, Xuanzhe Xia, Wei Zhao, Wendong Wang et al.",
-    "published": "2026-05-29",
-    "keywords_matched": [
-      "lattice boltzmann"
     ]
   }
 ]
