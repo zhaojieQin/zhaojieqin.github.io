@@ -1,5 +1,81 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Reconnections of interacting hairpin vortices in axisymmetric free shear flows",
+    "doi": "10.1017/jfm.2026.11877",
+    "url": "https://doi.org/10.1017/jfm.2026.11877",
+    "abstract": "Direct numerical simulations (DNS) are used to study the evolution of hairpin vortices to understand the late-stage turbulent breakdown of vortex rings. Several hairpin initial configurations with Reynolds number italic Re equals 1500 Re = 1500 $\\textit{Re} = 1500$ were considered, both isolated and multiple. The isolated hairpins evolve in a quiescent flow, demonstrating reconnection events in stages (bridging, cut and reconnect, rapid separation of two parts, residual threads), similar to prior observations in antiparallel vortices. Next, multiple configurations of six hairpin vortices in a circular array are simulated, with the background flow extracted from the DNS of the near wake of a vortex ring undergoing azimuthal instability. Here, the alignment of vorticity at the tips with that…",
+    "authors": "Naveen Balakrishna, Joseph Mathew, Arnab Samanta",
+    "published": "2026-08-12",
+    "keywords_matched": [
+      "wake",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On the joint estimation of flow fields and particle properties from Lagrangian data",
+    "doi": "10.1017/jfm.2026.11913",
+    "url": "https://doi.org/10.1017/jfm.2026.11913",
+    "abstract": "We numerically investigate the feasibility and limits of jointly estimating flow fields and unknown particle properties (e.g. position, size and density) from Lagrangian particle tracking data. Lagrangian particle tracking offers time-resolved, volumetric measurements of particle trajectories, which are markers of the carrier fluid motion. However, experimental tracks are spatially sparse and potentially noisy, and the problem of reconstructing flow fields may be further complicated by inertial particle transport, such that particle slip velocities must be determined to access the velocity field of the carrier fluid. To address this problem, we develop a data assimilation framework that couples an Eulerian representation of the flow with Lagrangian particle models, enabling the simultaneou…",
+    "authors": "Ke Zhou, Samuel Jacobi Grauer",
+    "published": "2026-08-12",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Third-order first-harmonic radiation by a semi-immersed sphere in forced heave motion",
+    "doi": "10.1017/jfm.2026.11904",
+    "url": "https://doi.org/10.1017/jfm.2026.11904",
+    "abstract": "Nonlinear hydrodynamic effects influence the power capture of resonant wave energy converters (WECs), particularly within the frequency band where these devices are designed to operate. In this study, wave flume experiments are conducted on a semi-immersed spherical model with prescribed heave motions, emulating the response to an incident broad-banded wave group. Several body motion amplitudes (up to a maximum displacement of greater than half the radius) are tested at different peak frequencies, revealing progressive reductions in both the first-harmonic radiation forces and radiated wave elevations, per unit motion amplitude, as the motion amplitude is increased. A simple partially nonlinear potential flow model incorporating instantaneous ‘volume flow’ corrections shows very good agree…",
+    "authors": "Bryan Tan, Hugh A. Wolgamot, Jana Orszaghova, Adi Kurniawan et al.",
+    "published": "2026-08-12",
+    "keywords_matched": [
+      "wave energy"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Critical Role of Moisture in the Record‐Breaking Warm Event Over East Antarctica in March 2022",
+    "doi": "10.1029/2026jd047167",
+    "url": "https://doi.org/10.1029/2026jd047167",
+    "abstract": "Abstract The warming of Antarctica has a significant impact on global weather and climate. An extreme warming event took place in East Antarctica in mid‐to‐late March 2022, peaking at 39°C above the climatological average. This was the largest temperature anomaly ever recorded and attracted global attention. In this work, we investigate and quantify the role of moisture through observational analysis and a series of numerical simulations using the Polar Weather Research and Forecasting (Polar WRF, version 4.1.1) model. Results show that water vapor plays a critical role in this warming event. The Polar WRF reproduces the temporal evolution reasonably well in the Control experiment (Exp‐CTRL). To validate the importance of water vapor, a sensitivity experiment (Exp‐0.0001) was conducted in …",
+    "authors": "Yige Cui, Jinfang Yin, Tingfeng Dou, Annette Rinke et al.",
+    "published": "2026-08-12",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Development and Evaluation of an Urban Atmospheric Inverse Modeling Framework for the Washington, DC and Baltimore, MD Metropolitan Area: Initial Results From an Inert Tracer Case Study",
+    "doi": "10.1029/2025jd045557",
+    "url": "https://doi.org/10.1029/2025jd045557",
+    "abstract": "Abstract Accurate quantification of hazardous material releases in cities is critical for emergency managers aiming to mitigate health impacts and mortality in the population. Here, a study on the development and evaluation of a high‐resolution (1‐km, 1‐hr) urban‐scale atmospheric inverse modeling system for the Washington, DC, and Baltimore, MD, metropolitan area (DCBA) is presented to advance surface flux quantification in urban and industrial areas where the potential for a hazardous release is high. The system employs an inert tracer as a proof of concept for January 2019 and builds upon HYSPLIT atmospheric transport and dispersion simulations driven by high‐resolution Weather Research and Forecasting (WRF) model simulations that ingest urban meteorological observations, coupled with t…",
+    "authors": "Miguel Cahuich‐López, Christopher P. Loughner, Fong Ngan, Anna Karion et al.",
+    "published": "2026-08-12",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Validation of ECMWF Ensemble Forecasts of Sea Surface Latent and Sensible Heat Fluxes in the Pacific Arctic Against Saildrone Observations",
+    "doi": "10.1029/2025jd044009",
+    "url": "https://doi.org/10.1029/2025jd044009",
+    "abstract": "Abstract Estimates of sea‐surface latent and sensible heat fluxes using in situ observations are very rare in the Arctic Ocean. Saildrone Explorer uncrewed surface vehicles (saildrones) were deployed in the Bering, Chukchi, and Beaufort Seas from May–October 2019. Sea‐surface fluxes are estimated using surface state variables (temperature, humidity, and wind) observed by the saildrones applied to a bulk algorithm. In this study, the observationally based estimates of sea‐surface fluxes and the surface state variables are compared with those in ECMWF ensemble forecasts. Errors in the forecasts are mostly random and within the observed standard deviation. There are, however, sporadic and large error spikes (&gt;3 standard deviations). Sea‐surface temperature and surface air temperature and h…",
+    "authors": "Tasha Lee, Brandon Troub, Isabella M. Dressel, Mark Yamane et al.",
+    "published": "2026-08-12",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Tropical Diurnal Cycle of Ocean Surface Winds From CYGNSS Observations",
     "doi": "10.1029/2026jd047780",
@@ -6083,79 +6159,6 @@
     "authors": "Elmira Taheri, Parisa Mirbod",
     "published": "2026-05-29",
     "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Uncovering bistability phenomena in two-layer Couette flow experiments using non-local evolution equations",
-    "doi": "10.1017/jfm.2026.11601",
-    "url": "https://doi.org/10.1017/jfm.2026.11601",
-    "abstract": "This paper investigates the stability of interfacial long waves in two-layer plane Couette flow using a nonlinear, non-local asymptotic model derived from the Navier–Stokes equations and valid for thin upper layers. Non-locality enters through a coupling of the thin and main layers, and crucial inertial effects are retained. The models generically support bistability phenomena observed in experiments where two stable travelling waves, one unimodal and the other bimodal, are recorded at the same lid velocity. In direct comparisons with experiments, the models show remarkable agreement, both qualitatively and quantitatively. The two stable travelling waves are identified and their basins of attraction characterised via large-time computations for different initial conditions. We also identif…",
-    "authors": "Xingyu Wang, Pierre Germain, Demetrios T. Papageorgiou",
-    "published": "2026-05-29",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Measured multiple flow states in quasi-two-dimensional turbulent thermal convection with aspect ratio 10",
-    "doi": "10.1017/jfm.2026.11626",
-    "url": "https://doi.org/10.1017/jfm.2026.11626",
-    "abstract": "We report an experimental investigation of turbulent Rayleigh–Bénard convection in a quasi-two-dimensional rectangular cell of large aspect ratio ( $\\varGamma = 10$ ) over the Rayleigh number range $5.4\\times 10^7 \\leqslant Ra \\leqslant 7.2\\times 10^9$ and Prandtl number range $4.3 \\leqslant \\textit{Pr} \\leqslant 67.3$ . Planar particle image velocimetry measurements show that the flow self-organises into several horizontally aligned convection rolls, and repeated experiments under identical parameters (both $Ra$ and $\\textit{Pr}$ ) reveal that the number of rolls varies within the range of 3–7 with 6 being the most probable, which demonstrates the presence of multiple flow states. When $\\textit{Pr}$ is increased to 67.3, the number of roll-like structures increases significantly, indicati…",
-    "authors": "Yi-Zhen Li, Jun-Jie Huo, Xin Chen, Heng-Dong Xi",
-    "published": "2026-05-29",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Reynolds number invariance in the coherent structures of wall-bounded turbulence",
-    "doi": "10.1017/jfm.2026.11595",
-    "url": "https://doi.org/10.1017/jfm.2026.11595",
-    "abstract": "Estimation of instantaneous and statistical properties of wall-bounded turbulence across different Reynolds numbers has significant applications in scientific research and engineering, where the key challenge is to identify the Reynolds number invariance underlying the varying flow properties as Reynolds number changes. In this study, we develop a refined inner–outer interaction model (IOIM) that isolates the footprints of large-scale structures populating within a prescribed wall-normal range $y_{R}^+ \\in [ y_{R1}^+ , y_{R2}^+ )$ . When the reference layers are located within $ 80 \\leqslant y_{R1}^+ \\lt y_{R2}^+ \\leqslant 0.3\\textit{Re}_\\tau$ , the energy spectral densities of the isolated large-scale structures, including the wall-attached and wall-detached eddies, are found to be indepe…",
-    "authors": "Anjia Ying, Zhigang Li, Lin Fu",
-    "published": "2026-05-29",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Waves in a shear flow: transition between the KH, Holmboe and Miles instability",
-    "doi": "10.1017/jfm.2026.11588",
-    "url": "https://doi.org/10.1017/jfm.2026.11588",
-    "abstract": "We study the generation of waves at the interface of two immiscible fluids, arising due to shear-driven, inviscid instabilities. The background profile is chosen to be the classic exponential velocity profile (Morland &amp; Saffman, J. Fluid Mech. , 1993, vol. 252, pp. 383–398) with a sharp density interface (stable stratification). At low Froude $(\\sim O_m(1))$ and high Bond numbers ( $\\sim O_m(100)$ ), relevant to geophysical and astrophysical situations, we demonstrate a novel (smooth) transition for the fastest growing mode: from the Kelvin–Helmholtz (KH) instability at density ratio $\\delta = 0.9$ (ratio of upper to lower fluid densities) to the Holmboe (H) instability as $\\delta \\rightarrow 0.5$ and onwards to the Miles ( J. Fluid Mech. , 1957, vol. 3, issue 2, pp. 185–204) critical …",
-    "authors": "Anil Kumar, S. Ravichandran, Ratul Dasgupta",
-    "published": "2026-05-29",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Coherent structures in Newtonian and viscoelastic turbulent planar jets",
-    "doi": "10.1017/jfm.2026.11610",
-    "url": "https://doi.org/10.1017/jfm.2026.11610",
-    "abstract": "The addition of a small amount of long-chain polymers confers viscoelastic properties to Newtonian flows. The resulting non-Newtonian solution now exhibits a different dynamics, such as enhanced mixing at low Reynolds number, where elastic instabilities can trigger elastic turbulence even though inertial turbulence is absent. Here, we study this phenomenon in viscoelastic planar jets and, in particular, we do it from the perspective of coherent structures to understand how elastic turbulence is triggered and sustained, which remain barely explored in this set-up. We introduce the spatio-temporal Koopman decomposition for extracting the dominant flow patterns, and we compare them with those from Newtonian planar jets at high Reynolds number. Global flow structures are similar between jets, …",
-    "authors": "Christian Amor, Adrián Corrochano, Giovanni Soligo, Soledad Le Clainche et al.",
-    "published": "2026-05-29",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Integral-analysis-based diagnostics of turbulence model errors in skin friction",
-    "doi": "10.1017/jfm.2026.11599",
-    "url": "https://doi.org/10.1017/jfm.2026.11599",
-    "abstract": "Error diagnostics for turbulence models have traditionally focused on engineering quantities of interest, such as the skin-friction coefficient $C_{\\!f}$ , most often by comparing the predicted $C_{\\!f}$ against reference data. In wall-bounded turbulent boundary layers, however, $C_{\\!f}$ results from several physical mechanisms – viscous effects, turbulence, pressure gradients and mean-flow development – whose relative importance depends on the flow conditions. Modelling errors in these mechanisms vary across turbulence closures, and identifying them offers valuable physical insight for model evaluation and improvement. We propose a diagnostics framework that systematically isolates and quantifies such errors using the angular momentum integral formulation. The method is applied to five t…",
-    "authors": "Shyam Nair, Vishal Wadhai, Robert Francis Kunz, Xiang I.A. Yang",
-    "published": "2026-05-29",
-    "keywords_matched": [
-      "turbulence",
       "ABL"
     ]
   }
