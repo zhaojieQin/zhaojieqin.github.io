@@ -1,5 +1,41 @@
 [
   {
+    "journal": "Geoscientific Model Development",
+    "title": "Enhancing air–sea CO\n                    <sub>2</sub>\n                    exchange and modulating seawater carbonate–pH dynamics: the role of wave effect mechanisms in the POP2–waves coupled model",
+    "doi": "10.5194/gmd-19-7479-2026",
+    "url": "https://doi.org/10.5194/gmd-19-7479-2026",
+    "abstract": "Abstract. In this study, a wave module is online-coupled into the Parallel Ocean Program version 2 (POP2) within the CESM1.2.2 framework (hereafter POP2–waves). Unlike empirical data analyses of observation-based products and offline-forced ocean models that treat wave-induced gas transfer velocity and the air–sea difference in partial pressure of CO2 (ΔpCO2) as decoupled variables, the online-coupled POP2–waves model captures their interactive, ΔpCO2-mediated negative feedbacks. This setup enables wave properties to dynamically modulate gas transfer velocity and physical mixing through sequential processes. POP2–waves is evaluated alongside a control simulation (B–CTL) against the National Oceanic and Atmospheric Administration (NOAA) CarbonTracker (CT2022) inversion product. The spatial …",
+    "authors": "Yung-Yao Lan, Huang-Hsiung Hsu, Wei-Liang Lee, Simon Chou",
+    "published": "2026-08-13",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "BinMod1D v1.0.10: a Python package for explicitly simulating 1D collisional coalescence/breakup processes with corresponding polarimetric radar signatures",
+    "doi": "10.5194/gmd-19-7503-2026",
+    "url": "https://doi.org/10.5194/gmd-19-7503-2026",
+    "abstract": "Abstract. This paper details a computationally efficient and versatile Python package (BinMod1D v1.0.10) that explicitly evolves spectral bin distributions and corresponding polarimetric radar variables for rain or snow according to atmospheric collisional coalescence and breakup processes. BinMod1D can be executed as a box model, a 1D steady-state model in height, or a full (time and height) 1D column model utilizing multiple particle categories, each of which can have their own densities, aspect ratios, and fall speeds. Forward simulations of polarimetric radar variables are implemented using standard Rayleigh analytic scattering equations. Two-moment (mass and number) or one-moment (mass only) particle interaction calculations follow a source-based spectral bin method. Bin interaction c…",
+    "authors": "Edwin Lee Dunnavan",
+    "published": "2026-08-13",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "SDMBCv2 (v1.0): correcting systematic biases  in RCM inputs for future projection",
+    "doi": "10.5194/gmd-19-7457-2026",
+    "url": "https://doi.org/10.5194/gmd-19-7457-2026",
+    "abstract": "Abstract. Regional Climate Models (RCMs) offer enhanced spatial resolution and a more realistic depiction of local climate processes. However, they often inherit systematic biases from their driving Global Climate Models (GCMs), which can compromise the accuracy of downscaled climate projections. To address this, bias correction techniques have been widely employed to adjust GCM and RCM outputs, particularly for climate impact and adaptation studies. Traditional methods, however, typically correct surface variables independently and lack physical and dynamical consistency. Bias correcting GCM boundary conditions prior to RCM simulation ensures a more coherent, physically and dynamically consistent, regional climate simulation with reduced errors. This study evaluates the effectiveness of s…",
+    "authors": "Youngil Kim, Jason P. Evans",
+    "published": "2026-08-13",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Reconnections of interacting hairpin vortices in axisymmetric free shear flows",
     "doi": "10.1017/jfm.2026.11877",
@@ -6122,43 +6158,6 @@
     "published": "2026-05-30",
     "keywords_matched": [
       "atmospheric boundary layer",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Advances in Atmospheric Sciences",
-    "title": "Role of the Northeast China Cold Vortex in Early-Summer Precipitation over Central and Northeast China",
-    "doi": "10.1007/s00376-025-5384-7",
-    "url": "https://doi.org/10.1007/s00376-025-5384-7",
-    "abstract": "",
-    "authors": "Zelun Cheng, Zuowei Xie, Cholaw Bueh, Zongting Gao",
-    "published": "2026-05-30",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "On the influence of free stream turbulence on roughness-induced boundary-layer transition",
-    "doi": "10.1017/jfm.2026.11605",
-    "url": "https://doi.org/10.1017/jfm.2026.11605",
-    "abstract": "This study experimentally examines how free stream turbulence (FST) alters roughness-induced transition by exposing cylindrical roughness elements of diameter-to-height ratios $\\eta =1,2,3$ to three FST levels ( $ \\textit{Tu}\\approx 0.05\\,\\%$ , $1.15\\,\\%$ , $1.55\\,\\%$ ). Although the roughness Reynolds number $ \\textit{Re}_{\\textit{kk}}$ is varied solely through the free stream velocity, a detailed characterisation of the incoming FST and resulting Klebanoff modes shows that their variation remains moderate, enabling a controlled assessment of FST effects. The FST consistently promotes earlier transition for all $\\eta$ at subcritical global-instability Reynolds numbers, but its influence on the underlying instability mechanisms depends strongly on $\\eta$ . For the ‘thick’ cylinders ( $\\eta…",
-    "authors": "Tristan M. Römer, Markus J. Kloker, Ulrich Rist, Christoph Wenzel",
-    "published": "2026-05-29",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Linear stability analysis of viscoelastic flows overlying permeable surfaces",
-    "doi": "10.1017/jfm.2026.11617",
-    "url": "https://doi.org/10.1017/jfm.2026.11617",
-    "abstract": "We present a linear stability analysis of plane Poiseuille flow of an Oldroyd-B fluid confined between rigid, isotropic porous layers at the upper and lower boundaries. The study aims to investigate the interplay between elasticity, inertia and wall permeability on the onset of flow instability. The system is characterized by four dimensionless parameters: the Reynolds number ( $ \\textit{Re}$ ), Weissenberg number ( $ \\textit{Wi}$ ), permeability parameter ( $\\alpha$ ) and solvent viscosity ratio ( $\\beta$ ), with porosity held fixed at $\\epsilon = 0.6$ . We focus on the low-permeability regime, where inertial effects within the porous layers are negligible. The governing equations are formulated using a modified Darcy–Brinkman–Oldroyd-B model, following the framework of Tan &amp; Masuoka …",
-    "authors": "Elmira Taheri, Parisa Mirbod",
-    "published": "2026-05-29",
-    "keywords_matched": [
       "ABL"
     ]
   }
