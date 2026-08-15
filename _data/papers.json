@@ -1,5 +1,29 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Regional and Seasonal Variability in Decreasing Contrail Cirrus Cloudiness Using Sustainable Aviation Fuel",
+    "doi": "10.1029/2026jd046500",
+    "url": "https://doi.org/10.1029/2026jd046500",
+    "abstract": "Abstract The impact of aviation induced contrail cirrus on Earth's radiation budget depends on the optical depth (OD) and the life time of these clouds. Their tendency to enhance global warming may be mitigated by replacing conventional kerosene with fuels that form fewer soot particles, such as sustainable aviation fuels (SAF). The resulting reduction in ice nucleation leads to lower contrail OD, shorter contrail life times and, hence, a lower radiative effect (RE). Here we investigate the regional and seasonal variability in the relationship between the reduction in soot number emissions and the associated reduction in the contrail cirrus RE. We use the atmospheric general circulation model ECHAM5‐CCMod to study the impact of replacing kerosene with SAF. The resulting reduction in contra…",
+    "authors": "Cornelius Weiß‐Rehm, Ulrike Burkhardt",
+    "published": "2026-08-14",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Trace Elements in Total Atmospheric Deposition Directly Measured Over the Caribbean Region: Natural Versus Anthropogenic Sources and Geographic Origin",
+    "doi": "10.1029/2026jd046770",
+    "url": "https://doi.org/10.1029/2026jd046770",
+    "abstract": "Abstract Dust, sea salt, and anthropogenic and biogenic particles in total atmospheric deposition are sources of essential elements that can significantly impact biogeochemical cycles in the Atlantic Ocean and in islands of the Caribbean region. This unique 41‐month data set records direct sampling of total atmospheric deposition from March 2015 to August 2018 in Guadeloupe (North Tropical Atlantic Ocean). It quantifies the total atmospheric deposition fluxes of 33 trace elements. Results on deposition samples for Sr and Nd isotopic signatures are consistent with previous studies conducted in the Caribbean region based on aerosol samples, confirming that trans‐Atlantic Saharan dust originated predominantly in the Libya‐Algeria‐Mali region of North Africa. The REE composition is stable for …",
+    "authors": "Yangjunjie Xu‐Yang, Rémi Losno, Céline Dessert, Fabrice Monna et al.",
+    "published": "2026-08-14",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "Enhancing air–sea CO\n                    <sub>2</sub>\n                    exchange and modulating seawater carbonate–pH dynamics: the role of wave effect mechanisms in the POP2–waves coupled model",
     "doi": "10.5194/gmd-19-7479-2026",
@@ -6133,31 +6157,6 @@
     "authors": "Oksana Ivaniha, Marta Abalos, Natalia Calvo, Gabriele P. Stiller et al.",
     "published": "2026-05-30",
     "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Contrasting Mechanisms of Heatwave‐Ozone Pollution Compound Events and Independent Heatwave Events in the Yangtze River Delta",
-    "doi": "10.1029/2025jd045802",
-    "url": "https://doi.org/10.1029/2025jd045802",
-    "abstract": "Abstract Heat waves do not always coincide with ozone pollution, yet the mechanisms controlling their divergence remain insufficiently understood. Here, we investigate why some heat waves evolved into heatwave‐ozone pollution compound events (HWOP), whereas others remained isolated heat wave events (IHW), over the Yangtze River Delta during summer 2024. Using surface ozone observations and WRF‐CMAQ simulations, we identified HWOP and IHW events and examined their large‐scale circulation, lower‐tropospheric structure, and process‐level ozone tendencies. Both event types occurred under large‐scale warm anomalies associated with the westward extension of the Western Pacific Subtropical High and the eastward expansion of the South Asian High. Their ozone responses diverged, however, because of…",
-    "authors": "Jiaying Pan, Zhanning Huang, Huiling Ouyang, Xiaoyan Wang",
-    "published": "2026-05-30",
-    "keywords_matched": [
-      "WRF"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Scaling Laws for the Longitudinal Turbulent Heat Flux in the Atmospheric Surface Layer",
-    "doi": "10.1029/2025jd045705",
-    "url": "https://doi.org/10.1029/2025jd045705",
-    "abstract": "Abstract The longitudinal turbulent heat flux is central to the description of vertical momentum and energy transport in stratified atmospheric boundary layers, yet its scaling behavior with respect to thermal stratification remains uncertain in comparison to better‐studied quantities such as the vertical heat flux. Here, the scaling laws of the longitudinal heat flux and its co‐spectrum in the atmosphere close to the surface as a function of wall normal distance and thermal stratification are experimentally evaluated. Measurements were conducted under varying stability regimes ranging from unstable to slightly stable at two sites. The first experiment included five high‐temporal resolution (100 Hz) velocity and temperature sensors as well as a triaxial sonic anemometer all positioned with…",
-    "authors": "K. Y. Huang, R. Niraula, G. G. Katul",
-    "published": "2026-05-30",
-    "keywords_matched": [
-      "atmospheric boundary layer",
       "ABL"
     ]
   }
