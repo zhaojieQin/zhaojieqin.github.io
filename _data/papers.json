@@ -1,6 +1,18 @@
 [
   {
     "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Evolution of Tropical Cyclone Intensity and Size in Observations and HighResMIP Models",
+    "doi": "10.1029/2026jd046560",
+    "url": "https://doi.org/10.1029/2026jd046560",
+    "abstract": "Abstract The destructive potential of a tropical cyclone (TC) depends on both its intensity and size, yet the coupled evolution of these properties remains insufficiently explored. This study investigates TC intensity–size relationships of TCs in observations and historical simulations from 12 HighResMIP models in the North Atlantic (NA) and western North Pacific (WNP). We apply the System for Classification of Low‐Pressure Systems (SyCLoPS) to track TC life cycle and a novel quadrant wind radii calculation mirroring the IBTrACS format to enable consistent model–observation comparisons. SyCLoPS effectively removes weak tropical and extratropical systems misidentified as TCs in a conventional tracker, leading to improved TC tracking performance in ERA5 and models. TC track types are classif…",
+    "authors": "Yushan Han, Paul A. Ullrich",
+    "published": "2026-08-16",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Regional and Seasonal Variability in Decreasing Contrail Cirrus Cloudiness Using Sustainable Aviation Fuel",
     "doi": "10.1029/2026jd046500",
     "url": "https://doi.org/10.1029/2026jd046500",
@@ -6144,18 +6156,6 @@
     "abstract": "This study experimentally investigates two key fluid mechanical behaviors in gas–liquid two-phase flow within a square-section serpentine microchannel: the curvature-induced satellite bubble formation mechanism and the axial decay of local mass transfer. Experiments were conducted using carbon dioxide (CO2) and an aqueous solution containing 0.4 wt. % sodium dodecyl sulfate. Various flow patterns were observed, including long slug–long slug flow (LS–LS), long slug–slug flow (LS–S), slug–slug flow (S–S), slug–droplet flow (S–D), droplet–droplet flow (D–D) and slug–satellite flow (S–SL). Notably, when the gas–iquid total volumetric flow rate exceeded 500 ml/h, a distinctive satellite bubble generation phenomenon was observed at the channel bend. High-speed imaging revealed the underlying mec…",
     "authors": "Yuting Zhao, Yuhua Zhang, Hao Han, Jingzhi Zhang et al.",
     "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Stratospheric Subtropical Transport Barriers in CESM1‐WACCM and Observations: Climatology, Variability, and Trends",
-    "doi": "10.1029/2025jd045069",
-    "url": "https://doi.org/10.1029/2025jd045069",
-    "abstract": "Abstract Accurate representation of large‐scale stratospheric transport in chemistry–climate models is essential for understanding and interpreting observed atmospheric variability and for making reliable projections. The subtropical transport barriers (STBs) separate the tropical stratosphere, influenced by slow upwelling, from the midlatitudes, where rapid mixing occurs. Long‐lived tracer contours reflect the combined effects of advection and mixing, making them valuable for identifying these barriers. This study compares a set of tracer‐based and dynamical diagnostics of the STBs in the CESM1‐WACCM chemistry‐climate model with various observational data sets. Tracer‐based barriers in the model show excellent agreement with observations between approximately 50‐5 hPa in seasonal climatol…",
-    "authors": "Oksana Ivaniha, Marta Abalos, Natalia Calvo, Gabriele P. Stiller et al.",
-    "published": "2026-05-30",
     "keywords_matched": [
       "ABL"
     ]
