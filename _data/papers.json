@@ -1,5 +1,41 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Synergistic Effects of an Interlaced Mountain–Lake–Plain Terrain on Wintertime PM\n                    <sub>2.5</sub>\n                    Pollution in Central China",
+    "doi": "10.1029/2025jd046172",
+    "url": "https://doi.org/10.1029/2025jd046172",
+    "abstract": "Abstract The role of plain–lake–mountain mixed terrain surfaces on fine particle (PM 2.5 ) pollution is still unclear. Here, a Weather Research and Forecasting model coupled with Chemistry modeling study was designed for a winter PM 2.5 pollution episode in Central China with two lakes and surrounding mountains. A control experiment with three sensitive experiments were conducted to investigate how topography and lakes influence PM 2.5 and associated chemical components through impacting boundary‐layer dynamics and thermal structure. Results show that the surrounding mountains strongly suppress boundary‐layer turbulent mixing via terrain‐induced subsidence and blocked regional airflow, reshaping boundary‐layer circulation into recirculation cells. This causes a ∼120 m reduction in planetar…",
+    "authors": "Xiaoyu Wang, Yingying Yan, Shaofei Kong, Nan Chen et al.",
+    "published": "2026-08-18",
+    "keywords_matched": [
+      "weather research and forecasting"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Effects of assimilating phytoplankton carbon in marine ecosystem modelling in NEMO4.0.4-MEDUSA2.0-PDAF2.0",
+    "doi": "10.5194/gmd-19-7589-2026",
+    "url": "https://doi.org/10.5194/gmd-19-7589-2026",
+    "abstract": "Abstract. The state of the marine ecosystem can be estimated by a combination of numerical models and satellite observations through data assimilation (DA) methods. Satellite data representing phytoplankton chlorophyll are typically used in operational marine ecosystem prediction. These data are derived from ocean colour measured by optical satellite observations. Recently a new phytoplankton carbon product, from the ESA funded BICEP project made available from the UK CEDA Archive, has been derived through a novel processing of ocean colour. This novel carbon product captures aspects of phytoplankton biomass composition that chlorophyll alone does not represent. Here, we investigate the effects of assimilating the new carbon product on the modelling of the marine ecosystem. The investigati…",
+    "authors": "Yumeng Chen, Dale Partridge, Lars Nerger",
+    "published": "2026-08-18",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Implementing methane dynamics into the LPJmL6 model",
+    "doi": "10.5194/gmd-19-7615-2026",
+    "url": "https://doi.org/10.5194/gmd-19-7615-2026",
+    "abstract": "Abstract. We extend the Dynamic Global Vegetation Model LPJmL to version 6.0 by explicitly representing methane (CH4) dynamics within the coupled carbon–nitrogen–water system. The implementation (i) prognoses water-table depth and wetland extent using a CTI–TOPMODEL framework, (ii) solves sub-daily, vertically explicit mass balances for CH4 and O2 including diffusion, ebullition, and plant-mediated transport, (iii) represents methanogenesis and methanotrophy with temperature- and moisture-dependent kinetics, and (iv) integrates land-use and rice management effects alongside inundation-tolerant plant functional types. This architecture enables consistent simulation of CH4, carbon dioxide (CO2) and nitrous oxide (N2) emissions from natural wetlands and managed systems together with the soil …",
+    "authors": "Sibyll Schaphoff, David Hötten, Christoph Müller, Dieter Gerten et al.",
+    "published": "2026-08-18",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "Comprehensive inter-comparison of generative  AI models for super-resolution precipitation  downscaling across hydroclimatic regimes",
     "doi": "10.5194/gmd-19-7545-2026",
@@ -6122,42 +6158,6 @@
     "published": "2026-06-01",
     "keywords_matched": [
       "turbulence"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Verification of thermovibrational control principles in fiber dispersions",
-    "doi": "10.1063/5.0329964",
-    "url": "https://doi.org/10.1063/5.0329964",
-    "abstract": "Recent progress in microgravity-enabled, contactless manipulation methods based on thermovibrational forcing of particle suspensions has opened promising frontiers for fabricating high-performance materials in space. Here, a step is taken to expand this framework to encompass situations in which the dispersed phase consists of fibers rather than spherical inclusions. The problem is tackled numerically using a four way coupling methodology, which tracks the motion, rotation, and collisions of individual fibers with high fidelity. In parallel, the carrier fluid is resolved through integration of the Navier–Stokes equations in their complete non-linear form. It is shown that the mechanism driving dispersed matter self-organization is still operative when fibers of various aspect ratios are co…",
-    "authors": "Balagopal Manayil Santhosh, Marcello Lappa",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Numerical and experimental investigations of bubble dynamics between two parallel cylinders",
-    "doi": "10.1063/5.0334975",
-    "url": "https://doi.org/10.1063/5.0334975",
-    "abstract": "Combining experimental and numerical methods, we investigate the dynamics of a cavitation bubble between two parallel cylinders. The results reveal that the bubble motion is highly dependent on the distance parameter γ, cylinder size ratio λ and deviation distance η [γ = d/Rmax, λ = Rc/Rmax, η = (γ1 − γ2)/2, d is the vertical distance from the bubble's initial center to the cylinder walls, Rc is the radius of cylinder, Rmax is the maximum radius of the bubble]. Experiments are conducted using a high-speed camera to capture the morphology of a transient bubble with an electric discharge method. A three-dimensional model is established based on the boundary integral method. We employ a weighted moving least squares method, a density potential method, and an edge swapping method to maintain t…",
-    "authors": "Peijia Xia, Fubing Zhao, Yunyao Yao, Jianhao Hu et al.",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "SPHydroDRL: Enabling quasi-Lagrangian smoothed particle hydrodynamics for solving active flow control problems with deep reinforcement learning",
-    "doi": "10.1063/5.0332139",
-    "url": "https://doi.org/10.1063/5.0332139",
-    "abstract": "This paper presents SPHydroDRL, a mesh-free computational framework that couples quasi-Lagrangian Smoothed Particle Hydrodynamics (SPH) with Deep Reinforcement Learning (DRL) for solving Active Flow Control (AFC) problems. Built upon the previously developed SPHydro solver, the framework provides an SPH environment accelerated by graphics processing units and communicates with a DRL agent through a lightweight Python–C++ interface. Three hydrodynamic benchmark cases are considered to assess the numerical accuracy, robustness, and control performance of the coupled framework. The results demonstrate that the proposed SPH-DRL framework provides a practical particle-based route for long-duration AFC simulations involving free-surface flows and moving boundaries, while maintaining good global …",
-    "authors": "Hong-Guan Lyu, Peng-Nan Sun, Hua-Yang Cai",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
