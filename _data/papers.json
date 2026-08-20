@@ -1,6 +1,31 @@
 [
   {
     "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Impact of Assimilating Atmospheric Boundary Observations on the Rapid Intensification of Hurricane Idalia (2023) in CADRE Self‐Cycled HAFS‐JEDI System",
+    "doi": "10.1029/2026jd046411",
+    "url": "https://doi.org/10.1029/2026jd046411",
+    "abstract": "Abstract This study investigates the impact of assimilating dynamic and thermodynamic atmospheric boundary layer (ABL) observations on the simulation of tropical cyclone (TC) rapid intensification (RI) using the atmosphere–ocean coupled Hurricane Analysis and Forecast System (HAFS) with the Joint Effort for Data assimilation (DA) Integration (JEDI) framework. Despite the recognized importance of ABL processes for TC evolution, the influence of assimilating ABL observations on hurricane prediction remains insufficiently quantified. To address this gap, fully self‐cycled DA experiments were conducted for Hurricane Idalia (2023), which underwent RI from tropical storm to Category 4 TC under favorable oceanic but dry atmospheric conditions. The All ABL experiment assimilated all available obse…",
+    "authors": "Yu‐Shin Kim, Xuguang Wang",
+    "published": "2026-08-19",
+    "keywords_matched": [
+      "atmospheric boundary layer",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Inferring Vertical Cloud Structure From Passive Top‐of‐Atmosphere Observations and Environmental Context With a Mixture Density Network",
+    "doi": "10.1029/2026jd047075",
+    "url": "https://doi.org/10.1029/2026jd047075",
+    "abstract": "Abstract Passive satellite observations provide global coverage of cloud‐top and column‐integrated properties but offer limited direct information about vertical cloud structure. Here, we evaluate the extent to which passive cloud‐top, optical, and microphysical retrievals, together with large‐scale environmental variables, constrain CloudSat radar reflectivity profiles. We first establish a cloud‐type‐based baseline using cloud‐top pressure and cloud optical depth, demonstrating that substantial vertical variability remains within fixed cloud types. We then introduce a probabilistic Mixture Density Network that predicts the full conditional distribution of reflectivity profiles from Moderate Resolution Imaging Spectroradiometer cloud‐top, optical, and microphysical properties and European…",
+    "authors": "Kevin M. Smalley, Emily de Jong, Nipun Gunawardena, Hassan Beydoun et al.",
+    "published": "2026-08-19",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Synergistic Effects of an Interlaced Mountain–Lake–Plain Terrain on Wintertime PM\n                    <sub>2.5</sub>\n                    Pollution in Central China",
     "doi": "10.1029/2025jd046172",
     "url": "https://doi.org/10.1029/2025jd046172",
@@ -6132,32 +6157,6 @@
     "published": "2026-06-01",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Experimental study on the impact of turbulent motions on the output of small wind turbines",
-    "doi": "10.1063/5.0336557",
-    "url": "https://doi.org/10.1063/5.0336557",
-    "abstract": "Recent studies on high-Reynolds-number turbulence in the atmospheric surface layer, with shear Reynolds numbers above 106, indicate that turbulent motions contribute significantly to the transport of momentum and scalars. This implies that turbulent motions must be accounted for in wind turbine power output prediction models. Based on the field experiments, the influence of turbulent motions on the output of small-scale wind turbine was analyzed. The results show that the stream-wise wind speed is strongly and positively correlated with output voltage, with a correlation coefficient of 0.65–0.9, whereas vertical wind speed exhibits a weak negative correlation of −0.09 to 0 and suppresses power generation. Furthermore, the mean and standard deviation of output voltage increase approximately…",
-    "authors": "Xiao-Hua Yang, Tian-Li Bo",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "wind turbine",
-      "wind turbines",
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Atmospheric surface layer turbulence: Intermittency and multiscale structure",
-    "doi": "10.1063/5.0325610",
-    "url": "https://doi.org/10.1063/5.0325610",
-    "abstract": "Atmospheric turbulence represents a quintessential multiscale, intermittent dynamical system in which energy transfer occurs through complex cascade processes. In atmospheric surface layers (ASLs), these processes are complicated by ground roughness, giving rise to pronounced intermittency and coherent turbulence structures. This study investigates ASL turbulence, characterizes the multifractal features, and examines the coherent structures in intermittency. Wind tunnel experiments unveil how idealized, identical roughness elements affect aerodynamic resistance and transport. Moreover, field measurements are collected by an eddy covariance system over 2 months in a suburban area to complement the experimental results. Multifractal detrended fluctuation analysis and empirical mode decomposi…",
-    "authors": "Ruiqi Wang, Chun-Ho Liu, Yixun Liu, Fei Li et al.",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "turbulence"
     ]
   }
 ]
