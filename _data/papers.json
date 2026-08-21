@@ -1,6 +1,54 @@
 [
   {
     "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Hurricane Boundary Layer Turbulence Dynamics Over Complex Urban Canopies Using Large‐Eddy Simulations",
+    "doi": "10.1029/2025jd045860",
+    "url": "https://doi.org/10.1029/2025jd045860",
+    "abstract": "Abstract Hurricanes cause severe damage and destruction when striking densely populated urban areas. However, the impacts of buildings on hurricane turbulence dynamics remain poorly understood due to limited high‐resolution simulations. This study aims to address this gap by resolving turbulent flows around buildings using large‐eddy simulation (LES) with immersed boundary method. Eleven high‐resolution LESs were conducted across a range of urban layouts, spanning flat, sparse, and dense canopies as well as low‐rise, staggered, and high‐rise configurations. First, the code was validated in a realistic configuration against measurements in Houston. Then, idealized runs were performed to characterize hurricane boundary layer (HBL) dynamics and distinguish them from non‐cyclonic atmospheric b…",
+    "authors": "Fateme Sabet Sarvestani, Mostafa Momen",
+    "published": "2026-08-20",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "GCAM-Europe v7.2.0: enhancing policy-relevant climate modelling through spatial and sectoral detail",
+    "doi": "10.5194/gmd-19-7741-2026",
+    "url": "https://doi.org/10.5194/gmd-19-7741-2026",
+    "abstract": "Abstract. Integrated Assessment Models (IAMs) serve as critical instruments for scenario-based analysis and have been instrumental in informing environmental policy at both global and regional scales. However, their limited geographical and sectoral scope constrains their ability to evaluate comprehensive policy packages such as the European Union's Fit-for-55. GCAM-Europe, an expansion of the well-stablished Global Change Analysis Model (GCAM) addresses this gap by explicitly representing energy, land use, agriculture, water, and emissions systems for European Member States and key non-EU countries. Operating within a global framework, the model enables integrated assessment of policy impacts both across and within European regions, while also capturing spillover effects in other regions …",
+    "authors": "Jon Sampedro, Russell Horowitz, Clàudia Rodés-Bachs, Konstantinos Koasidis et al.",
+    "published": "2026-08-20",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "AQUA v1.0.0: The Application for QUality Assessment for the Climate Change Adaptation Digital Twin – the core engine",
+    "doi": "10.5194/gmd-19-7725-2026",
+    "url": "https://doi.org/10.5194/gmd-19-7725-2026",
+    "abstract": "Abstract. The increasing availability of kilometer-scale climate simulations presents major challenges for data access, processing, and analysis due to the unprecedented volume and heterogeneity of the outputs. Different data formats, structures, and metadata conventions, require dedicated solutions to ensure interoperability and usability. We introduce AQUA (Application for QUality Assessment), a Python-based framework developed within the Climate Change Adaptation Digital Twin of the Destination Earth (DestinE) initiative, designed to support the automated evaluation of high-resolution global climate simulations. Although several diagnostic suites for the analysis of global climate model data are already available, AQUA provides a flexible and modular infrastructure for accessing and pro…",
+    "authors": "Matteo Nurisso, Jost von Hardenberg, Marco Cadau, Silvia Caprioli et al.",
+    "published": "2026-08-20",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Code accessibility and code quality across phases of the models of the Coupled Model Intercomparison Project",
+    "doi": "10.5194/gmd-19-7687-2026",
+    "url": "https://doi.org/10.5194/gmd-19-7687-2026",
+    "abstract": "Abstract. This study extends previous research on CMIP5 models to investigate the reproducibility of climate models within the Coupled Model Intercomparison Project (CMIP). It evaluates the accessibility to the source code of the CMIP models through all their phases, emphasizing the need for public repositories to ensure transparency regarding model input, output, and usage rights, along with an analysis of licenses for compliance with scientific standards. A central focus of the research is the assessment of code quality against best practices. In addition, the study examines the historical evolution of computational and code quality across various phases of CMIP, highlighting progress and improving traceability to support scientific reproducibility. We provide valuable insights for futur…",
+    "authors": "Michael García-Rodríguez, Javier Rodeiro-Iglesias, Juan A. Añel",
+    "published": "2026-08-20",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Impact of Assimilating Atmospheric Boundary Observations on the Rapid Intensification of Hurricane Idalia (2023) in CADRE Self‐Cycled HAFS‐JEDI System",
     "doi": "10.1029/2026jd046411",
     "url": "https://doi.org/10.1029/2026jd046411",
@@ -6106,54 +6154,6 @@
     "url": "https://doi.org/10.1063/5.0326991",
     "abstract": "The present article deals with the electro-hydrodynamic energy conversion efficiencies of a viscoelastic fluid through a charge-dependent hydrophobic surface in a soft nano-fluidic channel under combined effects of an applied harmonic pressure gradient and a uniform heat flux boundary. The ion partitioning effect appears due to the dissimilarity in the dielectric constant between the electrolyte and the polyelectrolyte layer (PEL) region, which influences the reshaping of ion distribution by integrating the Born energy. Using the induced potential distribution for the situation of low surface charge density, analytical expressions for the streaming potential and corresponding energy conversion efficiency are established in this study. The semi-analytic solution for the temperature distribu…",
     "authors": "Udeshna Bhattacharya, Subrata Bera",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Flow characteristics of a confined jet in a cavity: Flow regimes, vortex dynamics, and scaling",
-    "doi": "10.1063/5.0334780",
-    "url": "https://doi.org/10.1063/5.0334780",
-    "abstract": "A confined jet in a cavity exhibits complex vortex dynamics and transport behavior governed by geometric confinement and jet inertia. In this study, a single upward jet in a cylindrical cavity is investigated using flow visualization, large-eddy simulation (LES), and unsteady Reynolds-averaged Navier–Stokes (URANS) simulations over a wide range of jet Reynolds numbers and cavity aspect ratios. Three distinct flow regimes are identified and mapped in H/D ∼ Rejet space: (i) head-impact laminar flow, largely insensitive to H/D; (ii) sidewall-oscillatory turbulent flow for H/D &amp;gt; 3.0; and (iii) head-impact turbulent flow for 0.6–0.8 ≤ H/D &amp;lt; 3.0. Oscillatory behavior originates from asymmetric evolution of large-scale vortex structures, with a hierarchical distribution of turbulent…",
-    "authors": "Fanzheng Meng, Wei Si, Yuan Zong, Ling Zhao et al.",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Effectiveness of shelterbelts in mitigating aerodynamic deterioration of high-speed trains entering tunnels in crosswinds",
-    "doi": "10.1063/5.0340148",
-    "url": "https://doi.org/10.1063/5.0340148",
-    "abstract": "Shelterbelts can effectively mitigate the aerodynamic deterioration of high-speed trains traversing tunnel–flat transition sections under crosswinds. An improved delayed detached-eddy simulation method combined with overset grid technology is employed to establish a numerical shelterbelt model incorporating realistic geometric features of tree trunks and canopies. The influence of tree spacing on temporal aerodynamic loads (AELs), surface pressure distributions, and flow field evolution is investigated, and a nonlinear mapping relationship between tree spacing and aerodynamic load amplitudes is established. The results demonstrate that shelterbelts significantly suppress abrupt fluctuations in aerodynamic loads. Compared with the case without a shelterbelt, the aerodynamic load coefficient…",
-    "authors": "Lun Zhao, Wei-Chao Yang, Yi-Kang Liu, Qiu-Sheng Li",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Numerical investigations on viscosity-driven droplet deformation and coalescence in a dual dispersion inlet microchannel",
-    "doi": "10.1063/5.0329566",
-    "url": "https://doi.org/10.1063/5.0329566",
-    "abstract": "The reported study focuses on understanding the merging of droplets in continuous-phase media in a microchannel. An open-source solver, ESI-OpenFOAM v2312, is used, utilizing the interIsoFoam solver with a piecewise linear interface reconstruction scheme for accurate interface capture. The fixed dispersed-phase flow through branched inlets and the variable continuous-phase flow in the main channel enabled extensive exploration of parameters such as the viscosity ratios (λ), the flow rate ratios (Q′), and the continuous phase Capillary number (Cac). Initially, geometrical attributes of droplets and liquid films in branching microchannels in Newtonian fluid flow are reported. The second inlet allows for synchronized coalescence and doubling of the droplet volume. The merging time decreases w…",
-    "authors": "Kamala Kannan Vijesh, S. Vengadesan",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Influence of groove location in pillar geometries on particle separation in deterministic lateral displacement arrays",
-    "doi": "10.1063/5.0333124",
-    "url": "https://doi.org/10.1063/5.0333124",
-    "abstract": "Deterministic lateral displacement (DLD) microfluidic devices enable size-based particle separation through flow partitioning in periodic pillar arrays. Introducing asymmetric features such as grooves in pillar geometries offers a potential route to tune separation performance, yet the hydrodynamic mechanisms associated with groove placement remain insufficiently understood. In this study, dissipative particle dynamics simulations were performed to investigate particle separation in DLD arrays with grooved pillars. Four pillar geometries were examined by varying the groove location relative to the streamwise and row-shift directions. The results show that introducing grooves generally increases the critical separation diameter compared with the square pillar geometry and that the separatio…",
-    "authors": "Fengyang Zhang, Jing Huang, Chenggang Bao, Hao Tang et al.",
     "published": "2026-06-01",
     "keywords_matched": [
       "ABL"
