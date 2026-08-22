@@ -1,6 +1,79 @@
 [
   {
     "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Radar Observations of Cold Air Outbreak Snowfall in East China: Variations of\n                    <i>Z‐S</i>\n                    Parameterizations and Microphysical Impacts",
+    "doi": "10.1029/2026jd046447",
+    "url": "https://doi.org/10.1029/2026jd046447",
+    "abstract": "Abstract In this study, we characterized cold air outbreak (CAO) snowfall over the Shandong Peninsula, East China, using gauge and weather radar observations from 2020 to 2024. We developed a gauge‐radar matched data set and determined the coefficients in Z = aS b every 30 min using a differential evolution algorithm. The results show that the exponent b is relatively stable at 1.72 whereas the prefactor a shows large variations. Then, we fixed b at 1.72 and classified a values into three groups. Our analysis suggests that a larger prefactor a is characterized by smaller peak reflectivity, larger differential reflectivity, larger specific differential phase, larger mean volume diameter, smaller number concentration and smaller snowfall rates and vice versa. We present two cases with contra…",
+    "authors": "Yuxiang Wu, Haoran Li, Wenhua Gao, Zheng Ruan",
+    "published": "2026-08-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Greenland's Topography Triggers Cyclogenesis: Synergy Between Lee Cyclogenesis and Jet Streak",
+    "doi": "10.1029/2026jd046641",
+    "url": "https://doi.org/10.1029/2026jd046641",
+    "abstract": "Abstract Arctic cyclones play a crucial role in shaping Arctic weather patterns and influencing sea ice concentrations. During the Multidisciplinary Drifting Observatory for the Study of Arctic Climate expedition in April 2020, an Arctic cyclone was observed at the leeside of Greenland, prompting our hypothesis that lee cyclogenesis contributed significantly to its development. To test this hypothesis, we conducted simulations with modified Greenland topography. The results confirm that lee cyclogenesis does occur and significantly enhances cyclone intensity. Notably, even when lee cyclogenesis is absent, the jet streak alone sustains cyclone development, suggesting that in this case, both mechanisms—lee cyclogenesis and the jet streak—collectively drive cyclogenesis. Further analysis reve…",
+    "authors": "Cheng You",
+    "published": "2026-08-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Evaluating Tropical Cyclone Representation in ERA5‐Driven NARCliM2.0 WRF Simulations Over CORDEX‐Australasia Using Multiple Trackers",
+    "doi": "10.1029/2025jd045466",
+    "url": "https://doi.org/10.1029/2025jd045466",
+    "abstract": "Abstract We evaluate tropical cyclone (TC) representation in CORDEX ERA5‐driven simulations from the New South Wales and Australian Regional Climate Modelling Project (NARCliM2.0) over the Australian region at ∼20 km resolution for the period 1980–2020. The simulations are performed using the Weather Research and Forecasting (WRF) Model with two configurations that differ only in their planetary boundary layer (PBL) physics: R3 (MYNN2.5) and R5 (ACM2). TCs are identified using two independent tracking algorithms to assess the robustness of the results across detection methods (a) local minimum sea level pressure combined with a warm‐core criterion (UZ; physics‐based), and (b) Okubo‐Weiss‐Zeta parameter (OWZ; dynamics‐based). Both trackers were applied to ERA5 reanalysis and ERA5‐driven sim…",
+    "authors": "Jyothi Lingala, Jatin Kala, Giovanni Di Virgilio, Fei Ji et al.",
+    "published": "2026-08-21",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Quantifying the Effects of Aerosol Size Distribution on Variations in Single Scattering Albedo",
+    "doi": "10.1029/2026jd046931",
+    "url": "https://doi.org/10.1029/2026jd046931",
+    "abstract": "Abstract Aerosol optical properties, closely linked to complex physicochemical processes, critically influence climate and environmental impacts. However, quantitative links between particle size and the changing of scattering and absorption remain insufficiently constrained. Using in‐situ aerosol observations in Beijing and global AERONET data, we quantified the respective influences of particle size distribution and chemical composition on variations in single scattering albedo (SSA). Observations indicate that variations in the particle size directly modulate SSA in most cases. Cross‐sensitivity experiments demonstrate that the size‐distribution term induces changes in SSA approximately eight times larger than those attributable to chemical composition term. We therefore introduce two n…",
+    "authors": "Chen Cui, Pengfei Tian, Wenfang Wang, Xinyuan Chang et al.",
+    "published": "2026-08-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Grounding-line dynamics in a Stokes ice-flow model (Elmer/Ice v9.0): improved numerical stability allows larger time steps",
+    "doi": "10.5194/gmd-19-7817-2026",
+    "url": "https://doi.org/10.5194/gmd-19-7817-2026",
+    "abstract": "Abstract. The efficient and accurate simulation of grounding line dynamics in marine ice-sheet models remains a challenge, largely due to restrictive time-step limitations. The restrictive time step size of ice-sheet simulations (∼Δt=0.01-0.5 years) is one of the reasons for the routine use of approximate models that compromise physical complexity compared to full Stokes models. To address the time-step restriction and enhance the applicability of full Stokes simulations, we implement a numerical stabilisation scheme at the ice–ocean interface, namely the Free-Surface Stabilisation Algorithm (FSSA). The FSSA acts by predicting the surface elevation at the next time step, resulting in a reduction in surface oscillations and an increase in the largest numerically stable time step. When appli…",
+    "authors": "A. Clara J. Henry, Thomas Zwinger, Josefin Ahlkrona",
+    "published": "2026-08-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Optimizing Gaussian process emulation and generalized additive model fitting for rapid, reproducible earth system model analysis",
+    "doi": "10.5194/gmd-19-7767-2026",
+    "url": "https://doi.org/10.5194/gmd-19-7767-2026",
+    "abstract": "Abstract. Causes of model uncertainty in complex modeling systems can be identified using large perturbed-parameter ensembles (PPEs), combined with statistical emulators to increase sample size and enable variance-based sensitivity analyses and observational constraint. In global climate models such as the UK Earth System Model (UKESM), these approaches are typically applied at the global or regional mean scales for a limited set of variables. Accelerating progress in understanding the multi-faceted causes of climate model uncertainty, requires implementing such workflows at the model grid box scale, to enable analyses across variables that reveal how uncertainties propagate and interact spatially. However, this approach requires training millions of Gaussian process (GP) emulators and fit…",
+    "authors": "Kunal Ghosh, Leighton A. Regayre",
+    "published": "2026-08-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Hurricane Boundary Layer Turbulence Dynamics Over Complex Urban Canopies Using Large‐Eddy Simulations",
     "doi": "10.1029/2025jd045860",
     "url": "https://doi.org/10.1029/2025jd045860",
@@ -6083,80 +6156,6 @@
     "published": "2026-06-01",
     "keywords_matched": [
       "turbulence"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Geometric-scale-induced distortion of cavity and multiphase flow structures during water entry",
-    "doi": "10.1063/5.0338080",
-    "url": "https://doi.org/10.1063/5.0338080",
-    "abstract": "Cavity formation during water entry fundamentally governs the organization of surrounding multiphase flow structures. However, geometric scaling can introduce significant distortion in cavity morphology and flow field, challenging the assumption of hydrodynamic similarity. This study numerically investigates the scale-dependent distortion of cavity dynamics and associated flow structures for geometrically scaled bodies. These results demonstrate that cavity-dominated multiphase flows are highly sensitive to geometric scaling, leading to systematic distortion in the flow field and turbulence structure. Although global kinematic features remain comparable, reduced-scale models exhibit intensified local velocity gradients, enhanced viscous dominance, weakened turbulence diffusion, and acceler…",
-    "authors": "Guang Pan, Yilan Yu, Qiaogao Huang, Yao Shi",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Vortex-induced vibration response of flexible riser subjected to platform surge motion",
-    "doi": "10.1063/5.0328804",
-    "url": "https://doi.org/10.1063/5.0328804",
-    "abstract": "This paper numerically investigates the vortex-induced vibration of flexible risers subjected to surge motion of floating platforms. The dynamic boundary condition associated with this degree of freedom is transformed into a superimposed flow composed of shear flow and sheared oscillatory flow. The effects of oscillation frequency and velocity ratio of the equivalent superimposed flow on riser vibration characteristics are examined across different Keulegan–Carpenter number ranges. Numerical results show that increasing the oscillation frequency of the superimposed flow strengthens the dominance of the dominant vibration mode, whereas increasing the velocity ratio enhances the contribution of higher-order modes. The vortex shedding mode at each riser section varies periodically, resulting …",
-    "authors": "Zhanlong Chen, Niannian Liu, Yuxiang Peng, Pengnan Sun et al.",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Spectral analysis of Brownian motion with its rheological analogues",
-    "doi": "10.1063/5.0325827",
-    "url": "https://doi.org/10.1063/5.0325827",
-    "abstract": "The power spectrum of the Brownian motion of probe microparticles with mass m and radius R immersed in a viscoelastic material reveals valuable information about repetitive patterns and correlation structures that manifest in the frequency domain. In this paper, we employ a viscous–viscoelastic correspondence principle for Brownian motion and we show that the power spectrum (power spectral density) of Brownian motion in any linear, isotropic viscoelastic material is proportional to the real part of the complex dynamic fluidity (complex mobility) of a linear rheological network that is a parallel connection of the linear viscoelastic material within which the Brownian particles are immersed and an inerter, with distributed inertance mR=m6πR. The synthesis of this deterministic rheological a…",
-    "authors": "Nicos Makris",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "TripNet: Learning large-scale high-fidelity three-dimensional car aerodynamics with triplane networks",
-    "doi": "10.1063/5.0324695",
-    "url": "https://doi.org/10.1063/5.0324695",
-    "abstract": "Surrogate modeling has become a powerful approach for accelerating computational fluid dynamics (CFD) simulations, yet existing three-dimensional (3D) geometric learning models–based on meshes, point clouds, or voxels–remain fundamentally limited by resolution, memory cost, and dependence on explicit geometric discretizations. We introduce TripNet, a triplane-based neural framework that encodes 3D geometry into a compact, continuous, resolution-independent representation. Unlike traditional mesh-dependent models, TripNet supports query-based predictions at arbitrary spatial locations, enabling high-fidelity aerodynamic field estimation without relying on mesh connectivity or downsampled geometry. TripNet achieves state-of-the-art performance on the DrivAerNet and DrivAerNet++ datasets acro…",
-    "authors": "Qian Chen, Mohamed Elrefaie, Angela Dai, Faez Ahmed",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Self-scaling tensor basis neural network for Reynolds stress modeling of wall-bounded turbulence",
-    "doi": "10.1063/5.0331514",
-    "url": "https://doi.org/10.1063/5.0331514",
-    "abstract": "Recent advances in data-driven turbulence modeling have established tensor basis neural networks (TBNNs) as a physically grounded framework for Reynolds-stress closure in Reynolds-averaged Navier–Stokes (RANS) simulations. However, their robustness in wall-bounded turbulent flows remains limited across Reynolds numbers and geometries due to the lack of an intrinsic scaling mechanism. In this work, we propose a self-scaling tensor basis neural network (STBNN) for Reynolds-stress modeling of wall-bounded turbulence. The model uses the first two invariants of the velocity-gradient tensor to scale the tensor basis, providing an intrinsic and geometry-independent scale that balances strain and rotation effects without relying on empirical coefficients or wall-distance inputs. Owing to its frame…",
-    "authors": "Zelong Yuan, Yuzhu Pearl Li",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Energy conversion efficiency in electro-hydrodynamic transport of viscoelastic fluids through hydrophobic surfaces in soft nanofluidic channels",
-    "doi": "10.1063/5.0326991",
-    "url": "https://doi.org/10.1063/5.0326991",
-    "abstract": "The present article deals with the electro-hydrodynamic energy conversion efficiencies of a viscoelastic fluid through a charge-dependent hydrophobic surface in a soft nano-fluidic channel under combined effects of an applied harmonic pressure gradient and a uniform heat flux boundary. The ion partitioning effect appears due to the dissimilarity in the dielectric constant between the electrolyte and the polyelectrolyte layer (PEL) region, which influences the reshaping of ion distribution by integrating the Born energy. Using the induced potential distribution for the situation of low surface charge density, analytical expressions for the streaming potential and corresponding energy conversion efficiency are established in this study. The semi-analytic solution for the temperature distribu…",
-    "authors": "Udeshna Bhattacharya, Subrata Bera",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
