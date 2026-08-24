@@ -1,6 +1,18 @@
 [
   {
     "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Statistical Evidence for Factors Associated With Positive Leader Branching in Long Air‐Gap Discharges",
+    "doi": "10.1029/2026jd046897",
+    "url": "https://doi.org/10.1029/2026jd046897",
+    "abstract": "Abstract Branching is a common feature in positive leader development, which changes the channel topology and significantly influences discharge behavior. However, the factors associated with its occurrence remain poorly understood. In this study, an event‐based analytical framework was established using synchronized optical observations and electrical measurements. Five physically motivated variables were constructed, including the injected charge Q , the rise rate of applied voltage dU / dt , the background field E , the background‐field direction angle θ 1 , and the prior‐channel deflection angle θ 2 . Their independent, nonlinear, and interaction effects were analyzed using multivariable logistic regression, restricted cubic splines, and random‐forest‐assisted interaction mining with r…",
+    "authors": "Lili Guo, Xiangen Zhao, Xiankang Wang, Xiaopeng Liu et al.",
+    "published": "2026-08-23",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Radar Observations of Cold Air Outbreak Snowfall in East China: Variations of\n                    <i>Z‐S</i>\n                    Parameterizations and Microphysical Impacts",
     "doi": "10.1029/2026jd046447",
     "url": "https://doi.org/10.1029/2026jd046447",
@@ -6144,18 +6156,6 @@
     "published": "2026-06-01",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Effects of Karlovitz number on super-adiabatic temperature and burning rate in lean hydrogen-air turbulent flames",
-    "doi": "10.1063/5.0331575",
-    "url": "https://doi.org/10.1063/5.0331575",
-    "abstract": "Analyzed in the paper are previously published and newly generated three-dimensional direct numerical simulation data obtained from statistically planar and one-dimensional, lean complex-chemistry H2-air flames propagating in a box with forced turbulence. Under the study conditions, root-mean-square turbulent velocity is varied from 2.2 to 54 laminar flame speeds SL, integral length scale of turbulence is varied from 0.5 to 2.25 laminar flame thicknesses, Damköhler and Karlovitz numbers are varied from 0.01 to 0.53 and from 10 to 1315, respectively. Two equivalence ratios, 0.5 and 0.35, are explored. Turbulent burning velocities are evaluated not only for these eight low Lewis number flames, but also for equidiffusive counterparts to them. Analyses of these burning velocities and condition…",
-    "authors": "Xuefeng Guan, Hsu Chew Lee, Peng Dai, Minping Wan et al.",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "turbulence"
     ]
   }
 ]
