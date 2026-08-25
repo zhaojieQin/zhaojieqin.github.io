@@ -1,6 +1,66 @@
 [
   {
     "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Impact of Urbanization on Tropical Cyclone Rainfall Over Complex Coastal Terrain",
+    "doi": "10.1029/2026jd046493",
+    "url": "https://doi.org/10.1029/2026jd046493",
+    "abstract": "Abstract Rapid coastal urbanization alters land–atmosphere interactions and can modify tropical cyclone (TC) rainfall. This study examines urbanization effects on TC rainfall in the Yongjiang River basin, China, using the Weather Research and Forecasting model. Two TCs (Lekima 2019 and In‐fa 2021) with contrasting predominant wind directions are analyzed under historical and future land use scenarios derived from multiple Shared Socioeconomic Pathways–Representative Concentration Pathways. Results show that urbanization enhances TC precipitation downwind of urban areas and in the mountainous region. Urban‐induced warming and increased surface roughness strengthen low‐to mid‐level convergence and ascent, and enhance moisture and equivalent potential temperature. In complex terrain, converge…",
+    "authors": "Fanyu Xu, Huiling Yuan",
+    "published": "2026-08-24",
+    "keywords_matched": [
+      "weather research and forecasting"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "High‐Resolution Regional Atmospheric Simulation of Precipitation and Isotopes in Central America",
+    "doi": "10.1029/2026jd046723",
+    "url": "https://doi.org/10.1029/2026jd046723",
+    "abstract": "Abstract With advances in global and regional circulation models, the high‐resolution simulation of atmospheric variables has become increasingly feasible. In this study, we use IsoRSM, an isotope‐enabled regional spectral model, to improve the simulation of precipitation and its isotopic composition over tropical Costa Rica, which is marked by a pronounced topography and is surrounded by two oceans. A 14‐year (2010–2023) simulation was performed at a relatively high spatial (5 km) and temporal (6‐hourly) resolution over a 6° × 6° domain covering Costa Rica and surrounding regions. Model outputs were evaluated using observations from 58 precipitation‐amount sites and 27 isotope‐monitoring sites and were compared with a 10 km IsoRSM simulation from a previous study over a larger spatial dom…",
+    "authors": "Yan Yang, Christian Birkel, Chris Soulsby, Ana M. Durán‐Quesada et al.",
+    "published": "2026-08-24",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "A Physics‐Guided Feature Selection Machine Learning Approach for Cloud Probability Retrieval and Detection From TEMPO Imagery",
+    "doi": "10.1029/2026jd046434",
+    "url": "https://doi.org/10.1029/2026jd046434",
+    "abstract": "Abstract Accurate cloud detection is critical for reliable retrievals of aerosols and trace gases from remote‐sensing measurements. TEMPO provides unprecedented hourly observations over North America, but radiometric calibration biases, thousands of spectral channels, and limited spectral coverage make cloud detection challenging. Here, we develop a physics‐guided feature selection machine learning (PGML) framework that integrates radiative transfer simulations with a LightGBM architecture to detect clouds from TEMPO hyperspectral observations. Our approach starts with radiative transfer simulations to identify the spectral channels most sensitive to clouds among the 2,056 available. An explainable AI method is then applied to rank feature importance, further refining model inputs to 25 ul…",
+    "authors": "Xiaohang Shi, Yulong Fan, Kai Yang, Zhanqing Li et al.",
+    "published": "2026-08-24",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Recent Warming Amplification in the Yangtze River Basin Compared to the Global Land",
+    "doi": "10.1029/2026jd046491",
+    "url": "https://doi.org/10.1029/2026jd046491",
+    "abstract": "Abstract Under global warming, regional warming amplification has drawn considerable attention. The Yangtze River Basin (YRB), one of the most densely populated regions worldwide, experienced frequent and exceptional warm extremes in recent decades, but whether the region is experiencing a warming amplification remains unclear. This study detects the signature of seasonal warming amplification by comparing warming magnitudes between the YRB, global land and the same latitudinal zone. Moreover, we use dominance analysis to quantify the relative importance of explanatory factors for seasonal surface air temperature (SAT) variability between periods. Results reveal a sharp acceleration in warming over the YRB in the recent three decades (1993–2023) compared to the preceding three decades (196…",
+    "authors": "Yawen Liu, Jianping Duan, Buwen Dong, Wei Chen et al.",
+    "published": "2026-08-24",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Predicting forecast errors with diffusion model for uncertainty quantification in wind speed nowcasting",
+    "doi": "10.5194/gmd-19-7835-2026",
+    "url": "https://doi.org/10.5194/gmd-19-7835-2026",
+    "abstract": "Abstract. Weather forecasts are inherently uncertain due to the chaotic nature of the atmosphere and unavoidable errors. Ensemble forecasting is the established approach for quantifying the uncertainty. However, it is both computationally expensive and inherently prone to under-dispersion, as it simulates multiple atmospheric trajectories with a finite number of members. In this study, we propose a novel paradigm that achieves uncertainty quantification by directly predicting forecast errors, thereby bypassing the need to simulate multiple trajectories. We employ a denoising diffusion probabilistic model for this task, as its generative capabilities are well-suited for learning high-dimensional distributions. By stochastically sampling from the learned distribution and adding the generated…",
+    "authors": "Yanwei Zhu, Aitor Atencia, Markus Dabernig, Yong Wang et al.",
+    "published": "2026-08-24",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Statistical Evidence for Factors Associated With Positive Leader Branching in Long Air‐Gap Discharges",
     "doi": "10.1029/2026jd046897",
     "url": "https://doi.org/10.1029/2026jd046897",
@@ -6091,68 +6151,6 @@
     "url": "https://doi.org/10.1063/5.0327248",
     "abstract": "Direct current (DC) electromigration of three surface-modified polystyrene (PS) particles in straight microchannels was investigated using buffer-based polyethylene oxide (PEO) solutions with concentrations cPEO from 0 to 0.1 wt. % and a viscosity-matched 21 wt. % glycerol reference. The pH was adjusted to keep particle zeta potential ζp comparable across PEO concentrations, highlighting viscoelastic effects on electromigration. Linear electrokinetic behavior at low electric fields and non-linear behavior at higher fields were analyzed. The results suggest that the particle's overall velocity Vp decreases with cPEO. For PS-NH2 particles, direction reversal occurs at a lower critical field as cPEO increases. In the low-field region, the linear electrokinetic mobility μEK decreases with cPEO…",
     "authors": "Shaohua Zhai, Hiroshi Suzuki, Ruri Hidema",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Infrared thermography measurements of an unsteady laminar separation bubble on a static and pitching airfoil",
-    "doi": "10.1063/5.0323230",
-    "url": "https://doi.org/10.1063/5.0323230",
-    "abstract": "The present work describes infrared thermography (IRT) measurements conducted on a National Advisory Committee for Aeronautics (NACA) 0018 airfoil model aimed at characterizing a laminar separation bubble (LSB) at low Reynolds numbers under steady and sinusoidal pitching conditions. In steady flow conditions, the accuracy of best practices described in the literature for surface temperature measurements applied to the quantitative assessment of LSB characteristic points (separation, transition, and reattachment) was investigated through a comparative study between IRT measurements and surface flow visualizations. In unsteady flow conditions, the differential infrared thermography (DIT) technique enabled the evaluation of the effects of reduced frequency, oscillation amplitude, and Reynolds…",
-    "authors": "L. Riccobene, M. Poletti, R. Tomasello, A. Zanotti",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "A hybrid deep learning framework for the prediction of variable-sweep aircraft surface pressure distribution",
-    "doi": "10.1063/5.0321695",
-    "url": "https://doi.org/10.1063/5.0321695",
-    "abstract": "The rapid and accurate prediction of surface pressure distributions on variable-sweep aircraft remains a significant challenge, particularly during the transient morphing process. This paper presents a novel hybrid deep-learning framework to address this issue by synergistically integrating a convolutional autoencoder (CAE), a multilayer perceptron (MLP), and a long short-term memory (LSTM) network. The core of our methodology is a dimensionality reduction via a CAE, which non-linearly compresses high-dimensional (384 × 128) surface pressure fields into a 12-dimensional latent space, achieving a 4096:1 compression ratio with a reconstruction mean squared error (MSE) of 3.5074 × 10−5. Subsequently, the prediction task is decomposed: an MLP network accurately maps flight parameters to latent…",
-    "authors": "Dongqiang Xu, Yanping Song, Fu Chen, Jianyang Yu",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Effects of sinusoidal gust on the flow structure and reattachment characteristics of two tandem 5:1 rectangular cylinders",
-    "doi": "10.1063/5.0316762",
-    "url": "https://doi.org/10.1063/5.0316762",
-    "abstract": "This study employs three-dimensional large eddy simulation to investigate the effect of sinusoidal-gust amplitude (AR) on the flow structure around two tandem 5:1 rectangular cylinders. The simulations are conducted at a Reynolds number of Re = 20 000, with gap widths of G = 2D, 6D, and 10D (where D is the cylinder height) and gust amplitudes AR ranging from 0.05 to 0.30. The results reveal that the flow fields are sensitive to AR. An increase in AR promotes the flow pattern transition from either reattachment (at G = 2D) or coshedding pattern (at G = 6D and 10D) to a more unstable state, accompanied by a breakdown of stable two-dimensional vorticity structure into significant spanwise deformation. The surface flow exhibits drastic changes in the recirculation bubbles. For the upstream cyl…",
-    "authors": "Peiyuan Wang, Shaowei Wang, Yongfei Zhao, Hao Liu et al.",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Conjugate heat transfer analyses via a lattice Boltzmann method solver for time-periodic flows over a conductive square cylinder confined in a channel",
-    "doi": "10.1063/5.0271033",
-    "url": "https://doi.org/10.1063/5.0271033",
-    "abstract": "In this study, we perform conjugate heat transfer analyses for time-periodic laminar flows over a conductive square cylinder enclosed in a straight channel. In computations, we utilize our in-house graphics processing unit-based lattice Boltzmann method solver to model mass transfer throughout the channel as well as heat transfer within the cylinder and the channel in coupled manner. We obtain computational results for the problem by varying Reynolds number, solid to fluid conductivity ratio, and Prandtl number systematically, and thereby assess the influence of these parameters on temperature uniformity within the cylinder and heat transfer from the surfaces of the cylinder. We also evaluate the overall thermal performance of the system by calculating the Biot number. Our results reveal t…",
-    "authors": "Aanif Hussain, Bayram Celik",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "lattice boltzmann method",
-      "lattice boltzmann",
-      "heat transfer"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Modeling red blood cell deformation under high shear and extensional stresses",
-    "doi": "10.1063/5.0331619",
-    "url": "https://doi.org/10.1063/5.0331619",
-    "abstract": "Studying red blood cells (RBCs) under high-stress conditions is essential for understanding their mechanical response and the onset of sub-hemolytic damage. In this work, we present a comprehensive computational investigation of RBC behavior under high shear and extensional flow conditions. We begin with a systematic evaluation of RBC membrane models through a series of mechanical tests to identify formulations capable of capturing large deformations. Both one-component and two-component models are then employed to simulate RBC dynamics in pure shear flow and hyperbolic nozzle configurations, with results validated against experimental measurements of cell deformation. The developed framework demonstrates strong quantitative and qualitative agreement with experimental observations across a…",
-    "authors": "Mojtaba Amir Aslan Pour, Wenbin Mao",
     "published": "2026-06-01",
     "keywords_matched": [
       "ABL"
