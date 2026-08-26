@@ -1,6 +1,54 @@
 [
   {
     "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "More Frequent and Enhanced Extreme Events of Air–Sea CO\n                    <sub>2</sub>\n                    Fluxes",
+    "doi": "10.1029/2025jd044933",
+    "url": "https://doi.org/10.1029/2025jd044933",
+    "abstract": "Abstract The ocean is a crucial sink for anthropogenic CO 2 and experiences various biogeochemical extremes, yet it is not clear whether and to what extent such extreme events occur in air–sea CO 2 fluxes. Here, we established a framework to define oceanic carbon uptake extremes (CUXs) and release extremes (CRXs) using daily air–sea CO 2 flux from both an observational‐based product and a state‐of‐the‐art Earth system model. Globally, cumulative CUX and CRX intensity over 1982–2022 were −0.14 and 0.14 Pg C yr −1 , respectively, each accounting for ∼10% of the total oceanic CO 2 uptake. The number of annual days and the absolute mean intensity of CUXs (CRXs) increase at rates of 1.22 d dec −1 (2.23 d dec −1 ) and 0.08 mol C m 2 yr −1 dec −1 for both events. Under the high‐warming future sce…",
+    "authors": "Yangyan Cheng, Bo Han, Jerry Tjiputra, Hao Luo et al.",
+    "published": "2026-08-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Thermodynamic and Kinematic Structure of the Planetary Boundary Layer for a Summer Lake Breeze Day in Chicago",
+    "doi": "10.1029/2025jd046032",
+    "url": "https://doi.org/10.1029/2025jd046032",
+    "abstract": "Abstract The planetary boundary layer (PBL) over Chicago is strongly modulated by interactions between the lake breeze and the urban heat island (UHI). This study focuses on characterizing the thermodynamic and kinematic processes governing the Chicago UHI and its interaction with the cooler air from Lake Michigan. The study uses remote sensing and in situ measurements collected during the CROCUS Urban Canyons campaign that took place in July 2024. Regular rawinsonde launches, together with the University of Wisconsin–Madison University of Wisconsin–Madison Space Science and Engineering Center Portable Atmospheric Research Center (SPARC) trailer equipped with Doppler and high‐spectral‐resolution LiDARS, as well as a thermodynamic profiler, provided a detailed characterization of the PBL st…",
+    "authors": "Robert Jackson, Joseph O’Brien, Jiali Wang, Dimitrios K. Fytanidis et al.",
+    "published": "2026-08-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Hybrid Swin Transformer–U‐Net Improves Subseasonal Maritime Wind Forecasts in China's Coastal Waters",
+    "doi": "10.1029/2025jd045366",
+    "url": "https://doi.org/10.1029/2025jd045366",
+    "abstract": "Abstract Reliable subseasonal maritime wind forecasts are essential for navigation safety and disaster prevention, yet current forecasting systems show noticeable biases over China's coastal waters. Here, we introduce TDSwin‐UnetSS (Time‐embedded Downscaling Swin‐Transformer U‐Net for SubSeasonal forecasting), an asymmetric hybrid model that integrates the Swin Transformer with a U‐Net architecture. The model incorporates: (a) Weibull distribution constraints to preserve the wind‐speed probability density, (b) spatial downscaling from 1.5 to 0.25 resolution, (c) time embedding for simultaneous 3–6 week lead‐time corrections, and (d) spatially adaptive learning focused on extreme wind‐prone regions. Applied to ECMWF S2S forecasts, TDSwin‐UnetSS reduces root mean squared error (RMSE) by 13.4…",
+    "authors": "Dianhewen Liu, Wenyu Huang, Yongqian Liu, Deliang Chen et al.",
+    "published": "2026-08-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Evaluation of the ALARO1-SFX (CY43T2) regional climate model over Belgium across different resolutions",
+    "doi": "10.5194/gmd-19-7911-2026",
+    "url": "https://doi.org/10.5194/gmd-19-7911-2026",
+    "abstract": "Abstract. Regional climate modelling is essential for providing reliable information to understand localised impacts and guide adaptation strategies in the context of climate change. This study evaluates long-term continuous climate simulations over Belgium performed with the ALARO1-SFX model, a novel version of ALARO-1 that incorporates an advanced surface scheme (SURFEX) and improved physiographic datasets. A scale-selective evaluation setup is introduced, employing a multi-level dynamical downscaling framework to assess the progressive added value of increasing resolution from the mesoscale to convection-permitting scales. The model's performance is evaluated against a gridded observational dataset and precipitation station measurements, focusing on temperature and precipitation biases,…",
+    "authors": "Wout Dewettinck, Hans Van de Vyver, Daan Degrauwe, Rafiq Hamdi et al.",
+    "published": "2026-08-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "The Impact of Urbanization on Tropical Cyclone Rainfall Over Complex Coastal Terrain",
     "doi": "10.1029/2026jd046493",
     "url": "https://doi.org/10.1029/2026jd046493",
@@ -6103,54 +6151,6 @@
     "url": "https://doi.org/10.5194/gmd-19-4661-2026",
     "abstract": "Abstract. Forest microclimates play a fundamental role in regulating biodiversity, ecosystem functioning, and forest resilience to climate change. However, most existing microclimate models focus on vertical processes and neglect lateral energy exchanges, limiting their ability to represent forest edge effects. Due to ongoing forest fragmentation, such lateral fluxes play an essential role in forest microclimate and associated ecological processes, particularly given that up to 20 % of global forest cover lies within 100 m of a forest edge. Here, we introduce ForEdgeClim, a new process-based microclimate model implemented as a publicly available open-source R package that is able to simulate air and surface temperature at high spatial resolution along the forest edge-to-core continuum (her…",
     "authors": "Emma Van de Walle, Félicien Meunier, Steven J. De Hertog, Louise Terryn et al.",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Physics‐Informed Bias Correction Using a Convolution‐Based Multivariate Gaussian Process",
-    "doi": "10.1029/2026ms005765",
-    "url": "https://doi.org/10.1029/2026ms005765",
-    "abstract": "Abstract Climate models have been improving to better represent the Earth system. They have become common tools for understanding the dynamics of different physical components of the Earth system and providing insights into their future changes. However, a remaining key limitation is persistent biases in model outputs. Existing bias correction methods only rely on model outputs and do not account for the interconnected physical processes within the climate model that are responsible for the biases in simulating the climate variables (e.g., precipitation and temperature). Here we propose a novel machine learning technique using a convolution‐based multivariate Gaussian process (MGP) to reduce biases and uncertainties in temperature and precipitation from a climate model in a physically cons…",
-    "authors": "Taereem Kim, Chao Wang, Gabriele Villarini, James M. Done et al.",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Experimental investigation of scale-to-scale anisotropy and energy transfer in homogeneous axisymmetric turbulence",
-    "doi": "10.1063/5.0325299",
-    "url": "https://doi.org/10.1063/5.0325299",
-    "abstract": "We experimentally investigate scale-to-scale anisotropy and energy transfer in homogeneous axisymmetric turbulence with negligible mean shear, strain, and mean flow. The turbulence was generated by two facing arrays of randomly actuated jets, and the Reynolds number Reλ was adjusted from 250 to 606. The velocity is measured by planar particle image velocimetry. Large-scale anisotropy was introduced by the geometric arrangement of the jet arrays, which drive the flow in the apparatus. We define the axial and the radial direction in our system as the directions parallel and perpendicular to the jets, respectively. We first examine the anisotropy of the turbulence scale-by-scale. At large scales, the measured integral length in the axial direction is greater than the one in the radial directi…",
-    "authors": "Guotao Wu, Chang Song, Yaxing Li, Qi Gao",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Potential flow over an\n                    <i>n</i>\n                    -family of undulated airfoils",
-    "doi": "10.1063/5.0332033",
-    "url": "https://doi.org/10.1063/5.0332033",
-    "abstract": "This paper presents a general potential-flow solution for an n-family of undulated lifting cylinders and their corresponding conformally mapped undulated airfoils. The analysis first derives a unified closed-form solution for potential flow around undulated lifting cylinders using a perturbation technique that enforces the no-penetration boundary condition on geometries with arbitrary undulation amplitudes and wavenumbers. The resulting formulation yields explicit analytical expressions for the stream function, enabling direct evaluation of geometric effects on streamline curvature, the velocity field, and surface pressure distributions. Building on this undulated-cylinder framework, the solution is subsequently mapped into the airfoil plane via the Joukowski transformation, yielding a sol…",
-    "authors": "Yasser Aboelkassem",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Electrokinetic migration of surface-modified particles under a direct current electric field in viscoelastic fluids",
-    "doi": "10.1063/5.0327248",
-    "url": "https://doi.org/10.1063/5.0327248",
-    "abstract": "Direct current (DC) electromigration of three surface-modified polystyrene (PS) particles in straight microchannels was investigated using buffer-based polyethylene oxide (PEO) solutions with concentrations cPEO from 0 to 0.1 wt. % and a viscosity-matched 21 wt. % glycerol reference. The pH was adjusted to keep particle zeta potential ζp comparable across PEO concentrations, highlighting viscoelastic effects on electromigration. Linear electrokinetic behavior at low electric fields and non-linear behavior at higher fields were analyzed. The results suggest that the particle's overall velocity Vp decreases with cPEO. For PS-NH2 particles, direction reversal occurs at a lower critical field as cPEO increases. In the low-field region, the linear electrokinetic mobility μEK decreases with cPEO…",
-    "authors": "Shaohua Zhai, Hiroshi Suzuki, Ruri Hidema",
     "published": "2026-06-01",
     "keywords_matched": [
       "ABL"
