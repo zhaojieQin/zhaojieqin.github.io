@@ -1,5 +1,41 @@
 [
   {
+    "journal": "Advances in Atmospheric Sciences",
+    "title": "Simulating Martian Atmospheric Processes and Local Dust Events with a Global Variable-Resolution Model (iAMAS-Mars)",
+    "doi": "10.1007/s00376-026-5694-4",
+    "url": "https://doi.org/10.1007/s00376-026-5694-4",
+    "abstract": "",
+    "authors": "Yongxuan Zhao, Chun Zhao, Lulu Li, Li Dong et al.",
+    "published": "2026-08-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Turbulence-driven nutrient supply sustains ice-algal growth in the Arctic: a modeling approach with CICE 6.1 coupled to Icepack 1.2, and with SIMBA 2.0",
+    "doi": "10.5194/gmd-19-7939-2026",
+    "url": "https://doi.org/10.5194/gmd-19-7939-2026",
+    "abstract": "Abstract. Fluxes of nutrients at the ice-ocean interface are affected by the smooth or turbulent nature of the flow under the ice. The nature of the flow depends on the friction velocity, which determines the thickness of the molecular sublayer, and on the roughness of the ice bottom. Based on in situ boundary layer studies, the range of variability of the thickness of the molecular sublayer and that of bottom roughness suggest that the flow under sea ice may easily shift from smooth to turbulent. This transition enhances nutrient exchanges at the ice-ocean interface. Despite the importance of such turbulent nutrient exchanges for sea-ice algae, no current biogeochemical model accounts for the dependence of fluxes on the nature of the flow, while different approaches were previously implem…",
+    "authors": "Giulia Castellani, Karley Campbell, Sebastien Moreau, Pedro Duarte",
+    "published": "2026-08-26",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "LFD (v1.0): latent-compression-free generative diffusion with geological priors and geophysical regularization for implicit structural modeling",
+    "doi": "10.5194/gmd-19-7961-2026",
+    "url": "https://doi.org/10.5194/gmd-19-7961-2026",
+    "abstract": "Abstract. Diffusion models provide a promising way to generate geologically consistent implicit structural models by learning data-driven priors from training examples, potentially improving generalization across surveys. However, existing diffusion transformer pipelines scale poorly to high-dimensional structural modeling data because noise- or velocity-prediction objectives are often unstable at large patch sizes, forcing the use of small patches that lead to long token sequences and high computational cost. To reduce computation, most approaches rely on variational autoencoders (VAEs) and latent diffusion, but robust pretrained VAEs are scarce in geophysics, and enforcing geological priors in latent space is difficult. To address these scalability bottlenecks and the difficulty of enfor…",
+    "authors": "Zhixiang Guo, Xinming Wu, Yimin Dou, Hui Gao et al.",
+    "published": "2026-08-26",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "More Frequent and Enhanced Extreme Events of Air–Sea CO\n                    <sub>2</sub>\n                    Fluxes",
     "doi": "10.1029/2025jd044933",
@@ -42,6 +78,80 @@
     "url": "https://doi.org/10.5194/gmd-19-7911-2026",
     "abstract": "Abstract. Regional climate modelling is essential for providing reliable information to understand localised impacts and guide adaptation strategies in the context of climate change. This study evaluates long-term continuous climate simulations over Belgium performed with the ALARO1-SFX model, a novel version of ALARO-1 that incorporates an advanced surface scheme (SURFEX) and improved physiographic datasets. A scale-selective evaluation setup is introduced, employing a multi-level dynamical downscaling framework to assess the progressive added value of increasing resolution from the mesoscale to convection-permitting scales. The model's performance is evaluated against a gridded observational dataset and precipitation station measurements, focusing on temperature and precipitation biases,…",
     "authors": "Wout Dewettinck, Hans Van de Vyver, Daan Degrauwe, Rafiq Hamdi et al.",
+    "published": "2026-08-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Turbulent boundary layers altered by passively rotating discs",
+    "doi": "10.1017/jfm.2026.11917",
+    "url": "https://doi.org/10.1017/jfm.2026.11917",
+    "abstract": "Turbulent boundary layers characterised by friction Reynolds numbers in the range upper R e Subscript tau Baseline equals 880 minus 1460 R e τ = 880 − 1460 $Re_{\\tau } = 880 {-} 1460$ and flowing over flush-mounted passively rotating discs are investigated in a wind tunnel with the purpose of reducing the skin-friction drag. The test surface is composed of thirty-two rotating discs arranged in a staggered configuration and supported by bearings mounted in cylindrical cavities. As the discs are half-covered by thin rigid plates, a steady rotation of the discs is sustained via the asymmetric distribution of the wall-shear stress exerted by the wall turbulence on the exposed halves of the discs. Direct force measurements reveal that the drag increases with respect to a flat-plate case because…",
+    "authors": "Max W. Knoop, Pierre Ricco",
+    "published": "2026-08-25",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Short-wave displacement instability of a helical vortex",
+    "doi": "10.1017/jfm.2026.11930",
+    "url": "https://doi.org/10.1017/jfm.2026.11930",
+    "abstract": "This article presents results from an experimental, numerical and theoretical study of the short-wave instability of a helical vortex generated by a rotating blade. Experimental dye visualisations and corresponding numerical simulation show unstable displacement perturbations with wavelengths that are small compared with the helix radius and pitch, but can be large compared with the vortex core size. Stability analysis based on the experimental vortex profiles identifies large bands of unstable wavenumbers across different vortex bending modes, a result not compatible with existing theory on short-wave vortex instability. Similar modes are found for an array of straight vortices, showing that they are not related to vortex curvature. A theoretical analysis of the dispersion relation of Kel…",
+    "authors": "Zhihan Xu, Mark C. Thompson, Stéphane Le Dizès, Thomas Leweke",
+    "published": "2026-08-25",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Theoretical and numerical investigations of wind effects on wave growth and shape variation",
+    "doi": "10.1017/jfm.2026.11919",
+    "url": "https://doi.org/10.1017/jfm.2026.11919",
+    "abstract": "An improved model for two-dimensional wind-driven water waves is developed by incorporating both wind pressure and tangential viscous stress. These aerodynamic forces are determined via numerical simulations of turbulent flow over a slowly moving, wavy boundary, and are validated against established experimental and numerical data. The model accounts for wind input and viscous dissipation simultaneously, bypassing the oversimplifications of irrotational and inviscid flow assumptions. Utilising a multi-scale asymptotic expansion, we derive a theoretical solution for the wave profile and introduce a complex, time-dependent parameter that quantifies the effects of wind on wave evolution. Its real part governs the wave growth or decay rate, while the imaginary part modulates the phase shift. T…",
+    "authors": "Enwei Zhang, Zhan Wang, Wei Xie",
+    "published": "2026-08-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On the choking mechanism in supersonic ejectors: a one-dimensional analysis of Reynolds-averaged Navier–Stokes simulations",
+    "doi": "10.1017/jfm.2026.11894",
+    "url": "https://doi.org/10.1017/jfm.2026.11894",
+    "abstract": "Ejectors are passive devices used in refrigeration, propulsion and process industries to compress a flow without moving parts by exploiting the energy released during the expansion of another stream. The engineering modelling of choking in these devices remains an open question, with two mechanisms – Fabri and compound choking – proposed in the literature. This work develops a quasi-one-dimensional framework based on common governing equations, enabling a direct comparison between the two using axisymmetric Reynolds–averaged Navier–Stokes (RANS) simulations as reference. The compound formulation incorporates wall and inter-stream friction and a local pressure-equalisation procedure that enables stable integration through the sonic point, together with a normal-shock reconstruction. The Fab…",
+    "authors": "Jan Van den Berghe, Miguel Alfonso Mendez, Yann Bartosiewicz",
+    "published": "2026-08-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Subgrid stress modelling with multidimensional state space sequence models",
+    "doi": "10.1017/jfm.2026.11929",
+    "url": "https://doi.org/10.1017/jfm.2026.11929",
+    "abstract": "Large eddy simulations (LES) are becoming increasingly viable due to the growth in computational power over the last few decades, and subgrid stress modelling plays a large role in the accuracy of LES. A new class of neural network models, S4 and S4ND models, allow for learning a continuous representation of the discrete dataset, which facilitates a principled approach to incorporating grid dependence in neural network subgrid stress modelling. A S4ND U-Net neural network architecture is proposed and trained on both forced homogeneous isotropic turbulence (HIT) and channel flow. A priori , this architecture is able to extrapolate to grid spacings that are coarser than the training set grid spacings, while simpler artificial neural network (ANN) models fail. A posteriori tests on both force…",
+    "authors": "Andy Wu, Sanjiva Lele",
+    "published": "2026-08-25",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Discrete inflow and drainage dynamics of a thin film over a stalagmite of variable shape",
+    "doi": "10.1017/jfm.2026.11915",
+    "url": "https://doi.org/10.1017/jfm.2026.11915",
+    "abstract": "Stalagmites in karstic caves preserve valuable palaeoclimate records through calcium-rich layered deposits, presenting curvature variations both across and within individual stalagmites. Stalagmites always remain covered by a thin water film fed by a discrete inflow of drops, which bring in new ions in solution for the stalagmites to grow. However, the gravity-induced drainage of this film and its response to the underlying stalagmite shape and the discrete drop inflow remain poorly characterised in existing growth models. To address these limitations, we develop a theoretical framework that captures the combined effects of shape curvature and discrete drop inflow on thin film drainage dynamics, starting from Reynolds lubrication theory expressed in curvilinear coordinates. From there, we …",
+    "authors": "Justine Parmentier, Vincent Emmanuel Terrapon, Tristan Gilet",
     "published": "2026-08-25",
     "keywords_matched": [
       "ABL"
@@ -6042,115 +6152,6 @@
     "url": "https://doi.org/10.1063/5.0332665",
     "abstract": "Carbon capture and storage is an important approach to mitigating climate change, and CO2 hydrate storage has received increasing attention due to its high storage density and thermodynamic stability. However, the stability of CO2 hydrates under thermal disturbance remains unclear, especially at the pore scale where hydrate morphology and interface conditions may significantly affect decomposition behavior. In this study, a microfluidic experimental system was established to investigate the thermal decomposition of CO2 hydrates under heat injection. Through microscopic imaging combined with machine learning-based phase segmentation, shell-like and fracture-like hydrates were identified, and their decomposition sequences, gas release characteristics, and bubble evolution behaviors were quan…",
     "authors": "Jiaqi Wang, Kai Zhang, Si Li, Xu Hou et al.",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Physics-informed prediction of granular landslide-generated impulse waves in mountain reservoirs",
-    "doi": "10.1063/5.0332147",
-    "url": "https://doi.org/10.1063/5.0332147",
-    "abstract": "Landslide-generated impulse waves (LGIWs) are highly destructive hydrodynamic phenomena in mountainous reservoirs, characterized by complex near-field evolution and pronounced nonlinear-dispersive wave effects. To investigate the generation and propagation mechanisms of granular LGIWs and to establish a physically consistent predictive framework, this study integrates Froude-scaled physical model experiments with physics-informed deep learning. A representative granular reservoir-bank landslide in a deep V-shaped reservoir was selected as the prototype, and 27 experiments were conducted with varying landslide volumes, sliding velocities, and still-water depths. The results show that the generated wave trains exhibit weakly nonlinear oscillatory behavior, with the maximum amplitude generall…",
-    "authors": "Yunzi Wang, Rubin Wang, Jing Jin, Ruilin Cheng et al.",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Elastoviscoplastic rheology suppresses drag growth in particle suspensions",
-    "doi": "10.1017/jfm.2026.11621",
-    "url": "https://doi.org/10.1017/jfm.2026.11621",
-    "abstract": "We perform direct numerical simulations of elastoviscoplastic (EVP) duct flows at particle volume fractions up to $\\phi = 15\\,\\%$ . Unlike Newtonian suspensions, which exhibit pronounced drag increase with particle loading, EVP suspensions show only modest drag growth in dilute and semi-dilute conditions and achieve significant drag reduction relative to their Newtonian counterparts beyond a threshold $\\phi$ that increases with the Bingham number. This behaviour results from two coupled mechanisms: viscoelasticity drives particles away from the walls towards the duct core, and the unyielded plug traps them with negligible slip, thereby minimising their stress contribution. As a consequence, the mean velocity profile remains largely independent of solid volume fraction, with viscous and ela…",
-    "authors": "Shahriar Habibi, Pedro Costa, Luca Brandt, Outi Tammisola",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "drag reduction"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Polarity transitions induced by symmetry-breaking outer boundary heat flux in rapidly rotating dynamos",
-    "doi": "10.1017/jfm.2026.11606",
-    "url": "https://doi.org/10.1017/jfm.2026.11606",
-    "abstract": "This study investigates, analytically and numerically, the role of a non-axisymmetric equatorially anti-symmetric lateral variation in heat flux at the outer boundary in polarity transitions in rapidly rotating dynamos. In an unstably stratified fluid, the frequencies of vertical and horizontal (lateral) buoyancies complement each other such that a polarity transition is induced by the boundary anti-symmetry through the suppression of the slow magnetic–Archimedes–Coriolis (MAC) waves at relatively small vertical buoyant forcing. A dipole-dominated dynamo in the low-inertia limit transitions to polarity-reversing and multipolar states in succession as the relative intensity of horizontal buoyancy is progressively increased for a fixed vertical buoyancy. In the same parameter space, an equat…",
-    "authors": "Debarshi Majumder, Binod Sreenivasan",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Nonlinear development of vortex instabilities over HyTRV lifting body",
-    "doi": "10.1017/jfm.2026.11620",
-    "url": "https://doi.org/10.1017/jfm.2026.11620",
-    "abstract": "Streamwise vortices are ubiquitous structures on the surfaces of three-dimensional aircrafts and are prone to Z- and Y-mode instabilities. We systematically investigate the nonlinear development of vortex-mode instabilities and resonant interactions employing plane marching nonlinear parabolised stability equations (NPSE3D) and quasi-direct numerical simulation (QDNS). The results suggest the moderately strong subharmonic resonance, and that the detuned interaction between a high-frequency Y-mode and a low-frequency Z-mode may precipitate the transition process. Albeit without any sign of the fundamental resonance, the self-interaction of a Y-mode generates mean flow distortion (MFD) that, in turn, yields the amplitude saturation and causes the hairpin vortex formed by the Y-mode to cascad…",
-    "authors": "Ligeng Zhang, Xi Chen, Jianqiang Chen",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Intelligent Super‐Resolution of Wind Fields: A Terrain‐Aware Approach for 25 km to 1 km Downscaling",
-    "doi": "10.1029/2025jd045875",
-    "url": "https://doi.org/10.1029/2025jd045875",
-    "abstract": "Abstract High‐resolution kilometer‐scale wind fields are essential for wind energy assessment and extreme weather analysis. However, current downscaling methods still have huge biases in complex terrain. In this study, we propose Terrain‐Aware Vision Transformer (TA‐ViT), a novel deep learning framework for wind field downscaling from 25 to 1 km, which integrates dual‐branch patch embedding, feature‐wise linear modulation (FiLM), type‐aware attention gating, and progressive upsampling to effectively capture terrain‐induced wind modifications. The model achieves superior performance with root mean square error of 1.15 m , Pearson correlation coefficient of 0.93, structural similarity index measure of 0.78, and peak signal‐to‐noise ratio (PSNR) of 20.48 dB. Notably, TA‐ViT demonstrates enhan…",
-    "authors": "Zilong Li, Wenyu Huang, Danyi Sun, Aiwei Li et al.",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "wind energy",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Local and Remote Impacts of Regional Irrigation on Near‐Surface Temperature",
-    "doi": "10.1029/2026jd046366",
-    "url": "https://doi.org/10.1029/2026jd046366",
-    "abstract": "Abstract Irrigation is a major human intervention in the global land‐atmosphere system. However, increasing climate variability and associated regional water scarcity may lead to abrupt reductions in irrigation. In this study, we use the Community Earth System Model to investigate the global near‐surface air temperature response to irrigation cessation over Northwest India. Our results indicate that evaporative cooling is the dominant local mechanism regulating temperature in response to irrigation in Northwest India. Following irrigation cessation, average near‐surface temperatures over Northwest India increased by ∼0.24°–0.38°C during November–February. Notably, irrigation cessation over Northwest India also induces temperature changes in remote regions. These remote responses are primar…",
-    "authors": "Huazhen Li, Min‐Hui Lo, Murray C. Peel, Dongryeol Ryu et al.",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "New Insights From TRMM Legacy: Stage‐Dependent Relationships Between Lightning and Convective Structure in Thunderstorms Over Tropical Africa",
-    "doi": "10.1029/2026jd046836",
-    "url": "https://doi.org/10.1029/2026jd046836",
-    "abstract": "Abstract The Tropical Rainfall Measuring Mission (TRMM) satellite provides simultaneous radar and lightning observations, offering critical insights into severe convection across regional and global scales; however, its snapshot nature constrains research on thunderstorm evolution. To address this, establishing a clustering framework is essential for understanding the stage‐dependent relationship between lightning and radar echo structural features and for improving lightning parameterization schemes. Using 16 years of TRMM observations from tropical Africa, the global hotspot for lightning and thunderstorms, we developed a machine learning‐based K‐means clustering method that classifies snapshot thunderstorms by their radar echo structure. Based on this classification, compact storms were…",
-    "authors": "Xueke Wu, Yihang Lyu, Xiaoqun Hu, Zihao Zhang et al.",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "AIFS Single 1.1.0: an update to ECMWF's machine-learned weather forecast model AIFS",
-    "doi": "10.5194/gmd-19-4703-2026",
-    "url": "https://doi.org/10.5194/gmd-19-4703-2026",
-    "abstract": "Abstract. We present version 1.1.0 of ECMWF's Artificial Intelligence Forecasting System (AIFS Single), operational since 25 February 2025. The revised system introduces a bounding-layer framework that enforces physical constraints, such as non-negativity and internal consistency within precipitation and cloud cover variables, alongside expanded training data, revised loss weighting, and an extended set of surface and atmospheric variables. Overall skill improves by 4 %–6 % in the upper air and near-surface variables without degradation of spatial variability. A controlled comparison shows that training data expansion is the dominant source of upper-air skill gains, highlighting the importance of frequent model updates. The bounding framework delivers the largest precipitation improvements…",
-    "authors": "Gabriel Moldovan, Ewan Pinnington, Ana Prieto Nemesio, Simon Lang et al.",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "<i>ForEdgeClim</i>\n                    v1.0: a 3D process-based microclimate model incorporating vertical and lateral radiative and thermal  fluxes to simulate forest edge-to-core transitions",
-    "doi": "10.5194/gmd-19-4661-2026",
-    "url": "https://doi.org/10.5194/gmd-19-4661-2026",
-    "abstract": "Abstract. Forest microclimates play a fundamental role in regulating biodiversity, ecosystem functioning, and forest resilience to climate change. However, most existing microclimate models focus on vertical processes and neglect lateral energy exchanges, limiting their ability to represent forest edge effects. Due to ongoing forest fragmentation, such lateral fluxes play an essential role in forest microclimate and associated ecological processes, particularly given that up to 20 % of global forest cover lies within 100 m of a forest edge. Here, we introduce ForEdgeClim, a new process-based microclimate model implemented as a publicly available open-source R package that is able to simulate air and surface temperature at high spatial resolution along the forest edge-to-core continuum (her…",
-    "authors": "Emma Van de Walle, Félicien Meunier, Steven J. De Hertog, Louise Terryn et al.",
     "published": "2026-06-01",
     "keywords_matched": [
       "ABL"
