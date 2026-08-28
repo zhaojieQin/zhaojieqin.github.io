@@ -1,5 +1,29 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Issue Information",
+    "doi": "10.1029/jgrd.70930",
+    "url": "https://doi.org/10.1029/jgrd.70930",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-08-28",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Advances in Atmospheric Sciences",
+    "title": "YRD1km: A 1-km Hourly High-Resolution Regional Reanalysis Dataset over the Yangtze River Delta with Emphasis on Thermodynamic Structure",
+    "doi": "10.1007/s00376-026-6095-4",
+    "url": "https://doi.org/10.1007/s00376-026-6095-4",
+    "abstract": "Abstract High-resolution atmospheric thermodynamic information is essential for resolving localized weather processes in complex urbanized regions such as the Yangtze River Delta (YRD). However, existing global reanalysis products are limited by coarse spatial resolution, constraining their ability to represent fine-scale thermodynamic structures. In this study, we develop YRD1km, a 1-km hourly regional thermodynamic reanalysis dataset for the YRD, generated through dynamical downscaling of ERA5 using the WRF model with a three-level nested configuration. The framework integrates optimized physical parameterizations, a combined observation and analysis nudging strategy, and updated high-resolution land-use information. The current dataset covers the summer seasons (June–August) from 2021 t…",
+    "authors": "Yan-An Liu, Zhengyan Zhang, Tianyue Zeng, Zhenglong Li et al.",
+    "published": "2026-08-28",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
     "journal": "Advances in Atmospheric Sciences",
     "title": "Simulating Martian Atmospheric Processes and Local Dust Events with a Global Variable-Resolution Model (iAMAS-Mars)",
     "doi": "10.1007/s00376-026-5694-4",
@@ -152,6 +176,18 @@
     "url": "https://doi.org/10.1017/jfm.2026.11915",
     "abstract": "Stalagmites in karstic caves preserve valuable palaeoclimate records through calcium-rich layered deposits, presenting curvature variations both across and within individual stalagmites. Stalagmites always remain covered by a thin water film fed by a discrete inflow of drops, which bring in new ions in solution for the stalagmites to grow. However, the gravity-induced drainage of this film and its response to the underlying stalagmite shape and the discrete drop inflow remain poorly characterised in existing growth models. To address these limitations, we develop a theoretical framework that captures the combined effects of shape curvature and discrete drop inflow on thin film drainage dynamics, starting from Reynolds lubrication theory expressed in curvilinear coordinates. From there, we …",
     "authors": "Justine Parmentier, Vincent Emmanuel Terrapon, Tristan Gilet",
+    "published": "2026-08-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Weakly nonlinear development of shock cells in imperfectly expanded supersonic jets",
+    "doi": "10.1017/jfm.2026.11932",
+    "url": "https://doi.org/10.1017/jfm.2026.11932",
+    "abstract": "A weakly nonlinear theory is developed for shock cells in an imperfectly expanded axisymmetric supersonic jet. By adopting a jet profile with a finite-thickness shear layer and a high-Reynolds-number asymptotic formalism, the shock cells are treated at leading order as a superposition of a countable number of standing-wave modes. The initial amplitude of each mode at the nozzle exit is proportional to normal upper Delta p Δ p $\\Delta p$ , the difference between the nozzle exit pressure and the ambient pressure. Effects of viscosity and non-parallelism, associated with the slow streamwise variation of the base flow, are accounted for. The nonlinear quadratic interactions among the leading-order modes generate sum and difference modes, as well as the harmonics and mean-flow distortion. These…",
+    "authors": "Zhengxuan Song, Yihong Fang, Zhongyu Zhang, Xuesong Wu",
     "published": "2026-08-25",
     "keywords_matched": [
       "ABL"
@@ -6115,43 +6151,6 @@
     "url": "https://doi.org/10.1063/5.0336761",
     "abstract": "As bridge spans continue to increase, bridge deck sections are more susceptible to soft flutter with large-amplitude vibration under wind action. However, most existing wind tunnel studies and computational fluid dynamics (CFD) simulations employ geometrically linear structural models, making it difficult to accurately capture the dynamic characteristics of soft flutter at large amplitudes. In this study, by taking a flat closed-box bridge deck section installed on a spring-damper suspension system in a wind tunnel as a background, a geometrically nonlinear structural model of coupled vertical-torsional soft flutter and its equations of motion are established. CFD solutions for large-amplitude coupled vertical-torsional soft flutter, considering a fluid solver and a structural solver with …",
     "authors": "Bo-Man Cheng, You-Lin Xu, Hao-Yang Li, Guang-Zhong Gao et al.",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Efficient heat extraction in enhanced geothermal systems reservoirs: From parameter coupling to structural optimization",
-    "doi": "10.1063/5.0324079",
-    "url": "https://doi.org/10.1063/5.0324079",
-    "abstract": "Developing hot dry rock geothermal energy via enhanced geothermal systems (EGS) is crucial for sustainable energy; however, optimizing extraction in heterogeneous reservoirs remains challenging. Existing studies predominantly focus on planar flow extraction patterns in homogeneous reservoirs, lacking a comprehensive understanding of the fluid dynamics mechanisms and heat transfer behaviors under the coupling effect of heterogeneous strata and fractures. In this study, a three-dimensional (3D) coupled thermo-hydraulic finite element numerical model was established to systematically quantify the impacts of flow patterns, well spacing parameters, stratigraphic heterogeneity, and the geometric characteristics of large irregular fractures on the heat extraction performance of an EGS over a 60-y…",
-    "authors": "Xulong Cai, Jianglong Cai, Zouwei Liu, Qiao Deng et al.",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL",
-      "heat transfer"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Binary fluid convection in a slot in the balanced buoyancy case including the Soret effect",
-    "doi": "10.1063/5.0331206",
-    "url": "https://doi.org/10.1063/5.0331206",
-    "abstract": "An exhaustive bifurcation diagram of the steady and initially stable periodic solutions arising in double-diffusive convection of an Ar–CO2 mixture confined in a vertical slot is numerically unfolded in the balanced buoyancy case, with the particularity of taking into account the Soret effect. The consequences of modifying the linear problem including a new term to the equations are first examined. Next, a complex bifurcation diagram of equilibria and periodic orbits is shown. It includes a great amount of extended and localized patterns of convection, retaining or not the initial center symmetry. The stability of the branches of solutions with respect to arbitrary perturbations is analyzed. The study shows that the stable steady flows maximize the mass and heat transport. Two types of sta…",
-    "authors": "Juan Sánchez Umbría, Marta Net",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Research on the thermal decomposition mechanism of CO2 hydrate under microfluidic visualization conditions",
-    "doi": "10.1063/5.0332665",
-    "url": "https://doi.org/10.1063/5.0332665",
-    "abstract": "Carbon capture and storage is an important approach to mitigating climate change, and CO2 hydrate storage has received increasing attention due to its high storage density and thermodynamic stability. However, the stability of CO2 hydrates under thermal disturbance remains unclear, especially at the pore scale where hydrate morphology and interface conditions may significantly affect decomposition behavior. In this study, a microfluidic experimental system was established to investigate the thermal decomposition of CO2 hydrates under heat injection. Through microscopic imaging combined with machine learning-based phase segmentation, shell-like and fracture-like hydrates were identified, and their decomposition sequences, gas release characteristics, and bubble evolution behaviors were quan…",
-    "authors": "Jiaqi Wang, Kai Zhang, Si Li, Xu Hou et al.",
     "published": "2026-06-01",
     "keywords_matched": [
       "ABL"
