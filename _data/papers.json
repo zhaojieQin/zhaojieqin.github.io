@@ -1,6 +1,18 @@
 [
   {
     "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Clustering of Right‐Moving Tornadic Supercell Proximity Sounding Profiles Using an Explainable Framework",
+    "doi": "10.1029/2026jd046496",
+    "url": "https://doi.org/10.1029/2026jd046496",
+    "abstract": "Abstract This study demonstrates an explainable machine learning framework for explicitly selecting important environmental features that determine clusters of right‐moving tornadic supercells. Although previous studies have clustered and analyzed proximity sounding profiles associated with tornadic right‐moving supercells, few have identified key features driving cluster assignments. Using self‐organizing maps, we group soundings based on virtual buoyancy and wind profiles. Recursive feature elimination reveals that virtual buoyancy at heights of approximately 3 and 10.6 km (near the equilibrium level) are the most significant features in this clustering, with both acting as a proxy for the potential magnitude of Convective Available Potential Energy (CAPE) and Convective Inhibition (CIN)…",
+    "authors": "Zhanxiang Hua, Alexandra Anderson‐Frey, Qin Jiang, Matthew C. Brown",
+    "published": "2026-08-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Issue Information",
     "doi": "10.1029/jgrd.70930",
     "url": "https://doi.org/10.1029/jgrd.70930",
@@ -6137,18 +6149,6 @@
     "url": "https://doi.org/10.1063/5.0328473",
     "abstract": "Ultraviolet light-emitting diodes (LEDs) offer advantages over mercury lamps, but their directional emission demands precise alignment with reactor hydrodynamics for effective disinfection. Conventional reactor designs often overlook hydraulic short-circuiting, where fast streamlines bypass high-radiation zones. This study establishes a targeted placement strategy that passively aligns the radiation field with velocity profiles in U-shaped and S-shaped photoreactors. We employed a validated computational framework, coupling computational fluid dynamics with ray-tracing, to identify optimal LED configurations that intercept high-velocity zones. Experimental biodosimetry using Escherichia coli was conducted in a custom-fabricated U-shaped reactor to validate the microbial inactivation effici…",
     "authors": "Amirhossein Hassanpour, Alireza Jalali",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Numerical investigations of continuously radial detonation",
-    "doi": "10.1063/5.0327058",
-    "url": "https://doi.org/10.1063/5.0327058",
-    "abstract": "The connection between rotating detonation waves and tangential high-frequency combustion instability (T-HFCI) suggests that radial HFCI (R-HFCI) may be induced by radial detonation. This implies the potential for utilizing radial detonation to achieve propulsion. This paper first explores a novel continuous detonation combustor based on radial detonation. First, the feasibility of stable operation in a radial detonation combustor is verified using a configuration with large injection intervals (LIIs). Second, a baffled configuration is employed to significantly expand the radial detonation zone, increasing the injection area ratio and propellant flow rate. The results indicate that stable operation of a two-subregion radial detonation is achieved with the LII configuration. As the inlet t…",
-    "authors": "Yixiang Li, Yiting Dang, Yuechen Hou, Peilin Liu et al.",
     "published": "2026-06-01",
     "keywords_matched": [
       "ABL"
