@@ -1,6 +1,18 @@
 [
   {
     "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Assessment of Biases in Reanalyses in Representing Monsoon Dynamics Over the Indian Subcontinent",
+    "doi": "10.1029/2026jd046443",
+    "url": "https://doi.org/10.1029/2026jd046443",
+    "abstract": "Abstract Reliable vertical profiles of temperature, humidity, and wind over the Indian Summer Monsoon (ISM) region are essential for diagnosing monsoon dynamics and for downstream forecasting and climate‐service applications, yet remain uncertain over data‐sparse and orographically complex regions. In this study, we evaluate three modern reanalyses—ERA5, JRA‐3Q, and MERRA‐2—against collocated RS41 radiosonde profiles from 11 Indian stations during the 2016–2019 monsoon seasons. The analysis covers temperature and wind from the lower troposphere to 100 hPa and relative humidity to 300 hPa. Beyond mean bias and normalized root‐mean‐square error (NRMSE), we decompose total error into systematic bias and non‐systematic pattern error components and examine lower‐ and upper‐quintile observed reg…",
+    "authors": "P. R. Satheesh Chandran, Suvarna Fadnavis, Rajib Chattopadhyay, Sunil Sonbawne et al.",
+    "published": "2026-08-31",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Clustering of Right‐Moving Tornadic Supercell Proximity Sounding Profiles Using an Explainable Framework",
     "doi": "10.1029/2026jd046496",
     "url": "https://doi.org/10.1029/2026jd046496",
@@ -253,6 +265,18 @@
     "keywords_matched": [
       "wake",
       "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Turbulence structure of volumetrically heated stratified open channel flows with\n                    <i>Pr</i>\n                    = 0.71 and\n                    <i>Pr</i>\n                    = 7",
+    "doi": "10.1017/jfm.2026.11910",
+    "url": "https://doi.org/10.1017/jfm.2026.11910",
+    "abstract": "Direct numerical simulations are performed to investigate the stratification effects on energy spectra and the spatial organisation of turbulence in stratified open-channel flow across a range of bulk stability parameters ( 0 less than or slanted equals gamma 0 less than or slanted equals 2 0 ⩽ γ 0 ⩽ 2 $0 \\leqslant \\gamma _{0} \\leqslant 2$ , where gamma 0 equals h divided by double struck upper L γ 0 = h / L $\\gamma _{0}=h/\\mathbb{L}$ denotes the ratio of domain height to a bulk Obukhov length, indicating stratification strength) for two Prandtl numbers ( italic probability equals 0.71 Pr = 0.71 $ \\textit{Pr}=0.71$ and 7). Stratification is induced by a radiative volumetric heat source, modelled using the Beer–Lambert law. Higher buoyancy sensitivity is observed at large spanwise wavelengt…",
+    "authors": "Bahare Jahani, Krishna Reddy Maryada, Michael MacDonald, Stuart Edward Norris",
+    "published": "2026-08-25",
+    "keywords_matched": [
+      "turbulence"
     ]
   },
   {
@@ -6126,32 +6150,6 @@
       "wind turbines",
       "wake",
       "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "U-shaped swimmer for hydrodynamic capture and delivery of cargo at low Reynolds numbers",
-    "doi": "10.1063/5.0314689",
-    "url": "https://doi.org/10.1063/5.0314689",
-    "abstract": "Using the two-dimensional lattice Boltzmann method, this study systematically investigates the cargo capture and delivery characteristics of a U-shaped swimmer composed of two pullers and two pushers, each with diameter D, within the swimming Reynolds number range of 0.01 ≤ Res ≤ 0.5. The U-shaped swimmer has both pushing and pulling modes. In the pushing mode, the delivery pattern depends on the cargo size: small cargo (d &amp;lt; 0.6D) exhibits central, offset, and dynamic delivery; medium cargo (0.6D–1.4D) exhibits central and offset delivery; and large cargo (d &amp;gt; 1.4D) exhibits only central delivery. The capture range of the pulling mode is significantly smaller because the high-pressure zone ahead forms an unstable equilibrium. In the pulling mode, cargo with diameters of 0.5D–…",
-    "authors": "Zenan Lai, Deming Nie",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "lattice boltzmann method",
-      "lattice boltzmann",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Optimal placement of ultraviolet light-emitting diodes inside water disinfection photoreactors: Synergistic alignment of hydrodynamic and radiation fields",
-    "doi": "10.1063/5.0328473",
-    "url": "https://doi.org/10.1063/5.0328473",
-    "abstract": "Ultraviolet light-emitting diodes (LEDs) offer advantages over mercury lamps, but their directional emission demands precise alignment with reactor hydrodynamics for effective disinfection. Conventional reactor designs often overlook hydraulic short-circuiting, where fast streamlines bypass high-radiation zones. This study establishes a targeted placement strategy that passively aligns the radiation field with velocity profiles in U-shaped and S-shaped photoreactors. We employed a validated computational framework, coupling computational fluid dynamics with ray-tracing, to identify optimal LED configurations that intercept high-velocity zones. Experimental biodosimetry using Escherichia coli was conducted in a custom-fabricated U-shaped reactor to validate the microbial inactivation effici…",
-    "authors": "Amirhossein Hassanpour, Alireza Jalali",
-    "published": "2026-06-01",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
