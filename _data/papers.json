@@ -1,6 +1,31 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Critical deformation state of binary droplet breakup in turbulence",
+    "doi": "10.1017/jfm.2026.11953",
+    "url": "https://doi.org/10.1017/jfm.2026.11953",
+    "abstract": "The deformation and breakup of drops in turbulent flows play a key role in a variety of industrial processes and natural situations. Literature reviews link the breakup of a droplet into two droplets (known as binary breakup) to a critical deformed state (CDS). Based on the droplet static pressure distribution, the CDS is defined as a level of deformation beyond which binary breakup is assumed to be inevitable and deterministic, i.e. even if no further external stresses act on the droplet. This study examines this CDS concept and identifies how sensitive rupture dynamics are to external stresses. These points are addressed using direct numerical simulations of individual droplets evolving in turbulence from their initially spherical state up to fragmentation. A scale-by-scale analysis is e…",
+    "authors": "Ignacio Roa, Fabien Thiesset, Marie-Charlotte Renoult, Christophe Dumouchel et al.",
+    "published": "2026-09-04",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Enabling instantaneous measurements of wall-shear stress in aerodynamic flows",
+    "doi": "10.1017/jfm.2026.11946",
+    "url": "https://doi.org/10.1017/jfm.2026.11946",
+    "abstract": "Accurately measuring the instantaneous wall-shear stress in wall-bounded turbulent air flows is notoriously difficult. While conventional off-the-shelf flush-mounted hot-film sensors can be calibrated to acquire the time-averaged wall-shear stress, the instantaneous fluctuations are substantially underestimated as heat from the hot film is transferred into the substrate. To address this, nonlinear regression (NLR) is used to calibrate a flush-mounted hot film to enable accurate measurements of instantaneous wall-shear stress in turbulent boundary layers in a wind tunnel. During NLR calibration, the first four moments of wall-shear stress are acquired from either laser Doppler velocimetry (LDV), by linear fitting the streamwise velocity profile from within the viscous sublayer, or from dire…",
+    "authors": "Xiaonan Chen, Joseph O’Connor, Andrew Wynn, Sylvain Laizet et al.",
+    "published": "2026-09-04",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Spanwise twisting optimises flapping wing propulsive efficiency through force reallocation and the leading-edge vortex growth regulation",
     "doi": "10.1017/jfm.2026.11974",
     "url": "https://doi.org/10.1017/jfm.2026.11974",
@@ -9,6 +34,31 @@
     "published": "2026-09-03",
     "keywords_matched": [
       "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On stochasticity of zonostrophic instability",
+    "doi": "10.1017/jfm.2026.11921",
+    "url": "https://doi.org/10.1017/jfm.2026.11921",
+    "abstract": "This paper concerns the behaviour of reduced models for turbulence–mean-flow interactions, in particular for the modelling of zonostrophic instability, which accounts for the spontaneous generation of zonal flows observed in many planetary and geophysical fluid systems. In modelling, an idealised sea of random waves or turbulent eddies is usually driven by a stochastic body force. However, the stochasticity of the zonal mean flow is often neglected, following an ergodic assumption that the zonal mean is equal to the ensemble mean. In this paper, we examine the stochasticity of the zonal mean flow and its consequences for zonostrophic instability. From large numbers of realisations of an idealised fluid system, we show that the zonal mean flow typically exhibits considerable stochasticity. …",
+    "authors": "Chen Wang, Andrew D. Gilbert, Joanne Mason, Jieliang Hong",
+    "published": "2026-09-03",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Meteorological and Emission Drivers of Compound Heat and Ozone Pollution Episodes in Oklahoma City During Periods Influenced by Atlantic Tropical Cyclones",
+    "doi": "10.1029/2026jd046327",
+    "url": "https://doi.org/10.1029/2026jd046327",
+    "abstract": "Abstract Compound heat and ozone (O 3 ) pollution events are widespread and pose significant health risks in urban areas. In the Southern Great Plains (SGP), where heat waves are becoming more frequent and intense, these compound events represent a growing environmental and public health concern, underscoring the need for improved process‐based understanding to support effective risk assessment and mitigation. This study investigates the three severe O 3 pollution episodes recorded in Oklahoma City (OKC) since 2014–19 July 2018 (106 ppb), 15 June 2021 (93 ppb), and 6–7 August 2024 (86 ppb)—with a particular focus on the June 2021 event that coincided with a pronounced heat wave. Using high‐resolution WRF‐Chem simulations, we examine the formation mechanisms and identify key meteorological …",
+    "authors": "Xiao‐Ming Hu, Chenghao Wang, Siqi Ma, Daniel Tong et al.",
+    "published": "2026-09-03",
+    "keywords_matched": [
+      "WRF"
     ]
   },
   {
@@ -698,6 +748,55 @@
     "keywords_matched": [
       "turbulence",
       "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Thermosolutal and Soret-driven convection of power-law fluids in an inclined horizontal cavity",
+    "doi": "10.1063/5.0344910",
+    "url": "https://doi.org/10.1063/5.0344910",
+    "abstract": "The interaction among thermal buoyancy, solutal effects, and non-Newtonian rheology in inclined enclosures is important for predicting heat and mass transfer in double-diffusive convection systems. This study compares double-diffusive and Soret-induced convection in an inclined cavity filled with a non-Newtonian power-law fluid and examines the effect of cavity inclination on both configurations. A horizontal heat flux is applied to the vertical walls, while the top and bottom walls are impermeable and thermally insulated. Solutal gradients are generated either by imposing constant concentration gradients on the vertical sidewalls or through the Soret effect. The problem is solved using a combined analytical and numerical approach, where the analytical formulation is based on the parallel-…",
+    "authors": "Khadija Bihiche, Bilal El hadoui, Youssef Tizakast, Mohamed Lamsaadi",
+    "published": "2026-09-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Parametric reduced-order modeling and closed-loop control of tandem-cylinder wakes",
+    "doi": "10.1063/5.0336278",
+    "url": "https://doi.org/10.1063/5.0336278",
+    "abstract": "The flow around two circular cylinders arranged in a tandem exhibits complex wake interactions that lead to amplified unsteady loads, particularly in the co-shedding regime where a fully developed wake forms in the gap between the cylinders. Although various control strategies have been proposed to mitigate these effects, most prior studies have focused primarily on load alleviation. Complete suppression of vortex shedding, both in the gap region and in the wake of the second cylinder, has so far only been achieved using open-loop approaches. In this work, we propose a closed-loop control framework for suppressing vortex shedding in tandem-cylinder flows in the co-shedding regime. Focusing on low Reynolds numbers and sufficiently large spacings, we derive a parametric reduced-order model u…",
+    "authors": "Tea Vojković, Dimitris Boskos, Abel-John Buchner",
+    "published": "2026-09-01",
+    "keywords_matched": [
+      "wake",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Multiscale modeling and analysis of transverse jet atomization and evaporation under high-temperature and elevated-pressure conditions",
+    "doi": "10.1063/5.0339182",
+    "url": "https://doi.org/10.1063/5.0339182",
+    "abstract": "This study develops an enhanced multiscale hybrid algorithm, VOF-LPT-EVAP (Volume of Fluid–Lagrangian Particle Tracking–Evaporation), for simulating liquid jet atomization and evaporation in crossflow under realistic gas turbine conditions. Current multi-scale hybrid modeling efforts primarily focus on momentum coupling, with limited attention to energy transfer and phase change, which are critical in high-temperature, high-pressure environments. To address this gap, we extend an established VOF-LPT (Volume of Fluid–Lagrangian Particle Tracking) framework by integrating phase-change mechanisms, including interface evaporation and a superheated droplet flash evaporation model. A high-precision Gaussian-based source term distribution technique ensures stability and conservation in the Euleri…",
+    "authors": "Yixin Wang, Ziting Zhao, Jianfeng Zou, Lei Jiao",
+    "published": "2026-09-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Numerical determination of the critical angle of attack for opposing-jet thermal-protection failure over a supersonic blunt body",
+    "doi": "10.1063/5.0343534",
+    "url": "https://doi.org/10.1063/5.0343534",
+    "abstract": "A three-dimensional numerical study based on the Reynolds-averaged Navier–Stokes equations and the shear-stress transport k–ω turbulence model is performed to investigate the critical angle of attack of an opposing jet over a blunt body under different flight conditions, with the freestream Mach number ranging from 4.0 to 5.0. The critical angle of attack is defined as the angle at which the opposing jet loses its thermal-protection capability, and the main objective is to clarify how the critical angle of attack varies with the jet total-pressure ratio (PR), freestream altitude (H), and freestream Mach number (Ma). The results show that increasing angle of attack drives a transition in the dominant heating mechanism from jet-induced shielding to windward-side reattachment heating, leading…",
+    "authors": "Yufeng Ai, Qin Luo, Guangming Guo, Guosheng He",
+    "published": "2026-09-01",
+    "keywords_matched": [
+      "turbulence"
     ]
   },
   {
@@ -6061,108 +6160,6 @@
     "published": "2026-06-11",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Thermosolutal instabilities in a moderately dense nanoparticle suspension in the presence of interfacial kinetics: the case of cooling at the substrate",
-    "doi": "10.1017/jfm.2026.11645",
-    "url": "https://doi.org/10.1017/jfm.2026.11645",
-    "abstract": "We investigate the onset of thermosolutal instabilities in a layer of moderately dense nanoparticle suspension cooled at the substrate in the presence of interfacial nanoparticle kinetics (adsorption and desorption) at the deformable interface. Gravity and the Soret effects are taken into account. A mathematical model with nanoparticle concentration-dependent thermophysical properties of the nanofluid is formulated. The surface tension is assumed to be a linear function of the temperature; however, the equation of state displays non-monotonicity with nanoparticle concentration due to nanoparticle interfacial energetics. We carry out the linear stability analysis of the quiescent base state using normal modes and the obtained eigenvalue problem is solved numerically. The monotonic short-wav…",
-    "authors": "Raj Gandhi, Alexander Nepomnyashchy, Alexander Oron",
-    "published": "2026-06-11",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Two-phase wing-tip vortex breakdown",
-    "doi": "10.1017/jfm.2026.11657",
-    "url": "https://doi.org/10.1017/jfm.2026.11657",
-    "abstract": "This article presents a new flow feature observed behind a rectangular wing in water: the breakdown of the wing-tip vortex induced by the temporary injection of air into the vortex core downstream of the wing. For certain combinations of Reynolds number and angle of attack, a stationary air bubble is trapped in the core at some distance from the wing and can persist for several minutes after the injection is stopped. For other parameter values, the bubble drifts downstream or upstream until it reaches the wing, or it disintegrates immediately. Measurements of the vortex properties and bubble characteristics are presented and discussed. The breakdown behaviour, which is unrelated to cavitation, is found to depend mainly on the tip vortex circulation and on the axial flow component in the vo…",
-    "authors": "Pedro Solís, Thomas Leweke, Eduardo Durán",
-    "published": "2026-06-11",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Convolutional causal learning for aerodynamic flows",
-    "doi": "10.1017/jfm.2026.11699",
-    "url": "https://doi.org/10.1017/jfm.2026.11699",
-    "abstract": "This study aims to capture aerodynamic causality from snapshot data with a time-varying mode decomposition technique referred to as information-theoretic machine learning. The current approach extracts time-dependent informative vortical structures, contributing to the future evolution of the aerodynamic coefficients. The present decomposition is employed with a convolutional neural network, enabling the identification of the spatial continuous mode. In addition, a low-order representation, characterising the informative vortical structures and their corresponding aerodynamic coefficients, can also be identified by considering autoencoder-based data compression. The present technique is applied to a range of aerodynamic examples, including extreme vortex-gust aerofoil interactions, experim…",
-    "authors": "Ryo Koshikawa, Ryo Araki, Qiong Liu, Kai Fukami",
-    "published": "2026-06-11",
-    "keywords_matched": [
-      "ABL",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Effect of freestream turbulence on the coherent dynamics of a wind turbine wake",
-    "doi": "10.1017/jfm.2026.11665",
-    "url": "https://doi.org/10.1017/jfm.2026.11665",
-    "abstract": "The wake of a model wind turbine exposed to incoming freestream turbulence (FST) with a variety of turbulent characteristics is studied through particle image velocimetry experiments. The FST cases were produced using different passive turbulence generating grids. The cases spanned turbulent intensities ( $T_i$ ) in the range $1.3\\,\\% \\lesssim T_i\\lesssim 14\\,\\%$ and only considered short integral length scales $L_v \\lesssim 0.2D$ (where $D$ is the turbine diameter). Increasing $T_i$ and $L_v$ in this range resulted in an earlier breakdown of the tip vortices which is shown to be associated with increased wake meandering amplitudes. For all the FST cases considered, the initiation of wake meandering was found to be related to a turbine instability that is excited by the nacelle’s shedding,…",
-    "authors": "Neelakash Biswas, Oliver Buxton",
-    "published": "2026-06-11",
-    "keywords_matched": [
-      "wind turbine",
-      "wake",
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Wall-modelled large-eddy simulations of the neutral atmospheric boundary layer over rough homogeneous and heterogeneous surfaces",
-    "doi": "10.1017/jfm.2026.11581",
-    "url": "https://doi.org/10.1017/jfm.2026.11581",
-    "abstract": "We present a high-Reynolds-number large-eddy simulations (LES) study of the neutral atmospheric boundary layer (ABL) over both homogeneous and heterogeneous rough-wall surfaces. The LES utilise a coupling of the stretched vortex (SV) subgrid-scale (SGS) model with a new wall model based on the implementation of a wall-stress-like (WS) boundary condition at the wall-adjacent cell combined with an ordinary differential equation model of the wall shear stress (WSODE). The WSODE model is derived from the virtual-wall model but eliminates both the virtual wall itself and some model parameters. For the ABL over homogeneous roughness, the SV-WSODE model successfully captures the streamwise wall shear stress, the logarithmic velocity profile, and the turbulence energy spectra, demonstrating perfor…",
-    "authors": "Xiao Liu, D.I. Pullin, Wan Cheng, Xisheng Luo",
-    "published": "2026-06-11",
-    "keywords_matched": [
-      "turbulence",
-      "atmospheric boundary layer",
-      "ABL",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Formation of Shallow Cumulus Patterns Using a Simple Warm Cloud Precipitation Model",
-    "doi": "10.1029/2026jd047005",
-    "url": "https://doi.org/10.1029/2026jd047005",
-    "abstract": "Abstract A simple model based on predator‐prey‐like dynamics using a system of four nonlinear ordinary differential equations is used to simulate the life cycle of shallow cumulus. By coupling this model across a two‐dimensional array and varying the cloud environment, we can simulate three common patterns of self‐aggregation seen in the maritime trades. These patterns include sugar, the small and randomly dispersed cumulus with little precipitation; gravel, small cumulus with frequent precipitation mostly associated with cold pools; and flowers, large clusters of cumulus surrounded by clear air. We find that clouds begin to cluster and organize as the environment grows more stable, the boundary layer deepens, latent heating increases, and clouds more strongly interact with their neighbors…",
-    "authors": "Michelle K. Kanipe, Peter J. van Leeuwen, Graham Feingold",
-    "published": "2026-06-11",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "A method for assessing model extensions: application to modelling winter precipitation with a microscale obstacle-resolving meteorological model (MITRAS v3.3)",
-    "doi": "10.5194/gmd-19-4885-2026",
-    "url": "https://doi.org/10.5194/gmd-19-4885-2026",
-    "abstract": "Abstract. The microscale, obstacle-resolving meteorological transport and stream model MITRAS has been extended with a snow cover and precipitation scheme. The performance of the model extension is assessed by comparing the results of different model versions using a method based on hit rates originally developed for assessing wind performance. For temperature, radiation and precipitation, estimates for the threshold values were derived based on computational accuracy; these are used in the hit rate calculation for these variables. The threshold values for the deviations are 0.02 m s−1 (5 %) for the wind components, 0.05 K (0.02 %) for temperature, 0.5 W m−2 (0.5 %) and 0.5 W m−2 (0.2 %) for the net long and short wave radiation, and 0.001 mm (1 %) for precipitation on ground. The model ex…",
-    "authors": "Karolin S. Samsel, Marita Boettcher, David Grawe, K. Heinke Schlünzen et al.",
-    "published": "2026-06-11",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Intrinsic length scales in spanwise response regimes of vortex-induced vibration for catenary-type risers",
-    "doi": "10.1017/jfm.2026.11631",
-    "url": "https://doi.org/10.1017/jfm.2026.11631",
-    "abstract": "Understanding vortex-induced vibrations (VIV) of long flexible structures with curvature such as catenary-type risers (CTRs) is essential for offshore engineering, where such structures are widely deployed. Here, we perform numerical simulations of the VIV responses of CTRs in uniform flow over a range of incoming velocities and initial configurations, revealing pronounced spanwise zoning characteristics. First, modal-group switching is identified as the mechanism governing the transition between mono- and multi-frequency responses. Within modal group, mono-frequency dominates, organising a monotonic phase angle and single travelling-wave direction. At the modal-transition region, drifting mono-frequency events constitute multi-frequency response, resulting in non-monotonic phase behaviour…",
-    "authors": "Zhilin Xia, Ke Lin, Hanxu Zheng, Jiasong Wang et al.",
-    "published": "2026-06-10",
-    "keywords_matched": [
-      "vortex"
     ]
   }
 ]
