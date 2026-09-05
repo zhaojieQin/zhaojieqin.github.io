@@ -26,6 +26,79 @@
   },
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Two-way lock-in and scaling relations for a heaving compliant membrane in a cylinder wake",
+    "doi": "10.1017/jfm.2026.11895",
+    "url": "https://doi.org/10.1017/jfm.2026.11895",
+    "abstract": "We numerically investigate the propulsion of a two-dimensional compliant membrane executing prescribed harmonic heave in the near wake of a stationary circular cylinder at Reynolds number italic Re equals 3000 Re = 3000 $\\textit{Re}=3000$ . Using a partitioned high-fidelity fluid–structure interaction solver with nonlinear iterative force correction, we map the coupled response over upper A Superscript asterisk Baseline element of left bracket 0.05 comma 0.5 right bracket A ∗ ∈ [ 0.05 , 0.5 ] $A^* \\in [0.05,0.5]$ and f Superscript asterisk Baseline element of left bracket 0.1 comma 0.6 right bracket f ∗ ∈ [ 0.1 , 0.6 ] $f^* \\in [0.1,0.6]$ , where upper A Superscript asterisk A ∗ $A^*$ is dimensionless flapping amplitude and f Superscript asterisk f ∗ $f^*$ is dimensionless flapping frequen…",
+    "authors": "Guojun Li, Lanlan Wang, Weitao Jiang, Hongzhong Liu et al.",
+    "published": "2026-09-04",
+    "keywords_matched": [
+      "wake"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Localised particle clustering triggers periodic leakage in a counter-rotating vortex pair",
+    "doi": "10.1017/jfm.2026.11988",
+    "url": "https://doi.org/10.1017/jfm.2026.11988",
+    "abstract": "Multiscale vortex structures significantly influence inertial particle dynamics, contributing to clustering in turbulent flows – a phenomenon common in many applications. In this study, our primary objective is to investigate how particle clustering is influenced by vortex effects while accounting for particle feedback. Using a two-way coupled numerical method, we identify novel particle dynamics characteristics, as localised particle clustering triggers periodic leakage, even in a dilute particle-laden unequal-strength counter-rotating vortex pair (CVP). Small, heavy, dilute inertial particles are considered. In particular, the initial particle volume fraction and the particle Stokes number are set to upper Phi Subscript p comma 0 Baseline less than 1.0 times 10 Superscript negative 3 Φ p…",
+    "authors": "Zilong Zhao, Zhigang Zuo, Zhongdong Qian",
+    "published": "2026-09-04",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Validity of the twin-force analogy in Couette flows",
+    "doi": "10.1017/jfm.2026.11999",
+    "url": "https://doi.org/10.1017/jfm.2026.11999",
+    "abstract": "This study combines linear stability analysis (LSA) and direct numerical simulations (DNS) to investigate the coupling mechanisms of rotation, stratification and shear in two flow geometries: spanwise rotating stratified plane Couette flow (between two infinite parallel plates) and sheared annular centrifugal Rayleigh–Bénard convection (between two concentric cylinders). First, LSA reveals a universal scaling law with respect to left parenthesis 1 minus eta right parenthesis ( 1 − η ) $(1-\\eta )$ , where eta η $\\eta$ denotes the radius ratio, for the deviation between annular and planar system results, quantitatively establishing the dynamical connection between annular and planar geometries. Building on this, DNS results indicate that the breakdown of the twin-force analogy in the turbule…",
+    "authors": "Zhouxin Jiang, Shengqi Zhang, Jiaao Hao, Chao Sun et al.",
+    "published": "2026-09-04",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Direct time-domain eduction of acoustic liner impedance in turbulent grazing flows",
+    "doi": "10.1017/jfm.2026.11969",
+    "url": "https://doi.org/10.1017/jfm.2026.11969",
+    "abstract": "Acoustic liners are passive sound-absorbing materials widely used in engineering applications and are commonly characterised by their acoustic impedance. In the presence of high sound pressure levels or grazing flows, the impedance is modified by local nonlinear effects. Conventional impedance measurements are typically obtained through frequency-domain eduction techniques, which infer impedance from its effect on measurable acoustic quantities and therefore rely on assumptions regarding wave propagation and near-wall acoustic–flow interactions. In this paper, a time-domain impedance eduction approach based on instantaneous wall-normal velocity measurements is developed to investigate the nonlinear response of acoustic liners under grazing-flow conditions. Unlike conventional methods, the …",
+    "authors": "Rémi Roncen, Ludovic Ambrosiani, Angelo Paduano, Francesco Avallone et al.",
+    "published": "2026-09-04",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Lagrangian dynamics and spatial distribution of particles in rotating turbulence",
+    "doi": "10.1017/jfm.2026.11980",
+    "url": "https://doi.org/10.1017/jfm.2026.11980",
+    "abstract": "The dynamics of Lagrangian particles dispersed in rotating turbulence differ fundamentally from those observed in classical homogeneous isotropic turbulence (HIT). Rotation induces a pronounced two dimensionalisation of the carrier flow, governed by inertial waves and coherent columnar vortices, while particles experience additional Coriolis and centrifugal accelerations that compete with the standard Stokes drag. In this study, high-fidelity direct numerical simulations of HIT and rotating turbulence in a triply periodic domain are used to investigate the clustering and Lagrangian dynamics of millions of sub-Kolmogorov point particles. Increasing rotation reorganises both the flow and the dispersed phase: moderate rotation produces a domain-scale columnar vortex that expels inertial parti…",
+    "authors": "Federico Pizzi, David Martín, Mona Rahmani, George Mamatsashvili et al.",
+    "published": "2026-09-04",
+    "keywords_matched": [
+      "turbulence",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Quasi-geostrophic Rayleigh–Bénard convection on the tilted bold italic f\n                    <mml:math xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:mnf=\"http://cambridge.org/core/manifest\" xmlns:cup=\"http://contentservices.cambridge.org\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:m=\"http://cambridge.org/core/metadata\" xmlns:core=\"http://cambridge.org/core\" xmlns:c=\"http://cambridge.org/core/content\">\n                      <mml:mi mathvariant=\"bold-italic\">f</mml:mi>\n                    </mml:math>\n                    $\\boldsymbol{f}$\n-plane",
+    "doi": "10.1017/jfm.2026.11890",
+    "url": "https://doi.org/10.1017/jfm.2026.11890",
+    "abstract": "Rapidly rotating Rayleigh–Bénard convection on an f f $f$ -plane at colatitude theta Subscript f ϑ f $\\vartheta _{\\!f}$ is investigated numerically using an asymptotically reduced equation set valid in the limit of very rapid rotation. The equations provide a non-hydrostatic but quasi-geostrophic description in a non-orthogonal coordinate system. The tilt changes the structure of the large-scale barotropic condensate from large-scale vortices to zonal flows as the colatitude of the f f $f$ -plane increases, with bistable states present for certain parameter ranges, extending prior work to a geophysically significant parameter regime. This behaviour is understood through the impact of broken rotation symmetry on the barotropic source terms resulting from baroclinic vorticity stresses and ba…",
+    "authors": "Benjamin Miquel, Abram Ellison, Michael A. Calkins, Keith Julien et al.",
+    "published": "2026-09-04",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Spanwise twisting optimises flapping wing propulsive efficiency through force reallocation and the leading-edge vortex growth regulation",
     "doi": "10.1017/jfm.2026.11974",
     "url": "https://doi.org/10.1017/jfm.2026.11974",
@@ -797,6 +870,95 @@
     "published": "2026-09-01",
     "keywords_matched": [
       "turbulence"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Numerical investigation of propeller wake evolution and mud entrainment in a water–mud stratified environment",
+    "doi": "10.1063/5.0348582",
+    "url": "https://doi.org/10.1063/5.0348582",
+    "abstract": "The interaction between marine propellers and sediment-laden seabeds is of significant importance for navigation safety, environmental protection, and the hydrodynamic performance of marine vehicles operating in shallow waters. In this study, wake evolution and mud entrainment of the National Research Council of Italy-Institute of Marine Engineering (CNR-INM) E779A propeller in a water–mud stratified environment are studied via improved delayed detached eddy simulation combined with the volume of fluid. The numerical methodology is first validated against available experimental data for propeller open-water performance and wake flow characteristics. The effects of the water–mud interface on propeller hydrodynamic loads, vortex evolution, turbulence transition, and sediment transport are su…",
+    "authors": "Peng Hu, Tiecheng Wu, Jie Gong, Zhengren Wang et al.",
+    "published": "2026-09-01",
+    "keywords_matched": [
+      "wake",
+      "turbulence",
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Numerical investigation of flow-induced noise for a fully appended underwater vehicle",
+    "doi": "10.1063/5.0339880",
+    "url": "https://doi.org/10.1063/5.0339880",
+    "abstract": "Flow-induced noise, as an acoustic phenomenon generated by fluid motion, mainly originates from unsteady pressure fluctuations exerted by turbulent flow on solid surfaces, with the resulting acoustic energy radiating outward through the fluid medium. For underwater vehicles, stealth is one of the most critical performance indicators. As the structural complexity of such vehicles increases, various appendages inevitably alter the local flow field during navigation, thereby intensifying the generation of flow-induced noise. Among these, protruding structures, such as the sail and stern rudders, as well as recessed structures, such as flood holes, are particularly significant contributors to flow-induced noise because of their pronounced effects on flow separation, vortex evolution, and press…",
+    "authors": "Yu Lu, Yilang Tu, Hui Chu, Jiafeng Wu et al.",
+    "published": "2026-09-01",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Wave-induced frequency locking and coherent structures of a near-surface airfoil",
+    "doi": "10.1063/5.0346896",
+    "url": "https://doi.org/10.1063/5.0346896",
+    "abstract": "Free-surface waves strongly modify the near-airfoil flow field in close proximity to wavy surfaces. This paper investigates the aerodynamic, wake, and modal characteristics of the National Advisory Committee for Aeronautics 6412 airfoil near a wavy surface at different water-surface clearances and angles of attack using numerical simulations based on the volume of fluid method. The results show that larger angles of attack and smaller water-surface clearances lead to higher mean lift and stronger lift fluctuations, indicating more pronounced unsteady aerodynamic characteristics. Affected by the periodic motion of the wave free surface, the lift coefficient varies periodically with the wave phase. Moreover, the dominant frequency of the lift signal is nearly identical to the wave frequency,…",
+    "authors": "Xuzhan Xiao, Qingchi Zhu, Hongfu Zhang, Xuhui He et al.",
+    "published": "2026-09-01",
+    "keywords_matched": [
+      "wake"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "A regularized Rortex formulation for derivative-based vortex dynamics analysis",
+    "doi": "10.1063/5.0345979",
+    "url": "https://doi.org/10.1063/5.0345979",
+    "abstract": "The Rortex vector, also referred to as Liutex in part of the literature, provides a rotation-axis-based measure of local rigid-body rotation and supports Rortex–shear decomposition and derivative-based vortex dynamics analysis. However, the original Rortex field may exhibit non-smooth derivatives near vortex boundaries, leading to spurious spikes and oscillations in gradients, Laplacians, material derivatives, viscous terms, and Rortex–shear interaction terms. To improve derivative robustness, a regularized Rortex magnitude Rreg is introduced. The formulation preserves the rigid-body rotation limit and the principal vortical structures identified by the original Rortex while smoothing the transition near vortex boundaries. Its behavior is examined using the Lamb–Oseen vortex, two- and thre…",
+    "authors": "Yiqian Wang, Jiansong Zhu, Song Huang, Yuehong Qian",
+    "published": "2026-09-01",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Improved empirical model and numerical simulation of an impinging jet with application to steady-state flows of downbursts",
+    "doi": "10.1063/5.0348616",
+    "url": "https://doi.org/10.1063/5.0348616",
+    "abstract": "Downburst events generate extreme near-surface winds over a considerable area, posing significant threats to structures. The existing empirical models usually model the vertical and radial steady-state profiles of the downburst separately based on empirical equations. However, these models are difficult to consider the effects of the nonlinear growth of boundary layer thickness, and a spatial wind velocity field encompassing the core region has yet to be established. This study proposes a novel empirical model based on a generalized modal decomposition. It features an improved vertical shaping function for the radial velocity and a set of data-based characteristic functions for the model parameters. Furthermore, the integral expression for the vertical velocity field is derived based on th…",
+    "authors": "Congjie Shang, Yulong Bao, Yongle Li",
+    "published": "2026-09-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Separated wake prediction of reference bluff bodies based on a tensor basis neural network-based turbulence model",
+    "doi": "10.1063/5.0345237",
+    "url": "https://doi.org/10.1063/5.0345237",
+    "abstract": "Conventional turbulence models based on the linear eddy-viscosity hypothesis cannot adequately represent turbulence anisotropy, which limits their predictive accuracy for three-dimensional separated flows around the Ahmed body. Within the Reynolds-averaged Navier–Stokes framework, this study develops a nonlinear Reynolds-stress anisotropy correction model for Ahmed-body wakes based on a tensor-basis neural network (TBNN), with a newly introduced canonical-flow training dataset and a wall-distance-based blending treatment. A posteriori evaluations of the Ahmed body flow demonstrate that the enriched training dataset improves the predictive accuracy of the TBNN model. At the same time, the wall-distance-based blending enhances numerical convergence and robustness. Compared with the baseline …",
+    "authors": "Songyuan Hu, Qiming Xu, Mengdi Li, Jian Zhao et al.",
+    "published": "2026-09-01",
+    "keywords_matched": [
+      "wake",
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "The Equilibrium Response of Atmospheric Machine‐Learning Models to Uniform Sea Surface Temperature Warming",
+    "doi": "10.1029/2026ms005815",
+    "url": "https://doi.org/10.1029/2026ms005815",
+    "abstract": "Abstract Machine learning (ML) models for the global atmosphere that are capable of producing stable, multi‐year simulations of Earth's climate have recently been developed. However, the ability of these ML models to generalize beyond the training distribution remains an open question. In this study, we evaluate the climate response of several state‐of‐the‐art ML models (ACE2‐ERA5, NeuralGCM, and cBottle) to a uniform sea surface temperature warming, a widely used benchmark for evaluating climate change. We assess each ML model's performance relative to a physics‐based general circulation model (NOAA's Geophysical Fluid Dynamics Laboratory AM4) across key diagnostics, including surface air temperature, precipitation, temperature, and wind profiles, and top‐of‐atmosphere radiation. While th…",
+    "authors": "Bosong Zhang, Timothy M. Merlis",
+    "published": "2026-09-01",
+    "keywords_matched": [
+      "ABL"
     ]
   },
   {
@@ -6001,165 +6163,6 @@
     "published": "2026-06-15",
     "keywords_matched": [
       "tidal"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Turbulent heat transfer in open-channel flows with a thermally conductive porous wall",
-    "doi": "10.1017/jfm.2026.11691",
-    "url": "https://doi.org/10.1017/jfm.2026.11691",
-    "abstract": "Direct numerical simulation (DNS) results of porous-wall turbulent flows in open channels with conjugate heat transfer are reported. For the conductive porous walls considered, the change in heat transfer is non-monotonic with permeability. The heat flux initially decreases when going from a conductive smooth wall to slightly porous walls. In this initial regime, the near-wall flow remains smooth-wall like and the heat transfer in the porous wall is dominated by molecular diffusion. A reduction of the more favourably conducting solid material then diminishes the heat transfer, whereas the skin friction monotonically increases with permeability. Beyond a certain permeability the near-wall flow transitions to the Kelvin–Helmholtz (K–H)-like regime (Gómez-de Segura &amp; García-Mayoral 2019 J…",
-    "authors": "Geert Brethouwer, Seyed Morteza Habibi Khorasani, Shervin Bagheri",
-    "published": "2026-06-15",
-    "keywords_matched": [
-      "ABL",
-      "heat transfer"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "The Differences in Anthropogenic Emission Inventories and Their Impacts on High‐Resolution CO\n                    <sub>2</sub>\n                    Simulation in Jiangsu Province, China",
-    "doi": "10.1029/2025jd046225",
-    "url": "https://doi.org/10.1029/2025jd046225",
-    "abstract": "Abstract Accurate simulation of regional carbon dioxide (CO 2 ) concentrations is critical for urban carbon monitoring, inverse modeling and mitigation. However, large uncertainties persist due to differences in anthropogenic emission inventories in China. Focusing on Jiangsu Province in the Yangtze River Delta, where the mean inter‐inventory spread in annual city‐level total emissions exceeds 60% and spatial discrepancies are substantial, we assessed how six widely used inventories affect modeled CO 2 fields. Using a 3‐km WRF‐Chem‐VPRM framework, we performed simulations for July and December 2022. To isolate the impact of inventory‐related uncertainties, we designed sensitivity experiments that separately perturbed inventory selection, emission magnitude, spatial distribution, and tempor…",
-    "authors": "Wei Feng, Xiao Tang, Jiang Zhu, Xu Zhou et al.",
-    "published": "2026-06-15",
-    "keywords_matched": [
-      "WRF"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "EMMA-Tracker v1.0: a mesoscale convective system tracker and 27-year European observational climatology",
-    "doi": "10.5194/gmd-19-5119-2026",
-    "url": "https://doi.org/10.5194/gmd-19-5119-2026",
-    "abstract": "Abstract. Investigating how mesoscale convective systems (MCSs) over Europe will change in a warming climate relies on robust projections from climate models. To confidently use these projections, researchers must first understand model capabilities and uncertainties through strict, process-based evaluation against past observations. However, a lack of suitable reference datasets currently hinders this evaluation. Existing observational trackers often use variables unavailable in European climate model ensemble output or group mesoscale convection together with co-occurring synoptic-scale fronts. Because climate models represent synoptic and mesoscale dynamics through fundamentally different physical pathways, accurately evaluating a model's convective performance requires a benchmark that…",
-    "authors": "David Kneidinger, Armin Schaffer, Douglas Maraun",
-    "published": "2026-06-15",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Composite sharpening by vortex symmetrization and normalization of tropical cyclones",
-    "doi": "10.5194/gmd-19-5041-2026",
-    "url": "https://doi.org/10.5194/gmd-19-5041-2026",
-    "abstract": "Abstract. Cyclone composites are a powerful tool for investigating the mean characteristics of tropical cyclones (TCs), offering insights into the mechanisms driving storm development. Traditional composite methods align cyclone centers to capture large-scale patterns but they tend to smooth out mesoscale features. We introduce a novel compositing framework, the SYmmetrized-Normalized Cyclone (SyNC) compositing, designed to address the structural variety of TCs. This method symmetrizes storms to axisymmetric vortices and normalizes them according to their eyewall location and the size of the TC (defined by the radius of 17 m s−1 winds). The method is applied to simulated TCs with the weather and climate model ICON run at 5 km horizontal grid length. ICON reveals the ability to simulate eve…",
-    "authors": "Andrina Caratsch, Sylvaine Ferrachat, Ulrike Lohmann",
-    "published": "2026-06-15",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "A local terrain smoothing approach for stabilizing microscale  and high-resolution mesoscale simulations: a case  study using FastEddy® (v3.0) and WRF (v4.6.0)",
-    "doi": "10.5194/gmd-19-5139-2026",
-    "url": "https://doi.org/10.5194/gmd-19-5139-2026",
-    "abstract": "Abstract. High-resolution simulations at both mesoscale and microscale increasingly rely on detailed terrain datasets, but terrain-following coordinate models can suffer from numerical instabilities in steep-slope regions. To address this issue, terrain smoothing is typically applied in numerical weather prediction models, though conventional global smoothing unnecessarily reduces resolution across the entire domain. This study presents a localized terrain smoothing approach designed to prevent numerical instabilities while preserving terrain details. Different smoothing strategies were tested for efficiency, computational cost, and terrain preservation. The final approach applies a Gaussian filter with adaptive standard deviation within a localized 3 × 3 grid, with a blending factor of 0.…",
-    "authors": "Eloisa Raluy-López, Domingo Muñoz-Esparza, Juan Pedro Montávez",
-    "published": "2026-06-15",
-    "keywords_matched": [
-      "WRF"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Toward Improved Tropical Cyclone Forecasting: An Optimized Strategy Combining Dynamic Initialization and Bogus Data Assimilation",
-    "doi": "10.1029/2026jd046976",
-    "url": "https://doi.org/10.1029/2026jd046976",
-    "abstract": "Abstract In numerical weather prediction, dynamic initialization (DI) of tropical cyclones (TCs) and bogus data assimilation (BDA) are two widely used vortex initialization methods, both of which substantially affect the track and intensity of simulated TCs. This study investigated the impact mechanisms of DI and BDA using the Typhoon Regional Assimilation and Prediction System, which is a moving nested configuration of the Weather Research and Forecasting model designed specifically for TC prediction. Sensitivity experiments demonstrated that the DI approach tends to systematically overestimate TC intensity, primarily owing to moisture updates. Adopting BDA can alleviate this overestimation but often introduces underestimation of TC intensity, thereby limiting its applicability. To addres…",
-    "authors": "Kefeng Zhu, Dajun Zhao, Xiaoqi Xu, Siwei Sun et al.",
-    "published": "2026-06-14",
-    "keywords_matched": [
-      "weather research and forecasting",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "A Physics‐Guided Machine Learning Hybrid Parameterization of Near‐Surface Turbulent Fluxes in the Arctic Stable Boundary Layer From MOSAiC Observations",
-    "doi": "10.1029/2025jd046268",
-    "url": "https://doi.org/10.1029/2025jd046268",
-    "abstract": "Abstract The transfer of momentum and sensible heat across the air‐ice interface shapes Arctic climate, sea‐ice evolution, and weather predictability. Most weather and climate models estimate these fluxes using bulk formulas based on Monin‐Obukhov similarity theory (MOST), yet MOST‐based relationships can deteriorate under strongly stable stratification and intermittent turbulence common over sea ice during the polar night. In this work, a full year of ten‐minute data from the meteorological tower setup during the Multidisciplinary drifting Observatory for the Study of Arctic Climate (MOSAiC) expedition is examined. We evaluate the advanced Arctic bulk parameterization of Gryanik et al. (2020, 2021, https://doi.org/10.1175/jas‐d‐19‐0255.1 , https://doi.org/10.1029/2021ms002590 ) (hereafter…",
-    "authors": "Tianyi Yu, Ruibo Lei, Chaoxun Hang",
-    "published": "2026-06-14",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Advances in Atmospheric Sciences",
-    "title": "Detectable Human Influence on Daytime-Nighttime Compound Heat Waves over China",
-    "doi": "10.1007/s00376-026-5473-2",
-    "url": "https://doi.org/10.1007/s00376-026-5473-2",
-    "abstract": "Abstract Daytime-nighttime compound heat waves (CHWs) pose severe threats to human society. In the context of climate warming, China has experienced significant increases and intensification of CHWs since the 1960s. This article performs a detection and attribution analysis on observed changes in CHWs over China and within its four subregions: northwestern China, northeastern China, the Yangtze River valley, and southern China, based on Coupled Model Intercomparison Project Phase 6 (CMIP6) simulations. Notably, an updated optimal fingerprinting approach with estimating equations is utilized, which is improved by more efficient point estimation and more plausible uncertainty evaluation. In general, the findings highlight human influence as the primary contributor to aggravated CHWs in China…",
-    "authors": "Wenxin Xie, Botao Zhou, Qiaohong Sun, Yan Li et al.",
-    "published": "2026-06-13",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Comparison of Soil Mineralogy From EMIT Imaging Spectroscopy and Ground‐Based Measurements in the Deserts of Southern California",
-    "doi": "10.1029/2026jd046595",
-    "url": "https://doi.org/10.1029/2026jd046595",
-    "abstract": "Abstract The highly variable spatial composition of desert soils remains a major source of uncertainty in estimates of dust radiative forcing. Existing soil mineralogy data sets used in climate models are limited by sparse ground observations and coarse spatial resolution. NASA's Earth surface Mineral dust source InvesTigation (EMIT) addresses this challenge by providing near‐global maps of surface mineralogy across dust source regions using imaging spectroscopy at ∼60 m spatial resolution. Here, we evaluate EMIT 60‐m mineral mass fraction estimates against ground‐based measurements derived from X‐ray diffraction and iron wet chemistry analyses of soil samples collected from active dust sources in the Sonoran and Mojave Deserts of Southern California. We also compare particle size distribu…",
-    "authors": "Xuan Liu, Paul Ginoux, Carlos Pérez García‐Pando, Adolfo González‐Romero et al.",
-    "published": "2026-06-13",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "BORIS-2 – a benthic ecosystem model based on allometry",
-    "doi": "10.5194/gmd-19-4907-2026",
-    "url": "https://doi.org/10.5194/gmd-19-4907-2026",
-    "abstract": "Abstract. We present a model describing the population dynamics of benthic biota, feeding from a common resource that is supplied by a flux of sinking organic carbon arriving on the seafloor. By using allometric relationships for the physiological processes of growth, mortality and respiration, and for food limitation, the model represents the population dynamics of organisms ranging in size from bacteria (10−14 g wet weight C) to large metazoans (103 gwwt C). The effect of temperature on physiological rates is also included. The only forcing information required is the ambient temperature and the rate of supply of sinking organic carbon. The model can be used for, and tuned to, specific locations. However, a parameter set is provided that is generally applicable. The ability of the model …",
-    "authors": "Adrian P. Martin, Anieke Brombacher, Noëlie Benoist, Brian J. Bett et al.",
-    "published": "2026-06-12",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Iterative run-time bias corrections in an atmospheric GCM (LMDZ v6.3)",
-    "doi": "10.5194/gmd-19-4961-2026",
-    "url": "https://doi.org/10.5194/gmd-19-4961-2026",
-    "abstract": "Abstract. Run-time bias corrections of atmospheric circulation models can be based on nudging (Newtonian relaxation) to an atmospheric reanalysis. In this case, the time increments of selected state variables are modified by adding the nudging terms obtained with an uncorrected version of the model. This is a well-known method to improve the models' representation of large-scale circulation patterns. In this work, we propose and evaluate a variant of this method, consisting of iterative nudging: the corrected model is itself nudged towards the reanalysis, and the resulting nudging terms are added to the initial ones to calculate the new, iterated correction terms. This procedure can be iterated an arbitrary number of times. Evaluating the LMDZ atmospheric general circulation model (AGCM) f…",
-    "authors": "Gerhard Krinner, Aude Champouillon, Juliette Blanchet, Frédérique Chéruy",
-    "published": "2026-06-12",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "MIPV-NWP-PINNs V1.0: development of a multi-scale photovoltaic power forecasting framework integrating numerical weather prediction with physics-informed neural networks",
-    "doi": "10.5194/gmd-19-4999-2026",
-    "url": "https://doi.org/10.5194/gmd-19-4999-2026",
-    "abstract": "Abstract. Photovoltaic (PV) power generation has become a cornerstone of clean energy, for which accurate forecasting is essential to ensure safe and efficient grid integration. However, achieving reliable PV power forecasts remains challenging due to two primary sources of uncertainty: inherent errors in Numerical Weather Prediction (NWP)-derived meteorological variables, particularly solar irradiance, and the complex nonlinear conversion process from meteorological inputs to PV power output, which is influenced by both atmospheric conditions and PV module characteristics. To address this challenge, this study develops a multi-scale PV power forecasting framework that integrates NWP with deep learning techniques and evaluates its performance using PV module monitoring data from a power st…",
-    "authors": "Fei Zhang, Xingcai Li, Zifa Wang, Yunyun Wen et al.",
-    "published": "2026-06-12",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Prandtl number dependence of rotating internally heated convection",
-    "doi": "10.1017/jfm.2026.11670",
-    "url": "https://doi.org/10.1017/jfm.2026.11670",
-    "abstract": "We investigate the influence of the Prandtl number ( $\\textit{Pr}$ ) on penetrative internally heated convection (IHC) in both non-rotating and rotating regimes using three-dimensional direct numerical simulations. By varying $\\textit{Pr}$ between 0.1 and 100, we show that the global mean temperature $\\overline {\\langle T \\rangle }$ is not very sensitive to $\\textit{Pr}$ , and is primarily controlled by the dynamics of the unstably stratified top boundary layer. In contrast, the Prandtl number dictates the behaviour of the lower, stably stratified region and affects the vertical convective heat flux $\\overline {\\langle wT \\rangle }$ . In the non-rotating case, low- $\\textit{Pr}$ fluids exhibit a ‘symmetry recovery’ where turbulent stirring agitates the stable layer, whereas high- $\\textit{…",
-    "authors": "Rodolfo Ostilla-Mónico, Ali Arslan",
-    "published": "2026-06-11",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
