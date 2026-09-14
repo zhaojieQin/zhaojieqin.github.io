@@ -1,5 +1,17 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Disturbance growth analysis of pressure gradient transition flow with three-dimensional rough surfaces",
+    "doi": "10.1017/jfm.2026.12000",
+    "url": "https://doi.org/10.1017/jfm.2026.12000",
+    "abstract": "This study employs direct numerical simulations to examine the laminar-to-turbulent transition over a flat plate subjected to a favourable–adverse pressure gradient, incorporating isotropic/anisotropic and negatively skewed rough surfaces. The rough surfaces are positioned upstream of the separation point. By leveraging global stability analysis, inlet/local transient growth analysis and resolvent analysis, the combined effects of rough surface and adverse pressure gradients on disturbance growth mechanisms during transition are elucidated. The findings indicate that isotropic rough surfaces are most likely to trigger global instability, while streamwise modulation demonstrates the strongest inertia in this regard. Convective-type modes dominate near the outlet. As the system approaches th…",
+    "authors": "Weihao Ling, Stefania Cherubini, Zhiheng Wang, Wenlin Huang et al.",
+    "published": "2026-09-14",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Linking the Abruptness of South Asian Summer Monsoon Onset to Convection Aggregation Using SP‐CAM",
     "doi": "10.1029/2025jd045658",
@@ -6145,18 +6157,6 @@
     "url": "https://doi.org/10.1017/jfm.2026.11730",
     "abstract": "In this study, experimental deep reinforcement learning (DRL) control of aerofoil flow separation is conducted at a chord-based Reynolds number of italic Re Subscript c Baseline equals 1.5 times 10 Superscript 5 Re c = 1.5 × 10 5 ${\\textit{Re}}_c=1.5\\times 10^5$ . A dielectric barrier discharge plasma actuator mounted at the leading edge and a hotwire placed in the separated shear layer act as the flow disturber and the state monitor, respectively. The closed-loop control law is parameterised by a radial basis function network and executed in real time on a field-programmable gate array at 1 kHz. With the aid of a deep deterministic policy gradient algorithm, a satisfying closed-loop control strategy can be derived in less than one minute, and the resulting lift coefficient increment (21 %…",
     "authors": "Jiawei Xiang, Haohua Zong, Yun Wu, Jinping Li et al.",
-    "published": "2026-06-24",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Experimental observation of a pathological laminar separation bubble over an aerofoil",
-    "doi": "10.1017/jfm.2026.11709",
-    "url": "https://doi.org/10.1017/jfm.2026.11709",
-    "abstract": "It is a well-established fact that at a fixed angle of attack, with increasing Reynolds number, italic Re Re ${\\textit{Re}}$ , a laminar separation bubble (LSB) will shrink and eventually cease to exist, due to increase in the growth rate of hydrodynamic instability modes. However, during this wind tunnel test campaign, we observed that paradoxically the LSB increased in length from italic Re equals 2 times 10 Superscript 5 Re = 2 × 10 5 ${\\textit{Re}}=2\\times 10^5$ to italic Re equals 2.5 times 10 Superscript 5 Re = 2.5 × 10 5 ${\\textit{Re}}=2.5\\times 10^5$ . Further diagnostics showed that this was due to a modification of the background forcing environment, often neglected in the literature. The perturbation generated from potential aero–vibroacoustic interaction unexpectedly boosted To…",
-    "authors": "Erwin R. Gowree, Victoria Prieto, Stefano Bianchi",
     "published": "2026-06-24",
     "keywords_matched": [
       "ABL"
