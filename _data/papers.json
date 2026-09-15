@@ -12,6 +12,68 @@
     ]
   },
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On the consistent similarity of equilibrium supersonic pressure-gradient turbulent boundary layers over smooth and rough walls",
+    "doi": "10.1017/jfm.2026.12007",
+    "url": "https://doi.org/10.1017/jfm.2026.12007",
+    "abstract": "The consistent outer-layer similarity of equilibrium supersonic pressure-gradient turbulent boundary layers (PGTBLs) over smooth and rough walls, which has not been systematically explored for rough-wall configurations, is investigated using a unified similarity theory and direct numerical simulations (DNS). A unified similarity framework applicable to both wall conditions is developed, within which a compressible pressure-gradient parameter, upper Lamda Subscript c Λ c $\\varLambda _c$ , is identified as the governing similarity parameter. The theory predicts that smooth- and rough-wall PGTBLs are self-similar when upper Lamda Subscript c Λ c $\\varLambda _c$ constant in the streamwise direction, and that consistent similarity between the two flows is achieved when they share the same upper…",
+    "authors": "Yuhan Wang, Yuehua Fan, Zepeng Yang, Xinliang Guo et al.",
+    "published": "2026-09-14",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Causal analysis of inner and outer motions in near-wall turbulence",
+    "doi": "10.1017/jfm.2026.12025",
+    "url": "https://doi.org/10.1017/jfm.2026.12025",
+    "abstract": "In this work we study the causality of near-wall inner and outer turbulent motions. The inner motions are defined as the self-sustained near-wall cycle and the outer motions as those living in the logarithmic layer exhibiting footprints on the near-wall region. Causal inference with three typical methods is performed, i.e. transfer entropy, information flow and the synergistic–unique–redundant decomposition of causality. The causal inference methods are first applied to several canonical problems to illustrate their abilities, including a linear problem, a nonlinear problem and a low-dimensional model of near-wall turbulence. It is demonstrated that all three methods can produce consistent causal findings. Furthermore, we study the causalities between the inner and outer turbulent motions …",
+    "authors": "Jingxuan Zhang, Zhengping Zhu, Limin Wang, Wei Gao et al.",
+    "published": "2026-09-14",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Quantitatively mapping the Eady model onto a two-layer quasi-geostrophic model",
+    "doi": "10.1017/jfm.2026.11943",
+    "url": "https://doi.org/10.1017/jfm.2026.11943",
+    "abstract": "The two-layer quasi-geostrophic (2LQG) model and the Eady model are two idealised systems illustrating the baroclinic instability of atmospheric jets and ocean currents. The two set-ups share many ingredients – background vertically sheared zonal flow of density-stratified fluid in a rapidly rotating frame – while differing in complexity and dimensionality. The Eady model has a continuous vertical direction, with baroclinic turbulence induced by boundary potential vorticity (PV) gradients at top and bottom. By contrast, the 2LQG sytem typically models baroclinic instability induced by interior PV gradients. This distinction challenges our ability to clearly identify a couple of ‘modes’ through which the Eady dynamics could be inferred from a simpler 2LQG system. In the present study, we sh…",
+    "authors": "Julie Meunier, Basile Gallet",
+    "published": "2026-09-14",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Inflow-shear-induced wake asymmetry links axial force oscillations to vertical wake meandering in active wake control",
+    "doi": "10.1017/jfm.2026.12030",
+    "url": "https://doi.org/10.1017/jfm.2026.12030",
+    "abstract": "This study investigates the impacts of inflow shear on wind-turbine wakes in active wake control through a resolvent-based input–output model and large-eddy simulation (LES). The input–output model, i.e. the proposed regular perturbation resolvent (RP-Resolvent) model, provides an efficient framework for analysing the underlying mechanism, while LES provides a high-fidelity comparison. The RP-Resolvent model adopts a two-parameter regular perturbation expansion of the incompressible Navier–Stokes equations around an axisymmetric baseline wake flow, to describe the wake response under the combined action of inflow shear and time-harmonic axial rotor forcing. Analysis using the RP-Resolvent model indicates a key mechanism: inflow-shear-induced asymmetry affects wake evolution via the couplin…",
+    "authors": "Xinming Yang, Zhaobin Li, Xiaolei Yang, Guowei He",
+    "published": "2026-09-14",
+    "keywords_matched": [
+      "wake"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Simulating the impacts of utility-scale photovoltaic installations with a physically based coupled WRF-PV model",
+    "doi": "10.5194/gmd-19-8515-2026",
+    "url": "https://doi.org/10.5194/gmd-19-8515-2026",
+    "abstract": "Utility-scale photovoltaic (PV) installations are expanding so significantly that they may alter the surface energy balance and affect the local climate. Yet, simplified or non-coupled PV schemes in regional climate models limit the representation of the PV climatic impacts. In this study, we developed a physically based, fully coupled WRF-PV model based on the Weather Research and Forecasting (WRF) model. WRF-PV maintains surface energy balance closure between the PV panels and the ground and enables the PV-induced radiative and thermal effects to feed back to the atmosphere dynamically. We used this model to perform two regional simulations, WRF_PV (with PV panels) and WRF_CTL (without PV panels), in northwestern China, a major PV deployment region. Our results indicated that WRF_PV capt…",
+    "authors": "Yiran Chen, Jiming Jin, Yimin Liu, Jannik Heusinger et al.",
+    "published": "2026-09-14",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting",
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Linking the Abruptness of South Asian Summer Monsoon Onset to Convection Aggregation Using SP‐CAM",
     "doi": "10.1029/2025jd045658",
@@ -6098,66 +6160,6 @@
     "abstract": "This paper investigates the generation of free-surface waves in a liquid layer driven by linear instabilities in Couette–Poiseuille (quadratic) shear flows. The base velocity profiles are characterized by a curvature parameter, and two-dimensional viscous and inviscid perturbations are analysed across a wide parameter space of curvature, wavenumber and Reynolds number, for fixed Froude and Bond numbers. In the inviscid limit, analytical solutions of the Rayleigh equation reveal that velocity profiles ranging from half-parabolic to linear flows remain stable against the rippling instability, with long-wave growth occurring only under strong interfacial forcing, whereas weaker forcing produces well-defined stability boundaries. For the viscous problem, Orr–Sommerfeld computations and asympto…",
     "authors": "Harishankar Muppirala, Ramana Patibandla, Anubhab Roy",
     "published": "2026-06-25",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Noise reduction by the streamwise-decreasing impedance trailing edges of a NACA-0012 airfoil: insights based on the Kutta condition",
-    "doi": "10.1017/jfm.2026.11741",
-    "url": "https://doi.org/10.1017/jfm.2026.11741",
-    "abstract": "We investigate the noise reduction performance of a NACA-0012 airfoil at a low subsonic Mach number and a moderate Reynolds number. Noise suppression at the trailing edge is targeted by minimising the wall-pressure jump, which is stipulated by the unsteady Kutta condition. Guided by this principle, we propose an effective trailing-edge configuration capable of significantly suppressing the radiated noise. Numerical results reveal that a pure streamwise-decreasing impedance trailing edge fails to provide effective noise reduction across a broad range of characteristic frequencies; in some cases, it even leads to a significant increase in noise radiation levels. Therefore, we develop an extended trailing-edge (ETE) configuration, which achieves a notable noise reduction of 3.62 dB. This perf…",
-    "authors": "Ya-Sen Hu, Zhen-Hua Wan, De-Jun Sun, Xi-Yun Lu",
-    "published": "2026-06-25",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Microstructure and thickening of bi-disperse granular suspensions in simple shear flow",
-    "doi": "10.1017/jfm.2026.11717",
-    "url": "https://doi.org/10.1017/jfm.2026.11717",
-    "abstract": "Most granular suspensions in nature and industrial applications comprise multimodal particles in a broad size range. Despite numerous studies attempting to establish a unified viscosity model for polydisperse suspensions with different particle size distributions (PSDs), the microstructure exhibits a strong PSD dependence, such as the peculiar shear-induced particle ordering in bidisperse suspensions. However, understanding of the stability of such ordered structures remains limited. In this study, we aim to reveal the role of microstructural transformation in the flow of shear thickening bidisperse suspensions with large particle size ratio. Discrete-particle simulations accounting for short-range hydrodynamic and contact forces were performed to simulate the simple shear flow of granular…",
-    "authors": "Xueqiong Fu, Ge Li, Yanwei Liu",
-    "published": "2026-06-24",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Multiscale dynamics of inertial particles in turbulence with and without the effect of gravitational settling",
-    "doi": "10.1017/jfm.2026.11715",
-    "url": "https://doi.org/10.1017/jfm.2026.11715",
-    "abstract": "We investigate the dynamics of inertial heavy particles in three-dimensional homogeneous isotropic turbulence, both with and without gravitational settling, by means of direct numerical simulation over a range of Stokes numbers ( 0.05 less than or slanted equals italic St less than or slanted equals 5 0.05 ⩽ St ⩽ 5 $0.05\\leqslant \\,\\textit{St}\\leqslant 5$ ) and at a Taylor-microscale Reynolds number italic Re Subscript lamda Baseline equals 204 Re λ = 204 $ \\textit{Re}_\\lambda = 204$ . Utilising a modified Voronoi tessellation, we compute the divergence, curl and helicity of particle velocities to quantify particle cloud self-organisation, including clustering, as well as vortical and swirling motions within particle clouds. We perform a novel graph-based multiresolution analysis by applyi…",
-    "authors": "Thibault Maurel-Oujia, Keigo Matsuda, Kai Schneider",
-    "published": "2026-06-24",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "On the effect of airfoil geometry on extreme vortex-gust encounters",
-    "doi": "10.1017/jfm.2026.11711",
-    "url": "https://doi.org/10.1017/jfm.2026.11711",
-    "abstract": "Historically, investigations on gust encounters have been limited to thin airfoils. In this work, we examine vortex-gust encounters by a family of airfoils at a chord-based Reynolds number italic Re Subscript c Baseline equals 100 Re c = 100 ${\\textit{Re}}_c=100$ , which includes variations in the gust ratio, initial gust position, gust radius, angle of attack, airfoil thickness and airfoil camber. We examine differences in the flow fields, lift-element distributions and aerodynamic responses across several airfoil–gust interactions. We observe a large deviation of the flow fields and aerodynamic responses with respect to the baseline flows for increasing gust ratios and gust sizes. The initial position of the vortex gust influences the magnitude of the velocity gradients observed near the…",
-    "authors": "Barbara Lopez-Doriga, Anya R. Magaña Jones, Kunihiko Taira",
-    "published": "2026-06-24",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Experimental deep reinforcement learning control of the aerofoil flow separation with a plasma actuator",
-    "doi": "10.1017/jfm.2026.11730",
-    "url": "https://doi.org/10.1017/jfm.2026.11730",
-    "abstract": "In this study, experimental deep reinforcement learning (DRL) control of aerofoil flow separation is conducted at a chord-based Reynolds number of italic Re Subscript c Baseline equals 1.5 times 10 Superscript 5 Re c = 1.5 × 10 5 ${\\textit{Re}}_c=1.5\\times 10^5$ . A dielectric barrier discharge plasma actuator mounted at the leading edge and a hotwire placed in the separated shear layer act as the flow disturber and the state monitor, respectively. The closed-loop control law is parameterised by a radial basis function network and executed in real time on a field-programmable gate array at 1 kHz. With the aid of a deep deterministic policy gradient algorithm, a satisfying closed-loop control strategy can be derived in less than one minute, and the resulting lift coefficient increment (21 %…",
-    "authors": "Jiawei Xiang, Haohua Zong, Yun Wu, Jinping Li et al.",
-    "published": "2026-06-24",
     "keywords_matched": [
       "ABL"
     ]
