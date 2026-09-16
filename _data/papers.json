@@ -1,6 +1,31 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Broadband absorption of ocean wave energy using a graded array of heaving buoys in three dimensions",
+    "doi": "10.1017/jfm.2026.12015",
+    "url": "https://doi.org/10.1017/jfm.2026.12015",
+    "abstract": "The generation of renewable power from ocean waves at a commercial scale requires arrays of wave energy converters (WECs) to be designed for efficient power capture over broad frequency bands and a wide range of incident wave directions. Here, array designs are developed in a three-dimensional model based on linear potential-flow theory, by arranging heaving-buoy-type WECs into rows, and spatially grading the resonant properties of successive rows via linear spring–damper power take-off (PTO) mechanisms. The grading leverages theories for rainbow reflection and rainbow absorption, and involves analyses of Bloch waves and pole–zero pairs in complex frequency space to inform the array layout and choice of PTO parameters. The spacing within an array alters the resonant properties of the rows …",
+    "authors": "Amy-Rose Westcott, Luke G. Bennetts, Nataliia Y. Sergiienko, Benjamin S. Cazzolato et al.",
+    "published": "2026-09-16",
+    "keywords_matched": [
+      "ABL",
+      "wave energy"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Midlevel Warm‐Core Development Associated With the Rapid Intensification of a Convectively Asymmetric Tropical Cyclone Under Strong Vertical Wind Shear",
+    "doi": "10.1029/2026jd046332",
+    "url": "https://doi.org/10.1029/2026jd046332",
+    "abstract": "Abstract Under strong environmental vertical wind shear (VWS), tropical cyclones (TCs) typically exhibit pronounced vertical tilt and precipitation asymmetry that are generally considered unfavorable for rapid intensification (RI). Nonetheless, some of these TCs still experience RI, presenting challenges for intensity forecasts. To better understand such events, this study investigates the characteristics and mechanisms of warm‐core evolution during the RI of the asymmetric Typhoon Krosa (2019). Unlike the double warm cores typically found in more symmetric RI TCs, both observations and a high‐resolution simulation show that the majority of Krosa's RI process features the development of a single midlevel warm core, which dominates the surface pressure drop. A potential temperature budget r…",
+    "authors": "Zewen Huang, Donglei Shi",
+    "published": "2026-09-15",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Disturbance growth analysis of pressure gradient transition flow with three-dimensional rough surfaces",
     "doi": "10.1017/jfm.2026.12000",
     "url": "https://doi.org/10.1017/jfm.2026.12000",
@@ -6136,30 +6161,6 @@
     "abstract": "No abstract is available for this article.",
     "authors": "",
     "published": "2026-06-26",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Extreme vortex gust encounters by a square wing",
-    "doi": "10.1017/jfm.2026.11728",
-    "url": "https://doi.org/10.1017/jfm.2026.11728",
-    "abstract": "Extreme gust encounters by finite wings with disturbance velocity exceeding their cruise speed remain largely unexplored, while being particularly relevant to miniature-scale aircraft. This study considers extreme aerodynamic flows around a square wing and the large, unsteady forces that result from gust encounters. We analyse the evolution of three-dimensional, large-scale vortical structures and their complex interactions with the wing by performing direct numerical simulations at a chord-based Reynolds number of 600. We find that a strong incoming positive gust vortex induces a prominent leading-edge vortex (LEV) on the upper surface of the wing, accompanied by tip vortices (TiVs) strengthened through the interaction. Conversely, a strong negative gust vortex induces an LEV on the lower…",
-    "authors": "Hiroto Odaka, Luke Smith, Kunihiko Taira",
-    "published": "2026-06-25",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "On the generation of free-surface waves by instabilities in quadratic shear flows",
-    "doi": "10.1017/jfm.2026.11705",
-    "url": "https://doi.org/10.1017/jfm.2026.11705",
-    "abstract": "This paper investigates the generation of free-surface waves in a liquid layer driven by linear instabilities in Couette–Poiseuille (quadratic) shear flows. The base velocity profiles are characterized by a curvature parameter, and two-dimensional viscous and inviscid perturbations are analysed across a wide parameter space of curvature, wavenumber and Reynolds number, for fixed Froude and Bond numbers. In the inviscid limit, analytical solutions of the Rayleigh equation reveal that velocity profiles ranging from half-parabolic to linear flows remain stable against the rippling instability, with long-wave growth occurring only under strong interfacial forcing, whereas weaker forcing produces well-defined stability boundaries. For the viscous problem, Orr–Sommerfeld computations and asympto…",
-    "authors": "Harishankar Muppirala, Ramana Patibandla, Anubhab Roy",
-    "published": "2026-06-25",
     "keywords_matched": [
       "ABL"
     ]
