@@ -1,6 +1,142 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Study on the design, fabrication and drag reduction of ridge-type riblet surfaces based on the thin film buckling method",
+    "doi": "10.1017/jfm.2026.11829",
+    "url": "https://doi.org/10.1017/jfm.2026.11829",
+    "abstract": "Micro-riblet drag-reduction technology has been developed and applied in aerospace and marine industries to save fuel and cut costs. However, the cost-effective, straightforward and rapid fabrication of riblet surfaces remains a significant challenge. In this paper, drag-reduction surfaces are fabricated using ultraviolet (UV)-induced bending of pre-stretched polydimethylsiloxane. This study examines how substrate pre-stretching ( γ ) and UV exposure duration affect the ridge-riblet geometry and formation mechanisms. Furthermore, regular ridge-type riblets were fabricated, and both experimental and numerical investigations of drag reduction were conducted. The experimental data show that the ridge riblets achieve a drag-reduction rate of 6.10 % at a flow velocity of 2.5 m s −1 ( s Superscr…",
+    "authors": "Guocai Yu, Fanqiang Meng, Xiao Han, Jinzheng Duan et al.",
+    "published": "2026-09-17",
+    "keywords_matched": [
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Reynolds-averaged closure modelling of the energy equation for compressible wall turbulence based on the bold italic k minus bold italic omega\n                    <mml:math xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:mnf=\"http://cambridge.org/core/manifest\" xmlns:cup=\"http://contentservices.cambridge.org\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:m=\"http://cambridge.org/core/metadata\" xmlns:core=\"http://cambridge.org/core\" xmlns:c=\"http://cambridge.org/core/content\">\n                      <mml:mi mathvariant=\"bold-italic\">k</mml:mi>\n                      <mml:mo mathvariant=\"bold\">−</mml:mo>\n                      <mml:mi mathvariant=\"bold-italic\">ω</mml:mi>\n                    </mml:math>\n                    $\\boldsymbol{k-\\omega}$\n equations",
+    "doi": "10.1017/jfm.2026.12029",
+    "url": "https://doi.org/10.1017/jfm.2026.12029",
+    "abstract": "Wall cooling in hypersonic turbulent boundary layers produces an off-wall temperature maximum at which the turbulent heat flux vanishes, and the normally secondary turbulent kinetic-energy transport becomes locally important. We formulate an algebraic closure for the corresponding kinetic-energy contributions within a Reynolds-averaged k minus omega k − ω $k-\\omega$ framework. The transported variable k k $k$ remains in the turbulence equations and eddy-viscosity relation, whereas an algebraically reconstructed quantity script upper K K $\\mathcal{K}$ is used in the physical kinetic-energy terms of the momentum and energy equations. A local turbulent-Prandtl-number relation is obtained separately by regularised ensemble-Kalman inversion of two compressible-channel direct numerical simulatio…",
+    "authors": "Yuxiao Cheng, Sijie Wang, Yitong Fan, Paul A. Durbin et al.",
+    "published": "2026-09-17",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Initiation of parallel twin-starting jets with temporal or spatial differences",
+    "doi": "10.1017/jfm.2026.11977",
+    "url": "https://doi.org/10.1017/jfm.2026.11977",
+    "abstract": "The interactions between two identical starting jets (twin-starting jets) are numerically investigated, focusing on the influence of initiation with temporal differences (the dimensionless time difference normal upper Delta t overtilde greater than 0 Δ t ~ &gt; 0 $\\Delta \\widetilde {t}\\gt 0$ ) and spatial differences (the dimensionless axial distance normal upper Delta upper X overtilde greater than 0 Δ X ~ &gt; 0 $\\Delta \\widetilde {X}\\gt 0$ ). Temporal differences mainly weaken the mutual interaction between the two leading vortex rings, while spatial differences weaken both the vortex-ring interactions and the influence of mutually induced pressure. In both cases, two leading vortex rings become non-coplanar, increasing their spatial distance along the jet direction and thereby weakenin…",
+    "authors": "Jianwei Zhu, Guoqing Zhang, Simon C.M. Yu, Lei Gao et al.",
+    "published": "2026-09-17",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Self-consistent fragmentation in dynamically dense turbulent fibre suspensions",
+    "doi": "10.1017/jfm.2026.12044",
+    "url": "https://doi.org/10.1017/jfm.2026.12044",
+    "abstract": "Fragmentation of slender fibres by turbulence controls length distributions in many natural and industrial suspensions, yet most theories assume a prescribed carrier flow, and treat fibres as dilute and dynamically passive. Here, we develop a self-consistent kinetic description for fragmentation in the opposite limit of sufficiently dense fibre suspensions that back-react on the turbulence. Starting from an Euler–Bernoulli model in the quasi-static regime, we show that collective resistive-force drag defines a cut-off span upper L Subscript c L c $L_c$ inside the inertial range, marking the crossover from a Kolmogorov-like inertial range with an effective linear friction (for scales above upper L Subscript c L c $L_c$ ) to a fibre-dominated frictional regime with upper E left parenthesis k…",
+    "authors": "Andrea Mazzino, Dandan Xiao, Lu Rongpei, Xuerui Mao",
+    "published": "2026-09-17",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Shear-free, inhomogeneous turbulence in a stably stratified fluid. Part 2. A wave–turbulence decomposition",
+    "doi": "10.1017/jfm.2026.11994",
+    "url": "https://doi.org/10.1017/jfm.2026.11994",
+    "abstract": "In Hass &amp; Lele (2026 J. Fluid Mech. 1037, A20), we looked at the statistical structure (self-similarity) and entrainment rate of a shear-free turbulent layer bounded by a net zero momentum source layer above and a stable density interface below and found agreement with oscillating grid turbulence experiments. However, interfacial waves supported by the stable stratification make quantification of variances in the near-interfacial region ambiguous. In the present paper we propose a decomposition of the fluctuating fields based on eigenmodes of the linearized equations. Evidence that a linear model is appropriate is provided by the wavenumber–frequency spectra for low Froude number simulations. Using the decomposition, a detailed analysis of the wave–turbulence statistics, including budg…",
+    "authors": "Ryan Hass, Sanjiva Lele",
+    "published": "2026-09-17",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "In Situ Individual Particle Observations Revealing the Enhanced Photolysis of Nitrate Associated With Soot‐Containing Particles in the Atmosphere",
+    "doi": "10.1029/2026jd047734",
+    "url": "https://doi.org/10.1029/2026jd047734",
+    "abstract": "Abstract The photolysis of particulate nitrate critically regulates atmospheric oxidative capacity, yet the influence of coexist soot is unexplored. Here, single‐particle aerosol mass spectrometry was used to probe the coexistence and atmospheric behavior of soot and nitrate. The nitrate number fraction, defined here as the fraction of individual particles containing a detectable nitrate ion signal (m/z −62 [NO 3 ] − ) in the single‐particle mass spectra, showed seasonal lows in summer/autumn and an afternoon diurnal dip, contrasting with radiation and temperature profiles. The reduction in nitrate was more pronounced in soot‐containing particles compared with soot‐free particles. Regression models revealed that the nitrate associated with soot‐containing particles during summer and autumn…",
+    "authors": "Guohua Zhang, Xinyu Huang, Xiaocong Peng, Wei Sun et al.",
+    "published": "2026-09-17",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Improved WRF‐Chem Simulations of Dust Deposition and Its Association With Observed Chlorophyll‐a Concentration During the 2021 East Asian Super Dust Storm",
+    "doi": "10.1029/2026jd046380",
+    "url": "https://doi.org/10.1029/2026jd046380",
+    "abstract": "Abstract Frequent dust storms in spring not only affect air quality and climate change, but also influence marine productivity through dust transport and deposition in High‐Nutrient, Low‐Chlorophyll (HNLC) regions. However, there is still considerable uncertainty regarding how dust quantitatively affects the growth of phytoplankton. This study refined the surface erodibility factor in the WRF‐Chem (Weather Research and Forecasting model coupled with Chemistry) model, improving the simulation accuracy of dust emission, transport and deposition. Using this improved model and satellite observations, we investigated the relationship between dust deposition and chlorophyll‐a (Chl‐a) concentration in the Northwest Pacific following the 2021 East Asian super dust storm. Results showed that the su…",
+    "authors": "Haopeng Zhang, Xiaohui Bi, Yezheng Zhang, Lilai Song et al.",
+    "published": "2026-09-17",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Development of the CCPP-based GEFS-aerosols component  in the Unified Forecast System for subseasonal prediction (UFS-Chem v1.0)",
+    "doi": "10.5194/gmd-19-8597-2026",
+    "url": "https://doi.org/10.5194/gmd-19-8597-2026",
+    "abstract": "The Global Ensemble Forecast System (GEFS) version 12 has been operational at the National Centers for Environmental Prediction since September 2020, with GEFS-Aerosols serving as its global aerosol forecasting member. In 2023, GEFS-Aerosols was upgraded to version 12.3 in operations, incorporating improvements to wet deposition, anthropogenic and biomass burning emissions, aerosol optical depth calculations, and the FENGSHA dust emission scheme. While GEFS-Aerosols provides valuable operational aerosol forecasts on medium-range timescales, its one-way coupling strategy restricts aerosol–atmosphere interactions to prescribed climatological fields, thereby precluding fully interactive aerosol feedbacks for extended-range prediction. To overcome this limitation, we develop the Unified Foreca…",
+    "authors": "Li Zhang, Haiqin Li, Georg A. Grell, Partha S. Bhattacharjee et al.",
+    "published": "2026-09-17",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Multi-season evaluation of temperature and wind in the marine boundary layer along the United States northeast coast in the High-Resolution Rapid Refresh model",
+    "doi": "10.5194/gmd-19-8627-2026",
+    "url": "https://doi.org/10.5194/gmd-19-8627-2026",
+    "abstract": "The High-Resolution Rapid Refresh (HRRR) model is run operationally by the National Oceanic and Atmospheric Administration to provide high-resolution short-range forecasts for the continental United States. The evaluation of the HRRR model off of the United States coasts has been challenged by the lack of suitable continuous profile observations in the marine boundary layer in the past. State-of-the art remote sensing instruments were recently deployed along the coast of New England in the northeastern United States for the multi-year Third Wind Forecast Improvement Project and provide a unique opportunity for the evaluation of temperature and wind in the marine boundary layer in the HRRR model. We used 1 year of data at three sites, two of which were on islands, to document the seasonal c…",
+    "authors": "Bianca Adler, Laura Bianco, David D. Turner, Joseph Olson et al.",
+    "published": "2026-09-17",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Beyond behavioural models: equifinality and overparameterisation undermine confidence in predictions by soil organic matter models",
+    "doi": "10.5194/gmd-19-8651-2026",
+    "url": "https://doi.org/10.5194/gmd-19-8651-2026",
+    "abstract": "The complexity of soil organic matter models is often not supported by sufficient data for parameter optimisation, resulting in the calibration of more parameters than can be reliably optimised with the available data. This leads to equifinality, the phenomenon that multiple parameter sets generate behavioural models, i.e., similarly well-performing models that cannot be ruled out. As such trade-offs between model complexity and data availability are often overlooked for soil organic matter models, the aim of this study is to assess how equifinality affects the variability of predictions made by behavioural soil organic matter models. The results show that for the model used in this study, the number of identifiable parameters, those that do not compensate for one another, increases with t…",
+    "authors": "Marijn Van de Broek, Johan Six",
+    "published": "2026-09-17",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "An online spectral nudging-based correction system: improving physical model forecasts by incorporating large-scale  circulations derived from machine learning models",
+    "doi": "10.5194/gmd-19-8673-2026",
+    "url": "https://doi.org/10.5194/gmd-19-8673-2026",
+    "abstract": "The development of traditional numerical weather prediction (NWP) relies on continuous advances in observation technology, data assimilation methods, numerical and parameterization algorithms, and the steady growth of computational resources, resulting in lengthy development cycles and relatively slow improvements in forecast skill. In recent years, machine learning (ML)-based weather forecasting models have advanced rapidly, and in some aspects, outperform traditional physical models, particularly in forecasting large-scale circulation. However, these ML-based models suffer from notable deficiencies, such as over-smoothing in forecasts and inadequate capability for predicting extreme weather events. In this study, an online correction system based on the spectral nudging (SN) method is de…",
+    "authors": "Yong Su, Jincheng Wang, Xueshun Shen, Couhua Liu et al.",
+    "published": "2026-09-17",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Broadband absorption of ocean wave energy using a graded array of heaving buoys in three dimensions",
     "doi": "10.1017/jfm.2026.12015",
     "url": "https://doi.org/10.1017/jfm.2026.12015",
@@ -6028,140 +6164,6 @@
     "published": "2026-06-29",
     "keywords_matched": [
       "tidal"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "CaMa-Flood-GPU: a GPU-based hydrodynamic model implementation for scalable global simulations",
-    "doi": "10.5194/gmd-19-5623-2026",
-    "url": "https://doi.org/10.5194/gmd-19-5623-2026",
-    "abstract": "Abstract. Floods are among the costliest natural hazards, demanding scalable models to simulate river and floodplain dynamics at a global scale. The Catchment-based Macro-scale Floodplain (CaMa-Flood) model is a leading system for this purpose, but its CPU-based implementation is computationally demanding. This paper introduces CaMa-Flood-GPU, a fundamental refactoring of the model optimized for Graphics Processing Unit (GPU) architectures. We systematically reinterpreted its core algorithms – including river routing on irregular networks, runoff interpolation, and water depth diagnosis – into highly parallel, GPU-native operations. Key challenges were addressed by implementing scatter-add for flux updates, sparse matrix multiplication for runoff mapping, and branchless kernels for floodpl…",
-    "authors": "Shengyu Kang, Jiabo Yin, Dai Yamazaki",
-    "published": "2026-06-29",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Strongly nonlinear isotropic models for long internal waves in fluids of great depth",
-    "doi": "10.1017/jfm.2026.11738",
-    "url": "https://doi.org/10.1017/jfm.2026.11738",
-    "abstract": "We are concerned with the nonlinear modelling of three-dimensional internal gravity waves in the lower atmosphere. A simplified configuration of density stratification is adopted, assuming that the atmosphere consists of two layers of uniform density with a sharp interface between the two bulk fluids. A time-dependent topography is considered to model a non-uniform, time-varying background current over variable terrain. Based on the Ablowitz–Fokas–Musslimani formulation for irrotational flows, both fully and weakly nonlinear long-wave isotropic models are derived in the Benjamin–Ono regime, where the upper layer is set to be semi-infinite. Two atmospheric gravity wave phenomena, motivated by satellite observations, are simulated using two modified numerical schemes to showcase the newly de…",
-    "authors": "Zhan Wang, Paul A. Milewski",
-    "published": "2026-06-29",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Quasi-geostrophic limiting dynamics and energetics of the Lagrangian-averaged Navier–Stokes-alpha\n                    <mml:math xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:mnf=\"http://cambridge.org/core/manifest\" xmlns:cup=\"http://contentservices.cambridge.org\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:m=\"http://cambridge.org/core/metadata\" xmlns:core=\"http://cambridge.org/core\" xmlns:c=\"http://cambridge.org/core/content\">\n                      <mml:mi>α</mml:mi>\n                    </mml:math>\n                    $\\alpha$\n model",
-    "doi": "10.1017/jfm.2026.11720",
-    "url": "https://doi.org/10.1017/jfm.2026.11720",
-    "abstract": "The Lagrangian-averaged Navier–Stokes- alpha α $\\alpha$ (LANS- alpha α $\\alpha$ ) model, a turbulence closure scheme based on energy-conserving modifications to nonlinear advection, can produce more energetic simulations than standard models, leading to improved fidelity (e.g. in ocean models). However, comprehensive understanding of the mechanism driving this energetic enhancement has proven elusive. To address this, we derive the fast quasi-geostrophic limit of the three-dimensional, stably stratified LANS- alpha α $\\alpha$ equations. This provides both the slow, balanced flow and the leading-order fast wave dynamics. Analysis of these wave dynamics suggests that an explanation for the energetic enhancement lies in the dual role of the smoothing parameter itself: increasing alpha α $\\alp…",
-    "authors": "L.R. Seitz, Beth A. Wingate",
-    "published": "2026-06-29",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "A simplified resolvent model for connecting linear amplifications to linear mechanisms in channel flow",
-    "doi": "10.1017/jfm.2026.11724",
-    "url": "https://doi.org/10.1017/jfm.2026.11724",
-    "abstract": "The linearised Navier–Stokes (LNS) equations are employed in channel flow to study linear amplification mechanisms from an input–output point of view. We consider two models: the full LNS system and a simplified model. In the simplified model, we retain only the forcing pathways that pertain to the shear-driven lift-up mechanism. This approach enables individual analysis of the Orr–Sommerfeld and Squire operators as subsystems, revealing the relationship between linear amplification and the linear mechanisms from which it arises. We examine wavenumber regions corresponding to streamwise streaks, oblique waves and Tollmien–Schlichting (TS) waves, linking the underlying mechanisms back to the LNS equations. Analysis is performed for laminar Poiseuille flow, laminar Couette flow and turbulent…",
-    "authors": "Austin Palya, Nicholas Hutchins, Simon J. Illingworth",
-    "published": "2026-06-29",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "On the interaction between the sheet and tip vortex cavitation over an elliptical hydrofoil",
-    "doi": "10.1017/jfm.2026.11739",
-    "url": "https://doi.org/10.1017/jfm.2026.11739",
-    "abstract": "This study investigates the unsteady oscillation cycle of sheet and tip vortex cavitation over an elliptical NACA 66 Subscript 2 66 2 $66_2$ -415 hydrofoil using high-speed imaging and time-resolved tomographic particle image velocimetry. Synchronised measurements of radiated noise are conducted. The oscillation cycle consists of three phases, involving growth and collapse of the sheet and tip vortex cavitation, followed by intermittent rebounding of the tip vortex cavity. The collapse of the sheet cavity is triggered by a side-entrant jet, leading to the formation of the cloud and secondary vortex cavitation. The interaction between the secondary and tip vortex cavities further promotes the collapse of the latter. The three-dimensional instantaneous flow organisation indicates that the ev…",
-    "authors": "Yuwei Wang, Xueming Shao, Qingqing Ye",
-    "published": "2026-06-29",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Settling of chiral particles in a turbulent flow",
-    "doi": "10.1017/jfm.2026.11726",
-    "url": "https://doi.org/10.1017/jfm.2026.11726",
-    "abstract": "Chiral particles are experimentally investigated while settling in water with various turbulence intensity levels. The locations and orientations of the particles are tracked over time, allowing the close investigation of the particles’ settling dynamics. The generated turbulent flow is measured using laser Doppler anemometry, and the turbulence strength varies between experiments in the range 0 less than or slanted equals italic Re Subscript lamda Baseline less than or slanted equals 250 0 ⩽ Re λ ⩽ 250 $0 \\leqslant \\textit{Re}_\\lambda \\leqslant 250$ . Starting with quiescent particle settling, the chiral particle’s orientation dynamics is studied, revealing a preferred alignment and a strong translation–rotation coupling. The particle chirality determines the preferred rotation direction,…",
-    "authors": "Mees M. Flapper, John E. Sader, Detlef Lohse, Sander G. Huisman",
-    "published": "2026-06-29",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Searching for invariant solutions to wall-bounded flows using resolvent-based optimisation",
-    "doi": "10.1017/jfm.2026.11722",
-    "url": "https://doi.org/10.1017/jfm.2026.11722",
-    "abstract": "We present a robust optimisation framework for computing invariant solutions of wall-bounded flows by recasting the Navier–Stokes equations as a variational problem as established in Ashtari &amp; Schneider ( J. Fluid Mech ., vol. 977, 2023, A7). The approach minimises the residual of the governing equations over a finite-time horizon, seeking periodic or equilibrium solutions. A novel contribution is made by including a Galerkin projection onto a basis of divergence-free modes that satisfy the no-slip boundary conditions. This projection not only makes the variational framework applicable to wall-bounded flows but it also yields a low-order representation of the dynamics. The basis is derived from resolvent analysis, which provides an orthonormal set. We demonstrate the method on a stream…",
-    "authors": "Thomas Burton, Sean Symon, Davide Lasagna",
-    "published": "2026-06-29",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Precipitation Microphysics in Intensifying and Weakening Tropical Cyclones Over the Western North Pacific: Insights From GPM DPR",
-    "doi": "10.1029/2026jd046538",
-    "url": "https://doi.org/10.1029/2026jd046538",
-    "abstract": "Abstract Shear‐relative, quadrant‐scale differences in precipitation microphysics between intensifying tropical cyclones (ITCs) and weakening tropical cyclones (WTCs) are investigated using Ku/Ka‐band observations from the Global Precipitation Measurement (GPM) Dual‐frequency Precipitation Radar (DPR) over the western North Pacific during 2014–2024. The results indicate that ITCs exhibit a higher fraction of convective pixels and statistically significantly larger near‐surface drop sizes compared with WTCs, despite their weaker instantaneous storm intensities. Notably, the downshear right (DR) quadrant of ITCs acts as a convective initiation zone, exhibiting the highest convective fraction yet the lowest mean storm echo top height, with microphysical signatures of more active drop breakup.…",
-    "authors": "Hao Huang, Chen Lu, Zhiyang Liu, Wenxuan Zhao et al.",
-    "published": "2026-06-29",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "MESMER v1.0.0: consolidating the modular Earth system model emulator into a sustainable research software package",
-    "doi": "10.5194/gmd-19-5669-2026",
-    "url": "https://doi.org/10.5194/gmd-19-5669-2026",
-    "abstract": "Abstract. We present version v1.0.0 of MESMER – the Modular Earth System Model Emulator with spatially Resolved output. MESMER is a comprehensive software package for spatially resolved climate emulation. Version 1.0.0 revises the source code of several emulation approaches developed as part of earlier versions of MESMER and integrates them into a single python package that is readily available to the scientific community. We present the different MESMER components and the development strategy used to integrate them. MESMER v1.0.0 is numerically stable, faster than previous versions, employs a modern data structure, and better disentangles data handling and the statistical core. We demonstrate that MESMER v1.0.0 is now a sustainable research software according to requirements for modularit…",
-    "authors": "Victoria M. Bauer, Mathias Hauser, Yann Quilcaille, Sarah Schöngart et al.",
-    "published": "2026-06-29",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Added Value of Three‐Dimensional Planetary Boundary Layer Schemes for Simulating Local‐Scale Circulations Over Complex Terrain on the Tibetan Plateau",
-    "doi": "10.1029/2025jd046165",
-    "url": "https://doi.org/10.1029/2025jd046165",
-    "abstract": "Abstract Complex terrain and heterogeneous land surfaces on the Tibetan Plateau (TP) induce local‐scale circulations such as mountain‐valley winds and lake‐land breezes. Most numerical models employ one‐dimensional (1D) planetary boundary layer (PBL) schemes that inadequately represent horizontal turbulent mixing, resulting in poorly represented local‐scale circulations. In contrast, three‐dimensional (3D) PBL schemes account for turbulent mixing in both the vertical and horizontal directions. In this study, we assessed the performance of six PBL schemes, including 1D and 3D schemes, in the Weather Research and Forecasting (WRF) model for simulating local‐scale circulations validated against in situ observations. The results demonstrate that 3D PBL schemes outperform 1D PBL schemes in capt…",
-    "authors": "Hanying Xu, Cunbo Han, Yunshuai Zhang, Xu Zhang et al.",
-    "published": "2026-06-27",
-    "keywords_matched": [
-      "WRF",
-      "weather research and forecasting"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Issue Information",
-    "doi": "10.1029/jgrd.70732",
-    "url": "https://doi.org/10.1029/jgrd.70732",
-    "abstract": "No abstract is available for this article.",
-    "authors": "",
-    "published": "2026-06-26",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
