@@ -1,5 +1,30 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Structure of Boundary Layer Wind and Turbulence in Super Typhoon Ragasa and Typhoon Wipha During Landfall",
+    "doi": "10.1029/2026jd047277",
+    "url": "https://doi.org/10.1029/2026jd047277",
+    "abstract": "Abstract Boundary layer turbulence and vertical mixing exert great control over the structure and evolution of tropical cyclones (TCs). However, scaling and parameterizing them remains challenging due to their inherent complexity and limited observations. Based on a 356‐m‐tall meteorological tower and wind profilers at three sites, this study analyzes the structure of wind and turbulence in the boundary layer of Super Typhoon Ragasa and Typhoon Wipha during landfall. Wind profile observations suggest an asymmetric structure with more significant inflow in the right‐front quadrant than right‐rear. Local scaling works for describing the dimensionless wind velocity variances and turbulent kinetic energy but is subject to a high degree of uncertainty. Friction velocity‐based non‐local paramete…",
+    "authors": "Junyi He, Yucheng Xue, Feng Hu, Yikang Liu et al.",
+    "published": "2026-09-19",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Terrain‐Induced Contrasts in the Diurnal Variations of Low‐Level Jets Over the Middle Reaches of the Yangtze River During the 2010 Mei‐yu Field Campaign",
+    "doi": "10.1029/2026jd047362",
+    "url": "https://doi.org/10.1029/2026jd047362",
+    "abstract": "Abstract The diurnal cycle of low‐level jets (LLJs) plays a crucial role in severe convective weather during the Mei‐yu season over the middle reaches of the Yangtze River (MRYR). However, previous studies have focused on individual sites or large‐scale climatic contrasts, leaving sub‐regional variations in LLJ diurnal behaviors and their governing mechanisms insufficiently understood. Using intensive radiosonde observations from three topographically distinct sites during the 2010 Mei‐yu field campaign, combined with ERA5 reanalysis, we partially address this knowledge gap. Results show that (a) LLJ occurrence exhibits a single peak between 1.5 and 2.5 km AGL in terrain‐affected regions, dominated by synoptic‐system‐related LLJs (SLLJs) with higher core altitudes, whereas a double‐peak st…",
+    "authors": "Wen Zhou, Yu Du, Yang Hu, Xiaofang Wang et al.",
+    "published": "2026-09-19",
+    "keywords_matched": [
+      "diurnal cycle",
+      "diurnal variation"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Experimental study of perforated plate wakes upon starting motion",
     "doi": "10.1017/jfm.2026.12014",
@@ -6141,31 +6166,6 @@
     "keywords_matched": [
       "wake",
       "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Improving Short‐Term Analyses and Forecasts of an EF2 Tornadic Supercell Through EnKF X‐Band Phased Array Radar Assimilation",
-    "doi": "10.1029/2026jd046951",
-    "url": "https://doi.org/10.1029/2026jd046951",
-    "abstract": "Abstract This study investigates the impact of assimilating X‐band Phased Array Radar (XPAR) data on the analysis and forecast of an EF2 tornadic supercell in China using a deterministic forecast‐updated Ensemble Kalman Filter method that avoids the potential smoothing of fine‐scale storm details associated with ensemble averaging. Observations indicate that XPAR provides a more continuous spatiotemporal sampling of the low‐level mesocyclone and echo structure than operational S‐band radar. Assimilating reflectivity (RF) and radial velocity (RV) from the S‐band radar fail to reproduce the hook echo and key low‐level rotational signatures, with substantial deviations in the predicted supercell and the low‐level vortex track. Joint assimilation of XPAR RF and RV enables earlier vortex analys…",
-    "authors": "Feifei Shen, Jiajun Chen, Naigeng Wu, Jinzhong Min et al.",
-    "published": "2026-06-30",
-    "keywords_matched": [
-      "ABL",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Improvement of the Rnnmm-type climate index approach with a spatio-temporal model based on the Hawkes process",
-    "doi": "10.5194/gmd-19-5689-2026",
-    "url": "https://doi.org/10.5194/gmd-19-5689-2026",
-    "abstract": "Abstract. This paper proposes an innovative geostatistical model based on self-exciting Hawkes processes for modeling the Rnnmm-type extreme climate index, representing a novel contribution to the literature on climate extremes. The proposed approach generalizes non-homogeneous spatio-temporal Poisson models by incorporating temporal dependence between events through excitation functions, enabling the capture of clustering patterns commonly observed in precipitation time series. The model is formulated within a Bayesian framework, with parameter estimation performed via Markov Chain Monte Carlo (MCMC) methods. Spatial dependence is introduced through hierarchical Gaussian processes, allowing for interpolation in locations without observed data. The model is applied to the R20mm index (annu…",
-    "authors": "Fidel Ernesto Castro Morales, Antonio Marcos Batista do Nascimento, Marina Silva Paez, Daniele Torres Rodrigues et al.",
-    "published": "2026-06-30",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
