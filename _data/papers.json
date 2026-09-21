@@ -1,5 +1,29 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Integral modelling of weakly evaporating three-dimensional liquid film with variable-substrate heating",
+    "doi": "10.1017/jfm.2026.11912",
+    "url": "https://doi.org/10.1017/jfm.2026.11912",
+    "abstract": "Analysing the dynamics of phase-changing liquid films is essential for enhancing the performance of thermal-management systems. Still, direct simulation of the full governing equations is computationally expensive. To circumvent this limitation, I derived a weighted-integral boundary-layer (WIBL) model under long-wave assumptions, weak evaporation and strong surface tension, also accounting for variable-substrate heating. In the linear regime, the WIBL reproduces the growth rates and cutoff wavenumbers of unstable modes with significantly higher accuracy than commonly used Benney-type models for Reynolds number italic Re less than 40 Re &lt; 40 ${{\\textit{Re}}}\\lt 40$ , and with accuracy comparable to that of the Orr–Sommerfeld equations. The linear analysis further reveals a threshold sep…",
+    "authors": "Fabio Pino",
+    "published": "2026-09-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Similarity of start-up flow in porous media for large pressure gradients",
+    "doi": "10.1017/jfm.2026.12037",
+    "url": "https://doi.org/10.1017/jfm.2026.12037",
+    "abstract": "We investigate start-up flow from an initially quiescent state in three ordered sphere packings (hexagonal close-packed, face-centred cubic, body-centred cubic) driven by a constant intrinsic pressure gradient using direct numerical simulation. The main finding is that the first nonlinear departure from the initial linear regime occurs at a characteristic inviscid time tau Subscript i n v Baseline equals StartRoot rho d divided by StartAbsoluteValue bold nabla left angle bracket p right angle bracket Subscript italic i Baseline EndAbsoluteValue EndRoot τ i n v = ρ d / | ∇ ⟨ p ⟩ i | $\\tau _{{inv}}=\\sqrt {\\rho d/\\vert \\boldsymbol{\\nabla }\\langle p\\rangle _{\\textit{i}}\\vert }$ (where rho ρ $\\rho$ , d d $d$ , bold nabla left angle bracket p right angle bracket Subscript italic i ∇ ⟨ p ⟩ i $\\bo…",
+    "authors": "Yoshiyuki Sakai, Lukas Unglehrt, Michael Manhart",
+    "published": "2026-09-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Structure of Boundary Layer Wind and Turbulence in Super Typhoon Ragasa and Typhoon Wipha During Landfall",
     "doi": "10.1029/2026jd047277",
@@ -6141,31 +6165,6 @@
     "published": "2026-06-30",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Characterising drag and wall heat flux reduction of micro-blowing control in compressible turbulent boundary layers",
-    "doi": "10.1017/jfm.2026.11740",
-    "url": "https://doi.org/10.1017/jfm.2026.11740",
-    "abstract": "Direct numerical simulations are performed on compressible turbulent boundary layers with micro-blowing controls applied to the walls at a free stream Mach number of 2.0 to investigate the influences of wall-blowing mass flux and spatial arrangements on drag reduction. Using law-of-the-wall for uniform blowing control, an estimation of skin friction is proposed based on Reynolds number and wall-blowing mass flux. At a given Reynolds number, the drag reduction rate increases almost logarithmically with wall-blowing mass flux within the control region. Downstream of the interaction zone, the drag reduction rate increases linearly. The disparities of the drag reduction rate in the integral sense among cases with different spatial arrangements are attributed to the asymmetric pressure gradient…",
-    "authors": "Ming Yu, Cheng Peng, Pengxin Liu, Xianxu Yuan et al.",
-    "published": "2026-06-30",
-    "keywords_matched": [
-      "drag reduction"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Elasto-thinning dynamics of viscoelastic flow past a square cylinder at extreme Weissenberg numbers",
-    "doi": "10.1017/jfm.2026.11725",
-    "url": "https://doi.org/10.1017/jfm.2026.11725",
-    "abstract": "We investigate viscoelastic flow past a square cylinder using the Phan-Thien–Tanner model to disentangle the competing effects of elasticity and shear-thinning. Simulations cover Weissenberg numbers ranging from 0.1 to 10 000, at a fixed Reynolds number of 10 and a solvent viscosity ratio of 0.6. The results are compared with the Newtonian, Oldroyd-B and Carreau–Yasuda models to isolate the influence of each rheological mechanism on drag, vortex shedding and wake structure. For Weissenberg numbers less than 50, elastic stresses dominate; drag increases by up to 30 %, vortex shedding is delayed as the critical Reynolds number increases by approximately 18 %, and the wake contracts sharply, with recirculation lengths reduced by up to 85 %. In the intermediate regime, where Weissenberg number…",
-    "authors": "Ali Minaeian, Ying Xu, Shiying Xiong",
-    "published": "2026-06-30",
-    "keywords_matched": [
-      "wake",
-      "vortex"
     ]
   }
 ]
