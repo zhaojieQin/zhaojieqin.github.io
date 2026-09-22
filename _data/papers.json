@@ -24,6 +24,68 @@
     ]
   },
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Vortex dynamics of a boundary layer disturbed by cylinder wakes: effects of the gap ratio and the relative boundary layer thickness",
+    "doi": "10.1017/jfm.2026.12009",
+    "url": "https://doi.org/10.1017/jfm.2026.12009",
+    "abstract": "The vortical structures in a flat-plate boundary layer disturbed by circular cylinder wakes are investigated using particle image velocimetry and hydrogen bubble visualization techniques. The cylinder diameter ( D ) and the gap between the cylinder and flat plate ( G ) are systematically varied to establish an investigated matrix of Reynolds number Re D = 530–1600, gap ratio upper G divided by upper D G / D $G/D$ = 0.33–6 and relative boundary layer thickness delta 0 divided by upper D δ 0 / D $\\delta_0/D$ = 0.35–1.06 ( δ 0 is boundary layer thickness at the installation position of cylinder). An unexpected large critical value of upper G divided by upper D G / D $G/D$ = 4 is captured to divide the wake-vortices–boundary-layer interaction into two modes for delta 0 divided by upper D δ 0 /…",
+    "authors": "Jiangsheng Wang, Guosheng He, Jinjun Wang",
+    "published": "2026-09-21",
+    "keywords_matched": [
+      "wake",
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Parameter estimation for land-surface models using Neural Physics",
+    "doi": "10.5194/gmd-19-8801-2026",
+    "url": "https://doi.org/10.5194/gmd-19-8801-2026",
+    "abstract": "We propose a novel inverse-modelling approach that estimates the parameters of a simple land-surface model (LSM) by assimilating data into a differentiable, physics-based forward model formulated using convolutional operations. The governing equations are expressed within the Neural Physics framework, allowing direct gradient-based optimisation of time-dependent parameters without the need to derive and maintain adjoint formulations. The model parameters are estimated by minimising the mismatch between model predictions and synthetic or observational data. Although differentiability is enabled through machine-learning libraries, the forward model itself remains entirely physics-based and neither the forward model nor the parameter estimation procedure involve training. To evaluate the appr…",
+    "authors": "Ruiyue Huang, Claire E. Heaney, Maarten van Reeuwijk",
+    "published": "2026-09-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Lagrangian tracking methods applied to free surface boundaries in numerical geodynamic models",
+    "doi": "10.5194/gmd-19-8877-2026",
+    "url": "https://doi.org/10.5194/gmd-19-8877-2026",
+    "abstract": "A desirable characteristic of mantle convection models is the ability to determine surface topography evolution over time on a global scale. This capability is increasingly important due to growing interest in coupling planetary geodynamics with climate, landscape, habitats, and biological evolution systems. A common way of achieving this in numerical geodynamic models with a fixed Eulerian grid is through the implementation of a free-surface boundary condition using the sticky air method in conjunction with an appropriate method of tracking the free surface. Although existing methods for tracking the interface between the air and rock layers are available, they often struggle to provide high-resolution results on a global scale without incurring significant computational costs. We propose…",
+    "authors": "Timothy S. Gray, Paul J. Tackley, Taras V. Gerya",
+    "published": "2026-09-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Variational Stokes method applied to free surface boundaries  in numerical geodynamical models using the  staggered-grid finite-difference discretisation",
+    "doi": "10.5194/gmd-19-8839-2026",
+    "url": "https://doi.org/10.5194/gmd-19-8839-2026",
+    "abstract": "Accurately and efficiently modelling topographic evolution is a key challenge in geodynamic modelling, which requires the solution of the Stokes equations with free surface boundary conditions. While finite difference methods on staggered grids, as used in geodynamic modelling codes such as StagYY, I3ELVIS and LaMEM, offer strong computational performance and compatibility with multigrid solvers, the use of fixed Eulerian grids complicates the implementation of realistic, deformable free surfaces. Two existing methods are available to model free surface boundary conditions in such codes: the commonly used sticky-air method, which suffers from limitations relating to high viscosity contrasts, and the “staircase” method, which improves upon the sticky air method by imposing free surface boun…",
+    "authors": "Timothy S. Gray, Paul J. Tackley, Taras V. Gerya",
+    "published": "2026-09-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "A deep learning framework for gridding daily climate variables from a sparse station network",
+    "doi": "10.5194/gmd-19-8895-2026",
+    "url": "https://doi.org/10.5194/gmd-19-8895-2026",
+    "abstract": "High-resolution gridded climate datasets are essential for Earth system modelling and impact assessments, yet generating them from sparse, irregularly distributed station networks remains a significant challenge, particularly in regions with complex topography. This study evaluates the Spatial Multi-Attention Conditional Neural Process (SMACNP), a probabilistic deep learning framework, for the daily spatial interpolation of air temperature and precipitation, marking the first application of its localized encoder variant to the challenge of gridding climate data from a sparse station network. We investigate two distinct encoder configurations – Global and Localized – to determine the optimal structural prior for capturing spatial dependencies in data-scarce regimes. The models were develope…",
+    "authors": "Alexandru Dumitrescu",
+    "published": "2026-09-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Structure of Boundary Layer Wind and Turbulence in Super Typhoon Ragasa and Typhoon Wipha During Landfall",
     "doi": "10.1029/2026jd047277",
@@ -6103,68 +6165,6 @@
     "published": "2026-07-01",
     "keywords_matched": [
       "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Data-driven reduced-order modelling of wake dynamics in hovering flapping flight",
-    "doi": "10.1017/jfm.2026.11742",
-    "url": "https://doi.org/10.1017/jfm.2026.11742",
-    "abstract": "As insects flap their wings, they generate complex wake structures critical to their aerodynamic force production. Specific flow structures such as the leading-edge vortex have been studied for decades; however, a complete understanding of the transient dynamics and energy exchange mechanisms in insect wakes remains elusive. To help bridge this gap, we employ data-driven reduced-order modelling techniques to identify a simple and interpretable model for a hovering hawkmoth’s wake. We begin by using an in-house immersed-boundary-method computational fluid dynamics solver to simulate hovering hawkmoth flight. We then perform dynamic mode decomposition to distil the resulting flow field into a set of time-varying modes. Finally, we employ sparse regression to identify a model capturing the dr…",
-    "authors": "Seth Lionetti, Bryan E. Schmidt, Chengyu Li",
-    "published": "2026-06-30",
-    "keywords_matched": [
-      "wake",
-      "ABL",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Drag coefficient of a rough grain submerged in low-Reynolds-number flow",
-    "doi": "10.1017/jfm.2026.11753",
-    "url": "https://doi.org/10.1017/jfm.2026.11753",
-    "abstract": "Controversy exists regarding whether grain morphology reduces or enhances the drag of a single grain in creeping flows. Further complication occurs when orientation dependence of aspherical grains comes into play. To bridge this gap, this study investigates numerically the drag on fractally rough grains depicted by spherical harmonics. Rough shapes could induce drag reduction, indicated by a lower mean value of drag coefficients upper C Subscript upper D C D $C_{\\!D}$ at various rotation angles, compared with that of the corresponding smooth sphere. Moreover, the derived power law between upper C Subscript upper D C D $C_{\\!D}$ and the projected area upper A Subscript p A p $A_{\\!p}$ perpendicular to the flow direction, expressed as upper C Subscript upper D Baseline proportional to upper …",
-    "authors": "Si Suo, Deheng Wei, Budi Zhao, Chongpu Zhai",
-    "published": "2026-06-30",
-    "keywords_matched": [
-      "drag reduction"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Wavenumber–frequency spectrum model of fluctuating pressure on flat plate and circular cylinder in compressible flow",
-    "doi": "10.1017/jfm.2026.11744",
-    "url": "https://doi.org/10.1017/jfm.2026.11744",
-    "abstract": "This study develops wavenumber–frequency spectrum models for wall-pressure fluctuations in turbulent boundary layers on flat plates and cylinders in compressible flow. Through non-dimensionalisation and solution of the momentum and continuity equations, a unified physical framework integrating near-field pressure and far-field acoustic regions is established, extending Lighthill’s acoustic analogy. Starting from the fluctuating pressure governing equation, Mach number effects in the acoustic region are explicitly introduced for the first time, and unified analytical expressions across the full wavenumber range are derived for both geometries. The proposed models achieve high-precision prediction across the entire wavenumber domain. Validation is performed via cylinder wind tunnel experimen…",
-    "authors": "Ji-Jun Pu, Rongping Zhang, Fengjie Li, Peng-Jun-Yi Zhang et al.",
-    "published": "2026-06-30",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Deformation and motion of a thin sessile drop in shear flow",
-    "doi": "10.1017/jfm.2026.11746",
-    "url": "https://doi.org/10.1017/jfm.2026.11746",
-    "abstract": "Drop deformation and motion driven by shear flows are widespread phenomena in nature and underpin a variety of technological applications. We investigate the deformation, motion and contact-line dynamics of two-dimensional drops in steady shear flows within the framework of lubrication theory. For pinned drops with 180 Superscript ring 180 ∘ $180^\\circ$ hysteresis, we identify a critical shear rate, beyond which the upstream side becomes unstable and a thinning film develops. At late stage, the thinning film connects to the bulk drop through a self-similar capillary transition structure. For moving drops with 0 Superscript ring 0 ∘ $0^\\circ$ hysteresis, the dynamical behaviours can be classified into three regions: in the low-shear region, the steady-state drop velocity increases linearly …",
-    "authors": "Xi-Hu Wu, Hang Ding, Peng Gao",
-    "published": "2026-06-30",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Stabilisation of adverse density gradients in binary mixtures via transverse confinement: comparison of theory, numerics and experiment",
-    "doi": "10.1017/jfm.2026.11755",
-    "url": "https://doi.org/10.1017/jfm.2026.11755",
-    "abstract": "We investigate the effect of the transverse aspect ratio ( upper B B $B$ ) of a thermogravitational column (TGC) on the stability of a binary fluid mixture with a negative separation ratio ( psi ψ $\\psi$ ), which generates an adverse vertical density gradient. In extended systems, this configuration is unstable and limits separation. Here we show that confinement fundamentally alters this behaviour and can fully suppress the instability. Combining linear stability analysis of the three-dimensional basic state, three-dimensional simulations and experiments, we identify upper B B $B$ as the key control parameter. Linear stability analysis yields a correlation for the critical aspect ratio upper B Subscript italic c Baseline left parenthesis psi right parenthesis B c ( ψ ) $B_{\\textit{c}}(\\ps…",
-    "authors": "Antton Sanjuan Esnaola, Katia Ali Amar, Silvia C. Hirata, Valentina Shevtsova et al.",
-    "published": "2026-06-30",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
