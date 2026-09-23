@@ -1,5 +1,42 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Moist Available Potential Energy, Multiscale Energetics and the Multiscale Dynamics Governing an Extremely Devastating Rainstorm",
+    "doi": "10.1029/2026jd046750",
+    "url": "https://doi.org/10.1029/2026jd046750",
+    "abstract": "Abstract An unprecedented record‐breaking extreme hourly rainfall event (201.9 mm/hr) occurred on 20 July 2021, at the Zhengzhou Station, China. In previous studies, a meso‐‐scale convective storm is found to be the direct process causing the rainfall; also found is the impact of processes on other scales (synoptic‐ and meso‐scales), in enhancing moisture supplement, wind convergence, vertical wind shear, etc. How these processes, which lie on distinct scales, may interact, and/or, how the interaction may play a role, remain elusive. Motivated by the seminal theoretical work of Lilly (1986, https://doi.org/10.1175/1520‐0469(1986)043&lt;0113:tseapo&gt;2.0.co;2 ), we hence explore this aspect of the storm dynamics, using the functional analysis tool, multiscale window transform (MWT), and th…",
+    "authors": "Jiwang Ma, Yineng Rong, X. San Liang, Renhe Zhang et al.",
+    "published": "2026-09-22",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "DIRECT 1.0: a diffusion-based generative model for dense sea surface temperature reconstructions from sparse satellite observations",
+    "doi": "10.5194/gmd-19-8915-2026",
+    "url": "https://doi.org/10.5194/gmd-19-8915-2026",
+    "abstract": "Satellite sea surface temperature (SST) observations are frequently obscured by cloud cover, creating large gaps that must be reconstructed for many oceanographic and climate applications. Because multiple high-resolution SST fields may be consistent with the same sparse observations, this reconstruction problem is inherently ambiguous. Nevertheless, most existing approaches remain deterministic, producing a single estimate that is often overly smooth, may contain unrealistic artifacts, and provides limited or unreliable uncertainty estimates. To address these limitations, we introduce DIRECT, a conditional generative framework for dense SST reconstruction that models the full distribution of plausible solutions rather than a single deterministic estimate. DIRECT is based on a rectified fl…",
+    "authors": "Grega Rovšček, Matjaž Ličer, Alexander Barth, Matej Kristan",
+    "published": "2026-09-22",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Advances in Atmospheric Sciences",
+    "title": "Sensible Heat and Momentum Flux in the Sea-Ice-Covered Southern Ocean Based on a Shipborne Observation Experiment",
+    "doi": "10.1007/s00376-026-5815-0",
+    "url": "https://doi.org/10.1007/s00376-026-5815-0",
+    "abstract": "Abstract In the Southern Ocean’s marginal ice zone (MIZ), sea ice complicates accurate estimation of air–sea fluxes, limiting the predictive skill of climate models. From December 2020 to January 2021, the 37th Chinese National Antarctic Research Expedition conducted ship-based measurements in the MIZ using an EC (eddy covariance) system, focusing on sensible heat and momentum fluxes between the air and the sea. A dataset has been compiled and made publicly available. It includes meteorological variables, energy and momentum fluxes, and turbulence variables (friction velocity and atmospheric stability), offering valuable insights for studies of ocean–ice–atmosphere interactions and climate modeling. This study also details refinements to the COARE3.5 algorithm informed by the observations,…",
+    "authors": "Gong Zhang, Bo Han, Changwei Liu, Fenghao Chen et al.",
+    "published": "2026-09-22",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Integral modelling of weakly evaporating three-dimensional liquid film with variable-substrate heating",
     "doi": "10.1017/jfm.2026.11912",
@@ -82,6 +119,31 @@
     "authors": "Alexandru Dumitrescu",
     "published": "2026-09-21",
     "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Timescale Dependence of Environmental Controls on Actual Evapotranspiration Along Climate and Ecosystem Gradients",
+    "doi": "10.1029/2025jd045749",
+    "url": "https://doi.org/10.1029/2025jd045749",
+    "abstract": "Abstract The interactions of actual evapotranspiration (ETa) with environmental variables vary across temporal scales; however, how these multi‐timescale interactions change along climate and ecosystem gradients remains unclear. To address this, the FLUXNET2015 data set was analyzed using wavelet coherence analysis (WTC). At four selected sites with contrasting climates, the WTC power spectra revealed that daily ETa showed stronger coherences with meteorological variables (e.g., net radiation‐Rn), and its coherences with leaf area index and soil moisture content (SWC) increased with site dryness. The 90‐day coherences of ETa with meteorological variables weakened, while became more pronounced with SWC particularly in dry regions. By comparison, annual coherences of ETa with meteorological …",
+    "authors": "Wenqiang Liu, Tiejun Wang, Qiong Han, Chongli Di et al.",
+    "published": "2026-09-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Impacts of Simulated Deforestation on Meteorology and Primary Productivity in Appalachian Deciduous Forests Using WRF With Noah‐MP",
+    "doi": "10.1029/2026jd046807",
+    "url": "https://doi.org/10.1029/2026jd046807",
+    "abstract": "Abstract Changes in land cover can impact local and synoptic meteorology, and subsequently, ecological processes. Using a coupled atmosphere and land surface model (WRF and Noah‐MP), we quantified how simulated deforestation events of varying extent (approximately 4,000–18,000 ), continuity, and orientation, impact meteorology and gross primary productivity (GPP) in surrounding intact forest (approximately 90,000 ) in Southern Appalachia, North America. Substantially altered conditions within areas of deforestation, primarily horizontal wind speed, vapor pressure deficit, and soil moisture, create pronounced, radially variable, edge effects in both meteorology and GPP in the surrounding intact forest, conditional on the size, extent, and orientation of deforestation. In a comparatively dry…",
+    "authors": "Carter E. Watson, Anna Harper, Gabriel J. Kooperman, Ford Ballantyne",
+    "published": "2026-09-21",
+    "keywords_matched": [
+      "WRF",
       "ABL"
     ]
   },
@@ -6103,68 +6165,6 @@
     "published": "2026-07-01",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Hydrodynamics of a microswimmer in a variable viscosity medium",
-    "doi": "10.1063/5.0329578",
-    "url": "https://doi.org/10.1063/5.0329578",
-    "abstract": "The locomotion of microswimmers in spatially varying viscous media is governed by a complex interplay between fluid heterogeneity and surface-driven activity. In the present analysis, the viscosity profile μ(r) is modeled based on concentration gradients, aligning with the formulation by Housiadas and Beris [Phys. Fluids 31, 113105 (2019)]. The viscosity variation is governed by a control parameter ξ, while surface activity is induced by diffusiophoresis. We employ a reduced form of the governing equations and use an asymptotic power series expansion to derive analytical expressions for the velocity field, swimmer speed, power dissipation, and swimming efficiency. In the depletion regime (0≤ξ≤1), the swimmer's speed increases with the viscosity contrast η, reflecting improved propulsion ef…",
-    "authors": "Shiba Biswas, Arindam Basak, Abyaya Dhar, G. P. Raja Sekhar",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Assimilation of Fullness to Improve the Intensity and Structure of Tropical Cyclone Forecasting",
-    "doi": "10.1029/2025ms005339",
-    "url": "https://doi.org/10.1029/2025ms005339",
-    "abstract": "Abstract Numerical forecasts often underestimate the intensity of tropical cyclones (TCs). One strategy to mitigate the intensity underestimation is to improve the realism of the initial vortex. However, direct observations of TC intensities and structures are limited. It is thus necessary to utilize indirect observations. One such example is TC fullness—an integral measure of TC intensity and size. In this study, TC fullness is assimilated through an ensemble Kalman filter, for typhoons Hagibis (2019) and Haishen (2020) that experienced rapid intensification. The fullness obtains more coherent correlations with the mass and wind fields than either the radius of maximum wind (RMW) or radii of gale‐force wind (R17). The correlations of state variables with the fullness have larger magnitude…",
-    "authors": "Yangjinxi Ge, Lili Lei, Linfan Zhou, Zhe‐Min Tan et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "ABL",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Prediction formula for wind speed reduction by windscreens in three-dimensional flow conditions",
-    "doi": "10.1063/5.0336035",
-    "url": "https://doi.org/10.1063/5.0336035",
-    "abstract": "Windscreens play a vital role in engineering applications such as building insulation, ventilation, or dust suppression in open-pit stockyards. They not only reduce wind loads on structures and regulate indoor–outdoor air exchange rates but also contribute to improving local air quality and mitigating dust dispersion. Their protective performance is typically evaluated through wind tunnel experiments or numerical simulations; however, a reliable formula for accurately predicting the actual wind reduction effectiveness of windscreens remains lacking. In this study, Computational Fluid Dynamics simulations were employed to quantitatively investigate the effects and underlying mechanisms of six physical parameters—windscreen height, width, model scale, turbulence intensity, wind speed, and wi…",
-    "authors": "Deqing Zhu, Tingguo Chen, Chengjiao Ren",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Unifying formalism and closures for coarse-grained approaches to turbulence",
-    "doi": "10.1063/5.0332795",
-    "url": "https://doi.org/10.1063/5.0332795",
-    "abstract": "We propose the use of a unifying paradigm for the assessment and development of closed forms of the coarse-grained Navier–Stokes equations across approaches ranging from the statistical to the scale-resolving ones. It consists in the exact formalism provided by the temporally filtered Navier–Stokes equations. The fundamental idea is that the smoothing action of turbulent stresses can be described as a temporal filtering operator implicitly applied to the solution. Contrary to the average and spatial filtering operators, the temporal filter is a unifying operator that smoothly varyies within the statistical and scale-resolving realms. The potential of the temporal filtering paradigm is highlighted here by unveiling relevant algebraic properties and by deriving a new class of turbulence clos…",
-    "authors": "A. Cimarelli, N. Marras, B. Niceno, Y. Tessier Urrecha",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Mechanism of dynamic stall delay via leading edge vortex control by steady and pulsed plasma actuation",
-    "doi": "10.1063/5.0331912",
-    "url": "https://doi.org/10.1063/5.0331912",
-    "abstract": "Bioinspired flapping-wing propulsion for micro air vehicles exploits flow unsteadiness to enhance lift at lower flight speeds and Reynolds numbers. However, it poses challenges, including leading edge vortex (LEV) detachment and, eventually, dynamic stall. The present study investigates the LEV detachment mechanism and its control using an alternating current dielectric barrier discharge plasma actuator on a two-dimensional pure plunging airfoil. The volumetric plasma body force generated by the plasma actuator is modeled through an indirect method based on the Navier–Stokes equations and the experimental velocity database. The starting vortex induced by the actuator and the wall-jet velocities are well captured, validating the plasma force distribution. We employ counter-flow plasma, whic…",
-    "authors": "C. P. AbdulGafoor, B. B. Raghuram, Krishma Rajesh Mehta, Aniruth Arun et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "vortex"
     ]
   }
 ]
