@@ -1,5 +1,54 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Growth of small localised perturbations in surface quasi-geostrophic turbulence",
+    "doi": "10.1017/jfm.2026.12088",
+    "url": "https://doi.org/10.1017/jfm.2026.12088",
+    "abstract": "The butterfly effect, namely the amplification of an initially localised infinitesimal perturbation, is a fundamental hallmark of chaotic systems. While this phenomenon is well understood in low-dimensional chaotic systems, its implications become more complex in spatially extended systems characterised by multiple temporal and spatial scales, such as geophysical flows. In this letter, we investigate the butterfly effect by examining the evolution of infinitesimal localised perturbations in a minimal model of mesoscale geophysical turbulence. We find that localised perturbations exhibit a highly variable dynamics, including an initial transient regime during which perturbation energy decreases while the error spectrum shifts from the injection scale toward the system’s most unstable config…",
+    "authors": "Victor de Jesus Valadão, Massimo Cencini, Filippo De Lillo, Stefano Musacchio et al.",
+    "published": "2026-09-23",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Simulations of SOA Formation Using CMAQ‐UNIPAR During the 2019 FIREX‐AQ Campaign",
+    "doi": "10.1029/2026jd046746",
+    "url": "https://doi.org/10.1029/2026jd046746",
+    "abstract": "Abstract Wildfire smoke contains a large amount of phenolic hydrocarbons (HCs) that react with atmospheric oxidants, producing secondary organic aerosol (SOA). In this study, the UNIfied Partitioning Aerosol‐phase Reaction (UNIPAR) model was integrated into the Community Multiscale Air Quality Modeling System (CMAQ) to predict SOA over the West Coast of the United States during the Fire Influence on Regional to Global Environments Experiment‐Air Quality (FIREX‐AQ) campaign. UNIPAR predicts SOA formation via multiphase reactions of explicitly predicted products from the oxidation of precursor HCs. In CMAQ‐UNIPAR, various phenolic HCs were surrogated with phenol, cresol, and catechol, and their parameters were established for three oxidation pathways (OH radicals, O 3 , and NO 3 radicals). P…",
+    "authors": "Ganghan Kim, Myoseon Jang, Jinsoo Park",
+    "published": "2026-09-23",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Mechanisms of ENSO‐Modulated Precipitation Seasonality in Southeastern China and Implications for Stalagmite δ\n                    <sup>18</sup>\n                    O Records",
+    "doi": "10.1029/2026jd047681",
+    "url": "https://doi.org/10.1029/2026jd047681",
+    "abstract": "Abstract Southeastern China (SEC) lies within the core region of the East Asian monsoon and exhibits pronounced hydroclimatic variability associated with the El Niño–Southern Oscillation (ENSO). Instrumental and modeling studies indicate that ENSO influences regional precipitation primarily through changes in seasonality rather than annual mean precipitation. However, it remains unclear whether SEC stalagmite δ 18 O records reliably capture this signal to extend reconstructions of ENSO‐related variability beyond the instrumental period. Here we combine instrumental observations and simulated data from the Isotope‐incorporated Global Spectral Model (IsoGSM) to characterize the modern hydroclimatic response to ENSO and evaluate a high‐resolution stalagmite δ 18 O record (YQ15‐1, 1987–2015 CE…",
+    "authors": "Yueer Li, Haiwei Zhang, Ashish Sinha, Hanying Li et al.",
+    "published": "2026-09-23",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "The North American CORDEX-CMIP6 WRF evaluation run: comparing historical simulations from 25 km to convection-permitting scales",
+    "doi": "10.5194/gmd-19-8995-2026",
+    "url": "https://doi.org/10.5194/gmd-19-8995-2026",
+    "abstract": "Earth system models (ESMs) provide essential insight into large-scale climate variability and change but often lack the spatial resolution required to represent fine-scale processes critical for regional impacts and adaptation planning. To help address this gap, we present an updated high-resolution regional climate simulation for North America (NA) as part of the Coordinated Regional Downscaling Experiment (CORDEX). We evaluate a new reanalysis forced NA-CORDEX simulation at 12 km resolution against observational datasets, an earlier NA-CORDEX CMIP5 simulation (25 km), and the convection-permitting CONUS-404 simulation (4 km). Through these comparisons, we assess how horizontal resolution and regional model configuration influence historical differences from reanalysis and the representat…",
+    "authors": "Jacob Stuivenvolt-Allen, Trude Eidhammer, Rachel McCrary, Melissa Bukovsky et al.",
+    "published": "2026-09-23",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Moist Available Potential Energy, Multiscale Energetics and the Multiscale Dynamics Governing an Extremely Devastating Rainstorm",
     "doi": "10.1029/2026jd046750",
@@ -6115,56 +6164,6 @@
     "published": "2026-07-01",
     "keywords_matched": [
       "wake"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Integration of Deep Neural Network‐Based Boundary Layer Subgrid Frictional Effects Into the Momentum Equation Constraint of WRFDA EnVar to Improve Tropical Cyclone Forecasts",
-    "doi": "10.1029/2025ms005605",
-    "url": "https://doi.org/10.1029/2025ms005605",
-    "abstract": "Abstract The incorporation of appropriate dynamic constraints in data assimilation (DA) is highly important for improving the forecasting of disastrous weather. It is often challenging to describe subgrid physical processes with strong nonlinearity and discontinuity in dynamic constraints because of difficulties in tangent linear and adjoint development. Based on the frictionless momentum equation weak constraint within the Weather Research and Forecasting ensemble‐three‐dimensional variational (En3DVar) DA, this study incorporates the subgrid planetary boundary layer (PBL) turbulent friction effects through a machine learning (ML) approach. The new constraint is aimed at improving the coupling between dynamic and thermodynamic variables. A deep neural network (DNN) is applied to emulate t…",
-    "authors": "Xin Li, Jian‐Feng Gu, Yi Li, Yu Zheng et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "WRF",
-      "weather research and forecasting",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Development and Evaluation of the Conjunctive Surface‐Subsurface Process Model Version 3 (CSSPv3) at Global Scale",
-    "doi": "10.1029/2025ms005440",
-    "url": "https://doi.org/10.1029/2025ms005440",
-    "abstract": "Abstract The global terrestrial water and carbon cycles have evolved rapidly during recent decades, particularly in regions with intensive anthropogenic interventions and vulnerable ecohydrological systems. However, current land surface models (LSMs) and global hydrological models (GHMs) often treat natural ecohydrological processes and human water use in isolation, leaving a critical gap in the holistic understanding of coupled human‐natural systems at global scale. To bridge this gap, we developed the Conjunctive Surface–Subsurface Process Model version 3 (CSSPv3), a global land surface‐ecology‐hydrology coupled model that innovatively integrates human activities including irrigation and reservoir operation, dynamic water‐carbon couplings, and glacier freeze–thaw cycles within a water–en…",
-    "authors": "Xing Yuan, Chenyuan Li, Peng Ji, Xiazhen Xi et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Richtmyer–Meshkov mixing induced by spike–spike collision for a shock-accelerated light fluid layer",
-    "doi": "10.1063/5.0339819",
-    "url": "https://doi.org/10.1063/5.0339819",
-    "abstract": "Richtmyer–Meshkov mixing induced by spike–spike collision in a light fluid layer is numerically studied. Eight SF6/air/SF6 fluid layers with different combinations of initial perturbation amplitudes and wavelengths are examined to assess the dependence of mixing on initial conditions. The spike–spike collision significantly suppresses the mixing-width growth, whereas it has almost no influence on the mixedness evolution, indicating that molecular-level mixing is insensitive to large-scale finger interactions. When the interacting interfaces are in the early stage of their evolution, the collision significantly affects the scalar dissipation rate of the SF6 mass fraction, leading to a non-monotonic evolution prior to the eventual decay. Moreover, the collision fails to establish an effectiv…",
-    "authors": "Dugang Zheng, Xu Guo, Zhigang Zhai, Xisheng Luo",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Large eddy simulation study of cavitating flow dynamics on a small-amplitude oscillating blade",
-    "doi": "10.1063/5.0334012",
-    "url": "https://doi.org/10.1063/5.0334012",
-    "abstract": "Unsteady cavitating flow dynamics over oscillating blades have attracted increasing attention in recent years. To elucidate cavitation instabilities induced by small-amplitude blade oscillations, this study employs large eddy simulation to investigate cavitation behavior over both stationary and oscillating blades. For the stationary configuration, the numerical results reasonably reproduce the experimentally observed transition from non-cavitating flow to attached cavitation and unsteady cloud cavitation with increasing angle of attack. For the oscillating configuration, the largest cavitation cloud appears during the transition from the maximum angle toward the mean angle due to hysteresis effects. Cavity destabilization is associated with the upstream propagation of a condensation shock…",
-    "authors": "Tingyun Yin, Giorgio Pavesi",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
