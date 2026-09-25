@@ -1,5 +1,41 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "TEMPO Exposes Systematic Deficiencies in Simulating Daylight Formaldehyde Variability During the 2024 Growing Season: A Classification‐Based Evaluation of WRF‐CMAQ",
+    "doi": "10.1029/2026jd047766",
+    "url": "https://doi.org/10.1029/2026jd047766",
+    "abstract": "Abstract Formaldehyde (HCHO) serves as a useful tracer of tropospheric photochemistry, linking volatile organic compound emissions to atmospheric oxidation capacity and ozone production. The Tropospheric Emissions: Monitoring of Pollution (TEMPO) geostationary satellite provides unprecedented hourly daylight observations of HCHO across North America. Taking a geographically agnostic approach, we classify 1.2 million TEMPO hourly profiles from the May to September 2024 growing season into six daylight evolution patterns: (i) northeastern forests with steady accumulation, (ii) southeastern isoprene/anthropogenic hotspots with dome‐shaped patterns, (iii) southwestern arid regions with morning peaks and afternoon decline, (iv) coastal environments with decreasing patterns, (v) background with …",
+    "authors": "Amir H. Souri, Sarah A. Strode, Junhua Liu, Gonzalo Gonzalez Abad et al.",
+    "published": "2026-09-24",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Size‐Resolved Particle Effective Density in the Free Troposphere at Mt. Hua, China: Influence of Chemical Aging and Sources",
+    "doi": "10.1029/2026jd046678",
+    "url": "https://doi.org/10.1029/2026jd046678",
+    "abstract": "Abstract Effective density ( ρ eff ) is a key physical property of atmospheric particles, yet it has rarely been investigated in free tropospheric environments. It is largely determined by chemical compositions and particle morphology, providing valuable insights into atmospheric evolution and air‐mass aging. Here, size‐resolved ρ eff was measured at Mount Hua (2060 m a.s.l.) in the Fenwei Plain, China, during autumn 2021, using a coupled differential mobility analyzer‐centrifugal particle mass analyzer‐condensation particle counter (DMA‐CPMA‐CPC) system. We found that the ρ eff increased from 1.40 g cm −3 at 50 nm to 1.54 g cm −3 at 350 nm, generally higher than those observed for similar size ranges at ground‐level sites (∼1.2–1.4 g cm −3 ), indicating a reduced contribution from low‐den…",
+    "authors": "Yaqing Zhou, Jiaen Cai, Nan Ma, Qiyuan Wang et al.",
+    "published": "2026-09-24",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "A hybrid method for winter road surface temperature prediction using improved LSTMs and stacking-based ensemble learning",
+    "doi": "10.5194/gmd-19-9035-2026",
+    "url": "https://doi.org/10.5194/gmd-19-9035-2026",
+    "abstract": "Accurate prediction of road surface temperature (RST) is essential for proactive winter road maintenance and traffic safety management. However, existing approaches – ranging from physics-based models to data-driven methods – either require detailed pavement thermal parameters that are rarely available at operational road meteorological stations, or lack the capacity to simultaneously exploit local meteorological analogues and long-range temporal dependencies in an interpretable ensemble framework. This study proposes the Improved LSTMs Ensemble with Stacking (ILES) framework, which integrates two base learners with partially complementary predictive characteristics within a stacking ensemble employing out-of-fold cross-validation. The first base learner, KNN-LSTM, augments sequential mode…",
+    "authors": "Wanting Li, Linyi Zhou, Xianghua Wu, Yuanhong Guan et al.",
+    "published": "2026-09-24",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Growth of small localised perturbations in surface quasi-geostrophic turbulence",
     "doi": "10.1017/jfm.2026.12088",
@@ -6128,42 +6164,6 @@
     "keywords_matched": [
       "ABL",
       "heat transfer"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Nonlinear stability of oscillating microbubbles: Lyapunov analysis and Gaussian process regression",
-    "doi": "10.1063/5.0337563",
-    "url": "https://doi.org/10.1063/5.0337563",
-    "abstract": "Encapsulated microbubbles subjected to ultrasound exhibit rich nonlinear dynamics ranging from stable periodic oscillations to chaotic behavior, which can strongly influence their performance in biomedical applications. In this study, a comprehensive stability analysis of polymer-shelled microbubbles is performed using Lyapunov exponent spectra evaluated over a four-dimensional parameter space defined by acoustic pressure (0–10 MPa), driving frequency (0–10 MHz), initial bubble radius (0.5–5.0 μm), and environmental temperature (290–390 K). The results reveal well-defined dynamical transitions across the investigated domain. Acoustic pressure acts as the primary bifurcation parameter, with period-doubling routes to chaos emerging around 3450–3500 kPa. The excitation frequency plays a reson…",
-    "authors": "S. Behnia, S. Mehrmanesh, S. Darbanhagh, S. Fathizadeh",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Gait-dependent control strategies and wave propagation mechanisms of fish in complex flows",
-    "doi": "10.1063/5.0332406",
-    "url": "https://doi.org/10.1063/5.0332406",
-    "abstract": "Complex unsteady flow environments present substantial challenges to the stability and energy efficiency of autonomous underwater vehicles (AUVs). While fish can utilize mechanisms like the Kármán gait (KG) to conserve energy, a quantitative understanding of the underlying wave mechanics and morphological limitations remains lacking. This study conducts a comparative kinematic analysis of two morphologically distinct species—the streamlined Leuciscus baicalensis and the deep-bodied Carassius auratus gibelio—in the wake of a D-shaped cylinder. Using the two-dimensional Hilbert transform for wave decomposition and time-series analysis, we quantify body wave evolution and intermittent swimming across uniform flow (UF), entrainment (EN), and KG regimes. Results reveal distinct physical modes: …",
-    "authors": "Lijian Ouyang, Ruida Wang, Yu Pan, Juan Zhang et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "wake"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Numerical investigation of propeller excitation force and wake dynamics under harmonic-modulated non-uniform inflow",
-    "doi": "10.1063/5.0337448",
-    "url": "https://doi.org/10.1063/5.0337448",
-    "abstract": "In underwater vehicle propulsion systems, propeller vibration and noise induced by non-uniform inflow are ubiquitous and have attracted widespread attention. Understanding the response mechanism of propeller excitation forces under non-uniform inflow conditions is of great significance for propulsor optimization and noise control. In this study, three non-uniform inflow conditions are constructed based on the nominal wake of SUBOFF by modulating the amplitude of the seventh-order harmonic component. The improved delayed detached eddy simulation is employed to simulate the excitation forces and wake characteristics of a seven-bladed propeller under design conditions. The results show that, for the seven-bladed propeller, when the amplitude of the seventh-order harmonic component in the non-…",
-    "authors": "Tingtong Deng, Chunxu Wang, Shuguang Wang, Qing Wang et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "wake"
     ]
   }
 ]
