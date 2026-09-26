@@ -1,5 +1,79 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Phase-based analysis and control of a supersonic turbulent cavity flow",
+    "doi": "10.1017/jfm.2026.11938",
+    "url": "https://doi.org/10.1017/jfm.2026.11938",
+    "abstract": "We present a phase-based framework for reducing the pressure fluctuations within a spanwise-periodic supersonic turbulent cavity flow with an incoming free-stream Mach number of 1.4 and a depth-based Reynolds number of 10 Superscript 4 10 4 $10^4$ . Open cavity flows exhibit large fluctuations due to the feedback between the shear-layer instabilities and the acoustic field. The dominant flow physics includes the formation, convection and impingement of large-scale spanwise-oriented vortical structures into the aft wall. We implement a phase-reduction approach to identify the flow response about this time-varying convective process by defining a phase variable using dynamic mode decomposition. Three-dimensional impulse perturbations with various spanwise actuation wavenumbers, beta β $\\beta…",
+    "authors": "Vedasri Godavarthi, Yoji Kawamura, Lawrence S. Ukeiley, Louis N. Cattafesta et al.",
+    "published": "2026-09-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Instability of thin-film flows with temperature-dependent viscosity",
+    "doi": "10.1017/jfm.2026.11984",
+    "url": "https://doi.org/10.1017/jfm.2026.11984",
+    "abstract": "We explore thermo-viscous instabilities in an idealised setting motivated by ice-sheet flow, modelled as a shallow layer of fluid with a temperature-dependent viscosity flowing down an inclined plane and subject to a constant geothermal heat flux. In this setting, multiple steady states are possible for a given slope, and we examine their linear stability to general wave-like perturbations in both the streamwise and transverse directions. We confirm that the lower and upper branches are stable with respect to perturbations that are spatially uniform in the two horizontal directions, but the intermediate state is unstable. For finite-wavenumber perturbations and with heat diffusion into the underlying bedrock, we find that all three branches are unstable. The lower and upper branches exhibi…",
+    "authors": "Nicolas Morales-Preciado, Neil J. Balmforth, Christian Schoof",
+    "published": "2026-09-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Layered anisotropic stratified turbulence in columnar Taylor–Green vortices",
+    "doi": "10.1017/jfm.2026.12038",
+    "url": "https://doi.org/10.1017/jfm.2026.12038",
+    "abstract": "We use direct numerical simulations (DNSs) of columnar Taylor–Green vortex arrays under stable density stratification to characterise the route to, and the properties of, layered anisotropic stratified turbulence (LAST). Building on the linear stability analysis of Guo et al. (2024 J. Fluid Mech. , vol. 997, A34) and the convection-driven turbulence transition reported by the same authors (2025 J. Fluid Mech. , vol. 1016, A44), we extend the DNS database to Froude numbers italic Fr less than or slanted equals 0.25 Fr ⩽ 0.25 $\\textit {Fr}\\leqslant 0.25$ and Reynolds numbers italic Re Re $\\textit {Re}$ up to 3200 3200 $3200$ . In this strongly stratified regime, the vortex array breaks down through a shear-driven path: vertical shear layers that form spontaneously in the zigzag-deformed base…",
+    "authors": "Junwei Guo, Qi Zhou",
+    "published": "2026-09-25",
+    "keywords_matched": [
+      "turbulence",
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Lagrangian proper orthogonal decomposition",
+    "doi": "10.1017/jfm.2026.12041",
+    "url": "https://doi.org/10.1017/jfm.2026.12041",
+    "abstract": "We introduce a modal representation for Lagrangian trajectories in turbulence, termed Lagrangian proper orthogonal decomposition. An ensemble of particle trajectories is used to construct velocity time series, which are normalized independently for each trajectory to isolate fluctuations. Principal component analysis is then applied to the resulting dataset, with temporal instances defining the feature space. The method is tested on trajectories from both direct numerical simulations of homogeneous isotropic turbulence and a three-dimensional particle-tracking experiment, showing that the leading modes exhibit similar structures and energy distributions in both cases. Truncated reconstructions are obtained by combining modes and coefficients, rescaling the fluctuations and integrating in t…",
+    "authors": "Stefano Brizzolara, Ron Shnapp",
+    "published": "2026-09-25",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Combining FY‐4B Infrared Window Channel's Cloud Analysis With Water Vapor Radiance Assimilation for the Prediction of Solar Irradiance",
+    "doi": "10.1029/2026jd046954",
+    "url": "https://doi.org/10.1029/2026jd046954",
+    "abstract": "Abstract In the context of the energy crisis and dual‐carbon strategy, solar energy emerges as a highly viable resource. Appropriate cloud initialization is crucial for accurate solar irradiance forecasting. The water vapor channels and infrared window channels of Fengyun‐4B Advanced Geostationary Radiation Imager (FY‐4B AGRI) provide cloud information with different characteristics, respectively. Effectively utilizing these data to improve the accuracy of cloud initial fields and solar irradiance forecasting holds significant research value. In this study, cloud information from FY‐4B AGRI infrared window channels was successfully assimilated into a numerical solar prediction model using a cloud analysis scheme, with hydrometeor species in the cloud analysis were extended to five types (c…",
+    "authors": "Wanli Zhang, Yaodeng Chen, Yuanbing Wang, Deming Meng et al.",
+    "published": "2026-09-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Advances in Atmospheric Sciences",
+    "title": "Decadal Shift of Teleconnections Intensifies Summertime High-Ozone Episodes in China",
+    "doi": "10.1007/s00376-026-6006-8",
+    "url": "https://doi.org/10.1007/s00376-026-6006-8",
+    "abstract": "Abstract Summertime high-ozone pollution is a significant environmental concern for the North China Plain (NCP), affecting millions of residents. High-ozone episodes over the NCP often coincide with ridge formations, blocking the propagation of Rossby waves to the NCP, thereby creating favorable conditions for photochemical production of ozone. In recent years, more frequent ridge occurrences have intensified the emission-driven ozone problem over the NCP. We find that the climate factors driving the ridge formation have shifted over the decades. In the last two decades of the 20th century, wave trains induced by the low-latitude North Atlantic SST anomalies were the main driver of ridge frequencies. However, in more recent decades, the Eurasia teleconnection associated with Arctic sea ice…",
+    "authors": "Houwen Wang, Yuhang Wang, Yang Gao, Lifang Sheng et al.",
+    "published": "2026-09-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "TEMPO Exposes Systematic Deficiencies in Simulating Daylight Formaldehyde Variability During the 2024 Growing Season: A Classification‐Based Evaluation of WRF‐CMAQ",
     "doi": "10.1029/2026jd047766",
@@ -6091,79 +6165,6 @@
     "published": "2026-07-01",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Experimental measurement of magnetic signatures induced by ion dynamics in seawater jet flows",
-    "doi": "10.1063/5.0338366",
-    "url": "https://doi.org/10.1063/5.0338366",
-    "abstract": "As underwater stealth technology continues to advance, the effectiveness of conventional acoustic detection is becoming increasingly constrained, motivating the development of non-acoustic detection techniques based on electromagnetic signatures. This study presents a systematic theoretical, experimental, and numerical investigation of magnetic fields generated by ion dynamics in conductive seawater jet flows. A multiphysics coupling model incorporating hydrodynamics and electromagnetics was first established. A high-fidelity experimental platform was then developed using a nonmagnetic recirculating water tank and a high-sensitivity cesium optically pumped magnetometer to measure a pulsed jet with a modulation frequency of 0.216 Hz. To extract weak signals from background noise, a signal-p…",
-    "authors": "Bo Huang, Zhongyan Liu, Hongyu Fu, Xu Liu et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Aerodynamic performance enhancement of ducted rotors with bio-inspired non-smooth structures: Mechanisms and flow control",
-    "doi": "10.1063/5.0325475",
-    "url": "https://doi.org/10.1063/5.0325475",
-    "abstract": "Boundary layer separation on the duct inner wall and its complex coupling with the rotor tip leakage vortex (TLV) constitute the primary sources of aerodynamic blockage and energy dissipation in ducted rotor systems. This study investigates a passive flow control strategy utilizing biomimetic non-smooth structures to suppress separation and recover aerodynamic lift. An integrated optimization framework combining computational fluid dynamics, Kriging surrogate modeling, and genetic algorithms was employed to determine the optimal topological parameters of the surface modification. The optimized configuration, characterized by an array of elliptical concave pits, yielded a 2.12% increase in total lift and a 4% recovery in rotor lift compared to the baseline. Detailed flow physics analysis re…",
-    "authors": "Jiaheng Zhang, Yan Zheng, Dan Zhang, Akira Rinoshika",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Granular lift induced by confinement: Mechanism and modeling",
-    "doi": "10.1063/5.0336000",
-    "url": "https://doi.org/10.1063/5.0336000",
-    "abstract": "Granular lift has attracted sustained attention over the past two decades due to its central role in governing the dynamics of objects moving within granular media, with direct relevance to excavation, robotic locomotion, and resource exploration. Despite significant progress in uncovering phenomenology and developing models, a first-principles understanding of granular lift remains elusive owing to the inherent complexity of granular physics. In this study, we employ discrete element method (DEM) simulations to reveal a lift-generation mechanism intimately associated with granular confinement and develop a theoretical model for predicting granular lift. We demonstrate that granular lift originates from the formation of a stable confined region, induced by geometric confinement between the…",
-    "authors": "Shuo Huang, Zhenning Liu, Yuefan Yin, Caishan Liu",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Asymmetric evolution of vortex-tube structures in side-by-side ventilated twin cavities at a fixed low Froude number",
-    "doi": "10.1063/5.0340747",
-    "url": "https://doi.org/10.1063/5.0340747",
-    "abstract": "This study experimentally investigates the closure-region interfacial morphology and vortex-tube evolution of side-by-side ventilated twin cavities at a fixed low Froude number. Time-resolved cavity images are acquired using high-speed imaging under different lateral spacing ratios LH/DC and ventilation coefficients CQ. Proper orthogonal decomposition, information entropy, and K-medoids clustering are combined to quantify vortex-tube disorder and identify coarse-grained evolution states. The results show that twin-cavity coupling produces a spacing-controlled asymmetric evolution pattern. As LH/DC decreases, gap-passage acceleration strengthens the deflection of the local gas–liquid trajectory toward the gap side, increases the induced strain and co-flow shear acting on the gap-side vortex…",
-    "authors": "Huacheng Mei, Wanning Li, Wenzhi Yan, Yuchen Ding et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Theoretical and numerical predictions of shock wave attenuation with frictional drag and heat transfer effects",
-    "doi": "10.1063/5.0338912",
-    "url": "https://doi.org/10.1063/5.0338912",
-    "abstract": "Shock tubes are shock-forming devices used in a wide range of research fields. In ideal shock tube theory, the shock wave strength can be calculated from the initial states and thermodynamic properties of the driver and driven gases. However, as the shock wave propagates further, wall interactions affect the shock strength. Previous theoretical studies have mainly focused on predicting shock attenuation and pressure variations behind the shock wave as functions of the shock propagation distance. In this study, additional quantitative predictions are provided, including the deceleration of the contact surface and the amounts of wall shear stress and wall heat flux, providing detailed quantitative insights into the physics of wall interactions. The correlation between the relative contributi…",
-    "authors": "Jaesung Hwang, Seungmin Lee, Jaiyoung Ryu",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "heat transfer"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Radial distribution effects of surface waviness on rotating disk flow and heat transfer in porous media",
-    "doi": "10.1063/5.0342111",
-    "url": "https://doi.org/10.1063/5.0342111",
-    "abstract": "This study investigates the effects of radial placement of surface waviness on momentum and thermal transport in rotating disk boundary layers embedded in a porous medium. Rather than treating waviness solely as a geometric enhancement strategy, the present work focuses on identifying where along the disk surface waviness strongly alters the coupled transport processes and how porous resistance modulates these effects. Three different wavy surface profiles are defined: case I (constant amplitude), case II (amplitude proportional to radius), and case III (amplitude decreasing linearly with radius). The governing continuity, momentum, and energy equations are converted into a non-similar system using dimensionless variables and solved numerically with the Keller–Box method in MATLAB. Results…",
-    "authors": "Zar Nabi Khan, Iqrar Raza, Ahmer Mehmood",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "ABL",
-      "heat transfer"
     ]
   }
 ]
