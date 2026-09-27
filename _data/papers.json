@@ -1,5 +1,30 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "TEMPO Applications During Poor Wintertime Air Quality in Salt Lake City: An Analysis of Persistent Cold Air Pooling Events",
+    "doi": "10.1029/2026jd047397",
+    "url": "https://doi.org/10.1029/2026jd047397",
+    "abstract": "Abstract During the wintertime, the Salt Lake Valley (SLV) experiences episodes of poor air quality during persistent cold air pools (PCAPs), wherein the atmospheric boundary layer remains stable for several days. We examine insights into the accumulation of primary emissions during PCAPs gained from NO 2 tropospheric column abundances derived from Tropospheric Emissions: Monitoring of Pollution (TEMPO), the first geostationary satellite to monitor trace gases over North America. We employ measurements from ground‐based Pandora spectrometers to evaluate the ability of TEMPO to sample these pollution events. We find that TEMPO performs well when compared to the Pandora measurements ( r = 0.72–0.82, with average biases between ∼4% and 6%). Importantly, we confirm that TEMPO‐based sampling do…",
+    "authors": "Kate E. Bartlett, Jeffrey A. Geddes, Haley Humble, Taylor J. Adams et al.",
+    "published": "2026-09-26",
+    "keywords_matched": [
+      "atmospheric boundary layer",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Thermodynamic Drivers of Rapid Transition From Drought to Flood in Siberia, Russia",
+    "doi": "10.1029/2026jd046896",
+    "url": "https://doi.org/10.1029/2026jd046896",
+    "abstract": "Abstract Siberia is a warming hotspot under the impact of climate change, and faces growing threats from hydroclimatic extremes. The rapid transition from drought to extreme wet conditions (hereafter RTDFs) could exacerbate compound hazards, as intense rainfall on drought‐weakened surfaces may increase runoff and permafrost instability in vulnerable cold regions. While some studies have examined RTDFs, understanding of them as a continuous physical process, particularly the dynamics of the transition, requires further investigation. Using data from 408 meteorological stations across Russia (1961–2022), we identified RTDFs and examined their characteristics and underlying mechanisms. Results show that a substantial majority of RTDFs occurred in western Siberia, with a marked peak during Apr…",
+    "authors": "Shuyu Zhang, Gengxi Zhang, Junhao Zhao, Thian Yew Gan et al.",
+    "published": "2026-09-26",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Phase-based analysis and control of a supersonic turbulent cavity flow",
     "doi": "10.1017/jfm.2026.11938",
@@ -6138,30 +6163,6 @@
     "url": "https://doi.org/10.5194/gmd-19-5765-2026",
     "abstract": "Abstract. Accurate characterization of station locations is crucial for reliable air quality assessments such as the Tropospheric Ozone Assessment Report (TOAR). While urban and rural areas are relatively well-defined, the boundaries and identity of suburban areas remain ambiguous, overlapping with both urban and rural zones and varying due to cultural and social factors. This study investigates a machine learning approach to classify 24 348 stations in the unique global TOAR database as urban, suburban, or rural. We tested two different approaches: unsupervised K-means clustering with three clusters, and an ensemble of supervised learning classifiers including random forest, CatBoost, and LightGBM. We integrate these classifiers into a robust voting model, leveraging their collective pred…",
     "authors": "Ramiyou Karim Mache, Sabine Schröder, Michael Langguth, Ankit Patnala et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Schrödinger–Navier–Stokes equation for capillary fluids",
-    "doi": "10.1063/5.0341301",
-    "url": "https://doi.org/10.1063/5.0341301",
-    "abstract": "We highlight some properties of the Schrödinger–Navier–Stokes (SNS) equation [Salasnich et al., Int. J. Mod. Phys. C 35, 2450100 (2024)] of potential relevance for microfluidics and soft matter. Specifically, we show that the SNS equation with generic parameters is formally equivalent to the Navier–Stokes–Korteweg equations for capillary fluids, with the equivalence established at the level of an action functional that naturally decomposes into a Korteweg conservative and a dissipative contribution. We derive the dispersion relation for sound modes, showing that the dispersive parameter controls capillary stiffness while the dissipative parameter controls viscous damping, and that the Bogoliubov dispersion relation is recovered in the quantum limit. We also derive an effective one-dimensio…",
-    "authors": "L. Salasnich, S. Böhly, S. Succi, A. Tiribocchi",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Evolution characteristics of pressure pulse in compressed air-driven variable-section shock tube and prediction of reflected shock wave",
-    "doi": "10.1063/5.0334116",
-    "url": "https://doi.org/10.1063/5.0334116",
-    "abstract": "With the increasing demand for carrying out far-field explosion tests on large-scale structural components, variable-section shock tubes have been gradually developed. To generate a shock wave similar to the air explosion shock wave in the compressed air-driven variable-section shock tube, the evolution process of the pressure pulse in the tube was investigated. First, the classical one-dimensional Sod shock tube problem and compressed air-driven equi-diametric and variable-section shock tube tests were numerically simulated using the commercial computational fluid dynamics software Ansys Fluent. The applicability and reliability of the material model parameters, boundary conditions, and numerical simulation method were validated through the comparisons of simulation results with analytica…",
-    "authors": "Hao Wu, Peng Xu, Tao Qiu, De Chen",
     "published": "2026-07-01",
     "keywords_matched": [
       "ABL"
