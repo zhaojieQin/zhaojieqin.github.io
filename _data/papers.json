@@ -1,5 +1,29 @@
 [
   {
+    "journal": "Geoscientific Model Development",
+    "title": "China regional 3 km downscaling based on residual Corrective Diffusion model",
+    "doi": "10.5194/gmd-19-9235-2026",
+    "url": "https://doi.org/10.5194/gmd-19-9235-2026",
+    "abstract": "A fundamental challenge in numerical weather prediction is efficiently producing high-resolution forecasts. A widely adopted solution is to downscale coarser global model outputs. This study focuses on statistical downscaling, which uses historical data to learn mappings between low- and high-resolution meteorological fields. Deep learning has become a key tool for this, enabling powerful super-resolution models like diffusion models and Generative Adversarial Networks for downscaling applications. Herein, we leverage CorrDiff, a diffusion-based downscaling framework, with three key enhancements relative to its original implementation. First, the study domain is expanded to nearly 40 times the spatial extent of the original version. Second, the scope of target downscaling variables is exte…",
+    "authors": "Honglu Sun, Hao Jing, Zhixiang Dai, Sa Xiao et al.",
+    "published": "2026-09-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Issue Information",
+    "doi": "10.1029/jame.70473",
+    "url": "https://doi.org/10.1029/jame.70473",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-09-28",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "TEMPO Applications During Poor Wintertime Air Quality in Salt Lake City: An Analysis of Persistent Cold Air Pooling Events",
     "doi": "10.1029/2026jd047397",
@@ -93,6 +117,57 @@
     "url": "https://doi.org/10.1007/s00376-026-6006-8",
     "abstract": "Abstract Summertime high-ozone pollution is a significant environmental concern for the North China Plain (NCP), affecting millions of residents. High-ozone episodes over the NCP often coincide with ridge formations, blocking the propagation of Rossby waves to the NCP, thereby creating favorable conditions for photochemical production of ozone. In recent years, more frequent ridge occurrences have intensified the emission-driven ozone problem over the NCP. We find that the climate factors driving the ridge formation have shifted over the decades. In the last two decades of the 20th century, wave trains induced by the low-latitude North Atlantic SST anomalies were the main driver of ridge frequencies. However, in more recent decades, the Eurasia teleconnection associated with Arctic sea ice…",
     "authors": "Houwen Wang, Yuhang Wang, Yang Gao, Lifang Sheng et al.",
+    "published": "2026-09-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Semi-analytical eddy-viscosity and backscattering closures for 2-D geophysical turbulence",
+    "doi": "10.1017/jfm.2026.12056",
+    "url": "https://doi.org/10.1017/jfm.2026.12056",
+    "abstract": "Physics-based eddy-viscosity and backscattering closures are widely used for large-eddy simulation (LES) of geophysical turbulence, but their key parameters are often chosen empirically. Here, we develop a semi-analytical framework for estimating these parameters in two-dimensional (2-D) geophysical turbulence by adapting a Lilly-type scaling argument. Specifically, we obtain closed-form estimates, up to an amplitude constant, for the coefficients of the Leith and Smagorinsky eddy-viscosity closures, a biharmonic eddy-viscosity closure and the Jansen–Held backscattering closure with a prescribed backscattering fraction. The amplitude constant appears in the turbulent kinetic energy direct-cascade spectrum and can be diagnosed from a few direct numerical simulation (DNS) or eddy-resolving s…",
+    "authors": "Yifei Guan, Pedram Hassanzadeh",
+    "published": "2026-09-25",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Drag reduction and subcritical turbulence in controlled pipe flows",
+    "doi": "10.1017/jfm.2026.12073",
+    "url": "https://doi.org/10.1017/jfm.2026.12073",
+    "abstract": "Pipe flow controlled by streamwise-travelling waves of azimuthal wall velocity is studied using direct numerical simulations at a bulk Reynolds number italic Re Subscript b Baseline equals 4900 Re b = 4900 $\\textit{Re}_b=4900$ . A comprehensive analysis of drag reduction shows that the flow response differs fundamentally from that of channel flow. Under suitable forcing, pipe flow relaminarises, whereas channel flow does not. Depending on the control parameters, the flow exhibits the spatially localised turbulent state characteristic of transitional pipe flow, with turbulent puffs persisting at bulk Reynolds numbers up to three times higher than in the uncontrolled case. The bulk Reynolds number alone does not determine the onset of localisation. Moreover, drag reduction, which alters the …",
+    "authors": "Emanuele Gallorini, Daniele Massaro, Philipp Schlatter, Maurizio Quadrio",
+    "published": "2026-09-25",
+    "keywords_matched": [
+      "turbulence",
+      "ABL",
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "An iterative method to link surface roughness and turbulent mean-flow response using resolvent analysis",
+    "doi": "10.1017/jfm.2026.12017",
+    "url": "https://doi.org/10.1017/jfm.2026.12017",
+    "abstract": "A physics-based model is developed to predict the spatially varying sensitivity of turbulence to roughness geometry and the corresponding flow modifications. Resolvent analysis with a drag-normalized, Reynolds-decomposed volume penalization is formulated to efficiently link the mean flow profile to predictions of the drag force, wake field fluctuations, and dispersive stresses for broadband (sandgrain) surface roughness. An eddy viscosity approach models the modification of the stochastic stress arising due to the attenuation of convecting fluctuations within the roughness sublayer. Crucially, these components link the mean-flow profile to the force profiles and stresses which determine its shape, so that the model can be iteratively solved for a given bulk flow over a surface roughness, s…",
+    "authors": "Miles Chan, Oliver Khan, Ugo Piomelli, Beverley McKeon",
+    "published": "2026-09-25",
+    "keywords_matched": [
+      "wake",
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Nonlinear hydroelastic response of an ice sheet to a moving load: Bifurcation and stability",
+    "doi": "10.1017/jfm.2026.12100",
+    "url": "https://doi.org/10.1017/jfm.2026.12100",
+    "abstract": "The nonlinear hydroelastic response of a floating ice sheet to a moving load is investigated in two dimensions through a systematic reduction, spanning from the fully nonlinear Euler equations to a low-dimensional dynamical system. By incorporating linear damping to model dissipation, we demonstrate that the steady-state response exhibits an S-shaped bifurcation structure, giving rise to bistability and hysteretic transitions. By projecting the forced–dissipative Whitham equation onto a two-dimensional manifold, we establish a formal analogy between this hydroelastic wave problem and the forced–damped Duffing oscillator – the prototypical model for such folding bifurcations. This reduction reveals that the spatial lag between the load and the peak ice deflection manifests as a temporal pha…",
+    "authors": "Ganghua Hu, Wangyang Zhao, Zhan Wang",
     "published": "2026-09-25",
     "keywords_matched": [
       "ABL"
@@ -6090,79 +6165,6 @@
     "url": "https://doi.org/10.1063/5.0335797",
     "abstract": "Reactive material liners demonstrate significant potential in underwater weaponry, yet dedicated studies on underwater reactive shaped charges remain scarce. This study investigates the underwater energy-release characteristics of cold-sprayed nickel–aluminum (Ni–Al) reactive jets and damage effects against spaced steel targets. All tests were conducted in a water-filled tank, and the results were compared with those of Cu jets. High-speed photography, pressure sensors, x-ray diffraction, and three-dimensional scanning were used. During penetration into the water without the spaced steel targets, the Ni–Al jet demonstrated penetration capability comparable to that of a Cu jet, along with superior velocity retention. In underwater spaced target tests, the Cu jet penetrated five plates and c…",
     "authors": "Tianchu Wang, Chenxiao Huo, Chuan Zhao, Jinchao Qiao et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Helicity-based analysis of vortex breakdown in spherical Couette flows",
-    "doi": "10.1063/5.0326544",
-    "url": "https://doi.org/10.1063/5.0326544",
-    "abstract": "This study examines the bubble-like vortex breakdown within the azimuthal vortices of a spherical Couette flow (SCF). The analysis investigates flow topology for gap ratios of 0.5, 1, and 1.5 and Reynolds numbers up to 3000. The system displays steady and unsteady breakdown topologies depending on the gap ratio. The non-dimensionalized governing equations are solved in spherical coordinates using Dedalus, which employs a sparse spectral method. The three-dimensional flow is decomposed into a two-dimensional velocity field and an out-of-plane velocity. Helicity is also decomposed into planar helicity and out-of-plane components. The analysis reveals a correlation between planar helicity and the vortex breakdown bubble. The topology of the breakdown bubble is reconstructed using the iso-surf…",
-    "authors": "Ananthu J. P., Manjul Sharma, A. Sameen, Vinod Narayanan",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Flow and hydrodynamic noise characteristics of coupled supercavitation and submerged gas jet field",
-    "doi": "10.1063/5.0342939",
-    "url": "https://doi.org/10.1063/5.0342939",
-    "abstract": "This study experimentally investigates the hydrodynamic noise characteristics of the coupled jet–ventilated supercavitation flow field in a water tunnel. Based on distinct deflation modes induced by the coupling interaction between the gas jet and ventilated supercavity, four flow regimes are classified: intact cavity (IC), partially broken cavity (PBC), pulsating fluctuating cavity (PFC), and wake-mixing (WM). The overall sound pressure level (OASPL) and proper orthogonal decomposition modes of the coupled flow are compared with those of the ventilated supercavity and jet flows. The results indicate that at low-order fluctuation modes, IC, and ventilated cavitation are nearly identical; PBC low-order flow patterns more closely resemble ventilated supercavitation, whereas PFC and WM are cl…",
-    "authors": "Yanyi Ding, Yu Liu, Wenzhi Yan, Yuchen Ding et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "wake"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Hydrodynamic mechanisms of artificial reefs for mitigating local scour around submarine pipelines",
-    "doi": "10.1063/5.0332086",
-    "url": "https://doi.org/10.1063/5.0332086",
-    "abstract": "Submarine pipelines are prone to severe local scour under wave and current forcing, potentially leading to free spans, vortex-induced vibrations, and structural instability. This study presents a process-based numerical investigation of artificial reefs (ARs) as a near-bed flow control strategy for pipeline scour mitigation, with particular emphasis on the underlying hydrodynamic and sediment-transport mechanisms. A validated two-phase flow model is employed to explicitly resolve fluid–sediment–structure interactions, including seepage-induced sediment transport beneath the pipeline. Systematic parametric analyses are conducted to examine the influence of reef–pipeline spacing, reef width, height, and inter-plate spacing on vortex dynamics and scour evolution. The results reveal that ARs m…",
-    "authors": "Zhixia Liang, Hongjie Wen, Shuai Wang, Shimao Sheng",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "High‐Resolution Modeling to Quantify CO\n                    <sub>2</sub>\n                    Emissions From an Industrial Point Source",
-    "doi": "10.1029/2025jd045978",
-    "url": "https://doi.org/10.1029/2025jd045978",
-    "abstract": "Abstract The Orbiting Carbon Observatory‐3 (OCO‐3) provides precise observations of the column‐averaged dry air mole fraction of carbon dioxide () with the ability to target specific areas using the Snapshot Area Maps (SAMs). This study utilizes OCO‐3 observations in a Bayesian inversion framework, together with the column version of the Stochastic Time‐Inverted Lagrangian Transport (X‐STILT) model driven by the Weather Research and Forecasting (WRF) model to estimate emissions from the Bełchatów power plant in Poland. Many previous studies quantifying power plant emissions have relied on Gaussian plume modeling (GPM), cross‐sectional flux (CSF), and Integrated Mass Enhancement (IME) approaches. These methods have been effective for estimating point source emissions, but they do not explic…",
-    "authors": "Zixuan Xiao, Dylan B. A. Jones, Dien Wu, Jinwoong Kim et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "WRF",
-      "weather research and forecasting"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Projecting Extreme Wet‐Cold Events in Southern China Based on CMIP6 Experiments With Emergent Constraints of Observable Temperature Inversion",
-    "doi": "10.1029/2025jd046198",
-    "url": "https://doi.org/10.1029/2025jd046198",
-    "abstract": "Abstract Extreme wet‐cold events (WCEs), characterized by persistent freezing rain and/or heavy snowfall resulting in damage to power transmission, communication and transportation, are the most severe compound disasters during the cold season in southern China. In this study, we first analyzed the observational trend of WCEs using daily gauged precipitation and 2 m‐temperatures from 753 stations across mainland China from 1960 to 2020. The results show a decreasing trend in the total WCE days. Then the historical runs from the 26 models participating in Coupled Model Intercomparison Project Phase 6 (CMIP6) are analyzed, and the results suggest that the models can simulate this trend generally well but have a greater magnitude of reduction along with evident uncertainty. Thus, we constrain…",
-    "authors": "Yuan He, Shuanglin Li, Stefan Liess, Feifei Luo et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "TOAR-classifier v2: a data-driven classification tool for  global air quality stations",
-    "doi": "10.5194/gmd-19-5765-2026",
-    "url": "https://doi.org/10.5194/gmd-19-5765-2026",
-    "abstract": "Abstract. Accurate characterization of station locations is crucial for reliable air quality assessments such as the Tropospheric Ozone Assessment Report (TOAR). While urban and rural areas are relatively well-defined, the boundaries and identity of suburban areas remain ambiguous, overlapping with both urban and rural zones and varying due to cultural and social factors. This study investigates a machine learning approach to classify 24 348 stations in the unique global TOAR database as urban, suburban, or rural. We tested two different approaches: unsupervised K-means clustering with three clusters, and an ensemble of supervised learning classifiers including random forest, CatBoost, and LightGBM. We integrate these classifiers into a robust voting model, leveraging their collective pred…",
-    "authors": "Ramiyou Karim Mache, Sabine Schröder, Michael Langguth, Ankit Patnala et al.",
     "published": "2026-07-01",
     "keywords_matched": [
       "ABL"
