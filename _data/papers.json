@@ -1,11 +1,59 @@
 [
   {
     "journal": "Geoscientific Model Development",
+    "title": "METEORv1.6: Spatial climate variability and integrated impact emulation",
+    "doi": "10.5194/gmd-19-9263-2026",
+    "url": "https://doi.org/10.5194/gmd-19-9263-2026",
+    "abstract": "Climate impact assessment increasingly requires spatially explicit projections with realistic temporal variability at sub-annual resolution. METEORv1.6 extends the established METEOR spatial multi-timescale, multi-forcer climate emulation framework with two major capabilities: (1) a monthly climate variability model that generates realistic sub-annual climate sequences with seasonal cycles and inter-annual variability, enabling the generation of ensemble projections and (2) a modular impact assessment framework that translates climate projections into impact metrics. The monthly climate model represents seasonal harmonics and noise, while preserving covariance structures from the source model. Seasonal cycles are represented through harmonic analysis with temperature-dependent parameteriza…",
+    "authors": "Benjamin M. Sanderson, Marit Sandstad, Maura Dewey, Norman Julius Steinert et al.",
+    "published": "2026-09-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
     "title": "China regional 3 km downscaling based on residual Corrective Diffusion model",
     "doi": "10.5194/gmd-19-9235-2026",
     "url": "https://doi.org/10.5194/gmd-19-9235-2026",
     "abstract": "A fundamental challenge in numerical weather prediction is efficiently producing high-resolution forecasts. A widely adopted solution is to downscale coarser global model outputs. This study focuses on statistical downscaling, which uses historical data to learn mappings between low- and high-resolution meteorological fields. Deep learning has become a key tool for this, enabling powerful super-resolution models like diffusion models and Generative Adversarial Networks for downscaling applications. Herein, we leverage CorrDiff, a diffusion-based downscaling framework, with three key enhancements relative to its original implementation. First, the study domain is expanded to nearly 40 times the spatial extent of the original version. Second, the scope of target downscaling variables is exte…",
     "authors": "Honglu Sun, Hao Jing, Zhixiang Dai, Sa Xiao et al.",
+    "published": "2026-09-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Satellite‐Derived 700‐hPa Geopotential Height Fields for Localization of Southwest Vortices and Diagnosis of Their Lower‐Tropospheric Environments",
+    "doi": "10.1029/2026jd046890",
+    "url": "https://doi.org/10.1029/2026jd046890",
+    "abstract": "Abstract Topographic gravity waves over the Tibetan Plateau generate downstream southwest vortices (SWVs) that are difficult to localize objectively and often produce heavy precipitation across mainland China. We introduce a new geopotential‐height‐only framework for SWV localization and characterization of their lower‐tropospheric environments using only satellite microwave temperature‐sounding observations from a three‐orbit polar satellite constellation—FY‐3E, MetOp‐C, and NOAA‐20. First, we demonstrate that localization accuracy comparable to conventional methods can be achieved by identifying the center of an ellipse fitted to the largest connected region of 700‐hPa geopotential height values below the first‐decile threshold, thereby eliminating the need for vorticity and wind informa…",
+    "authors": "Ce Zhang, Xiaolei Zou",
+    "published": "2026-09-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Issue Information",
+    "doi": "10.1029/jgrd.71020",
+    "url": "https://doi.org/10.1029/jgrd.71020",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-09-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Dependence of Neutralized Charge Amount on Meteorological Conditions in Summertime Lightning Discharges in Japan",
+    "doi": "10.1029/2026jd046314",
+    "url": "https://doi.org/10.1029/2026jd046314",
+    "abstract": "Abstract Lightning discharges in Gunma Prefecture, Japan, from June–September 2023 were analyzed to explore the dependence of the neutralized charge amount on cloud structures embedded in weather systems, mainly based on in situ measurements of the ground‐based electric field, radar and satellite remote sensing, and numerical simulations using a bulk lightning model. Two types of lightning episodes distinguished by meteorological conditions were identified during the analysis period: lightning discharges in frontal cloud systems with abundant hydrometeors and lightning discharges in isolated convective storms under highly unstable conditions. Lightning discharges in frontal cloud systems were characterized by a large amount of neutralized charge and high lightning frequency. This was attri…",
+    "authors": "Naota Iwai, Yousuke Sato, Mitsuteru Sato, Masaru Inatsu",
     "published": "2026-09-29",
     "keywords_matched": [
       "ABL"
@@ -6120,54 +6168,6 @@
       "lattice boltzmann method",
       "lattice boltzmann",
       "LBM"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Flow field predictions using hybrid autoregressive reduced-order models: A critical assessment",
-    "doi": "10.1063/5.0318083",
-    "url": "https://doi.org/10.1063/5.0318083",
-    "abstract": "Accurate modeling of the complex dynamics of fluid flows is a fundamental challenge in computational physics and engineering. This study integrates High-Order Singular Value Decomposition (HOSVD) with Long Short-Term Memory (LSTM) architectures to address the complexities of hybrid reduced-order modeling in fluid dynamics. The methodology is tested across numerical and experimental datasets, including two- and three-dimensional (2D and 3D) cylinder wake flows, spanning both laminar and turbulent regimes. The emphasis is also on exploring how the depth and complexity of LSTM architectures contribute to improving predictive performance. For simple laminar flows, architectures with a single dense layer effectively capture the periodic dynamics, demonstrating the network's ability to model non…",
-    "authors": "Arindam Sengupta, Rodrigo Abadía-Heredia, José Miguel Pérez, Soledad Le Clainche",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "wake"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Simplified theoretical model for vapor fraction prediction at the nozzle exit for flash boiling atomization",
-    "doi": "10.1063/5.0340420",
-    "url": "https://doi.org/10.1063/5.0340420",
-    "abstract": "Flash boiling atomization differs from classic spraying strategies due to the transition of the primary breakup mechanism. It has been proven that the distribution pattern of different breakup modes is tightly associated with the vapor fraction at the nozzle exit. Existing investigations have proposed empirical equations to approximate this characteristic via data fitting, but the absence of a mechanistic analysis constrains its generalization to scenarios involving variable boundary conditions, including diversified geometries and injection parameters. In the present study, we establish a simplified theoretical formula for vapor fraction prediction at the nozzle exit under flash boiling conditions, which can be easily adapted to different boundary parameters. The constructed formula is ju…",
-    "authors": "Shangning Wang, Yijia Zhang, Jianfei Yang, Shuyi Qiu et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "On the wake of two co-rotating cylinders arranged side-by-side and subjected to a uniform crossflow",
-    "doi": "10.1063/5.0335504",
-    "url": "https://doi.org/10.1063/5.0335504",
-    "abstract": "The wake behind a bluff body, such as a cylinder, exhibits unsteady patterns that directly influence the forces acting on the body and can be actively modified through rotation. When multiple rotating bluff bodies are arranged in close proximity, wake interactions critically affect flow dynamics and the resulting structural forces, necessitating detailed analysis for flow control and engineering applications. This study investigates uniform flow past two co-rotating circular cylinders in a side-by-side configuration at a Reynolds number of 200. Three-dimensional direct numerical simulations are performed for gap ratios of 0.5, 1, and 3, and rotation rates ranging from 0 to 6. The gap ratio is defined as the surface-to-surface gap between the cylinders normalized by the cylinder diameter, a…",
-    "authors": "Muhammad Hamza Ali, Adnan Munir, Qin Zhang, Heath Palmer et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "wake"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Energy release and damage effects of Ni–Al reactive jet in underwater environment",
-    "doi": "10.1063/5.0335797",
-    "url": "https://doi.org/10.1063/5.0335797",
-    "abstract": "Reactive material liners demonstrate significant potential in underwater weaponry, yet dedicated studies on underwater reactive shaped charges remain scarce. This study investigates the underwater energy-release characteristics of cold-sprayed nickel–aluminum (Ni–Al) reactive jets and damage effects against spaced steel targets. All tests were conducted in a water-filled tank, and the results were compared with those of Cu jets. High-speed photography, pressure sensors, x-ray diffraction, and three-dimensional scanning were used. During penetration into the water without the spaced steel targets, the Ni–Al jet demonstrated penetration capability comparable to that of a Cu jet, along with superior velocity retention. In underwater spaced target tests, the Cu jet penetrated five plates and c…",
-    "authors": "Tianchu Wang, Chenxiao Huo, Chuan Zhao, Jinchao Qiao et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
