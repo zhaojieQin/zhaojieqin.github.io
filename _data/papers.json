@@ -12,6 +12,42 @@
     ]
   },
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Modelling of coalescence and stability mechanism of particle-coated droplets",
+    "doi": "10.1017/jfm.2026.12070",
+    "url": "https://doi.org/10.1017/jfm.2026.12070",
+    "abstract": "We numerically investigate the coalescence dynamics of two equal-sized droplets coated with solid particles using a lattice Boltzmann colour-gradient model coupled with Lagrangian particle tracking. It is shown that the particle coverage critically determines the final morphology of coalescing droplets, giving rise to three distinct regimes: total coalescence, arrested coalescence and total stability. Arrested coalescence arises from dynamic particle jamming at the shrinking interface, where increasing particle coverage generates mechanical resistance against further capillary-driven shape relaxation. A theoretical criterion for the onset of arrested coalescence is derived and validated against a phase diagram constructed from 110 simulation cases. Furthermore, particle wettability governs…",
+    "authors": "Ningjing Mao, Xitong Zhang, Yong Liu, Keliu Wu et al.",
+    "published": "2026-09-30",
+    "keywords_matched": [
+      "lattice boltzmann"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Semi-convection in rotating spherical shells: flows, layers and dynamos",
+    "doi": "10.1017/jfm.2026.11957",
+    "url": "https://doi.org/10.1017/jfm.2026.11957",
+    "abstract": "Large regions of giant planets are thought to possess unstable thermal gradients stabilised by gradients of heavy-element composition. Such a fluid can develop semi-convection, a double-diffusive instability driven by the unequal molecular diffusivities of heat and composition. While previous studies have focused mainly on local Cartesian models, we investigate semi-convection in rotating spherical shells, the geometry relevant to planetary interiors, using direct numerical simulations. In a first nonlinear phase, the flow spontaneously forms concentric density staircases composed of well-mixed layers separated by thin, strongly stratified interfaces. We propose scalings for both the thickness of these layers and their survival time in terms of the rotation rate and stratification. Over lo…",
+    "authors": "Paul Pružina, Nathanaël Schaeffer, David Cébron",
+    "published": "2026-09-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Phase velocity of gravity waves over prescribed shear counter-currents",
+    "doi": "10.1017/jfm.2026.12042",
+    "url": "https://doi.org/10.1017/jfm.2026.12042",
+    "abstract": "The present study examines the evolution of the phase velocity of surface gravity waves propagating against an opposing current in the vicinity of wave-blocking conditions, defined as flow regimes in which the wave-energy flux can no longer propagate upstream relative to an adverse background current. We adopted a novel experimental technique by deploying passive devices (‘flow conditioners’), which offer robust and repeatable control over the current profile to represent several shear structures. The classical evaluation of phase velocity through cross-correlation of wave-gauge signals is used as a reference for testing a novel experimental method based on high-resolution velocity fields obtained by particle image velocimetry. The two experimental estimates show generally good agreement. …",
+    "authors": "Sandro Longo, Fabio Addona, Seyedreza Hasheminejad, Luca Chiapponi",
+    "published": "2026-09-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "China regional 3 km downscaling based on residual Corrective Diffusion model",
     "doi": "10.5194/gmd-19-9235-2026",
@@ -6129,45 +6165,6 @@
     "keywords_matched": [
       "wake",
       "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Investigation on the flow and aerodynamic noise characteristics of circular cylinders with slit structures",
-    "doi": "10.1063/5.0327051",
-    "url": "https://doi.org/10.1063/5.0327051",
-    "abstract": "Based on the delayed detached-eddy simulation model and acoustic analogy method, this study numerically investigates the flow and aeroacoustic characteristics of smooth and slit circular cylinders at a Reynolds number of Re = 6 × 104. The numerical results of aerodynamic noise are validated against anechoic wind-tunnel measurements. The introduction of slits allows high-pressure flow to penetrate the wake and form an internal mixing layer between the through-jet and the recirculation bubble. This additional shear interaction weakens the coupling between the upper and lower separated shear layers, suppresses the formation of a regular Kármán vortex street, and greatly reduces the fluctuations of lift and drag. As the slit width increases from d/D = 0.05 to 0.15, the wake transitions from pe…",
-    "authors": "Jianyue Zhu, Cunyu Fang, Zhiwei Hu, Junqi Xu et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "wake",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Corner-driven mobilization of trapped oil in a square microchannel: Synergistic roles of corner water channels and water film",
-    "doi": "10.1063/5.0336400",
-    "url": "https://doi.org/10.1063/5.0336400",
-    "abstract": "This study employs three-dimensional numerical simulations based on the Volume of Fluid (VOF) method to investigate the migration mechanism of a discontinuous oil phase during water flooding in square cross-section microchannels. The effects of critical parameters—capillary number, contact angle, interfacial tension, oil saturation, and viscosity—on the pressure drop, velocity, and solid–oil contact area are systematically analyzed. The results demonstrate that the migration process can be divided into four distinct stages: static stage, contact line development stage, wall detachment stage, and stable flow stage. The formation and evolution of corner water channels of the microchannel are identified as the key factor driving droplet detachment from the wall and significantly reducing flow…",
-    "authors": "Long Long, Yanshuang Guan, Qiying Yao, Haolan Yu et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Upscaling gas–water relative permeability in hydrate-bearing sediments: A discrete element method and lattice Boltzmann method study based on micro-computed tomography",
-    "doi": "10.1063/5.0336664",
-    "url": "https://doi.org/10.1063/5.0336664",
-    "abstract": "Accurately characterizing gas–water multiphase flow behavior (e.g., gas–water relative permeability) in porous media is essential for simulating and optimizing subsurface fluid transport. While relative permeability is conventionally obtained through coreflooding experiments, the inherent complexity of hydrate-bearing sediments (HBSs) makes laboratory measurements highly challenging. Moreover, stress-induced pore deformation in highly stress-sensitive HBS alters the pore network topology, significantly impacting macroscopic flow behavior. This study develops a robust upscaling framework that sequentially couples the discrete element method (DEM) with the lattice Boltzmann method (LBM), integrating micro-computed tomography (micro-CT) imaging to predict Darcy-scale gas–water relative permea…",
-    "authors": "Xiwei Gao, Gang Lei, Zichun Tang, Zhigang You et al.",
-    "published": "2026-07-01",
-    "keywords_matched": [
-      "lattice boltzmann method",
-      "lattice boltzmann",
-      "LBM"
     ]
   }
 ]
