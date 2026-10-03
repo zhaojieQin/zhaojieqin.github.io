@@ -12,6 +12,31 @@
     ]
   },
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Drag forces and flow structure around and inside a square array of emerged cylinders in an open channel",
+    "doi": "10.1017/jfm.2026.12074",
+    "url": "https://doi.org/10.1017/jfm.2026.12074",
+    "abstract": "Eddy resolving simulations are used to describe the mean flow and turbulence structure inside and around a square array of width D containing emerged (i.e., cylinder extending up, or above, the free surface), rigid cylinders of width d . The array is placed at the centre of a long open channel of width W . The study describes how the structure of the wake and shear layers forming along the lateral sides of the array, the wake spectral content and shedding modes, the bleeding velocity, the lengths of the steady and total wake regions, the coherence of the horseshoe vortices forming around the frontal face of the array, the bed shear stresses and the sediment entrainment capacity of the flow inside and outside the array change with the main geometrical parameters defining the array (i.e. the…",
+    "authors": "Andrea Del Gaudio, George Constantinescu, Francesco De Paola",
+    "published": "2026-10-02",
+    "keywords_matched": [
+      "wake",
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Spectral analysis for magnetohydrodynamic channel turbulence at low magnetic Reynolds number",
+    "doi": "10.1017/jfm.2026.12077",
+    "url": "https://doi.org/10.1017/jfm.2026.12077",
+    "abstract": "In this study, direct numerical simulations were conducted to investigate turbulent channel flow under the influence of a spanwise magnetic field, at a friction Reynolds number italic Re Subscript tau Baseline equals 180 Re τ = 180 $ \\textit{Re}_{\\tau } = 180$ and Hartmann numbers italic Ha Ha $\\textit{Ha}$ ranging from 0 to 15. The study elucidates how the spanwise magnetic field modulates energy spectra, near-wall streaks and energy transfer. With increasing italic Ha Ha $\\textit{Ha}$ , near-wall streamwise streaks elongate markedly and energetic spectral peaks move away from the wall, whereas the spanwise length of streak enlarges only marginally. At italic Ha equals 15 Ha = 15 $\\textit{Ha}=15$ , dual spectral peaks appear near the wall, reflecting coexisting high- and low-momentum regi…",
+    "authors": "Yu-Chang Fan, Long Chen, Ming-Jiu Ni",
+    "published": "2026-10-02",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
     "journal": "Physics of Fluids",
     "title": "Role of surface wettability in electric-field-induced instability of water droplets",
     "doi": "10.1063/5.0339666",
@@ -472,6 +497,19 @@
     "published": "2026-10-01",
     "keywords_matched": [
       "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Interfacial oscillations and internal flow dynamics of a freely closed ventilated supercavity",
+    "doi": "10.1063/5.0345945",
+    "url": "https://doi.org/10.1063/5.0345945",
+    "abstract": "An experimental investigation was conducted to examine the interfacial oscillations and internal flow dynamics of freely closed ventilated supercavities. Within the present parameter range, five closure modes were observed: Foam cavity, hybrid foam cavity and transparent cavity, re-entrant jet (RJ), hybrid twin vortex and re-entrant jet, and twin vortex. The cavity closure mode exhibits path dependence, and a stable RJ mode cannot be obtained at fixed ventilation rates and incoming flow velocities. The interfacial oscillations of the cavity propagate downstream with time, and their propagation velocity is primarily governed by the incoming flow. The low-frequency pressure fluctuations inside the cavity (0–50 Hz) are influenced by the incoming flow, whereas the intermediate-frequency fluctu…",
+    "authors": "Wanning Li, Cong Wang, Yingjie Wei",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
     ]
   },
   {
@@ -6131,43 +6169,6 @@
     "published": "2026-07-07",
     "keywords_matched": [
       "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Numerical study on the magnetic field-induced dynamics of microparticles in a microchannel by three-dimensional lattice Boltzmann simulation",
-    "doi": "10.1017/jfm.2026.11749",
-    "url": "https://doi.org/10.1017/jfm.2026.11749",
-    "abstract": "Microfluidic systems integrated with magnetic manipulation of microparticles, serving as a functional component, have been extensively used in various applications, including biomedical diagnostics and targeted drug delivery. Microparticle dynamics in confined microchannels is governed by hydrodynamic viscous effects, magnetic dipole interactions and enhanced interactions with microchannel boundaries, while an in-depth understanding of the underlying mechanisms is still evolving. This work presents a systematic investigation on the dynamic response of microparticles suspended in a quasi-stationary liquid within a microchannel under an external magnetic field using a three-dimensional lattice Boltzmann model (LBM). The hydrodynamic viscous effects and the two-way fluid–structure interaction…",
-    "authors": "Zhi-Qiang Dong, Xiang Li, Hiroshi Yamaguchi, Peng Yu",
-    "published": "2026-07-07",
-    "keywords_matched": [
-      "lattice boltzmann",
-      "LBM"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Noise dissipation mechanisms of an acoustic liner under grazing flow",
-    "doi": "10.1017/jfm.2026.11759",
-    "url": "https://doi.org/10.1017/jfm.2026.11759",
-    "abstract": "High-fidelity lattice–Boltzmann very-large-eddy simulations are performed to describe the noise dissipation mechanisms in a single cavity acoustic liner subjected to grazing turbulent flow at a centreline Mach number of 0.3 and plane acoustic waves. The study examines the effects of sound pressure level (SPL; ranging from 130 to 160 dB) and source frequency, as well as of the direction of acoustic-wave propagation relative to the grazing flow. The acoustic energy dissipation mechanisms are the viscous losses within the shear layer forming along the internal walls of the orifice and the vortex shedding. The latter is quantified through Howe’s energy corollary. In the absence of grazing flow, acoustic energy is dissipated almost equally during both inflow and outflow phases, with vortex shed…",
-    "authors": "Francesco Scarano, Angelo Paduano, Francesco Avallone",
-    "published": "2026-07-07",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Mach reflection of a detonation wave over a concave double wedge",
-    "doi": "10.1017/jfm.2026.11751",
-    "url": "https://doi.org/10.1017/jfm.2026.11751",
-    "abstract": "In this study, the Mach reflection of a detonation wave in 2H Subscript 2 2 $_2$ + O Subscript 2 2 $_2$ + 2Ar over a concave double wedge was experimentally investigated. Three Mach reflection configurations could be observed successively, namely, Mach reflection of a Chapman–Jouguet detonation over the first surface, Mach reflection of an overdriven detonation wave over the second surface, and Mach reflection after the interaction of two triple points. The experimental results indicated that the classical reactive theories based on the straight Mach stem assumption are unable to accurately predict the behaviours of the latter two Mach reflections. The asymptotic triple-point trajectory angle of the secondary Mach reflection, chi 2 χ 2 $\\chi _2$ , is significantly smaller than the theoreti…",
-    "authors": "Zhen-Yang Zhou, Hong-Hao Ma, Lu-Qing Wang",
-    "published": "2026-07-07",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
