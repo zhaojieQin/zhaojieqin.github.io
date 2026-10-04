@@ -1,5 +1,19 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Characteristics of Energy Dissipation Rate at the Standard Weather Observatory Under Various Atmospheric Conditions and Its Application to Aviation Turbulence Intensity",
+    "doi": "10.1029/2026jd047740",
+    "url": "https://doi.org/10.1029/2026jd047740",
+    "abstract": "Abstract Accurate prediction of low‐level turbulence (LLT) is critical for aviation safety, particularly for the emerging urban air mobility industry and aircraft takeoffs and landings. To better understand and predict these hazards, the characteristics of the energy dissipation rate (EDR) in the atmospheric boundary layer (ABL) were investigated using 8‐year high‐frequency sonic anemometer observations collected at multiple altitudes of the 307‐m meteorological tower in the Boseong Standard Weather Observatory (BSWO), South Korea. EDR was estimated using the inertial dissipation technique with second‐order structure functions after applying quality control procedures to the sonic anemometer data. The probability density functions (PDFs) of EDR, representing the characteristics of EDR, exh…",
+    "authors": "Jeonghoe Kim, Jung‐Hoon Kim, Hyeyum Hailey Shin, Wiebke Deierling et al.",
+    "published": "2026-10-03",
+    "keywords_matched": [
+      "turbulence",
+      "atmospheric boundary layer",
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "ShyBFM v1.0: unstructured grid advection-diffusion-reaction modelling for coastal biogeochemical processes",
     "doi": "10.5194/gmd-19-9301-2026",
@@ -506,6 +520,19 @@
     "url": "https://doi.org/10.1063/5.0345945",
     "abstract": "An experimental investigation was conducted to examine the interfacial oscillations and internal flow dynamics of freely closed ventilated supercavities. Within the present parameter range, five closure modes were observed: Foam cavity, hybrid foam cavity and transparent cavity, re-entrant jet (RJ), hybrid twin vortex and re-entrant jet, and twin vortex. The cavity closure mode exhibits path dependence, and a stable RJ mode cannot be obtained at fixed ventilation rates and incoming flow velocities. The interfacial oscillations of the cavity propagate downstream with time, and their propagation velocity is primarily governed by the incoming flow. The low-frequency pressure fluctuations inside the cavity (0–50 Hz) are influenced by the incoming flow, whereas the intermediate-frequency fluctu…",
     "authors": "Wanning Li, Cong Wang, Yingjie Wei",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Evaluation of the E3SM Version 3 Stratosphere Performance",
+    "doi": "10.1029/2025ms005612",
+    "url": "https://doi.org/10.1029/2025ms005612",
+    "abstract": "Abstract The interactions between the stratosphere and the troposphere have significant impacts on human activities and Earth system variability. In the third release version of the low‐resolution Energy Exascale Earth System Model (E3SMv3), the representation of the stratosphere is improved through vertical grid refinement in the lower stratosphere and the implementation of the linearized ozone scheme version 3 (Linozv3). In this study, we conduct a comprehensive evaluation of the dynamics and chemistry of E3SMv3's stratosphere using reanalysis data and satellite observations. E3SMv3 simulates an overall realistic stratosphere, capturing the basic temperature and circulation structures, including the Brewer–Dobson circulation (BDC) and the polar vortex, as well as reasonable distributions…",
+    "authors": "Wandi Yu, Walter Hannah, James J. Benedict, Qi Tang et al.",
     "published": "2026-10-01",
     "keywords_matched": [
       "ABL",
@@ -6145,30 +6172,6 @@
     "published": "2026-07-07",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "When structural damping enhances flow-induced vibrations",
-    "doi": "10.1017/jfm.2026.11748",
-    "url": "https://doi.org/10.1017/jfm.2026.11748",
-    "abstract": "This work uncovers a counterintuitive effect of structural damping on vortex-induced vibrations (VIV). The influence of structural damping is examined numerically in the canonical problem usually considered to study these vibrations driven by flow-body synchronisation, i.e. a circular cylinder free to oscillate within a uniform cross-current, for Reynolds numbers up to 160 160 $160$ , based on the body diameter and inflow velocity. For rectilinear VIV without structural restoring force, the peak-amplitude responses, which develop for low structure to displaced fluid mass ratios, are always attenuated by damping, as previously reported. Yet, the lower-amplitude responses occurring for higher mass ratios exhibit a contrasting trend: they are amplified by damping. The amplification can be sub…",
-    "authors": "Rémi Bourguet",
-    "published": "2026-07-07",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Unsteady characteristics of vortex structures in front of surface-mounted obstacles",
-    "doi": "10.1017/jfm.2026.11772",
-    "url": "https://doi.org/10.1017/jfm.2026.11772",
-    "abstract": "The flow characteristics over isolated surface-mounted obstacles are investigated with time-resolved particle image velocimetry. Three different geometries (square cylinder, circular cylinder, and hemisphere) are considered maintaining the same aspect ratio of 0.5, and are completely submerged in the laminar boundary layer. The height-based Reynolds number is 1530. The time-averaged flow topologies around the three obstacles are quite similar. However, the unsteady characteristics over the square cylinder are significantly stronger than those over the circular cylinder and hemisphere. The vortices upstream of the square cylinder experience periodic amplification and decay while their cores oscillate along the flow direction. These two dynamic mechanisms corresponding to different character…",
-    "authors": "Jiaxin Liu, Yichen Zhu, Jinjun Wang",
-    "published": "2026-07-07",
-    "keywords_matched": [
-      "vortex"
     ]
   }
 ]
