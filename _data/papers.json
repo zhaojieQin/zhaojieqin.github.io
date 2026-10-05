@@ -1,5 +1,18 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Droplet impact on a heterogeneous wettability wall: a lattice Boltzmann method study",
+    "doi": "10.1017/jfm.2026.12066",
+    "url": "https://doi.org/10.1017/jfm.2026.12066",
+    "abstract": "Heterogeneous wettability surfaces can passively direct the motion of impacting droplets without external actuation. However, the mechanisms governing droplet impact across a single planar wettability boundary remain insufficiently understood, particularly when the lamella undergoes perforation and rupture. In this study, the non-orthogonal multiple-relaxation-time lattice Boltzmann method is used to examine the effects of the contact angle theta Subscript upper R θ R $\\theta _R$ , Weber number italic We We $\\textit{We}$ and dimensionless impact deviation upper D D $D$ . Increasing theta Subscript upper R θ R $\\theta _R$ suppresses spreading and advances recoil. The kinetic energy valley time decreases approximately exponentially, whereas the minimum kinetic energy increases nearly linearl…",
+    "authors": "Yingjie Li, Weiwei Yan, Guoxing Hou, Linlin Fei et al.",
+    "published": "2026-10-05",
+    "keywords_matched": [
+      "lattice boltzmann method",
+      "lattice boltzmann"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Characteristics of Energy Dissipation Rate at the Standard Weather Observatory Under Various Atmospheric Conditions and Its Application to Aviation Turbulence Intensity",
     "doi": "10.1029/2026jd047740",
@@ -537,6 +550,132 @@
     "keywords_matched": [
       "ABL",
       "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "The compound mechanisms of plunging jet-induced sediment transport: The roles of turbulence-enhanced pressure (pressing), flow velocity gradient (scraping), and vortical structures",
+    "doi": "10.1063/5.0351150",
+    "url": "https://doi.org/10.1063/5.0351150",
+    "abstract": "Past research on plunging jet-induced sediment transport (PJST) acknowledged heterogeneous effects on scour evolution and semi-empirically associated the heterogeneous effects with flow velocity and turbulence based on the classical theories of sediment transport. The classical theories were mostly derived from sediment entrainment by channel flow induced bed shear action and metastable bursting cycles without jet impingement. Jet impingement, however, is inherently vital for PJST, and its phenomenological mechanisms causing the heterogeneous effects remain poorly documented. This research generates quantitative indices of dynamic pressure across the global-domain scour hole by numerically solving the Reynolds-averaged Navier–Stokes or Navier–Stokes equations with particle image velocimetr…",
+    "authors": "Jin-Hua Si, Xikun Wang, Athanasios (Thanos) Papanicolaou, Jieyun Mao et al.",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Valve flow–coupled temperature–pressure modeling for hydrate formation conditions prediction in underground gas storage wellbores",
+    "doi": "10.1063/5.0352828",
+    "url": "https://doi.org/10.1063/5.0352828",
+    "abstract": "Valve actuation during gas withdrawal from underground gas storage triggers coupled flow, pressure, and temperature transients that can rapidly push wellbore fluids into hydrate-stable conditions. Conventional models prescribe flow rate or decouple thermal and hydraulic fields, missing how valve dynamics reshape the thermodynamic path. We develop a transient framework that integrates a dynamic valve flow relation, a two-way coupled wellbore temperature–pressure model, and the Chen–Guo hydrate phase equilibrium model. The framework reproduces field flow rates within 10%, and temperature and pressure profiles within 2%, and matches independent hydrate equilibrium data within 0.5%. The simulations show that valve regulation introduces competing hydraulic and thermal response timescales in the…",
+    "authors": "Gang Hu, Pu Yan, JinZhong Wang, Yiming Hu et al.",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Improving wind flow simulation over complex terrain for wind resource assessment through a hybrid data-driven and physics-informed generalized k–\n                    <b>\n                      <i>ω</i>\n                    </b>\n                    framework",
+    "doi": "10.1063/5.0352133",
+    "url": "https://doi.org/10.1063/5.0352133",
+    "abstract": "Accurate prediction of wind speed and turbulence over complex terrain remains challenging because terrain-induced separation and atmospheric boundary layer turbulence are not fully represented by conventional Reynolds-averaged Navier–Stokes (RANS) closure models. This study develops Mod-GEKO-ML, a hybrid framework combining adjoint optimization and machine learning (ML) calibration of spatially varying generalized k–ω (GEKO) free coefficients with physics-informed modification of selected traditional closure constants. The GEKO-ML mapping is trained on the H42 bump, tested on H38 and H31 for in-family transfer, and applied without retraining to Askervein Hill and Bolund Island. The turbulent kinetic energy (TKE) objective best balances mean flow and turbulence improvement, while reducing t…",
+    "authors": "Guolin Ma, Linlin Tian, Yilei Song, Ning Zhao",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "turbulence",
+      "atmospheric boundary layer"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Nonlinear evolution of Rossby solitary waves under time-dependent shear: A variable-coefficient Gardner model solved by physics-informed neural networks",
+    "doi": "10.1063/5.0352775",
+    "url": "https://doi.org/10.1063/5.0352775",
+    "abstract": "Constant-coefficient models inadequately capture how time-dependent shear flows alter the propagation of Rossby solitary waves, and traditional numerical methods face inherent difficulties with such variable-coefficient systems. We derive a variable-coefficient Gardner equation from quasi-geostrophic dynamics and solve it using physics-informed neural networks (PINNs) that integrate residual-adaptive refinement with a two-stage Adam and Limited-memory Broyden–Fletcher–Goldfarb–Shanno optimizer. For the constant-coefficient test case, the PINNs reproduce the exact two-soliton solution with a maximum absolute error of 5.53×10−3, a relative L2 error of 1.02×10−3, and a mean absolute error of 6.41×10−4. In the time-dependent regime where the quadratic nonlinearity coefficient m(t) periodically…",
+    "authors": "Bao-jun Zhao, Kang Liang",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Taylor-vortex onset and coefficient responses of friction and torque in finite-length narrow-gap helium Taylor–Couette–Poiseuille flow",
+    "doi": "10.1063/5.0349998",
+    "url": "https://doi.org/10.1063/5.0349998",
+    "abstract": "Taylor–Couette–Poiseuille flow couples inner-cylinder rotation with axial throughflow, leading to a competition between centrifugal instability and axial transport in annular gaps. Motivated by cooling and loss-control passages in high-speed rotating machinery, this study investigates the Taylor-vortex onset, wall-shear redistribution, and the integral resistance coefficient response in a finite-length, high-radius-ratio narrow annulus. Reynolds-averaged Navier–Stokes simulations are performed over 20≤N≤200 and 1.698×107≤Ta≤9.916×109, where N measures the relative strength of inner-cylinder rotation to axial throughflow. An operational onset position, zonset, is introduced to identify the establishment of the first sustained Taylor-vortex cell. The results show that N primarily determines …",
+    "authors": "Yuan Zhou, Jiajun Cui, Hong Wang, Shuhong Liu et al.",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Internal solitary wave attenuation, spectral evolution, and induced flow fields beneath rigid ice covers",
+    "doi": "10.1063/5.0352329",
+    "url": "https://doi.org/10.1063/5.0352329",
+    "abstract": "The interaction between internal solitary waves (ISWs) and ice cover is an important process governing wave deformation, energy dissipation, and mixing in polar oceans. In this study, laboratory experiments were conducted in a strongly stratified silicone oil–water two-layer system using a rigid, nondeformable ice-cover model to examine the combined effects of ice-cover position and incident-wave amplitude on ISW evolution. Five dimensionless ice-cover positions and four incident-wave amplitudes were considered. Image-based interface extraction, particle image velocimetry, and wavelet analysis were used to quantify waveform evolution, spatial amplitude attenuation, spectral redistribution, and flow-field responses. The results show that the vertical position of the ice cover strongly regul…",
+    "authors": "Yelin Gao, Li Zou, Tao Zhao, Zongbing Yu et al.",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Unsteady aerodynamics and fluid–structure interaction of the variable-camber morphing wing driven by a dielectric elastomer",
+    "doi": "10.1063/5.0356649",
+    "url": "https://doi.org/10.1063/5.0356649",
+    "abstract": "The development of low-altitude intelligent morphing aircraft has created an urgent demand for adaptive aerodynamic configurations in strongly unsteady flow environments. Dielectric Elastomers (DEs) have become promising actuators for morphing wings owing to large deformation capacity, lightweight, and fast response. However, the underlying coupling mechanisms among electric actuation, structural deformation, and unsteady flow remain unclear. In this paper, a fluid–electro–structure framework is developed to investigate fluid–structure interaction (FSI) and unsteady aerodynamics of a DE-driven variable-camber wing. The coupled electromechanical and aerodynamic responses are simulated employing the Lattice Boltzmann-Finite Element Method. The results show that FSI significantly influences w…",
+    "authors": "Jiakun Han, Chuanpeng Xie, Xitong Zhang, Renkun Han et al.",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "lattice boltzmann",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Reduction of wake turbulence by microfiber coating",
+    "doi": "10.1063/5.0347479",
+    "url": "https://doi.org/10.1063/5.0347479",
+    "abstract": "A wake downstream of a circular cylinder is governed by the separated shear-layer development, vortex formation, and turbulent momentum transport, which together determine the unsteady characteristics of bluff-body flows. This study experimentally investigates the modification of near-wake turbulence by a microfiber-coated strip applied to the rear surface of a circular cylinder. Planar particle image velocimetry measurements were performed at a Reynolds number of 6.1 × 104, corresponding to the subcritical flow regime, to quantify the mean-flow field and turbulence statistics downstream of uncoated and microfiber-coated cylinders. The microfiber coating substantially altered the post-separation wake development. Compared with the uncoated cylinder, the coated cylinder exhibited an elongat…",
+    "authors": "Mitsugu Hasegawa, Gianluca Blois, Hirotaka Sakaue",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "wake",
+      "turbulence",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Fully coupled two-dimensional numerical simulation of wave interaction with an elastic wall in a narrow gap",
+    "doi": "10.1063/5.0347319",
+    "url": "https://doi.org/10.1063/5.0347319",
+    "abstract": "Narrow-gap resonance is commonly investigated under rigid-wall assumptions, although deformable boundaries occur in many confined-water systems. This study aims to clarify how elastic-wall deformation and the geometry of the bottom passage affect the coupled hydrodynamic and structural responses of an open-top confined-water system. A two-dimensional strongly coupled partitioned finite volume method–finite element method model, implemented using OpenFOAM, CalculiX, and preCICE, is validated against published hydroelastic results and wave-flume measurements. Wall stiffness and draft are varied to evaluate the local flow, confined free-surface motion, wave reflection and dissipation, hydrodynamic loading, wall displacement, and response phase. The results show that decreasing wall stiffness …",
+    "authors": "Shiqi Pan, Lidong Zhang, Xuanlie Zhao, Zhengyu Hu",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Flow physics and surrogate-assisted machine learning optimization of a stacked-blade shrouded Savonius rotor",
+    "doi": "10.1063/5.0326848",
+    "url": "https://doi.org/10.1063/5.0326848",
+    "abstract": "Small drag-driven Savonius rotors are suitable for low-wind-speed turbulent conditions found in urban and built environments. However, their aerodynamic efficiency is limited by the negative torque generated by the returning blade, which reduces the overall efficiency of the rotor. This study proposes a stacked-blade shrouded Savonius rotor (SB-SSR) in which a flanged shroud, a spanwise-stacked non-uniform blade, and a helical layer of blades, which act as a single internally augmented system, are compared with a conventional Savonius rotor whose bucket profile is parametrized by a cubic Bézier curve. Three-dimensional transient simulations are combined with Taguchi design of experiments and five machine learning surrogate models to determine the optimal blade curvature, shroud angle (α°),…",
+    "authors": "Saurav Bhattacharjee, Agnimitra Biswas, Biplab Das, Biswajit Nath",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "ABL"
     ]
   },
   {
@@ -6040,138 +6179,6 @@
     "published": "2026-07-09",
     "keywords_matched": [
       "vortex"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Cleo: the fundamental design of a new superdroplet model for high computational performance (v0.39.0)",
-    "doi": "10.5194/gmd-19-6099-2026",
-    "url": "https://doi.org/10.5194/gmd-19-6099-2026",
-    "abstract": "Abstract. Cleo is a novel implementation of the Super-Droplet Method (SDM) aiming to be efficient on and portable across exascale high-performance computers. It is motivated by the need to develop a SDM that can model warm-cloud microphysics in domains large enough to resolve shallow mesoscale cloud organisation 𝒪(100 km). This paper introduces Cleo's fundamental structure. First, it explains the choices we made to exploit shared memory spaces on single nodes of high-performance computers. In particular, we discuss our reasoning behind Cleo's ordered and contiguous arrays of structures for superdroplets and grid-boxes, and how we can allocate resources economically and portably through Cleo's MPI domain decomposition, Kokkos library thread parallelism, and coupling to a host dynamical driv…",
-    "authors": "Clara J. A. Bayley, Tobias Kölling, Ann Kristin Naumann, Raphaela Vogel et al.",
-    "published": "2026-07-09",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Cavitation bubble collapse near a wall: a numerical study on a bubble initially generated by laser",
-    "doi": "10.1017/jfm.2026.11781",
-    "url": "https://doi.org/10.1017/jfm.2026.11781",
-    "abstract": "Cavitation bubble collapse near a wall is investigated by employing a recently developed laser–fluid computational framework to simulate the complete lifecycle of a wall-detached laser-induced bubble, including the water breakdown phase. The model couples compressible multiphase Euler equations, a radiative transport equation and a latent heat reservoir formulation for phase transition. A wide range of nine stand-off ratios gamma element of left bracket 0.79 comma 2.14 right bracket γ ∈ [ 0.79 , 2.14 ] $\\gamma \\in [0.79,\\ 2.14]$ is investigated and directly compared with recent experimental measurements. The simulations reproduce the interfacial dynamics of bubbles with excellent accuracy. Moreover, the computations are capable of reidentifying the three experimentally observed collapse re…",
-    "authors": "Bo Wang, Zhidian Yang, Kevin Wang, Olivier Coutier-Delgosha et al.",
-    "published": "2026-07-08",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Flash evaporation Riemann problem: formulation and its exact solution",
-    "doi": "10.1017/jfm.2026.11752",
-    "url": "https://doi.org/10.1017/jfm.2026.11752",
-    "abstract": "Flash evaporation, a liquid-to-gas phase transition phenomenon in real fluids, is prevalent in aerospace propulsion systems. To elucidate the wave structures of flash evaporation in the equilibrium limit and provide theoretical benchmarks for computational fluid dynamics simulations, this paper formalises the flash evaporation Riemann problem (FeRP) characterised by the expansion branch crossing the saturation line, within the framework of homogeneous equilibrium and vapour–liquid equilibrium assumptions. An exact solution framework that analytically resolves all thermodynamic derivatives of equilibrium two-phase fluids is established for arbitrary two-parameter equations of state. By evaluating the Landau fundamental derivative, the non-classical wave structures arising in the FeRP are an…",
-    "authors": "Haotong Bai, Ping Yi, Yixin Yang, Guoyan Zhao et al.",
-    "published": "2026-07-08",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Variational determination of minimal absorbing zones in incompressible shear flows",
-    "doi": "10.1017/jfm.2026.11777",
-    "url": "https://doi.org/10.1017/jfm.2026.11777",
-    "abstract": "Absorbing sets are a central organising concept in the long-time analysis of dissipative partial differential equations, especially those arising in fluid mechanics. Roughly, an absorbing set is a bounded region in a suitable function space that eventually contains every trajectory that starts from any bounded set of initial data. Once the dynamics enter this region, they remain controlled in norm, and this ultimate boundedness becomes the gateway to more refined statements: existence of global attractors, finite-dimensional long-time behaviour. A variational framework, based on the background method, is developed to determine an ‘absorbing ball’ in the state space of incompressible shear flows described by the Navier–Stokes equations. This region is defined by the Reynolds–Orr energy iden…",
-    "authors": "Péter Tamás Nagy",
-    "published": "2026-07-08",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Modelling falling viscoelastic liquid films at moderate Weissenberg number and Reynolds number",
-    "doi": "10.1017/jfm.2026.11778",
-    "url": "https://doi.org/10.1017/jfm.2026.11778",
-    "abstract": "It is well-known that viscoelasticity plays a stabilising role in thin liquid film flow at moderate Reynolds numbers, which, however, cannot be resolved by current long-wave models. All these long-wave models can only predict the destabilising effect of viscoelasticity. This paper proposes a novel integral boundary layer model for a two-dimensional Oldroyd-B liquid film flow down a vertical plane. It consists of four dynamical variables – the film thickness h h $h$ , local flow rate q q $q$ , depth-integral normal viscoelastic stress upper A A $A$ , and depth-integral shear viscoelastic stress upper B B $B$ – which successfully capture the destabilising mechanism of viscoelasticity at small Reynolds numbers and the stabilising mechanism of viscoelasticity at moderate Reynolds numbers by a …",
-    "authors": "Weiyang Jiang, Hui Li, Zijing Ding",
-    "published": "2026-07-08",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Physically Interpretable Cross‐Seasonal Prediction Skills of Current Ensemble Forecasting Systems on Recent Extreme Droughts in China",
-    "doi": "10.1029/2026jd047260",
-    "url": "https://doi.org/10.1029/2026jd047260",
-    "abstract": "Abstract Accurate event‐oriented prediction of extreme droughts is crucial for mitigating socioeconomic losses. However, the lead‐time limits and skill sources of current ensemble forecasting systems for 3D drought events remain unknown. This study evaluates the performance of three state‐of‐the‐art systems (ECMWF SEAS51, NCEP CFSv2, and JMA/MRI‐CPS3) across China using a 3D DBSCAN‐based event identification workflow. We analyze both deterministic and probabilistic prediction skills while investigating the underlying physical mechanisms. Results show that deterministic predictions show skill within 45 days for most events, though skill varies by model and event. Probabilistic predictions, at a 25% probability threshold, can extend skillful lead time to 120 days for certain events. The syst…",
-    "authors": "Hao Yin, Zhenchen Liu, Zhiyong Wu, Hai He",
-    "published": "2026-07-08",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Reexamine the Large‐Scale Flow Pattern Associated With Tropical Cyclogenesis Using Multi‐Dimensional Ensemble Empirical Mode Decomposition",
-    "doi": "10.1029/2026jd046551",
-    "url": "https://doi.org/10.1029/2026jd046551",
-    "abstract": "Abstract The western North Pacific is characterized by five large‐scale flow patterns (LFPs) that foster dynamic conditions favorable for tropical cyclone genesis events (TCGEs). However, an objective method is needed to filter out small‐scale disturbances in pattern identification. In this study, we apply the Multi‐dimensional Ensemble Empirical Mode Decomposition (MEEMD) to isolate LFPs linked to TCGEs by removing small‐scale noise, thereby reducing pattern misclassification. A comparison of classifications before and after filtering confirms that MEEMD diminishes disturbance‐related misidentification and enhances overall classification reliability and accuracy. The new classification shows that TCGEs associated with the monsoon shear line (SL) pattern increase in proportion, while those…",
-    "authors": "Jin‐Lin Tan, Yan Liu, Shenglan Wu, Xin Qiu",
-    "published": "2026-07-08",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "TRACE-Python: tracer-based rapid anthropogenic carbon estimation implemented in Python (version 1.0)",
-    "doi": "10.5194/gmd-19-5961-2026",
-    "url": "https://doi.org/10.5194/gmd-19-5961-2026",
-    "abstract": "Abstract. An implementation of Tracer-based Rapid Anthropogenic Carbon Estimation (TRACE), an algorithm for estimating anthropogenic carbon in the ocean, was produced using the Python coding language. TRACE is a transit time distribution approach intended to increase the accessibility of reliable and accurate anthropogenic carbon estimates. This algorithm produces estimates of ocean anthropogenic carbon as a function of user-supplied coordinates, time, seawater salinity, atmospheric carbon dioxide pathway, and optionally seawater temperature. We demonstrate the identical results of this implementation relative to its MATLAB predecessor, explore the sensitivity of anthropogenic carbon estimates to a newly-expanded range of available user input parameters, and suggest further lines of develo…",
-    "authors": "Daniel E. Sandborn, Brendan R. Carter, Mark J. Warner, Larissa M. Dias",
-    "published": "2026-07-08",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Evaluating the radiative fidelity of WRF-driven PALM (v25.04) in high-resolution using RTM: impact of diverse urban morphology and vegetation on short-wave radiation",
-    "doi": "10.5194/gmd-19-6001-2026",
-    "url": "https://doi.org/10.5194/gmd-19-6001-2026",
-    "abstract": "Abstract. Validating urban short-wave radiation in numerical models is non-trivial, as city measurements are heavily influenced by multiple reflections, absorption, and shading processes driven by the three-dimensional urban morphology and vegetation. At the same time, urban micro-scale models are typically forced by only two types of solar radiation inputs: (i) field measurements, often represented by the global radiation, rarely by the combination of short-wave and long-wave radiation; and (ii) data given from coarser-resolution models. We conduct a novel high-resolution evaluation study of the PALM model (v25.04), driven by the regional WRF model-derived radiative forcing configured in two distinct parameterisation setups, across a multi-episode ensemble spanning from clear-sky to overc…",
-    "authors": "Jelena Radović, Michal Belda, Martin Bureš, Kryštof Eben et al.",
-    "published": "2026-07-08",
-    "keywords_matched": [
-      "WRF"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Mechanism of flow separation control by coherent vortices induced by synthetic jet",
-    "doi": "10.1017/jfm.2026.11754",
-    "url": "https://doi.org/10.1017/jfm.2026.11754",
-    "abstract": "This study employs synthetic jet actuation (SJA) to control large-scale flow separation on the suction side of a NACA0015 aerofoil at a Reynolds number of 2.1 times × $\\times$ 10 Superscript 5 10 5 $10^5$ and an angle of 18 Superscript ring 18 ∘ $18^\\circ$ . The underlying control mechanism is investigated using large-eddy simulations to resolve the dynamics of jet-induced coherent structures associated with the low-frequency actuation. During the periodic blowing and suction cycle, two distinct types of spanwise coherent vortices are identified: blowing-induced vortices (BIVs) and suction-induced vortices (SIVs), which differ significantly in spatial distribution and energy content. As these vortices are convected downstream at speeds comparable to the free-stream velocity, BIVs exhibit a…",
-    "authors": "Hao Wang, Zhen Bing Luo, Xiong Deng, Qiang Liu et al.",
-    "published": "2026-07-07",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Bi-global instability analysis of sidewall effects on an oscillating liquid film",
-    "doi": "10.1017/jfm.2026.11745",
-    "url": "https://doi.org/10.1017/jfm.2026.11745",
-    "abstract": "The stability of a horizontally oscillating liquid film under sidewall confinement is investigated through a bi-global Floquet analysis. The classical two-dimensional oscillating liquid film is extended to a three-dimensional configuration with oscillating sidewalls. This framework resolves the high-dimensional eigenvalue problem arising from the spatio-temporal coupling in this three-dimensional system. For long-wave instabilities, a semi-analytical asymptotic approach is adapted to capture the growth rates efficiently, while the arbitrary-wavelength instabilities are solved via Chebyshev spectral collocation methods. The asymptotic and numerical results reveal that the sidewalls suppress both long-wave and finite-wavelength instabilities by contracting the unstable frequency range and el…",
-    "authors": "Yue Xiao, Shaofeng Du, Shaowei Wang, Moli Zhao et al.",
-    "published": "2026-07-07",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
