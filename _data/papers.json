@@ -1,6 +1,18 @@
 [
   {
     "journal": "Geoscientific Model Development",
+    "title": "The one-Layer Antarctic model for Dynamical Downscaling of Ice–ocean Exchanges (LADDIE) version 2.0",
+    "doi": "10.5194/gmd-19-9441-2026",
+    "url": "https://doi.org/10.5194/gmd-19-9441-2026",
+    "abstract": "Projections of Antarctic mass loss and its contribution to sea-level rise are highly sensitive to the applied ocean-driven melting. As fully coupled continental-scale ocean–ice sheet models are scarce, ice sheet models are typically run in standalone configurations, forced with parameterised sub-shelf melting. To provide a physically more detailed alternative to melt parameterisations, we here present version 2.0 of the one-Layer Antarctic model for Dynamical Downscaling of Ice–ocean Exchanges (LADDIE). LADDIE is a two-dimensional model of the upper mixed layer below ice shelves and can reproduce observed spatial patterns in sub-shelf melting. Version 2.0 has improved computational performance due to parallellisation, discretisation on an unstructured mesh, and a more stable time stepping …",
+    "authors": "Erwin Lambert, Franka Jesse, Constantijn J. Berends",
+    "published": "2026-10-07",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
     "title": "Schumpeterian disaggregation and integrated assessment: An endogenous, stock-flow consistent economy in disequilibrium for FRIDA v2.1",
     "doi": "10.5194/gmd-19-9411-2026",
     "url": "https://doi.org/10.5194/gmd-19-9411-2026",
@@ -8,6 +20,31 @@
     "authors": "Martin B. Grimeland, Benjamin Blanz, William Schoenberg, Beniamino Callegari",
     "published": "2026-10-06",
     "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Measurements and Analysis of Light Non‐Methane Hydrocarbon Mole Fractions in 1982–1987 at Six Remote Sites Along the Pacific Rim",
+    "doi": "10.1029/2026jd048040",
+    "url": "https://doi.org/10.1029/2026jd048040",
+    "abstract": "Abstract Atmospheric non‐methane hydrocarbons (NMHCs) are important trace species with anthropogenic and natural sources including fugitive emissions from fossil fuel mining and distribution, biomass burning, biofuel combustion, and biogenic emissions from microbes and plants. We present previously unpublished whole air sample measurements of NMHCs collected at approximately weekly intervals from 1982 to 1987 at six stations spanning the Northern and Southern hemispheres, which sampled primarily Pacific Basin air masses as determined by back‐trajectory analysis. The four alkanes in this data set, ethane, propane, i‐ and n‐butane had a mean measured mole fraction of 712 22 ppt, 245 13 ppt, 55.2 4.4 ppt, and 87.6 8.7 ppt, respectively. When compared with measurements at comparable sites two …",
+    "authors": "A. M. Smith, C. L. Butenhoff, M. A. K. Khalil, A. L. Rice",
+    "published": "2026-10-06",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Role of Unbalanced Jet Streak Circulations in East Asian Dust Storms",
+    "doi": "10.1029/2026jd046356",
+    "url": "https://doi.org/10.1029/2026jd046356",
+    "abstract": "Abstract A mesoscale study of three severe dust storms over China and Mongolia was conducted using observational and high‐ resolution numerical model data sets. The analysis of these data indicates many commonalities among the three case studies, (a) precursor wind flow across the mountain creating a strong statically stable layer in the lee of the mountain, (b) interaction of the exit region of the jet streak with that statically stable layer, (c) breakdown of geostrophic balance of the exit region of the jet streak in the leeside of the mountains, (d) generation of low‐level ageostrophic isallobaric wind flow (Vis) as a product of the deep three‐dimensional mass/momentum adjustment process, and (e) the development of significant planetary boundary layer (PBL) turbulence kinetic energy (T…",
+    "authors": "Ashok Kumar Pokharel, Michael L. Kaplan",
+    "published": "2026-10-06",
+    "keywords_matched": [
+      "turbulence",
       "ABL"
     ]
   },
@@ -746,6 +783,69 @@
     "url": "https://doi.org/10.1063/5.0338812",
     "abstract": "In this work, a novel methodology combining higher-order singular value decomposition (HOSVD) with deep learning is presented for the super-resolution (SR) of computational fluid dynamics and sparse experimental datasets. This approach, referred to as HOSVD-SR (The software is available at https://modelflows.github.io/modelflowsapp/), integrates modal decomposition with machine-learning techniques to create a physics-based hybrid model that enhances spatial resolution while preserving the dominant flow structures. The proposed methodology leverages HOSVD, a higher-order extension of SVD that is well suited to high-dimensional data arranged in the tensor form. HOSVD independently extracts the mode matrices and singular values associated with each tensor dimension, including the spatial and …",
     "authors": "G. Barragan, A. Hetherington, R. Abadía-Heredia, J. Garicano-Mena et al.",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Large eddy simulation of particle mixing and deposition risk characteristics in metal powder fuel water ramjets: Role of integrated hollow bluff-body and groove inclination",
+    "doi": "10.1063/5.0338263",
+    "url": "https://doi.org/10.1063/5.0338263",
+    "abstract": "This study proposes the vortex-enhanced bluff groove, an integrated hollow bluff-body-groove mixing configuration, and, through large-eddy simulations, shows how its inclination angle affects the relationship between particle mixing characteristics and near-wall accumulation (an indirect deposition-risk proxy) in a metal powder/water ramjet combustor. The groove generates alternating high-velocity low-pressure and low-velocity high-pressure zones in the main flow. Driven by drag, particles accumulate in the low-pressure regions. At 0°, stable annular separation vortices maximize the wake shedding frequency; particles exhibit a single-layer annular distribution concentrated in the central region, yielding the lowest area-averaged mixing degree and near-wall accumulation tendency. As the inc…",
+    "authors": "Zhanpeng Guan, Wenxue Han, Chunbo Hu, Boyi Zhao et al.",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "wake",
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Role of the thermal Marangoni effect in droplet evolution during electroslag remelting: Interfacial flow redistribution and necking-detachment dynamics",
+    "doi": "10.1063/5.0348539",
+    "url": "https://doi.org/10.1063/5.0348539",
+    "abstract": "The thermal Marangoni effect, arising from temperature-induced surface-tension gradients, can affect droplet dynamics in high-temperature multiphase systems. However, its role in droplet evolution during electroslag remelting (ESR) remains poorly understood. This study extends an existing two-dimensional axisymmetric model by introducing temperature-dependent slag-metal interfacial tension into a coupled electromagnetic–flow–thermal framework, thereby accounting for the thermal Marangoni effect. The model is assessed against experimental data from a published laboratory-scale ESR study. Both the constant-interfacial-tension model and the thermal Marangoni model reasonably reproduce the experimentally observed droplet-displacement history, whereas the thermal Marangoni effect produces only …",
+    "authors": "Huan Cao, Zhongqiu Liu, Wenbin Yang, Xuechi Huang et al.",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Physics-informed wavelet–Fourier representation for multiscale fluid dynamics",
+    "doi": "10.1063/5.0351931",
+    "url": "https://doi.org/10.1063/5.0351931",
+    "abstract": "Multiscale fluid flows often contain localized flow structures, such as viscous shock layers, wet–dry fronts, steady viscous wakes, decaying vortical structures, and vortex-shedding patterns, whose accurate prediction requires the simultaneous preservation of global conservation trends and small-scale gradients. This study examines these flow-physics requirements through a physics-informed wavelet–Fourier (PIWF) representation for multiscale fluid dynamics. Instead of relying on a monolithic neural approximator, the formulation separates two complementary components of the flow field within a physics-informed neural representation: long-range coherent modes through a Fourier-basis branch and localized steep-gradient or vortical features through a compactly supported wavelet branch. The out…",
+    "authors": "Chao Wang, Shilong Li, Yunpeng Wang, Tianbai Xiao et al.",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "wake",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Experimental investigation on friction characteristics and inlet/outlet flow parameter sensitivity of duct flow with transverse microgrooves on the inner wall",
+    "doi": "10.1063/5.0345459",
+    "url": "https://doi.org/10.1063/5.0345459",
+    "abstract": "In active cooling systems, increased wall friction in coolant transport ducts reduces the coolant mass flow rate and outlet Mach number under the same driving pressure, thereby impairing the cooling performance. Arranging transverse microgrooves on the duct wall offers a promising solution, but their drag reduction performance and quantitative effects on duct inlet/outlet flow parameters remain unclear. Experiments using a custom-built system investigate the effects of microgroove depth and coverage length on the mean friction coefficient in non-choked square duct flow, with the friction coefficient back-calculated from measured inlet total pressure and mass flow rate based on Fanno flow theory. Sensitivity expressions are derived to quantify how inlet/outlet parameters respond to changes …",
+    "authors": "Zihao Ye, Yuxin Zhao, Shihe Yi, Xiaoge Lu et al.",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Two Localization Strategies for Sequential MCMC Data Assimilation With Applications to Nonlinear Non‐Gaussian Geophysical Models",
+    "doi": "10.1029/2026ms005908",
+    "url": "https://doi.org/10.1029/2026ms005908",
+    "abstract": "Abstract We present a localized data assimilation (DA) scheme based on sequential Markov Chain Monte Carlo (SMCMC) (Ruzayqat et al., 2024, https://doi.org/10.1002/qj.4710 ), a provably convergent method for filtering high‐dimensional, nonlinear, and potentially non‐Gaussian state‐space models (SSMs). Unlike particle filters, which are exact for such models, SMCMC does not assign weights to samples, avoiding weight degeneracy in small‐ensemble regimes. We design two localization approaches within the SMCMC framework that exploit observation sparsity to reduce effective degrees of freedom. The first variant collects observed blocks into a single reduced domain and runs parallel MCMC chains over this combined region. The second further reduces per‐chain state dimension by decomposing the obse…",
+    "authors": "Hamza Ruzayqat, Hristo G. Chipilski, Omar Knio",
     "published": "2026-10-01",
     "keywords_matched": [
       "ABL"
@@ -6082,104 +6182,6 @@
     "published": "2026-07-11",
     "keywords_matched": [
       "WRF"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Electrohydrodynamic nano-patterning in thin nematic films: a multi-scale study on coalescence arrest and surface functionality",
-    "doi": "10.1017/jfm.2026.11786",
-    "url": "https://doi.org/10.1017/jfm.2026.11786",
-    "abstract": "Electrohydrodynamic (EHD) instabilities at the free deformable surface of thin nematic liquid crystal (NLC) films can generate large-area, self-organised, multi-scale surface morphologies under an external electrostatic field. In this work, we present a comprehensive investigation of EHD patterning in thin NLC films combining continuum-scale nonlinear simulations (NS) and molecular dynamics (MD). The multi-scale analysis identifies three principal morphological pathways: (i) no-patterning mode, observed at low electric fields; (ii) columnar mode, emerging above a critical field; and (iii) coalescence mode, characterised by lateral merging of patterns at higher field strengths. The NS further unveil two distinct pathways of the columnar mode – the secondary structure mode (SSM), exhibiting …",
-    "authors": "Prateek Chowdhury, Satyajeet Choudhury, Debdip Bhandary, Abir Ghosh",
-    "published": "2026-07-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Freak wave in a two-dimensional directional wavefield with bottom topography change. Part II. Oblique incident waves and crossing waves",
-    "doi": "10.1017/jfm.2026.11790",
-    "url": "https://doi.org/10.1017/jfm.2026.11790",
-    "abstract": "This study investigates the oblique incident wave and the wave crossing in nonlinear wave evolution under variable directional spreading and bathymetry. Building on the depth-modified nonlinear Schrödinger (dNLS) model for a two-dimensional random wavefield, we incorporate wave refraction and symmetric crossing wave systems to numerically simulate realistic ocean conditions more accurately. Monte Carlo simulations are conducted to analyse wave spectrum, surface morphology and statistical moments (skewness and kurtosis). Results show that small incident angles have a very limited effect on extreme events and nonlinear interactions in a single system, but even small-angle wave crossing leads to an increase in the occurrence probability of freak waves from single system to multi-system. As th…",
-    "authors": "Zuorui Lyu, Nobuhito Mori",
-    "published": "2026-07-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Linking flow structures and aerodynamic performance for low-aspect-ratio plates at low Reynolds numbers",
-    "doi": "10.1017/jfm.2026.11791",
-    "url": "https://doi.org/10.1017/jfm.2026.11791",
-    "abstract": "This study presents an experimental investigation of the flow over a trapezoidal plate and its wake at a chord-based Reynolds number of 5800 5800 $5800$ . The plate has an aspect ratio of 1.38 1.38 $1.38$ and the angle of attack varies from 4 Superscript ring 4 ∘ $4^\\circ$ to 10 Superscript ring 10 ∘ $10^\\circ$ . Volumetric flow fields are acquired through stereoscopic particle image velocimetry and aerodynamic forces are estimated via the wake-integral approach. A key novel finding is achieved: the swallow-tailed separation bubble, characterised by a distinct concavity, enables the plate to achieve its maximum lift-to-drag ratio. This favourable performance arises from the formation of a counter-rotating vortex pair in the vicinity of the bubble concavity. This vortex pair suppresses the …",
-    "authors": "Yichen Zhu, Jiaxin Liu, Jinjun Wang, Lihao Feng",
-    "published": "2026-07-10",
-    "keywords_matched": [
-      "wake",
-      "ABL",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Issue Information",
-    "doi": "10.1029/jgrd.70733",
-    "url": "https://doi.org/10.1029/jgrd.70733",
-    "abstract": "No abstract is available for this article.",
-    "authors": "",
-    "published": "2026-07-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "ICON coupled to HAM-lite 1.0 in limited-area mode:  an efficient framework for targeted kilometer-scale  simulations with interactive aerosols",
-    "doi": "10.5194/gmd-19-6167-2026",
-    "url": "https://doi.org/10.5194/gmd-19-6167-2026",
-    "abstract": "Abstract. We present a new limited-area version of the aerosol–climate modeling system ICON coupled to HAM-lite. This new version is capable of simulating anthropogenic and natural aerosols and their climate effects in specific target regions. We demonstrate its flexibility and applicability through three case studies covering distinct aerosol regimes and processes: air pollution episodes in Central Europe, the emission and transport of sea salt aerosol in the Atlantic Arctic, and the simultaneous formation of smoke and desert dust plumes during the 2019–2020 Australian bushfire season. These case studies show the ability of the model to capture the regional-scale patterns and diurnal variability of the predominant aerosol types. They also indicate, however, systematic biases related to th…",
-    "authors": "Bernd Heinold, Philipp Weiss, Sadhitro De, Anne Kubin et al.",
-    "published": "2026-07-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "New framework for benchmarking decadal predictions leveraging the PCMDI Metric Package with interactive visualization",
-    "doi": "10.5194/gmd-19-6189-2026",
-    "url": "https://doi.org/10.5194/gmd-19-6189-2026",
-    "abstract": "Abstract. Reliable climate predictions across multiple timescales are increasingly critical as climate-related risks continue to rise. With the growing number and diversity of climate prediction systems, systematic intercomparison has become essential. Here, we present a comprehensive evaluation framework based on the PCMDI Metric Package to assess the performance of multiple decadal climate prediction systems. Unlike uninitialized simulations, initialized predictions exhibit bias and predictive skill that evolve with forecast lead time. To address this, we introduce (1) model-by-lead-time portrait plots, which efficiently summarize metrics of global temperature, precipitation, and Arctic/Antarctic sea-ice extent, and (2) an HTML-based interactive visualization platform that provides detai…",
-    "authors": "Jung Choi, Jiwoo Lee, Kristin Chang, Paul A. Ullrich et al.",
-    "published": "2026-07-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "CMIP7 data request: ocean and sea  ice priorities and opportunities",
-    "doi": "10.5194/gmd-19-6043-2026",
-    "url": "https://doi.org/10.5194/gmd-19-6043-2026",
-    "abstract": "Abstract. The ocean and sea ice are central to Earth's climate system, influencing global heat and carbon cycles, weather patterns, and sea level rise. Recent decades have seen rapid advances in Earth System Models (ESMs), but limitations remain in simulating and comparing key oceanic and cryospheric processes across models. A recurring challenge in model intercomparison efforts like the Coupled Model Intercomparison Project (CMIP) is determining the output variables that best represent essential mechanisms while remaining manageable in volume and complexity. Here we present the CMIP7 ocean and sea ice data request, developed through an international, community-based process to prioritize variables for model output. We identify seven opportunities – science-based use cases spanning ocean a…",
-    "authors": "Baylor Fox-Kemper, Patricia DeRepentigny, Anne Marie Treguier, Christian Stepanek et al.",
-    "published": "2026-07-09",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Advances in Atmospheric Sciences",
-    "title": "Polar Winter Processes: An Under-Represented Research Focus within the Coupled Earth System",
-    "doi": "10.1007/s00376-026-6256-5",
-    "url": "https://doi.org/10.1007/s00376-026-6256-5",
-    "abstract": "Abstract Observing winter processes during the extended cold season is crucial not only for understanding polar and global coupled Earth system but also for enhancing capability of year-round prediction, especially in the context of Arctic amplification and the drastic decrease in sea ice extent and thickness at both poles. However, harsh environmental conditions and logistical challenges have left polar winter Earth system processes substantially under-observed compared with those during summer. This disparity creates major obstacles for studying these processes and their roles in shaping the state and variability of the Earth systems, as well as for accurately simulating them in Earth System Models (ESMs). Consequently, these limitations introduce considerable uncertainties in ESMs regar…",
-    "authors": "Xin Yang, Xiangdong Zhang, Ankit Agarwal, Rajendran Shobha Ajin et al.",
-    "published": "2026-07-09",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
