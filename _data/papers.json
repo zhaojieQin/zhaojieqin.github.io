@@ -12,6 +12,18 @@
     ]
   },
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Expanding OCO‐2's Volcanic Observation Record to the Low‐Intensity 2021 Fagradalsfjall and the Ninth Sundhnúkur Crater Row Eruptions",
+    "doi": "10.1029/2026jd046937",
+    "url": "https://doi.org/10.1029/2026jd046937",
+    "abstract": "Abstract Since 2021, Iceland experienced 12 volcanic eruptions, all located on the Reykjanes peninsula. From these events, the 2021 Fagradalsfjall and the ninth Sundhnúkur crater row (16 July–5 August 2025) eruptions were detected by the Orbiting Carbon Observatory‐2 (OCO‐2). This study uses the OCO‐2 column‐averaged dry‐air mole fractions of () to compare the plume characteristics of both events. The Fagradalsfjall eruption produced a remarkably small enhancement of ∼ 0.5 ppm, demonstrating that sub‐ppm volcanic signals can be observed with OCO‐2. Thereafter, the estimated flux from Fagradalsfjall was 53.4 which is larger than ground‐based estimates (5–20 ), due to parameter uncertainties, unaccounted additional sources, and observational constraints. In contrast, due to cloud cover, the …",
+    "authors": "C. Delbet, P. Ringrose, J. Eidsvik, M. Calovi",
+    "published": "2026-10-07",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "Schumpeterian disaggregation and integrated assessment: An endogenous, stock-flow consistent economy in disequilibrium for FRIDA v2.1",
     "doi": "10.5194/gmd-19-9411-2026",
@@ -849,6 +861,66 @@
     "published": "2026-10-01",
     "keywords_matched": [
       "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Chemical regulation of displacement-front stability in porous media through viscosity ratio and miscibility control",
+    "doi": "10.1063/5.0353010",
+    "url": "https://doi.org/10.1063/5.0353010",
+    "abstract": "Multiphase displacement in porous media depends on viscous and capillary forces, molecular diffusion, and fluid phase behavior. An unfavorable viscosity ratio can promote/ viscous fingering and early breakthrough, reducing sweep efficiency. Here, we investigate how additive-induced changes in CO2-rich phase properties affect pore-scale displacement patterns and oil recovery. Molecular dynamics simulations evaluated additive effects on density, apparent shear viscosity, CO2 diffusion, and CO2–hydrocarbon miscibility. The resulting density and viscosity correlations were incorporated into pore-scale simulations to evaluate front evolution, swept area, residual-oil distribution, and recovery. The investigated additives decreased CO2 diffusion coefficients and increased the apparent shear visc…",
+    "authors": "Quanling Qin, Kang Zhou, Mengfan Zhang, Dequan Zhang et al.",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Three-dimensional delineation of the Lofoten Vortex using the R-tube method for the analysis of water exchange mechanisms based on the Regional Ocean Modeling System",
+    "doi": "10.1063/5.0350612",
+    "url": "https://doi.org/10.1063/5.0350612",
+    "abstract": "A new Lagrangian approach for the three-dimensional analysis of mesoscale eddies, the R-tube method, is presented as an extension of the Lagrangian Eddy Boundary Delineation Algorithm. The method is applied to the quasi-persistent Lofoten anticyclone in the Norwegian Sea using a high-resolution Regional Ocean Modeling System simulation. A horizontal R-contour constructed at 400 m is vertically extrapolated over the 0–1000 m range to form a unified pseudo-three-dimensional eddy boundary. Three-dimensional trajectories of approximately 1 × 106 passive markers are computed over 40 days to investigate material exchange between the vortex and the surrounding flow. The results reveal a strongly coherent subsurface regime extending from 100 to 1000 m and a dynamically distinct surface layer. With…",
+    "authors": "E. V. Novoselova, M. V. Budyansky, M. Yu. Uleysky, A. A. Didov et al.",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Aerodynamic investigation and experimental validation of fifth-order polynomial serpentine hypersonic inlets at Mach 5",
+    "doi": "10.1063/5.0345022",
+    "url": "https://doi.org/10.1063/5.0345022",
+    "abstract": "Scramjet engines are air-breathing propulsion systems capable of sustained flight at Mach 5 and above, with the inlet serving as a critical subsystem that compresses the freestream air while minimizing total pressure losses. Although serpentine S-duct inlets provide low-observable airframe integration, they introduce complex shock-wave/boundary-layer interactions and secondary flows that degrade total pressure recovery (TPR) at the aerodynamic interface plane (AIP). Experimental investigations of hypersonic serpentine inlets remain limited. This study investigates four novel fifth-order polynomial serpentine inlet configurations (C1, C2, C3.5, and C5), parameterized by a single curvature coefficient governing the inlet profile. Two-dimensional and three-dimensional Reynolds-averaged Navier…",
+    "authors": "Tanvi Terade, Shreyas Shriyan, Shezan Ghamat, Dinesh Kumar Bajaj",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Cavity dynamics and energy budget for composite-driven and jet-driven regimes in air-jet-assisted water entry",
+    "doi": "10.1063/5.0347057",
+    "url": "https://doi.org/10.1063/5.0347057",
+    "abstract": "This study investigates the air-jet-assisted water entry and provides a numerical analysis of the experimentally observed composite-driven and jet-driven cavities. We employed numerical simulations to elucidate the differences in cavity propulsion, closure dynamics, and energy distribution during water entry. The results reveal that the closure of composite-driven cavities exhibits pronounced forced characteristics, arising from the abrupt transition between jet-driven and carrier-driven propulsion modes. In contrast, jet-driven cavities maintain stable propulsion for a significantly longer duration and close at greater depths. A dimensionless supply–demand ratio, combined with power-law fitting and velocity-based scaling parameters, demonstrates that the macroscopic closure processes of b…",
+    "authors": "Zhihui Zou, Yunhua Jiang, Bin Wu",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Dominant geometric sensitivities and associated aerodynamic mechanisms of a co-flow jet airfoil",
+    "doi": "10.1063/5.0349399",
+    "url": "https://doi.org/10.1063/5.0349399",
+    "abstract": "Co-flow jet (CFJ) is an active flow-control technique with strong potential for lift enhancement, drag reduction, and separation suppression. However, the relative importance, influence directions, and aerodynamic mechanisms associated with CFJ geometric parameters remain insufficiently understood. In this study, Kriging surrogate models were constructed using Latin hypercube sampling. Sobol global sensitivity analysis and Spearman rank-correlation analysis were used to quantify the effects of geometric parameters on the maximum lift coefficient and maximum corrected aerodynamic efficiency at a jet momentum coefficient of 0.04. Controlled single-parameter computational fluid dynamics analyses were then conducted for representative parameter variations, followed by sensitivity-guided variab…",
+    "authors": "Shijiexi Gao, Zishuai Sheng, Xin Ouyang, Yingbin Zhang et al.",
+    "published": "2026-10-01",
+    "keywords_matched": [
+      "drag reduction"
     ]
   },
   {
@@ -6110,78 +6182,6 @@
     "published": "2026-07-13",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "<i>HyperGas</i>\n                    1.0: a python package for analyzing hyperspectral data for greenhouse gases from retrieval to emission rate quantification",
-    "doi": "10.5194/gmd-19-5979-2026",
-    "url": "https://doi.org/10.5194/gmd-19-5979-2026",
-    "abstract": "Abstract. We present HyperGas, an open-source Python package for the retrieval and estimation of atmospheric greenhouse gas concentration enhancements and plume emission rates using data from hyperspectral imagers such as the PRecursore IperSpettrale della Missione Applicativa (PRISMA), the Environmental Mapping and Analysis Program (EnMAP), and the Earth Surface Mineral Dust Source Investigation (EMIT). The software is designed for compatibility with any three-dimensional hyperspectral radiance dataset. HyperGas supports multiple retrieval algorithms, including matched filter and lognormal matched filter, and offers two emission rate estimation methods: the integrated mass enhancement and cross-sectional flux approaches. The software provides a scalable batch-processing framework that sup…",
-    "authors": "Xin Zhang, Joannes D. Maasakkers, Tobias A. de Jong, Paul Tol et al.",
-    "published": "2026-07-13",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "CarboKitten.jl – an open source toolkit  for carbonate stratigraphic modeling",
-    "doi": "10.5194/gmd-19-6207-2026",
-    "url": "https://doi.org/10.5194/gmd-19-6207-2026",
-    "abstract": "Abstract. Stratigraphic forward modeling is a powerful tool for testing hypotheses about the geological record and conducting numerical experiments in stratigraphy at timescales not accessible to direct human observation. Open Source software for stratigraphic modeling available so far has previously focused on siliciclastic or terrestrial depositional environments. CarboKitten is a stratigraphic forward modeling toolkit for carbonate platforms. With performance and accessibility in mind, CarboKitten is implemented in Julia, using the literate programming approach. CarboKitten integrates three components: the carbonate production model of Bosscher and Schlager (1992), the cellular automaton for spatial heterogeneity introduced by Burgess (2013), and a novel finite difference transport mode…",
-    "authors": "Johan Hidding, Emilia Jarochowska, Niklas Hohmann, Xianyi Liu et al.",
-    "published": "2026-07-13",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Sprites Observed by ASIM: First Imaging Data Set and Temporal UV Emission Patterns",
-    "doi": "10.1029/2025jd045666",
-    "url": "https://doi.org/10.1029/2025jd045666",
-    "abstract": "Abstract We present the first data set analysis of 41 imaging‐confirmed sprite events detected by the ASIM‐MMIA instrument. They were visible in the 337 nm camera images from an initial list of 102 candidates identified by the ultraviolet (UV 180–230 nm) photometer. The spatial distribution of confirmed sprites (mapped with the ASIM‐MMIA imaging locations) reveals a distribution largely constrained to land areas and pronounced tropical clustering, with 61% of events over Africa, 24% in the Americas, 12% in Asia, and 2% in Europe. Cloud‐to‐ground (CG) lightning parent strokes were positive in 89% of the cases and negative in 11% according to the GLD360 network. High‐resolution UV photometer temporal profiles enabled classification into three groups: (a) Elve‐preceded sprites (20% of events)…",
-    "authors": "J. A. López, J. Montanyà, O. van der Velde, D. Romero et al.",
-    "published": "2026-07-11",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Urban Enhancement of Organized Convective Systems and Extreme Rainfall Along the South China Coast Under Distinct Synoptic Patterns",
-    "doi": "10.1029/2025jd046085",
-    "url": "https://doi.org/10.1029/2025jd046085",
-    "abstract": "Abstract Rapid urbanization significantly modulates extreme rainfall over the Guangdong‐Hong Kong‐Macao Greater Bay Area (GBA) along the South China coast. Based on 10 years of surface rainfall observations and radar mosaics, this study identifies the urban‐mountain interface in the northeastern GBA as the primary hotspot for extreme short‐term heavy rainfall events (76 cases) and tracks the associated organized convective systems (OCSs). This urban hotspot is governed by two dominant synoptic patterns: the southwesterly monsoon pattern (P1) and the low‐level vortex pattern (P2). While both primarily involve propagating and local OCSs, the local type predominates (more than 55%). These OCSs exhibit distinct organizational characteristics. Compared to P1, local OCSs in P2 appear as smaller,…",
-    "authors": "Xiaona Rao, Kun Zhao, Sheng Hu, Ang Zhou et al.",
-    "published": "2026-07-11",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Seasonal Dynamics of Atmospheric Carbon Dioxide (CO\n                    <sub>2</sub>\n                    ) Over the Arabian Peninsula Using High‐Resolution WRF‐GHG Simulations",
-    "doi": "10.1029/2026jd046685",
-    "url": "https://doi.org/10.1029/2026jd046685",
-    "abstract": "Abstract This study presents an analysis of atmospheric carbon dioxide (CO 2 ) variations over the Arabian Peninsula (AP), a region characterized by intense anthropogenic emissions. Atmospheric CO 2 variability remains poorly characterized due to sparse in situ monitoring, limited satellite coverage, and the coarse resolution of existing global models. We employ the WRF‐GHG modeling framework to conduct the first high‐resolution (9 × 9 km) regional CO 2 simulations over the AP for 2015–2019. The results show that the simulated surface CO 2 concentrations are in good agreement with ground‐based measurements collected at the Weizmann Institute of Science, Israel (29.9°N, 35.0°E). The WRF‐GHG simulated column‐averaged CO 2 (XCO 2 ) also shows high correspondence with OCO‐2 satellite observati…",
-    "authors": "Rama Krishna Karumuri, Mayasaki Takigawa, Ravi Kumar Kunchala, Harikishan Gandham et al.",
-    "published": "2026-07-11",
-    "keywords_matched": [
-      "WRF"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Bayesian Inversion of NO\n                    <sub>x</sub>\n                    Emissions Over Northern Egypt Using TROPOMI‐NO\n                    <sub>2</sub>\n                    Satellite Observations",
-    "doi": "10.1029/2025jd045931",
-    "url": "https://doi.org/10.1029/2025jd045931",
-    "abstract": "Abstract The assessment of NO x emissions plays a key role in air quality monitoring, but national emission inventories are often outdated and incomplete, leading to inaccurate emission estimates. This study presents an optimal estimation of daily NO x emissions over northern Egypt, subdivided into 12 subregions for seven main sectors of activity using TROPOMI NO 2 tropospheric column retrievals assimilated in a Bayesian atmospheric inversion framework. Performed over two contrasted climatic conditions, our Bayesian inversion system uses NO 2 concentrations simulated from the WRF‐Chem model and a modified version of the EDGAR HTAP v3 air pollutants 2000–2018 inventory as prior. New sources were added manually based on missing plumes in simulated NO 2 concentrations (from recent development…",
-    "authors": "Yathin Kudupaje Laxmana, Thomas Lauvaux, Philippe Ciais, Jinghui Lian et al.",
-    "published": "2026-07-11",
-    "keywords_matched": [
-      "WRF"
     ]
   }
 ]
