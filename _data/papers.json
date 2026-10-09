@@ -1,5 +1,78 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Particle-resolved direct numerical simulations on particle–fluid density ratio effects in liquid–solid suspensions",
+    "doi": "10.1017/jfm.2026.12079",
+    "url": "https://doi.org/10.1017/jfm.2026.12079",
+    "abstract": "Particle-resolved direct numerical simulations are employed to investigate homogeneous steady liquid–solid suspensions over an extended range of particle–fluid density ratios ( 0.05 less than or slanted equals rho Superscript asterisk Baseline less than or slanted equals 5.5 0.05 ⩽ ρ ∗ ⩽ 5.5 $0.05\\leqslant \\rho ^\\ast \\leqslant 5.5$ ). This parameter span, which includes floating ( rho Superscript asterisk Baseline less than 1 ρ ∗ &lt; 1 $\\rho ^\\ast \\lt 1$ ), nearly neutrally buoyant ( rho Superscript asterisk Baseline almost equals 1 ρ ∗ ≈ 1 $\\rho ^\\ast \\approx 1$ ) and settling ( rho Superscript asterisk Baseline greater than 1 ρ ∗ &gt; 1 $\\rho ^\\ast \\gt 1$ ) regimes, enables a systematic assessment of deviations from kinetic theory for granular flows (KTGF). We show that the Richardson–Z…",
+    "authors": "Yuwen Cheng, Xiaolong Yin, Guodong Liu",
+    "published": "2026-10-09",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Adaptive observation weighting in TCKF1D-Var for  ground-based multi-sensor thermodynamic retrievals  prior to nocturnal heavy precipitation over China",
+    "doi": "10.5194/gmd-19-9555-2026",
+    "url": "https://doi.org/10.5194/gmd-19-9555-2026",
+    "abstract": "Ground-based microwave radiometers (GMWRs) and Mie–Raman lidars (MRLs) provide valuable thermodynamic observations for atmospheric profiling, but conventional variational retrieval frameworks typically rely on static observation weighting assumptions that may not adequately represent varying observation quality under precipitation conditions. To address this limitation, an adaptive observation weighting framework based on the Thermodynamic-Constrained Kalman Filter 1D-Var framework (TCKF1D-Var) is developed and evaluated using 107 nocturnal heavy-precipitation cases. The proposed method dynamically estimates the relative contribution of individual observations during the retrieval process and is applied to GMWR, MRL, and GMWR–MRL synergistic retrievals. Retrieval performance is assessed ag…",
+    "authors": "Qi Zhang, Tianmeng Chen, Jianping Guo, Bin Deng et al.",
+    "published": "2026-10-09",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "The −bold 5 divided by bold 3\n                    <mml:math xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:mnf=\"http://cambridge.org/core/manifest\" xmlns:cup=\"http://contentservices.cambridge.org\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:m=\"http://cambridge.org/core/metadata\" xmlns:core=\"http://cambridge.org/core\" xmlns:c=\"http://cambridge.org/core/content\">\n                      <mml:mn mathvariant=\"bold\">5</mml:mn>\n                      <mml:mrow>\n                        <mml:mo>/</mml:mo>\n                      </mml:mrow>\n                      <mml:mn mathvariant=\"bold\">3</mml:mn>\n                    </mml:math>\n                    $\\boldsymbol{5/3}$\n power law for energy spectra in the near and intermediate wake of a circular cylinder",
+    "doi": "10.1017/jfm.2026.12087",
+    "url": "https://doi.org/10.1017/jfm.2026.12087",
+    "abstract": "We investigate the occurrence and interpretation of an approximate negative 5 divided by 3 − 5 / 3 $-5/3$ power law in one-dimensional velocity spectra in the wake of a circular cylinder using three-component hot-wire measurements in the mean-shear plane at x divided by d equals 10 x / d = 10 $x/d=10$ , 20 and 40 over Reynolds number italic Re Subscript d Baseline equals 2500 Re d = 2500 $ \\textit{Re}_d=2500$ –15 000, based on the free-stream velocity upper U Subscript normal infinity U ∞ $U_\\infty$ and the cylinder diameter d d $d$ . At italic Re Subscript d Baseline equals 15 000 Re d = 15 000 $ \\textit{Re}_d=15\\,000$ and x divided by d equals 20 x / d = 20 $x/d=20$ , the spectra phi Subscript v ϕ v $\\phi _v$ and phi Subscript w ϕ w $\\phi _w$ , associated with the lateral and spanwise ve…",
+    "authors": "Chao Huang, Luminita Danaila, R.A. Antonia, Tongming Zhou et al.",
+    "published": "2026-10-08",
+    "keywords_matched": [
+      "wake"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Convection in a fluid layer driven by internal dielectric heating",
+    "doi": "10.1017/jfm.2026.12105",
+    "url": "https://doi.org/10.1017/jfm.2026.12105",
+    "abstract": "This study investigates the convective behaviour of two dielectric fluids with different Prandtl numbers under microgravity, each of which is confined between two parallel electrodes at a given temperature, and subjected to internal dielectric heating. Three-dimensional direct numerical simulations reveal a rich sequence of flow regimes as the electric Rayleigh–Roberts number increases: stable hexagonal patterns, mixed hexagonal-square structures, dominant rectangular convection and time-dependent convection. We derive scaling laws for key dimensionless quantities, including energy densities, convective Reynolds number and Nusselt number, with strong agreement across two magnitudes of the control parameter. Finally, we observe a shift in the onset of convection, with the critical electric …",
+    "authors": "Peter Sebastian Benedek Szabo, Kushal Nagaraj, Yousuf Ali Mohammed, Matthias Strangfeld et al.",
+    "published": "2026-10-08",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Association Between Rain Rates in Shallow Subtropical Marine Clouds and Marine Atmospheric Boundary Layer Circulations Observed by Synthetic Aperture Radar",
+    "doi": "10.1029/2026jd047206",
+    "url": "https://doi.org/10.1029/2026jd047206",
+    "abstract": "Abstract Extensive, coherent circulations in the marine atmospheric boundary layer (MABL) are detected and classified using an automated image processing routine applied to synthetic aperture radar (SAR) images from Sentinel‐1 over subtropical oceans at sunrise and sunset. Circulations are inferred from patterns of capillary waves detected by the SAR. Classifications include wind streaks (WS, the surface imprint of roll structures), microscale convective patches (MC), combined WS/MC, cold pools, and rain columns. Using 12‐hr Lagrangian trajectories, classified MABL states are linked to warm rain rates estimated from the Advanced Microwave Scanning Radiometer (AMSR/2) sensor and to cloud variables observed by the Moderate Resolution Imaging Spectroradiometer (MODIS) in NASA's A‐Train, to as…",
+    "authors": "Ryan Eastman, Justin E. Stopa, Ralph Foster, Doug Vandemark et al.",
+    "published": "2026-10-08",
+    "keywords_matched": [
+      "atmospheric boundary layer",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Pysammos 1.0.0: a discrete-to-continuum transformation Python tool to analyse the rheology of granular materials",
+    "doi": "10.5194/gmd-19-9519-2026",
+    "url": "https://doi.org/10.5194/gmd-19-9519-2026",
+    "abstract": "Granular flow processes involving different interstitial fluids and coupling regimes are widespread in both natural systems (e.g., landslides, rock avalanches, river sediment transport) and industrial applications (e.g., aggregates in concrete manufacturing, powder technology, animal feed). Despite this, the behaviour of complex granular flows is not fully understood. Modelling of granular media through software packages that couple the Discrete Element Method with Computational Fluid Dynamics (DEM-CFD) enables a comprehensive description of granular small-scale mechanics through simulations of particle-particle and particle-fluid interactions at high temporal and spatial resolution. These approaches are pivotal in the development of constitutive models that represent the bulk rheology of …",
+    "authors": "Claudia Elijas-Parra, Eric C. P. Breard, John P. Morrissey, P. J. Zrelak et al.",
+    "published": "2026-10-08",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "The one-Layer Antarctic model for Dynamical Downscaling of Ice–ocean Exchanges (LADDIE) version 2.0",
     "doi": "10.5194/gmd-19-9441-2026",
@@ -6104,82 +6177,6 @@
     "abstract": "Abstract. This article presents a comprehensive description of the 3.0.2 stable release of the Crocus snowpack model in the SURFEX modelling platform. It synthesizes and harmonizes a number of equations disseminated in various previous publications, introduces a number of unpublished parameterizations and includes new developments implemented since 2012. Among the novelties, an explicit representation of the evolution of impurity mass in snow (e.g. black carbon, mineral dust) allows representing their impact on solar radiation absorption in the snowpack at different wavelengths and their feedback on all snowpack properties. The model also allows the formation of surface ice layers due to freezing rain. In addition, Crocus is coupled to the MEB “big-leaf” vegetation scheme and can therefore…",
     "authors": "Matthieu Lafaysse, Marie Dumont, Basile De Fleurian, Mathieu Fructus et al.",
     "published": "2026-07-14",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "A radiation two-phase flow model for simulating plasma–liquid interactions",
-    "doi": "10.1017/jfm.2026.11808",
-    "url": "https://doi.org/10.1017/jfm.2026.11808",
-    "abstract": "In laser-produced plasma (LPP) extreme ultraviolet (EUV) sources, deformation of a tin droplet into an optimal target shape is determined by its interaction with a pre-pulse laser-generated plasma. This interaction is mediated by a transient ablation pressure, whose complex spatio-temporal evolution remains experimentally inaccessible. Existing modelling approaches are limited: empirical pressure–impulse models neglect dynamic plasma feedback, while advanced radiation hydrodynamics codes often fail to resolve late-time droplet hydrodynamics. To bridge this gap, we propose a radiation two-phase flow model based on a diffuse interface approach. The model integrates radiation hydrodynamics for the plasma with the Euler equations for a weakly compressible liquid, extending a five-equation diff…",
-    "authors": "Ke-Jian Qian, Zhu-Jun Li, Tao Tao, De-Hua Zhang et al.",
-    "published": "2026-07-14",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "A variational formulation of the anisotropic Darcy–Brinkman–Forchheimer model: theory and neural computation",
-    "doi": "10.1017/jfm.2026.11824",
-    "url": "https://doi.org/10.1017/jfm.2026.11824",
-    "abstract": "Building upon the theoretical investigation of fully developed porous-channel flow by Nield et al. ( J. Fluid Mech. vol. 322, 1996, 201–214), the present study examines hydrodynamically developing flow in anisotropic porous channels to better characterise realistic transport behaviour. A variational formulation for the steady incompressible Darcy–Brinkman–Forchheimer (DBF) equations is derived, where the Darcy, Brinkman and Forchheimer terms represent porous drag, viscous shear effects and nonlinear inertial resistance, respectively. The existence and uniqueness of solution are established using the Browder–Minty theorem together with the inf-sup condition to ensure the uniqueness of the pressure field. The porous medium is represented through a spatially varying anisotropic permeability t…",
-    "authors": "Rishav Aich, Kuppalapalle Vajravelu, D. Bhargavi",
-    "published": "2026-07-14",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Aeroacoustics of a forward-flight propeller ingesting small- and large-scale turbulent wakes",
-    "doi": "10.1017/jfm.2026.11801",
-    "url": "https://doi.org/10.1017/jfm.2026.11801",
-    "abstract": "This work presents high-fidelity simulations of the aerodynamic noise characteristics of a forward-flight propeller ingesting turbulent wakes of cylinders. Two cylinders with different diameters are employed to generate turbulent wakes with distinct turbulence intensity and length scales, namely small-scale turbulence (SST) and large-scale turbulence (LST). The lattice Boltzmann–very large-eddy simulation solver, PowerFLOW, coupled to an impermeable surface Ffowcs Williams–Hawkings formulation, is used for the forward-flight propeller configuration, matching that of an earlier experimental study. The aerodynamic results show that SST ingestion preserves a coherent tip–vortex path and confines elevated fluctuations to a limited portion of the blades. In contrast, LST ingestion disrupts the …",
-    "authors": "Leone Trascinelli, Gianluca Romani, Damiano Casalino, B. Zang et al.",
-    "published": "2026-07-13",
-    "keywords_matched": [
-      "lattice boltzmann",
-      "wake",
-      "turbulence",
-      "ABL",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Beyond the One Way Cascade: A Hidden Energy Pathway From Kelvin–Helmholtz Instability Radiated Gravity Waves in the Middle Atmosphere",
-    "doi": "10.1029/2026jd046416",
-    "url": "https://doi.org/10.1029/2026jd046416",
-    "abstract": "Abstract Energy and momentum exchange among tides, gravity waves (GWs), and turbulence shapes the mesosphere and lower thermosphere, yet it is commonly treated as a one‐way cascade from large‐scale waves to small‐scale dissipation. Using coordinated sodium resonance and Rayleigh LiDARs at Poker Flat Research Range, Chatanika, Alaska, on 12 April 2022, we resolve three Kelvin–Helmholtz billow events near 87–90 km and simultaneously detect short‐period gravity‐wave packets (10–30 min; vertical wavelengths 10–20 km) propagating away from these instabilities. Wavelet analyses show that wave power increases following the peak of the instability, consistent with GWs radiated during billow breakdown. To test causality and quantify the coupling, we perform high‐resolution three‐dimensional compres…",
-    "authors": "Wenjun Dong, Jintai Li, Thomas S. Lund, Richard L. Collins et al.",
-    "published": "2026-07-13",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Influence of Model Resolution on Simulated Extreme Wildfire Plume Heights During the 2019/2020 Australian New Year Event",
-    "doi": "10.1029/2025jd046190",
-    "url": "https://doi.org/10.1029/2025jd046190",
-    "abstract": "Abstract Pyrocumulonimbus (pyroCb) events, smoke‐infused thunderstorm clouds triggered by intense wildfires under suitable meteorological conditions, are an efficient pathway for transporting smoke to elevated altitudes. In some cases, smoke reaches the upper troposphere and lower stratosphere region, where it can persist for extended time periods and influences climate, air quality, and atmospheric composition. The initial injection height of a wildfire plume is a key parameter in wildfire modeling. Plume‐rise models are commonly employed to determine injection heights, yet they often underestimate the heights reached during extreme events. This bias is amplified in global simulations with relatively coarse spatial resolution, where key dynamical processes cannot be adequately resolved. T…",
-    "authors": "Tabea Unser, Lisa Janina Muth, Corinna Hoose, Gholam Ali Hoshyaripour",
-    "published": "2026-07-13",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Development of the TCWA2 bulk cloud microphysics scheme and its integration with a dual-polarization radar operator for forecasting applications",
-    "doi": "10.5194/gmd-19-6231-2026",
-    "url": "https://doi.org/10.5194/gmd-19-6231-2026",
-    "abstract": "Abstract. This study presents the development and evaluation of TCWA2, a double-moment bulk cloud microphysics scheme designed for weather forecasting that incorporates radar observations at the Taiwan Central Weather Administration. By simplifying the triple-moment NTU microphysics scheme, TCWA2 retains a gamma-type particle size distribution with variable spectral parameters, diagnoses hydrometeor-associated physical properties, revises number sinks due to evaporation loss, and implements theoretically based fall-speed formulations that account for particle density and aspect ratio. To connect bulk microphysics parameterizations with radar-based diagnostics, TCWA2 is coupled with a customized bulk dual-polarization radar operator derived from offline bin-based scattering calculations und…",
-    "authors": "Tzu-Chin Tsai, Jen-Ping Chen, Zhiquan Liu, Siou-Ying Jiang et al.",
-    "published": "2026-07-13",
     "keywords_matched": [
       "ABL"
     ]
