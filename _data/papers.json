@@ -1,6 +1,18 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Standing-wave wall forcing modulates boundary-layer transition",
+    "doi": "10.1017/jfm.2026.12137",
+    "url": "https://doi.org/10.1017/jfm.2026.12137",
+    "abstract": "Laboratory experiments and direct numerical simulations (DNSs) were conducted to examine boundary-layer transition over a standing-wave wall composed of eight sinusoidal waves of wavelength lamda equals 100 λ = 100 $\\lambda =100$ mm and amplitude a equals 5 a = 5 $a=5$ mm, placed downstream of a short flat-plate leading edge in a low-turbulence free stream. The DNSs reproduced two lower-frequency experimental cases for validation and extended the investigation to higher frequencies at an amplitude-based Reynolds number italic Re Subscript a Baseline equals 388 Re a = 388 $\\textit{Re}_a=388$ , showing strong agreement in overlapping cases. The forcing is characterised by the reduced frequency italic St equals f Subscript w Baseline lamda divided by upper U Subscript c italic comma m Baselin…",
+    "authors": "Viral Sudip Shah, Shyuan Cheng, Heesung Jung, Paul F. Fischer et al.",
+    "published": "2026-10-10",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Particle-resolved direct numerical simulations on particle–fluid density ratio effects in liquid–solid suspensions",
     "doi": "10.1017/jfm.2026.12079",
     "url": "https://doi.org/10.1017/jfm.2026.12079",
@@ -6167,18 +6179,6 @@
     "published": "2026-07-14",
     "keywords_matched": [
       "wake"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Version 3.0.2 of the Crocus snowpack model",
-    "doi": "10.5194/gmd-19-6273-2026",
-    "url": "https://doi.org/10.5194/gmd-19-6273-2026",
-    "abstract": "Abstract. This article presents a comprehensive description of the 3.0.2 stable release of the Crocus snowpack model in the SURFEX modelling platform. It synthesizes and harmonizes a number of equations disseminated in various previous publications, introduces a number of unpublished parameterizations and includes new developments implemented since 2012. Among the novelties, an explicit representation of the evolution of impurity mass in snow (e.g. black carbon, mineral dust) allows representing their impact on solar radiation absorption in the snowpack at different wavelengths and their feedback on all snowpack properties. The model also allows the formation of surface ice layers due to freezing rain. In addition, Crocus is coupled to the MEB “big-leaf” vegetation scheme and can therefore…",
-    "authors": "Matthieu Lafaysse, Marie Dumont, Basile De Fleurian, Mathieu Fructus et al.",
-    "published": "2026-07-14",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
