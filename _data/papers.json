@@ -1,5 +1,17 @@
 [
   {
+    "journal": "Geoscientific Model Development",
+    "title": "Towards high-fidelity simulations of coastal submesoscale  baroclinic instabilities with MPAS–O (vE3SM3.0.0)  – Part 2: Realistic experiments",
+    "doi": "10.5194/gmd-19-9627-2026",
+    "url": "https://doi.org/10.5194/gmd-19-9627-2026",
+    "abstract": "River plumes can strongly influence coastal dynamics but are poorly represented in global ocean models due to stringent resolution requirements. Following the idealized simulations presented in a companion paper (Hinson et al., 2026), this study presents submesoscale-permitting realistic simulations using unprecedented regional refinement with MPAS–O. We assess MPAS–O's ability to represent river plume dynamics by comparing with a validated ROMS configuration focused on the Mississippi–Atchafalaya (M–A) plume in the northern Gulf of Mexico (GoM). The variable-resolution mesh spans 1.4 km in the GoM to 100 km in the Pacific and Indian Oceans. We incorporate several improvements to the representation of river forcing in MPAS–O: the pseudo point source treatment of runoff, river temperature p…",
+    "authors": "Dylan R. Schlichting, Katherine M. Smith, Mark R. Petersen, Robert D. Hetland et al.",
+    "published": "2026-10-12",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Standing-wave wall forcing modulates boundary-layer transition",
     "doi": "10.1017/jfm.2026.12137",
@@ -6164,18 +6176,6 @@
     "url": "https://doi.org/10.1017/jfm.2026.11768",
     "abstract": "We report experimental results on the low-frequency dynamics in the wake of a stationary sphere and the corresponding bifurcation. This low frequency is the second frequency appearing past a sphere when the Reynolds number is increased. We measure the velocity field using particle image velocimetry in transverse planes past a sphere placed in a water channel, and obtain the streamwise vorticity. We compute the position of the barycentre of the absolute value of the vorticity and projected the vorticity on azimuthal mode 1. We deduce from periodograms of these signals the Strouhal numbers upper S t Subscript 1 S t 1 $\\mathit{St}_1$ and italic St Subscript 2 St 2 ${{\\textit{St}}_2}$ associated with the first ( f 1 f 1 $f_1$ ) and second ( f 2 f 2 $f_2$ ) frequencies. The frequency ratio f 2 …",
     "authors": "Guy-Jean Michon, Jose Eduardo Wesfreid, Benoit Semin",
-    "published": "2026-07-14",
-    "keywords_matched": [
-      "wake"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "On the Tropical Nature of an Intense Mediterranean Cyclone in the Ocean‐Atmosphere System",
-    "doi": "10.1029/2025jd046105",
-    "url": "https://doi.org/10.1029/2025jd046105",
-    "abstract": "Abstract The Mediterranean basin hosts a large number of cyclones every year. Among them, some rare cases named medicanes present similarities with tropical cyclones but their dynamical characteristics are debated. The ocean‐atmosphere dynamics of Medicane Ianos (2020) are studied here through km‐scale fully coupled ocean‐wave‐atmosphere simulations. These allow investigating the tropical nature of Ianos in terms of both atmospheric circulation and thermal structure, and of oceanic cold wake response which feedbacks negatively onto the cyclone's intensity. Simulations match in situ and remotely sensed observations in the ocean and atmosphere well. Three life cycle phases can be distinguished with a central phase during which the cyclone is compact and axisymmetric. Orographic acceleration …",
-    "authors": "Sophia E. Brumer, Florian Pantillon, Joris Pianezze, Yann Le Péru‐Morvan et al.",
     "published": "2026-07-14",
     "keywords_matched": [
       "wake"
