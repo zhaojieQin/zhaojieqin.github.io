@@ -12,6 +12,68 @@
     ]
   },
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Climatology of Atmospheric Boundary Layer Height Over Nearshore and Open Ocean Regions of the Western North Pacific",
+    "doi": "10.1029/2026jd048288",
+    "url": "https://doi.org/10.1029/2026jd048288",
+    "abstract": "Abstract Atmospheric boundary layer height (ABLH) plays an important role in air–sea interactions and regional climate over the western North Pacific (WNP). Using ERA5 reanalysis data from 1979 to 2025, this paper investigates the interannual variability, monthly variations, and seasonal spatial patterns of ABLH. To explore potential drivers of ABLH variability, correlation analyses are conducted between ABLH and three key predictors: wind shear, surface sensible heat flux (HFX) and Brunt–Väisälä frequency ( N 2 ). In addition, records from nearshore (NS) and open ocean (OS) stations are analyzed to examine spatial differences in ABLH behavior. The results reveal clear regional differences. Open ocean ABLH increases consistently during both daytime and nighttime, with mean changes of 17.07…",
+    "authors": "Yucheng Xue, Qiusheng Li",
+    "published": "2026-10-13",
+    "keywords_matched": [
+      "atmospheric boundary layer",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Evaluating Statistical Downscaling Techniques for Regional Hydroclimatic Change Projections Over CONUS",
+    "doi": "10.1029/2026jd046624",
+    "url": "https://doi.org/10.1029/2026jd046624",
+    "abstract": "Abstract Projecting the impacts of future climate change is critical for water managers planning infrastructure resilience strategies. Global earth system model output is generally too coarse to provide the detailed, localized information needed for impact assessment, and the computational cost of running higher‐resolution global simulations over sufficiently long periods is prohibitive. Downscaling methods span a wide range of computational cost, and statistical approaches in particular offer a relatively inexpensive way to refine climate model output into a more actionable form. Here, we assess a broad suite of statistical and simplified dynamic downscaling approaches for nine regions across the coterminous United States (CONUS). We develop a suite of metrics to evaluate these methods, i…",
+    "authors": "Nicholas D. Lybarger, Ethan D. Gutmann, Andrew J. Newman, Chanel Mueller et al.",
+    "published": "2026-10-13",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Aerosol Retrieval Over Ocean From DPC‐2/GF‐5(02): Using RemoTAP Extended With a 3‐Parameter Ocean Bio‐Optical Model and Comparisons With a 1‐Parameter Model",
+    "doi": "10.1029/2026jd047081",
+    "url": "https://doi.org/10.1029/2026jd047081",
+    "abstract": "Abstract Multi‐angle polarimetric instruments (MAPs) enable the retrieval of essential aerosol properties over oceanic regions. MAPs retrieval algorithms commonly use a 1‐parameter ocean bio‐optical model (OBM), based on chlorophyll‐a concentration only to represent optical properties over open waters (case‐1), whereas the coastal water (mixture of case‐1 and case‐2 waters) representation generally requires multi‐parameter models as demonstrated for sophisticated sensors such as SPEXone. In this study, we investigated whether meaningful improvements in aerosol retrieval over coastal waters can be achieved using data from the Directional Polarization Camera DPC‐2, with a relatively limited spectral configuration, by the addition of bio‐optical degrees of freedom. To this end, the Remote Sen…",
+    "authors": "Cheng Fan, Jeon‐Teo Dong, Guangliang Fu, Sha Lu et al.",
+    "published": "2026-10-13",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Physics vs. AI in weather prediction: evaluating GraphCast, AIFS, and FuXi against an observation-corrected WRF model for flash floods",
+    "doi": "10.5194/gmd-19-9831-2026",
+    "url": "https://doi.org/10.5194/gmd-19-9831-2026",
+    "abstract": "Data-driven artificial intelligence (AI) weather models are increasingly positioned as alternatives or complements to physics-based numerical weather prediction (NWP) systems, yet systematic model evaluation studies that compare both paradigms under controlled experimental conditions remain limited. Here we present a structured model evaluation framework applying standardised verification metrics to assess a regional WRF configuration against three publicly available AI models – GraphCast, AIFS Single 1.0, and FuXi – over three high-impact flood events in Luxembourg and the Greater Region (2016, 2018, and 2021), comprising around 90 simulated days per configuration and 92 119 matched forecast–observation pairs at a four-country network of 259 to 280 stations per event, each screened to be …",
+    "authors": "Haseeb ur Rehman, Félicia Norma Rebecca Teferle",
+    "published": "2026-10-13",
+    "keywords_matched": [
+      "WRF",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Enhancing the advection module performance in the EPICC-Model V1.6.0 via GPU-HADVPPM4HIP V1.0 coupling and GPU-optimized strategies",
+    "doi": "10.5194/gmd-19-9807-2026",
+    "url": "https://doi.org/10.5194/gmd-19-9807-2026",
+    "abstract": "The rapid development of Graphics Processing Units (GPUs) has established new computational paradigms for enhancing air quality modeling efficiency. In this study, the heterogeneous-compute interface for portability (HIP) was implemented to parallel computing of the piecewise parabolic method (PPM) advection solver (HADVPPM) on China's domestic GPU-like accelerators (GPU-like), resulting in a GPU-accelerated version denoted as GPU-HADVPPM4HIP V1.0. Computational performance was enhanced through three strategic optimizations: reducing the central processing unit (CPU) and GPU (CPU-GPU) data transfer frequency, thread-block coordinated indexing, and the Message Passing Interface (MPI) and HIP (“MPI+HIP”) hybrid parallelization across heterogeneous computing clusters. Following validation of …",
+    "authors": "Kai Cao, Qizhong Wu, Xiao Tang, Jinxi Li et al.",
+    "published": "2026-10-13",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "Towards high-fidelity simulations of coastal submesoscale  baroclinic instabilities with MPAS–O (vE3SM3.0.0)  – Part 2: Realistic experiments",
     "doi": "10.5194/gmd-19-9627-2026",
@@ -6117,66 +6179,6 @@
     "abstract": "This study investigates a novel class of flexible plate metamaterials (FPMMs), consisting of a periodic array of bottom-mounted flexible structures, designed for the sub-wavelength manipulation of surface gravity waves. A theoretical framework is developed by coupling the matched eigenfunction expansion method with a modal expansion technique, incorporating Bloch’s theorem to characterise the band structures and complex dispersion relations. Numerical analysis reveals that the structural flexibility facilitates the formation of low-frequency, broadband bandgaps, primarily driven by a local resonance (LR) mechanism. It is shown that wave propagation can be effectively suppressed within these bandgap regimes through the synergistic interaction between the incident wave field and the structur…",
     "authors": "Huaqing Jin, Haicheng Zhang, Siming Zheng, Xiaofan Li et al.",
     "published": "2026-07-20",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "On particle dynamics in steady axial rotor flows",
-    "doi": "10.1017/jfm.2026.11767",
-    "url": "https://doi.org/10.1017/jfm.2026.11767",
-    "abstract": "We investigate the effect of rotor velocity induction on the distribution of particles impinging on rotor blades and model the delayed response of a particle to the rotor-induced velocity field. We consider as reference a wind turbine rotor and a small-scale propeller in axial flow conditions. We first show that the classical two-dimensional (2-D) modelling of the multiphase flow can generate a systematic error with respect to the three-dimensional (3-D) solution. We consider two limiting cases: particles in equilibrium with the rotor-induced velocity field, where the carrier phase is computed using the section’s aerodynamic velocity vector, and induction-independent particles, where the geometric velocity vector is used. The 3-D solution differs from the two limiting cases when particles …",
-    "authors": "Francesco Caccia, Alberto Guardone",
-    "published": "2026-07-20",
-    "keywords_matched": [
-      "wind turbine"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Tangential and radial mean momentum and stress analysis of rotating disk turbulent boundary layers",
-    "doi": "10.1017/jfm.2026.11841",
-    "url": "https://doi.org/10.1017/jfm.2026.11841",
-    "abstract": "Turbulence statistics of a three-dimensional boundary layer over a rotating disk are measured using molecular tagging velocimetry and laser Doppler velocimetry up to a friction Reynolds number of asymptotically equals ≃ $\\simeq$ 3000. The present new water-based facility results in the achievement of relatively high Reynolds numbers, and we overcome the challenges associated with mimicking an infinite disk scenario using a finite tank. For the first time, the mean momentum balance and mean stress budget of this flow are investigated in the tangential/streamwise direction and are contrasted with those in a zero-pressure-gradient turbulent boundary layer over a flat plate. Furthermore, the mean momentum and stress balance in the radial direction are examined to better understand the cross-fl…",
-    "authors": "Mohammadreza Mollaei, Jimmy Philip, Joseph Klewicki",
-    "published": "2026-07-20",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Precipitation Reconstruction in the Asian Monsoon Region During the 4.2 ka Event With Paleoclimate Data Assimilation",
-    "doi": "10.1029/2025jd045745",
-    "url": "https://doi.org/10.1029/2025jd045745",
-    "abstract": "Abstract For a long time, the 4.2 ka event was considered sufficiently significant to mark the onset of the Meghalayan Age, the latest stage of the Holocene. However, the spatial distribution and temporal evolutions of precipitation changes remain controversial in many regions, especially in monsoon Asia. In this study, combining the high‐resolution speleothem calcite oxygen isotope ratio value (δ 18 O c ) records and the transient simulation of an isotope enabled earth system model, we reconstruct the spatiotemporal evolution of δ 18 O c and precipitation in the Asian monsoon region during the 4.2 ka event (4.3–3.9 ka BP) with 10‐year temporal resolution and 2.5° × 1.9° spatial resolution, using an offline ensemble Kalman filter. Based on these reconstructed results, we analyze the charac…",
-    "authors": "Fangmiao Xing, Liang Ning, Zhengyu Liu, Jian Liu et al.",
-    "published": "2026-07-20",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Interpretation and representation in geomodels: the POKIMON  ontology for formalizing geomodelling knowledge",
-    "doi": "10.5194/gmd-19-6517-2026",
-    "url": "https://doi.org/10.5194/gmd-19-6517-2026",
-    "abstract": "Abstract. With the rapid growth of the development and use of three-dimensional (3D) geological models, understanding their interpretative and representational aspects has become increasingly important. Such understanding will not only clarify key premises, inferences, and conclusions, but also enable more informed applications. Yet the epistemic foundations are often opaque. Critical information about assumptions, conceptual structures, reasoning steps, and uncertainties often remains tacit in the mind of the geomodeller, and this lack of transparency hampers explainability, reproducibility, and broader utility. Current practices therefore limit trust, knowledge transfer, and automation in geomodelling workflows. To address these limitations, we develop the POKIMON ontology, designed to m…",
-    "authors": "Imadeddine Laouici, Boyan Brodaric, Christelle Loiselet, Gautier Laurent",
-    "published": "2026-07-20",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Linking Interregional NASA Airborne Observations of Near‐Storm Environments to Tropical Oceanic Convective Structure",
-    "doi": "10.1029/2025jd046153",
-    "url": "https://doi.org/10.1029/2025jd046153",
-    "abstract": "Abstract Deep tropical oceanic convection is a key component of the tropical atmosphere, with environmental moisture and vertical wind shear influencing its structure and intensity. However, attempts to generalize convection‐environment relationships across the broad‐scale tropics have produced inconsistent results, partly owing to limits of reanalysis, modeling, and satellite remote sensing, along with suggested regional variability that altogether behoove regionally targeted field campaigns. The NASA 2022 Convective Processes Experiment—Cabo Verde (CPEX‐CV) airborne field campaign collected rare, coincident, high‐resolution convective structure and near‐storm environmental measurements suitable to investigate convection‐environment relationships in the tropical East Atlantic. Analysis of…",
-    "authors": "Benjamin D. Rodenkirch, Angela K. Rowe",
-    "published": "2026-07-18",
     "keywords_matched": [
       "ABL"
     ]
