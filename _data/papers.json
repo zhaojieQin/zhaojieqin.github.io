@@ -1,6 +1,93 @@
 [
   {
     "journal": "Geoscientific Model Development",
+    "title": "A performance-based multivariable weighting framework  for WRF parameterization-scheme selection",
+    "doi": "10.5194/gmd-19-9879-2026",
+    "url": "https://doi.org/10.5194/gmd-19-9879-2026",
+    "abstract": "The selection of physical parameterization schemes is a major source of uncertainty in WRF simulations. A comprehensive evaluation of model performance requires the simultaneous consideration of multiple output variables, but simple multivariable averaging can dilute the influence of variables that are difficult to simulate or that respond strongly to alternative physical-process options. To address this issue, this study proposes a performance-based multivariable weighting framework for WRF parameterization-scheme evaluation. The framework combines two components: mean relative error, which represents variable-level simulation difficulty quantified by relative simulation error, and the coefficient of variation of absolute errors, which represents the scheme-dependent response of each vari…",
+    "authors": "Tianyu Gou, Yaoyang Deng, Jun Niu, Shaozhong Kang",
+    "published": "2026-10-15",
+    "keywords_matched": [
+      "WRF",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Advances in Atmospheric Sciences",
+    "title": "CAS FGOALS-f3-L Model Datasets for the Global Emissions Scenario Simulation of the 2°C-Target Aligned with China’s Net-Zero Pathway",
+    "doi": "10.1007/s00376-026-5790-5",
+    "url": "https://doi.org/10.1007/s00376-026-5790-5",
+    "abstract": "Abstract Achieving net-zero emissions is critical for the 2°C-target set forth by the Paris Agreement. This paper presents a dataset under a sector-specific combined scenario (SSP2-com), which integrates recent national climate commitments, including China’s carbon neutrality pledge. The simulation, performed with the Chinese Academy of Sciences Flexible Global Ocean–Atmosphere–Land System Model, finite-volume version 3 (CAS-FGOALS-f3-L) model, covers 2015–2100 and provides 52 variables at monthly, daily, and sub-daily resolutions, all interpolated onto a 1° × 1° grid. A preliminary analysis shows that under the SSP2-com scenario, global mean surface air temperature is projected to peak around midcentury, stabilizing at 2.02°C above pre-industrial levels by the end of this century, a 0.81°…",
+    "authors": "Bin Tang, Bian He, Qing Bao, Yongqiang Yu et al.",
+    "published": "2026-10-15",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Controlling turbulent wall flows via composite active excitations",
+    "doi": "10.1017/jfm.2026.12120",
+    "url": "https://doi.org/10.1017/jfm.2026.12120",
+    "abstract": "A sustained drag reduction rate upper R greater than 28 percent sign R &gt; 28 % $R\\gt 28\\,\\%$ (with net power saving greater than 26 percent sign &gt; 26 % $\\gt 26\\,\\%$ ) is obtained for turbulent channels at a series of Reynolds numbers (i.e. italic Re Subscript tau Baseline equals 180 Re τ = 180 $\\textit{Re}_\\tau =180$ , 395 395 $395$ , 550 550 $550$ ) via a composite drag control (CDC). This strategy combines opposition control (OC) and large-scale spanwise opposed wall-jet forcing (SOJF), enabling superior suppression of drag-producing near-wall turbulent structures. Parameter searching over 114 simulations is conducted here, and the maximum drag reduction obtained from CDC is much higher than that produced by either SOJF (e.g. 14 % at italic Re Subscript tau Baseline equals 550 Re τ …",
+    "authors": "Yong Ji, Peng-Yu Duan, Jie Yao, Philipp Schlatter et al.",
+    "published": "2026-10-14",
+    "keywords_matched": [
+      "ABL",
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Control of axial dispersion in polymeric flows: Magnetic effect versus electro-osmotic effect",
+    "doi": "10.1017/jfm.2026.12134",
+    "url": "https://doi.org/10.1017/jfm.2026.12134",
+    "abstract": "Since Taylor’s seminal work on the dispersion of soluble matter, the modelling and control of solute dispersion have received considerable attention. This study investigates the solute dispersion in polymer solutions driven by unsteady magnetohydrodynamic (MHD)-oscillatory electro-osmotic flow within a microtube, aiming to reveal the transport mechanisms in complex rheological media through microscale flow. Firstly, based on the Debye–Hückel approximation, analytical solutions for the electric potential and velocity distributions of mixed MHD-electrohydrodynamic flows are rigorously derived. Subsequently, using Sankarasubramanian &amp; Gill’s generalised dispersion model (1970 Proc. R. Soc. Lond. A , vol. 316, pp. 341–350), mathematical models are developed to systematically investigate th…",
+    "authors": "Xiaoping Wang, Mengqi Zhang, Haitao Qi",
+    "published": "2026-10-14",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Shoaling of internal solitary waves over linear slopes with variable topography",
+    "doi": "10.1017/jfm.2026.12129",
+    "url": "https://doi.org/10.1017/jfm.2026.12129",
+    "abstract": "This study investigates the influence of variable topography on the kinematics of internal solitary wave shoaling across various breaking regimes under the unifying condition of a slope-intersecting pycnocline. It is demonstrated that bottom corrugations can significantly modify the dynamics: in plunging, collapsing and fission cases, variable topography alters wave shape and induces Kelvin–Helmholtz billows within the pycnocline; in surging scenarios, it impedes upslope propagation and generates a reflected mode-2 wave offshore. Despite these pronounced mechanical effects during the breaking phase, analysis of density and enstrophy fields via a user-defined scatter plot method suggests that potential post-wave mixing distributions remain largely unaffected by changes in the topography par…",
+    "authors": "Magda Carr, Samuel Hartharn-Evans, Jack Smith, Marek Stastna",
+    "published": "2026-10-14",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Stratospheric Aerosol From Above: Laser‐Ablation Mass Spectrometer Samples Polar Vortex Air for the First Time",
+    "doi": "10.1029/2025jd045615",
+    "url": "https://doi.org/10.1029/2025jd045615",
+    "abstract": "Abstract The JGR paper by Lawler et al. (2025, https://doi.org/10.1029/2025jd043530 ) marks a significant and historic first, the PALMS single‐particle chemical analysis sampling deep stratospheric Arctic vortex air for the first time. The analysis finds ∼90% of sulfate aerosol particles in the deepest stratosphere air (100–130 ppb N 2 O) are meteoric‐sulfuric particles, their composition spectra having metal cation peaks strongly indicative of meteoric origin (see Figure 2 of Lawler et al., 2025, https://doi.org/10.1029/2025jd043530 ). Within this commentary article we note how the research aligns with findings from recent European high‐altitude aircraft field campaigns, measuring higher abundance refractory aerosol in similar deep Arctic vortex air (Curtius et al., 2005, https://doi.org/…",
+    "authors": "G. W. Mann, R. Weigel, C. G. Bardeen, L. R. Marshall et al.",
+    "published": "2026-10-14",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Inter‐Comparison of Snow Depth Over Antarctic Sea Ice From Ocean Reanalyzes and Observations",
+    "doi": "10.1029/2026jd046705",
+    "url": "https://doi.org/10.1029/2026jd046705",
+    "abstract": "Abstract Snow depth on Antarctic sea ice is a critical climate variable affecting energy and mass balance, yet its observation and modeling remain challenging. We present a systematic intercomparison of snow depth from six ocean reanalysis products, two satellite retrievals, and ship‐based and airborne observational constraints. Results indicate that reanalysis and satellite products show consistent large‐scale climatological snow depth patterns, with the highest depths in the Weddell Sea. However, substantial differences remain in magnitude, seasonal phasing, spatial variability, and trends. The multi‐model mean agrees with satellite‐derived products in some integrated metrics, but tends to smooth regional features and may reflect compensation among reanalysis members. The sensitivity of …",
+    "authors": "Haofei Wang, Yafei Nie, Bin Cheng, Petteri Uotila et al.",
+    "published": "2026-10-14",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
     "title": "High-performance geodynamics on GPUs using  the PETSc CUDA backend (GAUZZ v1.0.0)",
     "doi": "10.5194/gmd-19-9781-2026",
     "url": "https://doi.org/10.5194/gmd-19-9781-2026",
@@ -288,6 +375,31 @@
     "url": "https://doi.org/10.1017/jfm.2026.12103",
     "abstract": "Aircraft icing poses a critical threat to aviation safety in cold climates, with the dynamic glaze ice accretion process governed by the transient behaviour of wind-driven runback water film and rivulet (WDRWF/R) flows on wing surfaces. Despite its significance, accurately modelling this complex multiphase flow phenomenon remains a fundamental challenge for conventional numerical and theoretical approaches. This study introduces a physics-guided Fourier neural operator (PGFNO) that achieves unprecedented accuracy in predicting the spatiotemporal evolution of WDRWF/R flows relevant to aircraft icing. To establish a high-fidelity training dataset, we conducted an extensive experimental campaign utilising a novel digital image projection (DIP) technique, which enables temporally and spatially…",
     "authors": "Jincheng Wang, Charlelie Laurent, Suhas S. Jain, Hui Hu",
+    "published": "2026-10-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Extensional kinematics governs turbulent bubble breakup",
+    "doi": "10.1017/jfm.2026.12126",
+    "url": "https://doi.org/10.1017/jfm.2026.12126",
+    "abstract": "Bubble breakup in turbulence is driven by velocity increments acting on the bubble interface. Traditionally, these instantaneous increments are replaced by the inertial-range second-order moment scaling, but whether this averaged description captures the kinematics leading to breakup remains unclear. Here, we experimentally investigate how bubble deformation preceding breakup relates to carrier-phase statistics. The experiments are conducted in nearly homogeneous isotropic turbulence with italic Re Subscript lamda Baseline equals 635 Re λ = 635 $\\textit{Re}_\\lambda =635$ . Five high-speed cameras are used to reconstruct both the three-dimensional bubble topology and the trajectories of flow tracers in the carrier phase. A two-point description of bubble deformation is used to enable a dire…",
+    "authors": "Leonel Beckedorff, Alfredo Soldati",
+    "published": "2026-10-10",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Flow mode transition and heat transport in confined liquid-metal convection",
+    "doi": "10.1017/jfm.2026.12102",
+    "url": "https://doi.org/10.1017/jfm.2026.12102",
+    "abstract": "We present a comprehensive experimental investigation on flow mode transition and heat transport in confined liquid metal convection at a Prandtl number of italic probability equals 0.029 Pr = 0.029 $ \\textit{Pr} = 0.029$ , using cylindrical convection cells with aspect ratios upper Gamma equals 1 Γ = 1 $\\varGamma = 1$ , 1 divided by 2 1 / 2 $1/2$ and 1 divided by 3 1 / 3 $1/3$ . Whenever comparable data are available, the present low- italic probability Pr $ \\textit{Pr}$ results are compared with previous measurements in moderate- italic probability Pr $ \\textit{Pr}$ water convection (Xi &amp; Xia, Phys. Fluids vol. 20, 2008, p. 055104; Weiss &amp; Ahlers, J. Fluid Mech. vol. 676, 2011, pp. 5–40). It is found that the single-roll mode (SRM) dominates in the upper Gamma equals 1 Γ = 1 $\\va…",
+    "authors": "Lei Ren, Yi-Chao Xie",
     "published": "2026-10-10",
     "keywords_matched": [
       "ABL"
@@ -6066,120 +6178,6 @@
       "wind turbines",
       "wake",
       "atmospheric boundary layer",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Computational library for the nutrient-unicellular-multicellular plankton modeling framework v. 1.0",
-    "doi": "10.5194/gmd-19-6627-2026",
-    "url": "https://doi.org/10.5194/gmd-19-6627-2026",
-    "abstract": "Abstract. The nutrient-unicellular-multicellular (NUM) model is a trait-based model of unicellular and multicellular plankton that uses body size as the main structuring variable for community composition. The central feature is that body size is used for structuring predator-prey interactions and to scale parameters. For unicellular plankton, trophic strategies across the full range from osmotrophy, phototrophy, phagotrophy, and mixotrophy are an emergent outcome of the model. Another distinguishing feature is that the multicellular component, represented by copepods, includes ontogeny, which is crucial in shaping population dynamics. In addition, the framework encompasses a nutrient pool consisting of nitrogen, silica and dissolved organic carbon (DOC) which interacts dynamically with th…",
-    "authors": "Amalia Papapostolou, Anton V. Almgren, Trine F. Hansen, Athanasios Kandylas et al.",
-    "published": "2026-07-22",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Wake instability past a sphere settling in a strongly stratified fluid",
-    "doi": "10.1017/jfm.2026.11816",
-    "url": "https://doi.org/10.1017/jfm.2026.11816",
-    "abstract": "The wake of a body moving across the isopycnals of a strongly stratified fluid is characterised by the presence of an intense jet which, under certain circumstances, may become unstable. To get insight into the phenomenology of this instability and the underlying mechanisms, we conduct fully resolved three-dimensional time-dependent simulations of the flow past a rigid sphere settling steadily through a linearly stratified fluid over a wide range of flow parameters which include the case of salt-stratified water. Results reveal a rich dynamics characterised by distinct wake symmetries, vortical structures and transverse force signatures. Simulations evidence the existence of varicose and sinuous instability modes that arise from distinct physical mechanisms. Thanks to several metrics, we b…",
-    "authors": "Changfan Mo, Matthieu J. Mercier, Jacques Magnaudet, Jie Zhang",
-    "published": "2026-07-21",
-    "keywords_matched": [
-      "wake",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Effects of variable thermophysical properties on the layered structure of incompressible turbulent channel flows",
-    "doi": "10.1017/jfm.2026.11803",
-    "url": "https://doi.org/10.1017/jfm.2026.11803",
-    "abstract": "This study employs a scaling-patch framework to investigate how variable thermophysical properties modify the layered structure and scaling behaviour of turbulent channel flows. Direct numerical simulation data of wall-heated and wall-cooled turbulent gas flows are analysed to quantify the effects of wall-normal variations in density, viscosity and thermal conductivity on momentum and heat transport across distinct flow regions. The results suggest the presence of a near-wall variable-property sublayer, in which viscous effects associated with wall-normal viscosity gradients contribute appreciably to the local momentum balance. A dimensionless parameter is introduced to characterise the influence of the wall-normal viscosity gradient at the wall, and a Stratford–Mellor-type scaling is prop…",
-    "authors": "Tie Wei, Davide Modesti, Alessandro Ceci, Sergio Pirozzoli",
-    "published": "2026-07-21",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "From Nocturnal Warm–Rain Processes to Afternoon Mixed–Phase Precipitation: A Diurnal Transition in the Dynamical–Microphysical Pathways of Heavy Rainfall Over North China",
-    "doi": "10.1029/2026jd046391",
-    "url": "https://doi.org/10.1029/2026jd046391",
-    "abstract": "Abstract Heavy rainfall occurs frequently over North China in summer, yet the multiscale dynamical‐microphysical processes that initiate and organize these events remain inadequately understood, limiting progress in quantitative precipitation forecasting over complex terrain. This study investigates a representative event occurred during–31 July 2024 using dual‐polarization radar observations and three‐dimensional wind fields retrieved from the Variational Doppler Radar Analysis System. We compare the triggering conditions, organizational structures, and microphysical processes of two distinct rainfall stages: a nocturnal period (P1) and an afternoon period (P2). Both P1 and P2 occurred under a similar large‐scale circulation background, which provided a favorable environment for moisture …",
-    "authors": "Tong Wang, Yuanchun Zhang, Jianhua Sun, Chong Wu et al.",
-    "published": "2026-07-21",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Triple Isotopes of Oxygen as a Proxy for Carbon Dioxide in Altered Early Pleistocene Ice Core Samples",
-    "doi": "10.1029/2025jd045900",
-    "url": "https://doi.org/10.1029/2025jd045900",
-    "abstract": "Abstract Traditional ice cores provide invaluable insights into changes in past atmospheric greenhouse gas levels, like carbon dioxide (CO 2 ), and their relationship to climate over the last 800,000 years. Recently, ice as old as 6 million years (Ma) has been retrieved from the Allan Hills Blue Ice Area (BIA), Antarctica. However, CO 2 levels in samples older than 3 Ma are anomalously elevated by post‐depositional processes. In this work, we explore the viability of using triple isotopic composition of atmospheric oxygen (Δ 17 O‐O 2 ) as an independent approach for reconstructing atmospheric CO 2 from such altered samples. Atmospheric Δ 17 O‐O 2 and CO 2 are dynamically linked via photochemically driven isotope exchange reactions in the stratosphere. While Δ 17 O‐O 2 is also modulated by …",
-    "authors": "Asmita Banerjee, Edward J. Brook, Christo Buizert, John Higgins et al.",
-    "published": "2026-07-21",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Stratification, turbulence organisation and pressure-strain effects on surface-layer turbulence anisotropy",
-    "doi": "10.1017/jfm.2026.11761",
-    "url": "https://doi.org/10.1017/jfm.2026.11761",
-    "abstract": "At large scales, the Reynolds stress tensor exhibits notable anisotropy, a key feature of all wall-bounded turbulent flows. Yet, how the drivers of this anisotropy evolve with shearing and thermal stratification in the atmospheric surface layer (ASL) remains a daunting challenge for theory and models alike. Here, the velocity variance budgets are used to explore the evolution of anisotropy in the daytime ASL close to the surface, a region known to be problematic for large-eddy simulations. A special focus is placed on the importance of slow and rapid pressure-strain correlations, and the role of transport on partitioning the turbulent kinetic energy among the velocity components. Results obtained from near-surface observations of four datasets over flat and horizontally homogeneous terrain…",
-    "authors": "Ivana Stiperski, Gabriel G. Katul, Elie Bou-Zeid, Marc Calaf",
-    "published": "2026-07-20",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Generalised actuator disk theory: wake development with turbulent entrainment",
-    "doi": "10.1017/jfm.2026.11732",
-    "url": "https://doi.org/10.1017/jfm.2026.11732",
-    "abstract": "Classical actuator disk theory, developed more than a century ago, provides an idealised description of turbine rotor performance. It treats a rotor as an infinitesimally thin permeable disk and applies the governing flow equations over a streamtube encompassing the disk. A well-known limitation of the theory is its assumption of ideal flow downstream of the disk, which restricts its applicability to short downwind distances before turbulence and mixing processes governing the wake evolution take hold. The classical theory also leads to unphysical predictions of thrust and power coefficients for highly loaded rotors. Turbulent axisymmetric wakes, by contrast, represent an extensively studied canonical free shear flow with much of the progress and its applications to wind turbines limited t…",
-    "authors": "Majid Bastankhah, Peter Hydon, Carl Shapiro, Dennice Gayme et al.",
-    "published": "2026-07-20",
-    "keywords_matched": [
-      "wind turbine",
-      "wind turbines",
-      "wake",
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Exchange flows between viscoplastic and Newtonian fluids in vertical and inclined pipes",
-    "doi": "10.1017/jfm.2026.11834",
-    "url": "https://doi.org/10.1017/jfm.2026.11834",
-    "abstract": "In this study, we investigate the dynamics of a viscoplastic fluid placed above a Newtonian fluid in an inclined, long tube. The two fluids are miscible and have a density difference, with the viscoplastic fluid always denser. The experimental set-up allows varying inclination angles. Initially, the fluids are separated by a gate valve; upon opening it, distinct flow behaviours are observed, captured using cameras. The flow regimes depend on the interplay between buoyancy (due to the density difference), the yield stress of the viscoplastic fluid and the inclination angle. In tilted tubes, exchange flow with a slumping regime is observed, while in vertical configurations, a stable finger front forms at high values of the yield number ( upper Y Y $Y$ ), representing the ratio of yield stres…",
-    "authors": "Soheil Akbari, Mahdi Izadi, Yuhan Zeng, Ian A. Frigaard",
-    "published": "2026-07-20",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Low-frequency bandgaps for water waves enabled by flexible plate metamaterials",
-    "doi": "10.1017/jfm.2026.11809",
-    "url": "https://doi.org/10.1017/jfm.2026.11809",
-    "abstract": "This study investigates a novel class of flexible plate metamaterials (FPMMs), consisting of a periodic array of bottom-mounted flexible structures, designed for the sub-wavelength manipulation of surface gravity waves. A theoretical framework is developed by coupling the matched eigenfunction expansion method with a modal expansion technique, incorporating Bloch’s theorem to characterise the band structures and complex dispersion relations. Numerical analysis reveals that the structural flexibility facilitates the formation of low-frequency, broadband bandgaps, primarily driven by a local resonance (LR) mechanism. It is shown that wave propagation can be effectively suppressed within these bandgap regimes through the synergistic interaction between the incident wave field and the structur…",
-    "authors": "Huaqing Jin, Haicheng Zhang, Siming Zheng, Xiaofan Li et al.",
-    "published": "2026-07-20",
-    "keywords_matched": [
       "ABL"
     ]
   }
