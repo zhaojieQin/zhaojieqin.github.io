@@ -26,6 +26,90 @@
   },
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Energy transfer and scale organisation in dense canopy turbulence",
+    "doi": "10.1017/jfm.2026.12076",
+    "url": "https://doi.org/10.1017/jfm.2026.12076",
+    "abstract": "This study identifies the scale-dependent processes that sustain turbulence in dense submerged canopy flows. Using a scale-resolved energy budget, we determine where in space and at which scales production, pressure–strain redistribution and inter-scale transfer predominantly occur, and how they link the canopy layer to the overlying shear flow. We show that energy production is localised at the interfacial shear layer, over a narrow range of streamwise and spanwise scales, while fluctuations within the canopy are primarily maintained through inter-scale transfer and pressure–strain redistribution. The dynamically active scales in the canopy are largely imposed by outer-layer structures, with their organisation and coherence mediated by these inherited motions. Energy exchange across the c…",
+    "authors": "Riccardo Bertoncello, Alessandro Chiarini, Giulio Foggi Rota, Maurizio Quadrio et al.",
+    "published": "2026-10-15",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Three-dimensional flutter dynamics of a rectangular plate: Exploring critical conditions and post-critical regimes",
+    "doi": "10.1017/jfm.2026.12116",
+    "url": "https://doi.org/10.1017/jfm.2026.12116",
+    "abstract": "Self-sustained, flow-induced oscillations of a flexible plate have been identified as a viable mechanism for energy harvesting. However, the efficiency of such devices strongly depends on the onset of aeroelastic instabilities. In this work, we investigate numerically the flutter of a rectangular, three-dimensional, inextensible plate invested by a viscous laminar flow. Through a systematic approach, an unprecedentedly broad range of the parametric space spanned by the mass ratio upper M Subscript s M s $M_s$ and bending rigidity upper K Subscript upper B K B $K_B$ is explored. Specifically, three distinct regimes of response can be identified: (i) fixed-point stability, (ii) limit-cycle oscillations and (iii) irregular flutter. We present a high-resolution map of the flapping states in th…",
+    "authors": "Bálint Nagy, Stefano Olivieri, Roberto Verzicco, Francesco Viola",
+    "published": "2026-10-15",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Instability between shear and surface tension for a thin-film flow surrounding an ellipse",
+    "doi": "10.1017/jfm.2026.12160",
+    "url": "https://doi.org/10.1017/jfm.2026.12160",
+    "abstract": "We consider the thin-film flow of a free-surface fluid surrounding a two-dimensional elliptical substrate. The effects of shear, surface tension, mass injection and varying substrate curvature on the dynamics are modelled in a combined analysis of steady states, linear stability theory and general time-evolution simulations. We discover a symmetry-breaking instability in which the combined effect of surface tension and shear can transport fluid in a direction perpendicular to the shear flow when the elliptical curvature variation is sufficiently large. Symmetric steady solutions are shown to be linearly unstable to asymmetric temporal perturbations, and the resultant instability involves a breaking of symmetry of the fluid surface that arises from the competing effects of shear, surface te…",
+    "authors": "Josh Shelton, Timothy Frank Peters, Hui Tang, Philippe H. Trinh",
+    "published": "2026-10-15",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Comparing inviscid and viscous flows around moving plates",
+    "doi": "10.1017/jfm.2026.12119",
+    "url": "https://doi.org/10.1017/jfm.2026.12119",
+    "abstract": "We compare an inviscid vortex sheet model with continuous leading-edge shedding with direct Navier–Stokes simulations over a wide range of unsteady plate motions at moderate Reynolds number ( italic Re almost equals 1000 Re ≈ 1000 ${\\textit{Re}} \\approx 1000$ ). Approximately 70 70 $70$ distinct kinematic configurations are examined, spanning both body-dominated and flow-dominated regimes. In body-dominated motions, where the fluid dynamics are primarily driven by prescribed plate accelerations, the inviscid model accurately reproduces normal force histories and the qualitative structure of the induced vorticity field. In flow-dominated configurations, with quasi-periodic vortex shedding, agreement with force predictions is good but reduced at low angles of attack, reflecting the greater s…",
+    "authors": "Yu Jun Loo, Silas Alben",
+    "published": "2026-10-15",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Genetic programming control of quasiperiodic and chaotic oscillations in a thermoacoustic system",
+    "doi": "10.1017/jfm.2026.12150",
+    "url": "https://doi.org/10.1017/jfm.2026.12150",
+    "abstract": "Self-excited thermoacoustic oscillations remain a key obstacle to low-emission combustion, especially in time-aperiodic regimes where quasiperiodic and chaotic dynamics hinder conventional controller design. We experimentally demonstrate data-driven suppression of such aperiodic thermoacoustic oscillations in a flame-driven Rijke tube using genetic programming (GP). In closed-loop form, the GP-discovered control laws are static nonlinear feedback maps that generate, in real time, actuation commands from a sensor signal. Performance is evaluated by a cost function that penalises both the thermoacoustic amplitude (state cost) and the actuation effort (input cost), enabling efficiency comparisons. We benchmark GP closed-loop control (GCC) against GP open-loop control and conventional open-loo…",
+    "authors": "Bo Yin, Zhijian Yang, Yu Guan, Stephane Redonnet et al.",
+    "published": "2026-10-15",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Generation and degradation mechanisms of near-wall particle streaks",
+    "doi": "10.1017/jfm.2026.12109",
+    "url": "https://doi.org/10.1017/jfm.2026.12109",
+    "abstract": "In wall-bounded turbulent flows, inertial particles can form distinct streaks near the wall. In this work, the theory of Johnson et al. ( J. Fluid Mech. , 2020, vol. 883, A27) for wall-normal distribution of particles is generalised to arbitrary directions to reveal the generation mechanism of particle streaks and the degradation mechanism by shear-induced lift force. The Lagrangian point-particle approach is coupled with direct numerical simulations of a turbulent channel flow to provide reliable data for analyses. Simulation results demonstrate that the shear-induced lift force can remarkably reduce the near-wall particle concentration and the degree of particle streaking. Through theoretical analysis, it is found that the generalised turbophoresis effect plays a prominent role in both n…",
+    "authors": "Lei Shi, Xiaodong Gong, Zheng Gong, Wei Gao et al.",
+    "published": "2026-10-15",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "A Machine Learning Framework for Objective Definition and Projection of Meteorological Seasons: An Application to the Indian Subcontinent",
+    "doi": "10.1029/2025jd045869",
+    "url": "https://doi.org/10.1029/2025jd045869",
+    "abstract": "Abstract Meteorological seasons are typically defined through fixed calendar intervals or region‐specific thresholds, yet such approaches fail to capture the actual variability of the annual cycle. Here we present a machine learning framework that objectively detects meteorological seasons and projects their future evolution. The method combines Radially Constrained Clustering (RCC) to identify seasons from reanalysis data with a supervised Multinomial Logistic Regression Classifier (MLRC) that allows these definitions to be applied also to climate model projections. We use the Indian subcontinent as a detailed proof of concept region since it has established operational references for monsoon onset and withdrawal, and it includes contrasting seasonal regimes, from monsoon dominated lowlan…",
+    "authors": "Jacopo Grassi, Elisa Palazzi, Jost von Hardenberg, Paolo Davini",
+    "published": "2026-10-15",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Controlling turbulent wall flows via composite active excitations",
     "doi": "10.1017/jfm.2026.12120",
     "url": "https://doi.org/10.1017/jfm.2026.12120",
@@ -6089,95 +6173,6 @@
     "published": "2026-07-23",
     "keywords_matched": [
       "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Droplet evaporation on mesas",
-    "doi": "10.1017/jfm.2026.11733",
-    "url": "https://doi.org/10.1017/jfm.2026.11733",
-    "abstract": "Droplet evaporation on a mesa, a raised region with a flat top, occurs in spray coating, microreactors and printed-electronics fabrication. In printed-electronics fabrication, maintaining a pinned contact line is often desirable, and depositing droplets on wide and short mesas offers a simple and effective way to achieve this. We combine flow-visualisation experiments with mathematical modelling to systematically characterise contact-line motion on mesas having heights much smaller than their widths. Flow visualisation reveals that the contact line pins at the mesa edge for a significant amount of time, with lower heating temperatures or larger initial liquid volumes further prolonging this pinning. To interpret these trends, we construct a lubrication-theory-based model that employs a pre…",
-    "authors": "Li-Hsuan Chang, Jonathan D. Nguyen, Satish Kumar",
-    "published": "2026-07-23",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Revisiting interaction of linear waves with an oblique shock: a spatial analysis and the inverse problem",
-    "doi": "10.1017/jfm.2026.11794",
-    "url": "https://doi.org/10.1017/jfm.2026.11794",
-    "abstract": "The interaction of linear waves with a planar shock is analysed using a spatial framework. Unlike conventional temporal analyses which often overlook post-shock evanescent waves, our spatial framework intrinsically captures all wave modes. By prescribing the frequency and tangential wavenumbers, the shock-normal wavenumbers are solved simultaneously on both sides, yielding a complete wavevector correspondence across the shock. Based on this relationship, a linear system is established that links the amplitudes of all six incident waves (from either side) to five downstream responses: the four generated post-shock waves plus shock deformation. This system enables the solution of both the forward problem (predicting downstream responses from given incident waves) and the inverse problem. Spe…",
-    "authors": "Jianhong He, Caihong Su",
-    "published": "2026-07-23",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Dynamics of a free rectangular vortex ring generated by an impulsively driven piston",
-    "doi": "10.1017/jfm.2026.11813",
-    "url": "https://doi.org/10.1017/jfm.2026.11813",
-    "abstract": "Large-eddy simulations were conducted on the formation and behaviour of an aspect ratio of 2 rectangular vortex ring (RVR) modelled after an impulsively driven piston for a ‘cylindrical-slug’-based approach, instead of assuming idealised conditions for its initialisation. Results show the occurrence of over-pressure effects where the orifice exit velocity profile varies with time, evolving from a ‘saddleback’ to a ‘top-hat’ profile as the RVR is being generated. A robust axis-switching behaviour is observed with localised effects conferred by the four corners, leading to intriguing changes to the RVR shape during a full cycle and agrees well with earlier results from Ghasemi et al. (2018 Phys. Fluids , vol. 30, no. 12). However, comparisons with the earlier study reveal that the present RV…",
-    "authors": "Yanqiao Song, Bowen Xu, T.H. New",
-    "published": "2026-07-23",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Radar Reflectivity Assimilation Method Based on Adaptive Hydrometeor Phase Identification Algorithm Using Dual‐Polarization Radar and Its Impacts on Severe Weather Prediction",
-    "doi": "10.1029/2025jd045344",
-    "url": "https://doi.org/10.1029/2025jd045344",
-    "abstract": "Abstract The indirect radar reflectivity assimilation method, which utilizes hydrometeor retrieved from radar reflectivity, is straightforward, computationally efficient, and beneficial for improving severe weather forecasting. However, this method is susceptible to retrieval errors due to inherent uncertainties when deriving multiple hydrometeor species from reflectivity alone. To address this, this study introduces a blended retrieval approach within the WRFDA framework, enhancing hydrometeor retrieval accuracy by incorporating dual‐polarization radar measurements. Specifically, the proposed method first estimates the individual hydrometeor contribution factors to the total reflectivity using two existing retrieval schemes. These initial estimates are then refined by integrating dominant…",
-    "authors": "Feifei Shen, Shen Wan, Jinzhong Min, Lixin Song et al.",
-    "published": "2026-07-23",
-    "keywords_matched": [
-      "WRF"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Evaluation of High‐Resolution Numerical Simulations of Storm Initiation and Intensification of a Multi‐Cell Thunderstorm in Shanghai",
-    "doi": "10.1029/2026jd046891",
-    "url": "https://doi.org/10.1029/2026jd046891",
-    "abstract": "Abstract This study explores the potential of operating numerical weather prediction (NWP) models at hectometer‐scale resolution to forecast a locally triggered and rapidly evolving thunderstorm over Shanghai on 8 August 2024. Two simulations are conducted using the Weather Research and Forecasting (WRF) model at convection‐permitting resolution (1 km) and large‐eddy‐resolving resolution (200 m), supplemented by a sensitivity experiment designed to clarify the lifting mechanisms responsible for convection initiation (CI). Results show that both simulations capture the basic storm evolution and overall morphology. Increasing horizontal resolution substantially alters the representation of pre‐convective boundary‐layer dynamics. The hectometer‐scale simulation explicitly resolves stronger an…",
-    "authors": "W. Wu, M. Liu, Z. Huo, W. Huang",
-    "published": "2026-07-22",
-    "keywords_matched": [
-      "WRF",
-      "weather research and forecasting"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Understanding Model Diversity in Seasonal Prediction of the Winter Surface Air Temperature Variations Over China",
-    "doi": "10.1029/2026jd046650",
-    "url": "https://doi.org/10.1029/2026jd046650",
-    "abstract": "Abstract Accurate prediction of winter surface air temperature (SAT) is crucial for proactive government responses to potential winter hazards. However, current state‐of‐the‐art operational seasonal forecast systems still face challenges in skillfully predicting winter SAT variations over China, with considerable model diversity in prediction skill. Here, we identified the critical physical processes that determine the prediction skill of winter SAT over China to better understand the sources of model diversity. The first empirical orthogonal function (EOF) mode of interannual variability of winter SAT over China is dominated by the East Asian winter monsoon (EAWM), whereas the second mode is dominated by the Arctic Oscillation (AO) along with a wave train over the Eurasian continent (EAWT…",
-    "authors": "Wanyi Jiang, Shuai Hu, Julia F. Lockwood, Bo Wu et al.",
-    "published": "2026-07-22",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Transition of Dust Transport Characteristics From the Near to Far‐Wake of Wind Turbines",
-    "doi": "10.1029/2026jd046645",
-    "url": "https://doi.org/10.1029/2026jd046645",
-    "abstract": "Abstract Wind turbine wakes can substantially modify the flow structure of the atmospheric boundary layer (ABL); however, their effects on dust particle transport and deposition—particularly the differences between the near‐wake and far‐wake regions—remain insufficiently quantified. In this study, the spatial evolution of dust particle transport within wind turbine wakes is systematically investigated under neutral ABL conditions using improved delayed detached‐eddy simulation coupled with a Lagrangian particle tracking approach. The results show that, in the near‐wake region, the combined effects of rotation‐induced mean momentum transport and turbulent structures significantly enhance upwash motions, leading to particle uplift. In the far‐wake region, the mean vertical velocity is substa…",
-    "authors": "Jixiang Chang, Hongchao Dun, Xiaoting Liu, Ming Qin et al.",
-    "published": "2026-07-22",
-    "keywords_matched": [
-      "wind turbine",
-      "wind turbines",
-      "wake",
-      "atmospheric boundary layer",
       "ABL"
     ]
   }
