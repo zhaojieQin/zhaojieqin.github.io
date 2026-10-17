@@ -1,5 +1,55 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Three-dimensional experimental investigation of the interaction between a rising bubble and a vortex ring",
+    "doi": "10.1017/jfm.2026.12078",
+    "url": "https://doi.org/10.1017/jfm.2026.12078",
+    "abstract": "The interaction between turbulent flows and bubbles is a complex phenomenon ubiquitous in natural and industrial settings. In this work, we experimentally investigate, from a fundamental perspective, the interaction between a rising bubble and a vortex ring in counterflow. Using time-resolved three-dimensional Lagrangian particle tracking (3D-LPT) coupled with shadowgraphy, we obtain simultaneous measurements of the bubble motion and the surrounding liquid flow. This approach enables detailed observation of bubble dynamics, deformation and eventual breakup, as well as the fluid motion. We examine several flow configurations by varying the vortex circulation and the Weber number while maintaining a comparable vortex-to-bubble size ratio. Based on these measurements, we classify the interact…",
+    "authors": "Cecilia Estepa-Cantero, Manuel Lorite-Díez, Javier Ruiz-Rus, Sébastien Cazin et al.",
+    "published": "2026-10-16",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Hydrodynamic impact reduction during water entry via a variable damping system",
+    "doi": "10.1017/jfm.2026.12059",
+    "url": "https://doi.org/10.1017/jfm.2026.12059",
+    "abstract": "The extreme impact forces encountered during the early moments of water entry are of critical concern in diverse fields, ranging from spacecraft recovery to aircraft ditching. Herein, we systematically investigate a variable damping strategy that uses an internal non-Newtonian fluid damper to regulate the transmission of impulsive loads during water entry. Through a combined experimental and theoretical approach, the dynamic response of dampers filled with shear-thinning and shear-thickening fluids is characterised. We demonstrate that the peak load transmitted to the main body can be reduced by up to 89.7 % compared to a fully rigid counterpart. A coupled dynamic model reveals that, unlike the constant viscosity characteristic of Newtonian fluids, non-Newtonian fluids provide damping resp…",
+    "authors": "Yexian Wang, Enfan Lin, Mengshan Xie, Pengyu Lv et al.",
+    "published": "2026-10-16",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Significant heat-transfer enhancement via polymer additives in two-dimensional sheared convection",
+    "doi": "10.1017/jfm.2026.12175",
+    "url": "https://doi.org/10.1017/jfm.2026.12175",
+    "abstract": "Heat dissipation is critical in modern engineering and polymer additives offer a potential route to improve fluid-based cooling. We study elasticity-enhanced heat transfer in two-dimensional, thermally stratified Poiseuille flow. At Reynolds numbers italic Re less than or equivalent to 1000 Re ≲ 1000 $\\textit{Re} \\lesssim 1000$ , we observe two linearly unstable modes: the recently identified elasticity-induced centre mode (Khalid et al. 2021 J. Fluid Mech. 915, A43) and the classical buoyancy-driven convective mode (Kelly 1994 Adv. Appl. Mech. 31, 35–112). Direct numerical simulations show that the centre mode develops into a nonlinear ‘arrowhead’ state but yields negligible heat-transfer enhancement (typically almost equals 0.03 percent sign ≈ 0.03 % $\\approx 0.03\\,\\%$ above the conducti…",
+    "authors": "Guanhan Li, Lu Zhu, Rich R. Kerswell",
+    "published": "2026-10-16",
+    "keywords_matched": [
+      "ABL",
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Meso-NH-ISO v1.0: a water stable isotopologue scheme in the non-hydrostatic mesoscale atmospheric model Meso-NH – application to a 2D West African squall line",
+    "doi": "10.5194/gmd-19-9935-2026",
+    "url": "https://doi.org/10.5194/gmd-19-9935-2026",
+    "abstract": "Better understanding how convective processes impact the isotopic composition of atmospheric water has implications for understanding phenomena such as squall lines or tropical cyclones, and for reconstructions of past rainfall extreme events. With this motivation, we implemented water stable isotopologues (HD 16 O and H218O) in the non-hydrostatic mesoscale atmospheric model Meso-NH and its one-moment bulk mixed-phase microphysics scheme. The water stable isotopologues are subject to the same dynamical and physical processes as the light water, but undergo isotopic fractionation during water phase changes. Both equilibrium and kinetic fractionation processes that occur during water phase changes involving water vapor are taken into account. The implementation is validated on a test case o…",
+    "authors": "Christelle Barthe, Françoise Vimeux, Camille Risi, Sören François",
+    "published": "2026-10-16",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "A performance-based multivariable weighting framework  for WRF parameterization-scheme selection",
     "doi": "10.5194/gmd-19-9879-2026",
@@ -6124,55 +6174,6 @@
     "authors": "Dalton Kei Sasaki, Cristina Schultz, Enrique Curchitser",
     "published": "2026-07-24",
     "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Mitigating adjoint chaos in wall turbulence",
-    "doi": "10.1017/jfm.2026.11822",
-    "url": "https://doi.org/10.1017/jfm.2026.11822",
-    "abstract": "Estimating past events in wall turbulence based solely on surface measurements and first principles is an ill-posed problem that is complicated by chaos. The sensitivity of a measurement to the earlier flow state is described by the adjoint Navier–Stokes equations, which are solved in reverse time starting from the measurement kernel at the sensing position and time. The resulting adjoint field is the spatio-temporal domain of dependence (DOD) of the sensor, which is a dual to the concept of the domain of influence (DOI) of an actuator in the linearised forward equations. In channel turbulence, the energy of each adjoint realisation grows exponentially in backward time according to the Lyapunov exponent, even though the energy of the ensemble average should decay. We introduce a linear edd…",
-    "authors": "Qi Wang, Tamer A. Zaki",
-    "published": "2026-07-23",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Lateral self-propulsion of Marangoni droplets in stratified fluids",
-    "doi": "10.1017/jfm.2026.11828",
-    "url": "https://doi.org/10.1017/jfm.2026.11828",
-    "abstract": "Stable vertical stratification of liquids significantly influences the dynamics of both rigid and deformable bodies immersed in them. Recent research has shown that the interplay between buoyancy and Marangoni convection induced by surface tension gradients gives rise to periodic vertical bouncing of droplets (e.g. of silicone oil) immersed in a stable concentration gradient (e.g. of ethanol in water). Here, we report that such droplets also exhibit lateral self-propulsion, which may or may not be accompanied by bouncing, when the radius of the droplet is large enough. We investigate experimentally and theoretically how the droplet radius and the magnitude of the ethanol concentration gradient influence the onset of self-propulsion and the steady lateral self-propulsion speed far beyond on…",
-    "authors": "Xiaolai Li, Neil M. Ribe, Yanshen Li, Xiangwei Li et al.",
-    "published": "2026-07-23",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Selective topographic suppression and vertical structure of eddy buoyancy fluxes in three-layer retrograde QG flows",
-    "doi": "10.1017/jfm.2026.11848",
-    "url": "https://doi.org/10.1017/jfm.2026.11848",
-    "abstract": "The turbulent eddy fluxes in three-layer retrograde quasi-geostrophic (QG) flows are investigated theoretically and numerically, with a focus on the joint impacts from an interior potential vorticity (PV) gradient and a bottom slope with isobaths aligned with the thermal shear. While a bottom slope overall suppresses geostrophic turbulence, this suppression is selective in the baroclinic modes. In a surface-intensified thermal shear, a bottom slope depletes (replenishes) turbulent energy in the first (second) baroclinic mode, alleviating its suppression effect on the second baroclinic mode. By contrast, in a bottom-intensified thermal shear, a bottom slope shunts turbulent energy from both baroclinic modes into the barotropic mode; yet by occupying a broader spectral range, the second baro…",
-    "authors": "Peng Deng, Yan Wang",
-    "published": "2026-07-23",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Investigating Rayleigh–Taylor instabilities using a statistically stationary and homogeneous simulation framework",
-    "doi": "10.1017/jfm.2026.11779",
-    "url": "https://doi.org/10.1017/jfm.2026.11779",
-    "abstract": "Homogeneous buoyant turbulence (HBT) is developed as a novel direct numerical simulation (DNS) framework for modelling the small scales of turbulence in a temporally evolving Rayleigh–Taylor instability (TRT). Using a set of coordinate and variable transformations, statistical stationarity and homogeneity in all three directions are introduced to the TRT flow variables. These transformations produce a set of source terms in the governing equations, which, within a region surrounding the TRT midplane, reduce to just two non-negligible terms in the momentum and scalar transport equations. When applied to a periodic box domain, the new governing equations are verified to produce a stationary, homogeneous flow. Validation is performed for HBT against a large-scale TRT DNS, where probability de…",
-    "authors": "Aaron Nelson, Guillaume Blanquart",
-    "published": "2026-07-23",
-    "keywords_matched": [
-      "turbulence",
       "ABL"
     ]
   }
