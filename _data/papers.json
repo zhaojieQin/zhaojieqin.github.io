@@ -1,5 +1,30 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Influence of Particle Properties and Grain Size on Aggregation in Dry Particle‐Laden Volcanic Jets",
+    "doi": "10.1029/2026jd046777",
+    "url": "https://doi.org/10.1029/2026jd046777",
+    "abstract": "Abstract Explosive volcanic eruptions can inject large amounts of ash into the atmosphere. These suspended particles pose hazards to aircraft, so a better understanding of the ash residence time and transport distance is needed. Fine particles combine to form larger aggregates, altering their settling behavior. Ash aggregation is influenced by liquid bonding, electrostatic forces, and preferential concentration driven by turbulence. We examine particle aggregation through controlled, low‐humidity experiments at similar particle‐fluid scaling to conditions near a volcanic vent. Particle‐laden jets used compressed air containing three types of particles at controlled mass loadings: hollow glass spheres (∼10 μm diameter), solid nickel spheres (∼7 μm diameter), and volcanic ash from the 18 May…",
+    "authors": "Md Miraz Hossain, Stephen A. Solovitz, Josef Dufek, Joshua Méndez Harper et al.",
+    "published": "2026-10-17",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Dust Aerosol Effects on Charge Structure and Lightning Activity of a Continental Thunderstorm: A Modeling Study With Thompson‐Electrification Scheme",
+    "doi": "10.1029/2026jd047004",
+    "url": "https://doi.org/10.1029/2026jd047004",
+    "abstract": "Abstract A mesoscale electrification‐coupled model was established within the WRF model by integrating with the Thompson microphysics scheme. Based on the Thompson‐electrification scheme and MERRA‐2 aerosol reanalysis data, this study investigated the individual and synergistic impacts of dust aerosols acting as cloud condensation nuclei (cloud condensation nuclei (CCN)) and ice nuclei (IN) on microphysics, charge structures and lightning activity of a rare dust‐associated continental thunderstorm. By four sensitivity experiments, the results demonstrated that elevated CCN concentrations increased the mass content and number concentrations of cloud droplets, whereas high IN significantly amplified ice crystal and snow aggregates concentrations. Combined CCN and IN effects synergistically i…",
+    "authors": "Dongxia Liu, Chunfa Sun, Xiushu Qie, Xian Xiao et al.",
+    "published": "2026-10-17",
+    "keywords_matched": [
+      "WRF",
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Three-dimensional experimental investigation of the interaction between a rising bubble and a vortex ring",
     "doi": "10.1017/jfm.2026.12078",
@@ -44,6 +69,18 @@
     "url": "https://doi.org/10.5194/gmd-19-9935-2026",
     "abstract": "Better understanding how convective processes impact the isotopic composition of atmospheric water has implications for understanding phenomena such as squall lines or tropical cyclones, and for reconstructions of past rainfall extreme events. With this motivation, we implemented water stable isotopologues (HD 16 O and H218O) in the non-hydrostatic mesoscale atmospheric model Meso-NH and its one-moment bulk mixed-phase microphysics scheme. The water stable isotopologues are subject to the same dynamical and physical processes as the light water, but undergo isotopic fractionation during water phase changes. Both equilibrium and kinetic fractionation processes that occur during water phase changes involving water vapor are taken into account. The implementation is validated on a test case o…",
     "authors": "Christelle Barthe, Françoise Vimeux, Camille Risi, Sören François",
+    "published": "2026-10-16",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Longwave Scattering Effects on Radiative Kernels",
+    "doi": "10.1029/2026jd046597",
+    "url": "https://doi.org/10.1029/2026jd046597",
+    "abstract": "Abstract Longwave (LW) scattering, the redirection of infrared radiation by cloud and aerosol particles, is often neglected in current global climate models (GCMs). However, studies have suggested that LW scattering can influence the Earth's energy budget and climate sensitivity, indicating a need to improve the representation and understanding of this radiative effect. In addition to mean radiative fluxes, LW scattering can also change radiative sensitivities as quantified by radiative kernels. This aspect of the LW scattering effect, especially on the radiative sensitivity of non‐cloud variables, has remained largely unexplored. In this study, we use the Canadian Atmospheric Model (CanAM) which accounts for LW scattering to investigate how it affects broadband and spectral flux radiative…",
+    "authors": "Han Huang, Yi Huang, Jason N. S. Cole, Jiangnan Li",
     "published": "2026-10-16",
     "keywords_matched": [
       "ABL"
@@ -6136,42 +6173,6 @@
     "url": "https://doi.org/10.1017/jfm.2026.11853",
     "abstract": "We present an experimental study of the vertical transport of a passive scalar, released from a localised source at the top of a two-height canopy. The study is based on simultaneous velocity and concentration measurements under neutrally stable conditions in an environmental wind tunnel. By analysing turbulent scalar diffusivity directly from our data, we identify regions of counter-gradient flux in the roughness sublayer above the canopy. Here, turbulent flux opposes the local mean concentration gradient. Quadrant analysis shows that sweep events ( w prime less than 0 comma u prime greater than 0 w ′ &lt; 0 , u ′ &gt; 0 $w' \\lt 0, u' \\gt 0$ ) entrain low-concentration air from above into the canopy. Ejection events ( w prime greater than 0 comma u prime less than 0 w ′ &gt; 0 , u ′ &lt; …",
     "authors": "Lior Shig, Valery Babin, Yardena Bohbot-Raviv, Alexander Liberzon",
-    "published": "2026-07-24",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Spanwise length scales of turbulent motions essential for sustaining near-wall turbulence",
-    "doi": "10.1017/jfm.2026.11823",
-    "url": "https://doi.org/10.1017/jfm.2026.11823",
-    "abstract": "To investigate the spanwise length scales of turbulent motions essential for sustaining near-wall turbulence, we perform numerical experiments in direct numerical simulations of full-scale turbulent channel flows by filtering out motions wider than a prescribed cutoff wavelength lamda Subscript z f λ z f $\\lambda _{zf}$ . As lamda Subscript z f λ z f $\\lambda _{zf}$ decreases, near-wall short vortical structures are suppressed, while long streaks are amplified. When lamda Subscript z f λ z f $\\lambda _{zf}$ is reduced to approximately 200 wall units, the flow relaminarises, indicating that at least turbulent motions twice those of near-wall coherent structures are necessary. To elucidate the underlying mechanism, we derive transport equations for Reynolds shear stresses associated separate…",
-    "authors": "Qianqian Li, Bingqing Deng, Zixuan Yang",
-    "published": "2026-07-24",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Asymptotic analysis of a kinematic model for coffee-ring deposition",
-    "doi": "10.1017/jfm.2026.11675",
-    "url": "https://doi.org/10.1017/jfm.2026.11675",
-    "abstract": "The method of matched asymptotic expansions is used to analyse a depth-averaged kinematic model for the coffee-ring effect in a thin evaporating colloidal droplet on a hierarchy of timescales. The evolution at small times is shown to be governed by a uniformly valid asymptotically self-similar solution in which the particle surface density jumps by a constant factor across the deposit front. The matched asymptotic analysis of the dilute regime formalizes existing results on the timescale of evaporation and extends them to analyse the rush-hour effect on the fast timescale of touchdown in which the thickness of the thinning meniscus becomes comparable to that of the growing ring deposit. A local analysis predicts the asymptotically self-similar blowup of the particle volume fraction on the …",
-    "authors": "James Mark Oliver, Lewis Melvin, Madeleine Rose Moore",
-    "published": "2026-07-24",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "A high-resolution coupled physical-biogeochemical model of the northeastern US continental shelf: MOM6-COBALT-NEUS25v1.0",
-    "doi": "10.5194/gmd-19-6737-2026",
-    "url": "https://doi.org/10.5194/gmd-19-6737-2026",
-    "abstract": "Abstract. Coastal communities along the northeastern U.S. depend on marine resources that have been increasingly affected by ocean warming, marine heatwaves and associated ecosystem shifts over recent decades. High-resolution regional ocean-biogeochemical modeling using the Modular Ocean Model 6 (MOM6) enables studies of fisheries production, marine carbon dioxide removal and sediment biogeochemistry. The northeastern US (NEUS) continental shelf is one of the most widely sampled and measured ocean areas, providing a favorable testbed for regional model development. In this context, we present an assessment of MOM6 coupled with the Carbon, Ocean Biogeochemistry and Lower Trophics (COBALT) model in the NEUS at 1/25° resolution (MOM6-COBALT-NEUS25 version 1.0). The model is validated against …",
-    "authors": "Dalton Kei Sasaki, Cristina Schultz, Enrique Curchitser",
     "published": "2026-07-24",
     "keywords_matched": [
       "ABL"
