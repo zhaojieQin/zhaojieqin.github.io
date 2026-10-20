@@ -1,5 +1,116 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Self-limiting turbulent drag reduction via a viscoelastic lubricating layer",
+    "doi": "10.1017/jfm.2026.12167",
+    "url": "https://doi.org/10.1017/jfm.2026.12167",
+    "abstract": "We investigate drag reduction (DR) in a turbulent channel flow lubricated by a thin viscoelastic layer using direct numerical simulations at a shear Reynolds number italic Re Subscript tau Baseline equals 300 Re τ = 300 $\\textit{Re}_\\tau = 300$ , coupling a phase-field description of the interfacial dynamics with a FENE-CR model for the polymeric stresses. Different elasticity levels are considered by varying the shear Weissenberg number from italic Wi Subscript tau Baseline equals 0 Wi τ = 0 $\\textit{Wi}_\\tau = 0$ (Newtonian) to italic Wi Subscript tau Baseline equals 25 Wi τ = 25 $\\textit{Wi}_\\tau = 25$ (weakly elastic) and up to italic Wi Subscript tau Baseline equals 100 Wi τ = 100 $\\textit{Wi}_\\tau = 100$ (highly elastic). The Newtonian case yields a DR of about 12 percent sign 12 % $…",
+    "authors": "Emanuele Milocco, Alessio Roccon, Alfredo Soldati",
+    "published": "2026-10-19",
+    "keywords_matched": [
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Frequency synchronisation and modal mapping of wake dynamics to the performance of a vertical-axis turbine",
+    "doi": "10.1017/jfm.2026.12142",
+    "url": "https://doi.org/10.1017/jfm.2026.12142",
+    "abstract": "The transition towards sustainable marine energy relies partly on efficient deployment of vertical-axis tidal turbines, yet their widespread application is constrained by the complex, unsteady fluid dynamics inherent in their operation. While vertical-axis turbines offer superior structural scalability, they experience intricate vortex shedding and wake-induced energy losses which can make performance difficult to predict accurately. We address this critical gap by establishing a novel, data-driven quantitative correlation between wake characteristics and hydrodynamic performance. A high-fidelity actuator line model within a large eddy simulation framework is used to simulate the three-dimensional dynamic response of a vertical-axis tidal turbine in unsteady flow. Proper orthogonal decompo…",
+    "authors": "Ruiwen Zhao, Fang Chen, Angus C.W. Creech, Zhiliang Lin et al.",
+    "published": "2026-10-19",
+    "keywords_matched": [
+      "wake",
+      "ABL",
+      "vortex",
+      "tidal"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Turbulent boundary layers under adverse pressure gradients. Part 1. Decoupling the influences of local and upstream pressure gradients through high-Reynolds-number experiments",
+    "doi": "10.1017/jfm.2026.12090",
+    "url": "https://doi.org/10.1017/jfm.2026.12090",
+    "abstract": "This study reports a carefully controlled examination of the universality of the von Kármán and additive coefficients associated with the classical logarithmic scaling law for the mean streamwise velocity profile in high-friction-Reynolds-number ( upper R e Subscript tau R e τ $Re_{\\tau }$ ) turbulent boundary layers (TBLs) subjected to low-to-moderate adverse pressure gradients (APGs). The present approach leverages a recently developed methodology that enables systematic variation of the upstream pressure gradient (PG) history, e.g. introducing weak APG perturbations or maintaining nominally zero-pressure-gradient conditions (a ‘minimal’ PG history), while also obtaining locally matched upper R e Subscript tau R e τ $Re_{\\tau }$ and beta β $\\beta$ at the downstream measurement locations.…",
+    "authors": "Ahmad Zarei, Mitchell Lozier, Rahul Deshpande, Ivan Marusic",
+    "published": "2026-10-19",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Turbulent boundary layers under adverse pressure gradients. Part 2. A composite mean velocity profile",
+    "doi": "10.1017/jfm.2026.12089",
+    "url": "https://doi.org/10.1017/jfm.2026.12089",
+    "abstract": "A robust composite mean velocity profile is developed for turbulent boundary layers (TBLs) subjected to adverse pressure gradients (APGs), extending the composite formulation for generic pressure-gradient TBLs proposed by Nickels (2004 J. Fluid Mech. , vol. 521). Several modifications are introduced to capture characteristic features of these APG flows. A new parameter accounts for pressure-gradient history effects in the wake region, a velocity-overshoot function is incorporated into the inner region and the wake function is reformulated using an independent, physically motivated definition of the boundary-layer thickness. A compilation of APG TBL datasets from the literature, including the new dataset presented in Part 1, is used to assess and refine the formulation. The resulting compos…",
+    "authors": "Ahmad Zarei, Mitchell Lozier, Rahul Deshpande, Ivan Marusic",
+    "published": "2026-10-19",
+    "keywords_matched": [
+      "wake"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Darcy porous convection with a Jeffreys heat model",
+    "doi": "10.1017/jfm.2026.12106",
+    "url": "https://doi.org/10.1017/jfm.2026.12106",
+    "abstract": "We develop and analyse a theory for thermal convection in a Darcy porous material when the heat transfer is based on a Jeffreys theory. The memory terms in the Jeffreys heat constitutive law lead to the important result that the structure of the instability hinges on the relative size of two non-dimensional parameters, the Maxwell coefficient and the Jeffreys coefficient. This leads to a fundamentally different theory of thermal convection in a porous material. When the Jeffreys parameter is greater than or equal to the Maxwell one we show the linear operator attached to the stability problem is symmetric and instability will only arise via stationary convection. In this case the linear instability limit is the same as the nonlinear stability threshold and so linear theory completely captu…",
+    "authors": "Florinda Capone, Brian Straughan",
+    "published": "2026-10-19",
+    "keywords_matched": [
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Spatial symmetry invariance of three-dimensional Navier–Stokes turbulence",
+    "doi": "10.1017/jfm.2026.12128",
+    "url": "https://doi.org/10.1017/jfm.2026.12128",
+    "abstract": "Direct numerical simulation (DNS) of the deterministic Navier–Stokes (NS) equations is widely used to provide benchmark solutions of turbulent flow, but its accuracy and reliability have not been rigorously inspected from a mathematical viewpoint. Here, we prove a spatial symmetry invariance theorem (SSIT) of three-dimensional NS equations whereby an exact solution of deterministic NS equations under periodic boundary conditions maintains the same spatial symmetry as its symmetric initial flow, forever. SSIT provides an absolute benchmark test for computational fluid dynamics (CFD). It is shown herein that traditional DNS of NS turbulence quickly violates SSIT, revealing that the spatiotemporal trajectory of NS turbulence predicted by DNS soon becomes badly polluted by numerical noise. Imp…",
+    "authors": "Shijun Liao",
+    "published": "2026-10-19",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Nonlinear electrophoresis of a dielectric particle in a non-polar media. Part I. Intermediate Debye numbers",
+    "doi": "10.1017/jfm.2026.12033",
+    "url": "https://doi.org/10.1017/jfm.2026.12033",
+    "abstract": "The electrophoresis of a charged dielectric particle in a low conductivity non-polar media is numerically investigated over a wide range of parameters. Association/dissociation reactions that may alter the concentration of free charge carriers in weak non-polar media are not included in the present model. The results are compared with previously published experimental data, revealing a universal relaxation behaviour of the ionic cloud. We describe an electrophoretic regime observed at intermediate Debye numbers and relatively high Dukhin numbers. In this regime, non-equilibrium effects become important and the Smoluchowski formula is no longer applicable. Two charged layers with high tangential fluxes of counterions and coions are identified. The first layer is thin and corresponds to the …",
+    "authors": "Elizaveta Frants, Sakir Amiroudine, Evgeny Demekhin",
+    "published": "2026-10-19",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Improved Estimates of Equilibrium Climate Sensitivity From Non‐Equilibrated Climate Simulations",
+    "doi": "10.1029/2026jd046855",
+    "url": "https://doi.org/10.1029/2026jd046855",
+    "abstract": "Abstract Calculating equilibrium climate sensitivity (ECS) requires simulations of a thousand years or more for the climate to re‐establish equilibrium, but most ECS estimates are derived from shorter model integrations. The widely used “Gregory method” for such estimates systematically underestimates ECS, a bias previously attributed to the time‐dependence of climate feedbacks. Here we demonstrate this underestimate instead arises primarily from an underestimate of radiative forcing. We present a modified method that corrects for the underestimate in forcing, producing ECS estimates that closely align with results from “long‐run” millennium‐scale simulations. This method is robust across models and offers an easily obtainable estimate of ECS with significantly higher accuracy. It enables …",
+    "authors": "Haozhe He, Brian J. Soden, Ryan J. Kramer",
+    "published": "2026-10-19",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Development and validation of ARMS-gb v2.0: extending fast radiative transfer modeling capability to all-sky conditions  for ground-based microwave radiometer retrievals",
+    "doi": "10.5194/gmd-19-9957-2026",
+    "url": "https://doi.org/10.5194/gmd-19-9957-2026",
+    "abstract": "Ground-based microwave radiometers provide continuous, all-weather observations of boundary-layer temperature and humidity, closing a critical near-surface observation gap. The Advanced Radiative Transfer Modeling System – ground-based (ARMS-gb) is a fast radiative transfer model specifically designed to simulate the brightness temperatures observed by these instruments. This paper presents ARMS-gb v2.0, which introduces a hydrometeor absorption and scattering module and an accelerated discrete ordinate method (ADOM) solver for multiple scattering. The model now simulates cloud water, rain, ice, snow, and graupel using optical-property look-up tables computed with Mie theory and the discrete dipole approximation (DDA). The existing tangent-linear and adjoint (TL/AD) modules are also extend…",
+    "authors": "Ziyue Huang, Yi-Ning Shi, Fuzhong Weng, Jun Yang",
+    "published": "2026-10-19",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Influence of Particle Properties and Grain Size on Aggregation in Dry Particle‐Laden Volcanic Jets",
     "doi": "10.1029/2026jd046777",
@@ -6064,118 +6175,6 @@
     "published": "2026-07-28",
     "keywords_matched": [
       "WRF"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "copan:LPJmL: a new hybrid modelling framework for dynamic land use and agricultural management",
-    "doi": "10.5194/gmd-19-6829-2026",
-    "url": "https://doi.org/10.5194/gmd-19-6829-2026",
-    "abstract": "Abstract. Dynamic Global Vegetation Models (DGVMs) are established in environmental and agricultural sciences for many purposes, e.g., modelling plant growth and productivity, water and carbon cycles, and biosphere-climate interactions. Nevertheless, DGVMs are still rather limited in terms of simulating mutual interactions between biospheric and human processes. While DGVMs such as the Lund Potsdam Jena managed Land (LPJmL) model have been successfully connected to Integrated Assessment Models (IAMs), the model couplings often remain loose and static over the simulation period. The copan:LPJmL modelling framework is an extension of the copan:CORE framework for integrated and dynamic human-Earth system modelling, and addresses this issue by integrating LPJmL via a new interface, consisting …",
-    "authors": "Jannes Breier, Luana Schwarz, Hannah Prawitz, Werner von Bloh et al.",
-    "published": "2026-07-28",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Asymmetric velocity boundary conditions lead to zonal flow in centrifugal convection",
-    "doi": "10.1017/jfm.2026.11858",
-    "url": "https://doi.org/10.1017/jfm.2026.11858",
-    "abstract": "We perform two-dimensional direct numerical simulations of rapidly rotating annular centrifugal convection to investigate how mixed (asymmetric) velocity boundary conditions and geometric curvature shape the flow organisation and heat transfer in the quasi-two-dimensional, rotation-constrained regime. Motivated by the quasi-two-dimensionalisation under strong rotation and the long spin-up required for large-scale states, we employ two-dimensional simulations and consider four boundary-condition sets: no slip/no slip (INON), no slip/stress free (INOS), stress free/no slip (ISON) and stress free/stress free (ISOS). For fixed geometry with the radius ratio eta equals 0.5 η = 0.5 $\\eta =0.5$ and over the Rayleigh-number range italic Ra element of left bracket 10 Superscript 6 Baseline comma 10…",
-    "authors": "Jun Zhong, Chao Sun",
-    "published": "2026-07-27",
-    "keywords_matched": [
-      "heat transfer"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Singularity formation in electrified vortex sheets",
-    "doi": "10.1017/jfm.2026.11860",
-    "url": "https://doi.org/10.1017/jfm.2026.11860",
-    "abstract": "This study investigates the effect of a tangential electric field on the curvature singularity encountered by evolving vortex sheets. Weakly nonlinear models are derived by using asymptotic expansions based on the Dirichlet–Neumann operators. A fully nonlinear boundary integral method based on Cauchy’s integral formula and an angle –arclength derivative formulation in a Lagrangian framework is proposed. Linear stability analysis reveals a transition from the unstable regime to a neutrally stable regime at a critical electric field strength. However, both weakly nonlinear models and fully nonlinear simulations suggest that the curvature singularity persists regardless of the value of the electric field strength. The analysis demonstrates that the singularity time obeys two different asympto…",
-    "authors": "Xin Guan, Demetrios T. Papageorgiou",
-    "published": "2026-07-27",
-    "keywords_matched": [
-      "ABL",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Singularity of the axisymmetric stagnation-point-like solution within a cylinder of the 3-D Euler incompressible fluid equations",
-    "doi": "10.1017/jfm.2026.11847",
-    "url": "https://doi.org/10.1017/jfm.2026.11847",
-    "abstract": "In this paper we investigate analytically the formation of finite time singularities in the three-dimensional (3-D) incompressible Euler equations under the Gibbon–Fokas–Doering model for vorticity stretching within a bounded cylindrical domain and under axisymmetric conditions. We derive explicit Lagrangian solutions for the vorticity, its stretching rate, fluid pathlines and velocity components by exploiting constants of motion associated with the field dependent infinitesimal symmetries of the system. The central finding is that the existence and nature of a finite time singularity are determined exclusively by the local geometric structure of the initial vortex stretching rate near its global minimum. Whether a singularity forms depends on how flat this profile is at the minimum. Flatt…",
-    "authors": "Yinshen Xu, Miguel David Bustamante",
-    "published": "2026-07-27",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Combining reinforcement learning and computational fluid dynamics for optimal kinematics of a robotic vertical-axis wind turbine",
-    "doi": "10.1017/jfm.2026.11811",
-    "url": "https://doi.org/10.1017/jfm.2026.11811",
-    "abstract": "Vertical-axis wind turbines (VAWTs) have emerged as natural complements to their horizontal counterparts but suffer from performance limitations associated with complex aerodynamics, in particular dynamic stall. To address this challenge, we employ deep reinforcement learning to identify optimal blade pitching policies. A framework based on the twin-delayed deep deterministic policy gradient algorithm is coupled with a validated numerical simulation of a two-bladed VAWT, aimed at maximising power generation. The agent receives only onboard measurements of blade pressure and position, rendering the problem partially observable. From these inputs, it learns policies for three distinct flow cases: one uniform flow and two shear flows. The resulting policies outperformed the optimum fixed-pitc…",
-    "authors": "Jarno Platenburg, Brice Martin, Thierry Jardin, Michaël Bauerheim",
-    "published": "2026-07-27",
-    "keywords_matched": [
-      "wind turbine",
-      "wind turbines",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Flow separation control of an infinite wing section via multi-agent reinforcement learning",
-    "doi": "10.1017/jfm.2026.11837",
-    "url": "https://doi.org/10.1017/jfm.2026.11837",
-    "abstract": "This study investigates the application of deep reinforcement learning (DRL) for active flow control in a three-dimensional NACA0012 wing section with periodic spanwise boundary conditions at low Reynolds number ( italic Re Subscript c Baseline equals 1000 Re c = 1000 $ \\textit{Re}_c=1000$ ) and high angle of attack ( AoA equals 20 Superscript ring AoA = 20 ∘ $\\text{AoA}=20^\\circ$ ), where the flow exhibits massive separation, strong vortex shedding and a chaotic three-dimensional wake. The baseline configuration is validated against previous numerical studies, showing the accuracy of the computational set-up. Two DRL control policies are trained with different reward functions, leading to fundamentally different control strategies. The DRL set-up uses a multi-agent reinforcement learning …",
-    "authors": "Ricard Montalà, Bernat Font, Pol Suárez, Jean Rabault et al.",
-    "published": "2026-07-27",
-    "keywords_matched": [
-      "wake",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Scaling the shape of shoaling and overturning solitary waves",
-    "doi": "10.1017/jfm.2026.11869",
-    "url": "https://doi.org/10.1017/jfm.2026.11869",
-    "abstract": "The shape of depth-limited overturning waves strongly influences turbulence and sediment transport in the surf zone. Bathymetric slope s s $s$ and initial wave height upper H 0 divided by h 0 H 0 / h 0 $H_0/h_0$ are key parameters that govern wave overturning shape, yet their effect has not been quantified. We use a two-dimensional fully nonlinear potential flow model to study shoaling and overturning solitary waves across a range of s s $s$ and upper H 0 divided by h 0 H 0 / h 0 $H_0/h_0$ representing spilling and plunging waves. Near-constant domain volume and energy demonstrate the model’s accuracy. Gentler slopes yield smaller, more inclined overturns with thinner jets, whereas steeper slopes produce larger, more horizontally inclined overturns with thicker jets. Wave breaking and over…",
-    "authors": "Kanoa Pick, Falk Feddersen",
-    "published": "2026-07-27",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "SST Sensitivity of Rapid Intensification in Typhoon Nanmadol (2022) Revealed by CNOP",
-    "doi": "10.1029/2026jd046367",
-    "url": "https://doi.org/10.1029/2026jd046367",
-    "abstract": "Abstract Sea surface temperature (SST) uncertainty is one of the major sources of error in tropical cyclone rapid intensification (RI) forecasts; however, the spatial sensitivity of these errors remains poorly understood. Specifically, it is still unclear which spatial pattern of SST errors has the greatest impact on RI enhancement under nonlinear model dynamics. Using the Conditional Nonlinear Optimal Perturbation of boundary condition (CNOP‐B) method within a cloud‐resolving model, we identify the SST pattern most favorable for affecting RI in Super Typhoon Nanmadol (2022) under fully nonlinear dynamics. The CNOP‐B produces a track‐following warm‐core anomaly, which strengthens RI and advances its onset by about 30 hr relative to the control simulation. The associated SST‐sensitive regio…",
-    "authors": "Kexin Song, Mu Mu, Ruifen Zhan, Yuqing Wang et al.",
-    "published": "2026-07-27",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Turbulent passive scalar transport at the canopy interface: the role of sweeps and ejections",
-    "doi": "10.1017/jfm.2026.11853",
-    "url": "https://doi.org/10.1017/jfm.2026.11853",
-    "abstract": "We present an experimental study of the vertical transport of a passive scalar, released from a localised source at the top of a two-height canopy. The study is based on simultaneous velocity and concentration measurements under neutrally stable conditions in an environmental wind tunnel. By analysing turbulent scalar diffusivity directly from our data, we identify regions of counter-gradient flux in the roughness sublayer above the canopy. Here, turbulent flux opposes the local mean concentration gradient. Quadrant analysis shows that sweep events ( w prime less than 0 comma u prime greater than 0 w ′ &lt; 0 , u ′ &gt; 0 $w' \\lt 0, u' \\gt 0$ ) entrain low-concentration air from above into the canopy. Ejection events ( w prime greater than 0 comma u prime less than 0 w ′ &gt; 0 , u ′ &lt; …",
-    "authors": "Lior Shig, Valery Babin, Yardena Bohbot-Raviv, Alexander Liberzon",
-    "published": "2026-07-24",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
