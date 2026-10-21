@@ -1,6 +1,67 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Fast and slow surfactants in turbulence-driven bubble breakup",
+    "doi": "10.1017/jfm.2026.12135",
+    "url": "https://doi.org/10.1017/jfm.2026.12135",
+    "abstract": "When a large air cavity breaks in a turbulent flow, it goes through very large deformations and cascading events of new interface formation, including elongated filaments and bubbles over a wide range of scales, with their rate of formation controlled by turbulence and capillary processes. We experimentally investigate the effects of surfactants and salt on the fragmentation of a large air cavity, and observe a fivefold increase of the number of bubbles being produced in some cases. We characterise the bubble size distribution resulting from successive breakups in such a transient configuration. For bubbles larger than the Hinze scale d Subscript upper H d H $d_H$ (defined as the balance between surface tension and turbulence stresses), we observe that bubble size distributions remain unch…",
+    "authors": "Zhan Wu, Tristan Aurégan, Luc Deike",
+    "published": "2026-10-21",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Global Multi‐Model Eddy Dissipation Rate Probability Density Functions for Clear‐Air Turbulence Under Climate Change",
+    "doi": "10.1029/2026jd047716",
+    "url": "https://doi.org/10.1029/2026jd047716",
+    "abstract": "Abstract Atmospheric turbulence poses a major risk to aviation, and it is expected to intensify as a response to climate change. The probability density functions (PDFs) of dozens of different clear‐air turbulence (CAT) diagnostics have been found to shift to higher values in response to climate change, consistent with strengthened vertical wind shear at cruising altitudes. The response of the PDF of the eddy dissipation rate (EDR), which is the internationally endorsed measure of turbulence strength, has not previously been studied, however. This study aims to quantify the impacts of these changes in the upper–tropospheric and lower–stratospheric dynamics on global CAT by 2100. By converting 21 CAT diagnostics from multiple climate model simulations into EDR for the historical period of 1…",
+    "authors": "Joana de Medeiros, Paul D. Williams",
+    "published": "2026-10-20",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Combined Assimilation of Radar and AWS Data From Mesoscale Networks for the Record‐Breaking Heavy Rainfall in China",
+    "doi": "10.1029/2026jd047246",
+    "url": "https://doi.org/10.1029/2026jd047246",
+    "abstract": "Abstract Radar data assimilation (DA) alone remains insufficient for precipitation forecasts due to the lack of thermodynamic information in the pre‐storm environment. This study investigates the assimilation of dense automatic weather station (AWS) observations from China's mesoscale network alongside radar during an extreme rainfall event caused by the remnant vortex of typhoon Haikui. Optimal sequence and scale representation of dense AWS observations within the operational two‐step DA framework are examined. Results demonstrate that adding regional AWS data to radar and national‐level observations significantly refines surface wind, temperature, and humidity analyses, directly enhancing precipitation forecasts. Notably, assimilating synoptic‐scale information followed by radar outperfo…",
+    "authors": "Haiqin Chen, Kun Zhao, Xinyu Zhang, Hao Huang et al.",
+    "published": "2026-10-20",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Characteristics, Mechanisms, and Rainfall Impacts of Warm‐Season Boundary‐Layer Jets in the Dongting‐Poyang Lake Region, South of the Middle Reach of the Yangtze River, China",
+    "doi": "10.1029/2026jd046504",
+    "url": "https://doi.org/10.1029/2026jd046504",
+    "abstract": "Abstract Boundary‐layer (BL) jets (BLJs) exhibit significant diurnal variations and can strongly influence precipitation. The Dongting‐Poyang Lake region of China experiences frequent BLJs and heavy rainfall, yet systematic studies remain limited. This study investigates southerly and northeasterly BLJs (SBLJs and NEBLJs) in the region, focusing on their spatiotemporal distributions, formation, and precipitation impacts. SBLJs occur most frequently in summer, characterized by strong, deep south–southwesterly flows with warm advection. SBLJs peak around 02:00 Beijing Time (BJT) and weaken after sunrise as the mixed BL develops, with a typical duration of 1–9 hr. NEBLJs occur mainly in spring and fall, featuring strong but shallow northeasterly flows. NEBLJs peak around 22:00 BJT, show weake…",
+    "authors": "Xiaokang Wang, Ming Xue, Yongjie Huang, Cuihong Wu et al.",
+    "published": "2026-10-20",
+    "keywords_matched": [
+      "diurnal variation"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Modulation of the Stratospheric Polar Vortex on the Precipitation Dipole Mode in Southeast China During Early‐to‐Mid Winter",
+    "doi": "10.1029/2026jd047645",
+    "url": "https://doi.org/10.1029/2026jd047645",
+    "abstract": "Abstract In this study, we investigated the linkage between the stratospheric polar vortex (SPV) and precipitation in early and mid winter (November–January; NDJ) in Southeast China, using station observations and reanalysis data sets, and verified the linkage using numerical stratospheric nudging model experiments. The results reveal that the SPV has a weak influence on the first empirical orthogonal function (EOF1) mode of precipitation over Southeast China on the interannual timescale, while the second mode (EOF2) characterized by a dipole pattern is related to the strength of SPV with a max 0.49 correlation coefficient. The downward‐propagating SPV signal modulates a Eurasian Rossby wave train characterized by anomalous cyclonic circulation over the Ural sector and anomalous anticyclon…",
+    "authors": "Guangqi Zhu, Zhexuan Xu, Xu Wang, Ruhua Zhang et al.",
+    "published": "2026-10-20",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Self-limiting turbulent drag reduction via a viscoelastic lubricating layer",
     "doi": "10.1017/jfm.2026.12167",
     "url": "https://doi.org/10.1017/jfm.2026.12167",
@@ -6111,68 +6172,6 @@
     "abstract": "Abstract This study investigates numerical error growth mechanisms associated with lateral boundary conditions (LBCs) and their sensitivity to update frequency within a “Big‐Brother” framework. Using an idealized moist WRF baroclinic wave simulation, a high‐resolution reference is compared against three nested configurations: traditional one‐way 6‐hr and 3‐hr offline updates, and a two‐way online approach. Results characterize error evolution as a hybrid process, where LBC update frequency and nesting configuration dictate the transition between externally forced boundary noise and internal intrinsic dynamics. Crucially, the two‐way configuration substantially reduces the rapid initial adjustment evident in one‐way offline experiments. In one‐way experiments, Difference Total Energy surges…",
     "authors": "Min‐Jae Lee, Sang‐Hun Park",
     "published": "2026-07-29",
-    "keywords_matched": [
-      "WRF"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Physical analysis of tonal component in flap side-edge noise generation: on the role of cross-flow wake",
-    "doi": "10.1017/jfm.2026.11785",
-    "url": "https://doi.org/10.1017/jfm.2026.11785",
-    "abstract": "This study aims to numerically investigate the flow dynamics at the flap side edge of a swept high-lift wing and its relation to the far-field noise thanks to an original scale-resolving approach coupling lattice Boltzmann method with Zonal Detached Eddy Simulation. The reason for this investigation stems from previous experimental work where it is shown that the flap noise radiated by the present configuration exhibits a quasi-tonal component of unknown origin around 6.6 kHz (Strouhal number upper S t Subscript c Sub Subscript italic flap Baseline equals 8 S t c flap = 8 ${St}_{c_{\\textit{flap}}} = 8$ based on flap chord c Subscript italic flap c flap $c_{\\textit{flap}}$ ), similar to what has been reported in other experimental studies. In light of the simulation analysis, the flow can b…",
-    "authors": "Julien Husson, Marc Terracol, Sébastien Deck",
-    "published": "2026-07-28",
-    "keywords_matched": [
-      "lattice boltzmann method",
-      "lattice boltzmann",
-      "wake"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Energy pathways and mixing transitions in stratified shear instabilities",
-    "doi": "10.1017/jfm.2026.11862",
-    "url": "https://doi.org/10.1017/jfm.2026.11862",
-    "abstract": "Stratified shear instabilities and associated turbulence can undergo an evolution cycle where the flow initially develops in two dimensions and then transitions to three dimensions before decaying and restratifying. While past studies have explored the overall energy evolution through this process, the role of pressure-mediated mechanisms, such as the redistribution of energy among different flow components, remain less understood. In this study, we expand the classical energy framework by separately tracking the energy in each directional component of the two-dimensional (2-D) and three-dimensional (3-D) flows. This is done by analysing energy budgets based on direct numerical simulations of Kelvin–Helmholtz and Holmboe instabilities. We identify four key physical pathways through which e…",
-    "authors": "Young Ro Yi, Adam Jiankang Yang",
-    "published": "2026-07-28",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Moisture Source Tracking Techniques and Physical Process Analysis Revealing Precipitation Improvement Over North America in CESM2",
-    "doi": "10.1029/2026jd046400",
-    "url": "https://doi.org/10.1029/2026jd046400",
-    "abstract": "Abstract The Community Earth System Model Version 2 (CESM2) represents a significant advancement over its predecessor in simulating global precipitation. However, the relative contributions of updated physical parameterizations versus higher model resolution have not been thoroughly investigated. Here, we focus on North America (NA), where CESM2 significantly reduces precipitation simulation biases from May to September during 2010–2019. Through comparative experiments conducted under MERRA‐2 nudging, updated physical processes notably reduce precipitation biases (&gt;45% in regions of severe precipitation biases), which surpasses the contribution of higher resolution (&lt;16%) over NA. Then, using the unique perspectives of atmospheric water tracer (AWT) and physical process analysis, we …",
-    "authors": "Peng Qian, Bin Zhu, Chen Pan, Tong Zhu et al.",
-    "published": "2026-07-28",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Rapid Outer‐Size Expansion of Typhoon Hinnamnor (2022): Role of Merger With a Tropical Depression",
-    "doi": "10.1029/2026jd046468",
-    "url": "https://doi.org/10.1029/2026jd046468",
-    "abstract": "Abstract Rapid expansion (RE) of tropical cyclones (TCs), which quickly increases their outer size and destructive potential, has not been thoroughly investigated in the merger of binary TCs. This study examines a rare case where typhoon Hinnamnor (2022) experienced RE during its merger with tropical depression (TD) 13W, growing from 125 to 275 km within 24 hr. Two experiments (with/without 13W in the initial field of simulation) were conducted to examine the roles of merger on RE. Only the experiment involving TD 13W successfully replicated the observed changes in size and intensity. While the favorable large‐scale flow caused relatively steady growth and contributed approximately 70% to the total expansion, the binary TC interaction abruptly induced the remaining 30% contribution by subs…",
-    "authors": "Minglin Zheng, Xiaodong Tang, Ze Zhang, Weimin Zhang et al.",
-    "published": "2026-07-28",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Sensitivity of NWP Over the Tibetan Plateau to Soil Moisture Uncertainties in Summer",
-    "doi": "10.1029/2026jd047335",
-    "url": "https://doi.org/10.1029/2026jd047335",
-    "abstract": "Abstract The Tibetan Plateau (TP), consisting of complex high mountains, is a key regional heat source where soil moisture (SM) modulates surface energy exchange and boundary layer processes. However, significant uncertainties (biases/errors) exist in SM data sets over the TP due to complex terrain. It is not known if and how the numerical weather prediction (NWP) of the surface meteorological fields over the TP is sensitive to these SM uncertainties. This has been investigated by using the WRF model. Two simulations for JJA 2023 were conducted, initialized with ERA5 (EXP_CTL) and GFS (EXP_GFS) SM data, representing typical errors/biases. Results show that SM uncertainties significantly alter the surface energy budget, generating differences in sensible and latent heat fluxes exceeding 300…",
-    "authors": "Peng Fan, Yang Yang, Xingwen Jiang, Guangjing Liu et al.",
-    "published": "2026-07-28",
     "keywords_matched": [
       "WRF"
     ]
