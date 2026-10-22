@@ -12,6 +12,80 @@
     ]
   },
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Diffusion-driven flow about an impermeable sphere or cylinder in a stably stratified liquid: the singular limit of small Rayleigh numbers",
+    "doi": "10.1017/jfm.2026.12152",
+    "url": "https://doi.org/10.1017/jfm.2026.12152",
+    "abstract": "When an impermeable spherical particle is suspended in stably stratified ambient salinity gradient, the curving of the constant-density surfaces gives rise to non-conservative body forces which cannot be supported by pressure gradients. As a result, fluid motion is engendered. Considering small particles, we here address the Stokes-flow limit and assess the role of solute advection, characterised by the Rayleigh number. For a purely diffusive salt transport, the velocity field attains an orientation-dependent non-decaying profile at large distances from the sphere, in contradiction to the fundamental requirement of velocity attenuation. The weak advection limit is non-uniformly valid, with advection of the ambient salinity profile entering the dominant balance at large distances. This limi…",
+    "authors": "Ehud Yariv",
+    "published": "2026-10-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Regime transitions in flow past porous spheres: the competition between internal inertial dissipation and wake suppression",
+    "doi": "10.1017/jfm.2026.12165",
+    "url": "https://doi.org/10.1017/jfm.2026.12165",
+    "abstract": "The aerodynamic drag of porous spheres is governed by a regime-dependent competition between permeability-induced drag reduction and internal inertial dissipation. Using a hierarchical constructive solid geometry framework and pore-resolved lattice Boltzmann simulations ( 0.02 less than or equals upper R e Subscript p Baseline less than or equals 200 0.02 ≤ R e p ≤ 200 $0.02 \\leq Re_{{p}} \\leq 200$ ), we identify two non-monotonic transitions. First, a porosity-driven drag reversal occurs near upper R e Subscript p Baseline almost equals 20 R e p ≈ 20 $Re_{{p}} \\approx 20$ : in the viscous regime, increased porosity mitigates resistance by relieving windward stagnation pressure; conversely, in the inertial regime, the dominance of distributed internal Forchheimer resistance creates a drag …",
+    "authors": "Yulong Wang, Yan Cui",
+    "published": "2026-10-21",
+    "keywords_matched": [
+      "lattice boltzmann",
+      "wake",
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Regularisation and validation of a depth-averaged model for granular flow consistent with the incompressible mu left parenthesis upper I right parenthesis\n                    <mml:math xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:mnf=\"http://cambridge.org/core/manifest\" xmlns:cup=\"http://contentservices.cambridge.org\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:m=\"http://cambridge.org/core/metadata\" xmlns:core=\"http://cambridge.org/core\" xmlns:c=\"http://cambridge.org/core/content\">\n                      <mml:mi>μ</mml:mi>\n                      <mml:mo stretchy=\"false\">(</mml:mo>\n                      <mml:mi>I</mml:mi>\n                      <mml:mo stretchy=\"false\">)</mml:mo>\n                    </mml:math>\n                    $\\mu (I)$\n rheology",
+    "doi": "10.1017/jfm.2026.12163",
+    "url": "https://doi.org/10.1017/jfm.2026.12163",
+    "abstract": "We present a regularised extension of a three-equation depth-averaged model for granular flows recently derived by Deléage et al. (2025 J. Fluid Mech. , vol. 1009, p. A57). The previous model was obtained consistently with the mu left parenthesis upper I right parenthesis μ ( I ) $\\mu (I)$ -rheology (where mu μ $\\mu$ denotes the friction coefficient and upper I I $I$ the inertial number), with an asymptotic expansion of the flow variables near a steady uniform flow. However, the range of slope at which steady uniform granular flows can be observed is limited, and the former model cannot be used outside this range, with a possible loss of hyperbolicity, in particular for the liquid/solid and liquid/gas transitions. We present in this paper an extension of the three-equation model, which is …",
+    "authors": "Emile Deleage, Gael Loic Richard",
+    "published": "2026-10-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Surface‐Constrained Reconstruction of Spatiotemporal Turbulence Dissipation in the Convective Boundary Layer Using Physics‐Guided Machine Learning",
+    "doi": "10.1029/2026jd047285",
+    "url": "https://doi.org/10.1029/2026jd047285",
+    "abstract": "Abstract Turbulence dissipation rate (EDR) governs the conversion of turbulent kinetic energy to heat and thereby controls vertical mixing, transport, and energy exchange in the convective boundary layer (CBL). The spatiotemporal structure of EDR remains poorly constrained, as observations are limited to point measurements or sparse vertical profiles that cannot resolve spatiotemporal evolution, hindering evaluation of planetary boundary layer (PBL) parameterizations that rely on simplified turbulence representations. Here we develop a surface‐constrained framework that reconstructs CBL EDR structure from routine surface observations by integrating mixed‐layer physical constraints with a machine‐learning mapping trained on Doppler‐lidar–retrieved EDR at the ARM SGP site. The framework expl…",
+    "authors": "Yufei Chu, Guo Lin, Jun A. Zhang, Lulin Xue et al.",
+    "published": "2026-10-21",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Retrieval of Sea Fog Top Height Over the Yellow and Bohai Seas Using Island Elevation",
+    "doi": "10.1029/2026jd047473",
+    "url": "https://doi.org/10.1029/2026jd047473",
+    "abstract": "Abstract Sea fog strongly affects marine transportation and offshore operations, yet its vertical extent remains difficult to determine over broad ocean areas. Active remote sensing can provide accurate vertical information, but its narrow sampling and low temporal resolution make it unsuitable for continuous, large‐scale monitoring of sea fog top height (SFTH). Existing widely used passive satellite cloud top height (CTH) retrieval methods are not well suited to shallow sea fog. Focusing on the Yellow and Bohai Seas, we present a daytime MODIS‐based method for retrieving SFTH by deriving a linear relationship between sea fog reflectance and SFTH, constrained by island peak elevation. This relationship is approximated by establishing a linear classification model that separates islands emb…",
+    "authors": "Pinglv Yang, Xiaofeng Zhao, Zeming Zhou, Yuzhu Tang et al.",
+    "published": "2026-10-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "HTAP3-OPNS: ozone, PM, nitrogen and sulphur deposition – multi-model experiments to support the revision of the CLRTAP Gothenburg Protocol",
+    "doi": "10.5194/gmd-19-10023-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10023-2026",
+    "abstract": "HTAP3-OPNS is a multi-model exercise designed to support the revision of the Gothenburg Protocol under the UNECE Convention on Long-Range Transboundary Air Pollution (CLRTAP). Using an ensemble of Chemical Transport Models (CTMs) and Chemistry-Climate Models (CCMs), this study investigates the long-range transport and impacts of ground-level ozone, particulate matter (PM), and nitrogen and sulphur deposition across different global regions. The project aims to assess the contributions of regional versus extra-regional emission sources, evaluate the suitability of current models, and project changes in air pollution under future emission scenarios and climate conditions. A series of perturbation simulations will enable the development of an ensemble emulator to explore and evaluate potentia…",
+    "authors": "Tim Butler, Tabish Ansari, Claudio A. Belis, Elisa Bergas-Masso et al.",
+    "published": "2026-10-21",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Global Multi‐Model Eddy Dissipation Rate Probability Density Functions for Clear‐Air Turbulence Under Climate Change",
     "doi": "10.1029/2026jd047716",
@@ -6102,78 +6176,6 @@
     "published": "2026-07-30",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "MAUSAM: An Observations‐Focused Assessment of Global AI Weather Prediction Models During the South Asian Monsoon",
-    "doi": "10.1029/2025ms005568",
-    "url": "https://doi.org/10.1029/2025ms005568",
-    "abstract": "Abstract Past evaluation of artificial intelligence (AI) weather prediction has primarily relied on reanalyses, which can obscure important deficiencies due to prevailing biases in reanalyses themselves. Here, we present MAUSAM (Measuring AI Uncertainty during South Asian Monsoon), an evaluation of seven leading AI‐based prediction systems—FourCastNet, FourCastNet‐SFNO, Pangu‐Weather, GraphCast, Aurora, AIFS, and GenCast—during the South Asian Monsoon, using ground‐based weather stations, rain gauge networks, and geostationary satellite imagery. The AI models demonstrate considerable forecast skill during the monsoon across a broad range of variables, ranging from large‐scale surface temperature and winds to precipitation and cloud cover. In addition, the models generate realistic zonal me…",
-    "authors": "Aman Gupta, Aditi Sheshadri, Dhruv Suri",
-    "published": "2026-07-30",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Virtual Soil Simulator—Finite Volume Method Implementation for the Unsaturated Porous Media Water Transport Model Including Film Flow and Isothermal Vapor Transport Phenomena",
-    "doi": "10.1029/2025ms005421",
-    "url": "https://doi.org/10.1029/2025ms005421",
-    "abstract": "Abstract Modeling unsaturated water transport in porous media traditionally relies on the Richards equation (RE) with hydraulic conductivity formulations to consider only capillary liquid water flow. However, this simplification neglects thin water films adsorbed onto particle surfaces, which can contribute significantly to flow under medium to dry conditions. Recent developments, notably the Peters–Durner–Iden (PDI) model, allow the consistent inclusion of film flow and isothermal vapor transport in unsaturated hydraulic conductivity formulations. In this study, we present Virtual Soil Simulator, an OpenFOAM‐based finite volume implementation of the RE enhanced with the PDI model to incorporate capillary, film, and vapor flow mechanisms. Model verification employed benchmark problems with…",
-    "authors": "M. Kozyra, K. Lamorski, C. Sławiński",
-    "published": "2026-07-30",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Issue Information",
-    "doi": "10.1029/jame.70422",
-    "url": "https://doi.org/10.1029/jame.70422",
-    "abstract": "No abstract is available for this article.",
-    "authors": "",
-    "published": "2026-07-30",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Optimal free-stream perturbation to an airfoil flow",
-    "doi": "10.1017/jfm.2026.11827",
-    "url": "https://doi.org/10.1017/jfm.2026.11827",
-    "abstract": "Free-stream perturbations induce large coherent structures, crucial to the laminar–turbulent transition on flight vehicles and turbine blades, significantly affecting drag, heat transfer, noise, etc. This paper computes the optimal free-stream perturbations that undergo the strongest amplification using an adjoint method, specifically for the incompressible flow around a NACA0012 airfoil, in contrast to sharp (or no) leading-edge configurations. These perturbations are examined at different angles of attack (0 Superscript ring ∘ $^{\\circ }$ – 6 Superscript ring 6 ∘ $6^{\\circ }$ ) and Reynolds numbers ( italic Re equals 1000 Re = 1000 ${\\textit{Re}} = 1000$ – 8000 8000 $8000$ ). At low angles of attack, two extreme points of energy growth emerge in the frequency–spanwise wavenumber plane, b…",
-    "authors": "Yiping Yao, Dandan Xiao, Xuerui Mao",
-    "published": "2026-07-29",
-    "keywords_matched": [
-      "heat transfer"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "The TIPMIP Earth system model experiment protocol: phase 1",
-    "doi": "10.5194/gmd-19-6941-2026",
-    "url": "https://doi.org/10.5194/gmd-19-6941-2026",
-    "abstract": "Abstract. We describe a new Earth system model (ESM) experiment protocol, as part of the international Tipping Points Modelling Intercomparison Project (TIPMIP) project. We propose this as a protocol for the Coupled Model Intercomparison Project 7 (CMIP7). The protocol requires ESMs to run in CO2-emission mode, with atmospheric CO2 a predicted variable. Forcing for the protocol consists solely of a constant emission of CO2, based on each model's transient climate response to cumulative emissions of carbon dioxide (TCRE) value, to give a common global mean surface warming rate of 2 °C per century. This positive emission (ramp-up) experiment is started from the pre-industrial state of a given model. When the ramp-up run first exceeds a specified level of global warming (2 and 4 °C) relative …",
-    "authors": "Colin Jones, Isaline Bossert, Donovan P. Dennis, Hazel A. Jeffery et al.",
-    "published": "2026-07-29",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Error Growth Characterization Associated With Lateral Boundary Conditions in Idealized Moist Baroclinic Wave Simulations",
-    "doi": "10.1029/2025ms005734",
-    "url": "https://doi.org/10.1029/2025ms005734",
-    "abstract": "Abstract This study investigates numerical error growth mechanisms associated with lateral boundary conditions (LBCs) and their sensitivity to update frequency within a “Big‐Brother” framework. Using an idealized moist WRF baroclinic wave simulation, a high‐resolution reference is compared against three nested configurations: traditional one‐way 6‐hr and 3‐hr offline updates, and a two‐way online approach. Results characterize error evolution as a hybrid process, where LBC update frequency and nesting configuration dictate the transition between externally forced boundary noise and internal intrinsic dynamics. Crucially, the two‐way configuration substantially reduces the rapid initial adjustment evident in one‐way offline experiments. In one‐way experiments, Difference Total Energy surges…",
-    "authors": "Min‐Jae Lee, Sang‐Hun Park",
-    "published": "2026-07-29",
-    "keywords_matched": [
-      "WRF"
     ]
   }
 ]
