@@ -1,6 +1,42 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Inertial gravity currents released from a lock in frames under horizontal oscillations: Analytical model",
+    "doi": "10.1017/jfm.2026.12168",
+    "url": "https://doi.org/10.1017/jfm.2026.12168",
+    "abstract": "We consider the flow of a gravity current released from a lock inside a tank which performs horizontal oscillations (equivalent to internal pressure-gradient pulses), in the buoyancy–inertia (high-Reynolds-number) regime. We develop a shallow-water model which provides clear-cut insights and simple predictions of the propagation, height and velocity fields as a function of time, for a wide range of parameters. Comparisons with the simulations of Bingol et al. (2025 J. Fluid. Mech. , vol. 1002, A14) support the approximate analysis. Moreover, we point out a new effect, called pulse-buoyancy, which was not covered by these simulation. The clear-cut predictions of the model are amenable to straightforward experimental verification, and suggest further numerical work for an as yet unexplored p…",
+    "authors": "M. Ungarish",
+    "published": "2026-10-23",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Process-based upgrades to the WRF multi-layer green-roof scheme (WRF-MLGR v2.0) and evaluation against field observations",
+    "doi": "10.5194/gmd-19-10103-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10103-2026",
+    "abstract": "Green roofs can moderate urban heat by increasing latent heat flux and reducing sensible heat flux. However, capturing these effects in models depends on accurate representation of key green-roof processes, including substrate heat and moisture transport, soil-vegetation-atmosphere energy and moisture exchanges, interactions with the underlying roof, and drainage. Here we introduce targeted, process-based updates to the green-roof scheme (hereafter, MLGR) within the multi-layer urban canopy model (BEP-BEM) in the WRF mesoscale model to address key limitations in the original formulation. The updates include a non-linear dependence of soil thermal conductivity on moisture, vegetation-modulated surface thermal conductivity, explicit soil-surface evaporation, multi-layer root water uptake for…",
+    "authors": "Alireza Saeedi, Maria Martinez Mendoza, Eric Scott Krayenhoff, James Voogt et al.",
+    "published": "2026-10-23",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Weakened Variability of Afro‐Asian Monsoonal Precipitation in Response to a Past Warm‐Cold Transition",
+    "doi": "10.1029/2026jd047222",
+    "url": "https://doi.org/10.1029/2026jd047222",
+    "abstract": "Abstract The Afro‐Asian monsoon domain faces a “wetter and more variable” paradigm under future warming, but whether a “drier and less variable” hydroclimate emerges under cooling remains unconstrained. Using a ∼1° transient global climate simulation during the Last Interglacial (130–115 ka) covering the precession‐induced warm‐cold transition, we demonstrate a general weakening trend of precipitation variability over the Afro‐Asian monsoon domain except for southern India at multiple timescales, but with divergent dynamical mechanisms. Precipitation variability changes are dynamically dominated by the vertical motion variability over the Asian monsoon domain associated with diabatic heating, while thermodynamically controlled by cooling‐induced reduced atmospheric moisture over West Afric…",
+    "authors": "Nanxuan Jiang, Qing Yan",
+    "published": "2026-10-22",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Fast and slow surfactants in turbulence-driven bubble breakup",
     "doi": "10.1017/jfm.2026.12135",
     "url": "https://doi.org/10.1017/jfm.2026.12135",
@@ -6137,42 +6173,6 @@
     "url": "https://doi.org/10.1029/2026jd046437",
     "abstract": "Abstract Anthropogenic activities are pushing key Earth system components beyond safe thresholds, disrupting economies, ecosystems, and societies. Yet, climate action remains largely rhetorical, and sustainable development has stalled. Here, we show an abrupt increase in global potential productivity loss from humid heat stress since the mid‐1980s, with India contributing over half of the total increase. This coincides with Indo‐Pacific sea surface temperatures exceeding C and rapid population growth. The loss has continued and recently crossed a critical transition, suggesting a shift to a new state. On interannual timescales, strong correlation with ENSO indicates that such losses are predictable up to 6 months in advance, offering a window for adaptive planning. These findings reveal th…",
     "authors": "Subodh Kumar Saha, Shivamurthy Yashas, B. N. Goswami",
-    "published": "2026-07-30",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Issue Information",
-    "doi": "10.1029/jgrd.70824",
-    "url": "https://doi.org/10.1029/jgrd.70824",
-    "abstract": "No abstract is available for this article.",
-    "authors": "",
-    "published": "2026-07-30",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Spectral nudging impacts on precipitation downscaling in the Conformal Cubic Atmospheric Model, version CCAM-2504: insights from summer 2011",
-    "doi": "10.5194/gmd-19-6991-2026",
-    "url": "https://doi.org/10.5194/gmd-19-6991-2026",
-    "abstract": "Abstract. This study evaluates the impacts of spectral nudging on rainfall when dynamically downscaling with the Conformal Cubic Atmospheric Model (CCAM). The study focuses on the extreme 2010–2011 La Niña, in conjunction with the Madden–Julian Oscillation (MJO), across the CORDEX–Australasia domain at 12.5 km with CCAM nested in ERA-5 reanalysis. Sixteen simulations were performed, systematically varying nudging wavelength, vertical extent, frequency, and variable choice, and evaluated against GPM-IMERG precipitation and ERA5 reanalysis. Configurations at short nudging wavelengths (∼ 500–1500 km), with high-frequency updates (1 h), and including pressure, wind and temperature delivered the most robust performance. These setups reduced large-scale rainfall biases, improved spatial and temp…",
-    "authors": "Son C. H. Truong, Marcus J. Thatcher, Phuong Loan Nguyen, Lisa V. Alexander et al.",
-    "published": "2026-07-30",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "RIME-X v1.0: combining simple climate models, Earth  system models, and climate impact models into a unified  statistical emulator for regional climate indicators",
-    "doi": "10.5194/gmd-19-6797-2026",
-    "url": "https://doi.org/10.5194/gmd-19-6797-2026",
-    "abstract": "Abstract. Many tasks in climate science, including climate impact assessment, scenario analysis, and end-to-end attribution, require efficient methods to translate a wide range of emissions scenarios into regional-scale climate indicators while explicitly accounting for uncertainty. Climate and impact model emulators are statistical models that approximate selected outputs of comprehensive models and can perform this translation. The Rapid Impact Model Emulator (RIME) uses individual simulations from climate or impact models to empirically relate global mean surface air temperature (GMT) levels to regional-scale indicators, enabling the conversion of GMT trajectories, commonly derived from Simple Climate Models (SCMs), into time series of regional climate impacts. Here, we present the Rapi…",
-    "authors": "Niklas Schwind, Mahé Perrette, Edward Byers, Annika Högner et al.",
     "published": "2026-07-30",
     "keywords_matched": [
       "ABL"
