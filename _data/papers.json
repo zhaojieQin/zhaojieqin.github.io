@@ -24,6 +24,140 @@
     ]
   },
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Intermittency and hibernation in elasto-inertial Taylor–Couette flow at moderate Reynolds number",
+    "doi": "10.1017/jfm.2026.12127",
+    "url": "https://doi.org/10.1017/jfm.2026.12127",
+    "abstract": "We investigate the presence of intermittency, a well-known phenomenon in Newtonian turbulence, in viscoelastic Taylor–Couette flow at fixed inertia, (Reynolds number, italic Re Re $\\textit {Re}$ = 120). Using particle image velocimetry measurements in the r–z plane for a broad range of elasticities, italic El El $\\textit{El}$ = 0–0.64, we reveal a dual role of viscoelasticity, even at moderate italic Re Re $\\textit {Re}$ : it can destabilise the flow and trigger turbulence at moderate elasticity but suppress turbulence intensity at higher values. Gradual turbulence suppression is evident through reduced velocity fluctuations, longer integral time scales proportional to the polymer relaxation time and weakened coherent structures as the flow approaches elasto-inertial turbulence. Higher-ord…",
+    "authors": "Theofilos Boulafentis, Tom Lacassagne, Neil Cagney, Stavroula Balabani",
+    "published": "2026-10-23",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Whistling of turbulent cavity flows: self-consistent predictions with the linearised compressible Navier–Stokes equations",
+    "doi": "10.1017/jfm.2026.12159",
+    "url": "https://doi.org/10.1017/jfm.2026.12159",
+    "abstract": "A self-consistent saturation model for the prediction of aeroacoustic limit cycles emerging in turbulent low-Mach cavity flows (Reynolds number upper R e equals script upper O left parenthesis 10 Superscript 5 Baseline right parenthesis R e = O ( 10 5 ) $Re=\\mathcal{O}(10^5)$ , Mach number upper M asymptotically equals 0.2 M ≃ 0.2 $M\\simeq 0.2$ ) is proposed. It predicts the nonlinear interactions between the acoustic modes of a deep rectangular cavity and the hydrodynamic instabilities of the turbulent shear layer that forms over its opening due to the presence of a grazing flow. The model is based on the triple decomposition of the flow variables and the compressible Navier–Stokes equations. At each step of the iterative process, the nonlinear eigenvalue problem associated with perturbat…",
+    "authors": "Nikolaos Bozikis, Thomas Hollweck, Dilara Özev, Nicolas Noiray",
+    "published": "2026-10-23",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Nonlinear regime of radially spreading extensional flows. Part 2. Power-law fluids",
+    "doi": "10.1017/jfm.2026.12158",
+    "url": "https://doi.org/10.1017/jfm.2026.12158",
+    "abstract": "Radially spreading extensional flows can become unstable and develop tearing patterns consisting of rifts and tongues. Such patterns have been observed in laboratory experiments with strain-rate-softening (shear-thinning) polymer solutions and in spreading ice shelves. Linear stability analysis predicts that axisymmetric spreading of power-law fluids becomes unstable when the fluid is shear thinning. However, understanding the emergence and evolution of rifts requires analysis of the nonlinear flow regime. In Part 1 of this study we developed a numerical simulation of the full nonlinear equations and showed that Newtonian fluids remain globally stable, consistently with theoretical predictions and experimental observations. Here we extend that framework to explore power-law fluids. We demo…",
+    "authors": "Lielle Stern, Roiy Sayag",
+    "published": "2026-10-23",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Spanwise flow correction model for blade element theory considering geometric effects by symbolic regression",
+    "doi": "10.1017/jfm.2026.12086",
+    "url": "https://doi.org/10.1017/jfm.2026.12086",
+    "abstract": "The finite span and twist of wind turbine blades induce spanwise flow, along with a tip vortex. Conventional blade element theory, rooted in a two-dimensional assumption, cannot capture these spanwise effects. However, most existing three-dimensional (3-D) corrections neglect intrinsic geometric effects leading to inaccuracies near the tip and in non-rotating cases. To address this, we propose the 3-D geometric effects model incorporating axial and radial velocity factors (3-DGAR model), a physically consistent correction to blade element momentum theory. The model captures two fundamental phenomena: downwash that modifies the local effective angle of attack and tip pressure loss driven by radial velocity transport. A coherent physical pathway from the tip vortex to load reduction is estab…",
+    "authors": "Zijie Shi, Chuanqiang Gao, Kaijun Zhang, Weiwei Zhang",
+    "published": "2026-10-23",
+    "keywords_matched": [
+      "wind turbine",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Distributed roughness-induced transition on a blunt body at Mach 6: a numerical investigation",
+    "doi": "10.1017/jfm.2026.12154",
+    "url": "https://doi.org/10.1017/jfm.2026.12154",
+    "abstract": "Surface roughness significantly impacts transition to turbulence, especially over high-speed, blunt geometries where surface ablation is necessary to mitigate heat loads during atmospheric entry. Inspired by sand-grain roughness experiments performed by Hollis (2017), we perform the first direct numerical simulation of a blunt cylinder in Mach 6 cross-flow with roughness elements distributed along the entire surface. Such simulations aimed to uncover the precise means by which laminar–turbulent transition occurs given the limited measurements attainable from experiments and non-existent high-fidelity simulations. Element heights were held fixed at approximately 35 % boundary-layer thickness, while the relative phasing between streamwise rows was varied. All configurations exhibited convect…",
+    "authors": "Sean Dungan, Mateus Braga, Robyn Macdonald, Christoph Brehm",
+    "published": "2026-10-23",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Flow in a narrow-gap annulus: drag reduction by inner cylinder azimuthal oscillation",
+    "doi": "10.1017/jfm.2026.12083",
+    "url": "https://doi.org/10.1017/jfm.2026.12083",
+    "abstract": "The axial flow through a thin gap between two concentric cylinders is investigated using direct numerical simulation (DNS) of the Navier–Stokes equations. It is shown that by imposing a stationary, harmonic, azimuthal velocity at the inner cylinder wall, drag reduction is always attained while power saving is limited to a portion of the explored amplitude–axial wavelength space. The largest values of drag reduction and power saving are 44 percent sign 44 % $44\\,\\%$ and 11 percent sign 11 % $11\\,\\%$ , respectively, obtained for different amplitude–axial wavelength pairs. It has been verified that the effect of such a control on a convex surface aligns well with the known concept in plane channel flows of depressing in turn the pressure–strain, the radial Reynolds stress, the turbulent shear…",
+    "authors": "Marcello Manna, Andrea Vacca, Roberto Verzicco",
+    "published": "2026-10-23",
+    "keywords_matched": [
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On the spatio-temporal dynamics of turbulent flow separation over a fence with a splitter plate in uniform flow",
+    "doi": "10.1017/jfm.2026.12054",
+    "url": "https://doi.org/10.1017/jfm.2026.12054",
+    "abstract": "The spatial and temporal dynamics of separated flow induced by a fence with a splitter plate in uniform flow at moderate Reynolds numbers were investigated using time-resolved particle image velocimetry. The Reynolds numbers, based on the free-stream velocity and the fence height above the splitter plate, were 2700, 5500 and 7500. The mean separated flow is characterised by a large primary clockwise recirculating vortex above the splitter plate and a smaller counter-rotating secondary vortex in the corner of the fence and splitter plate. Guided by different vorticity thickness growth rates, the separated shear layer is partitioned into four regions, whose dynamics are governed by the initial roll-up, shear layer stabilisation, wall-induced large-scale vortex breakdown and post-reattachment…",
+    "authors": "Jinhao Kang, Mark Francis Tachie",
+    "published": "2026-10-23",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Stratospheric Circulation in the Southern Hemisphere: Links to Tropical Winds, Ozone, and the Hunga Eruption—Part 1: Evidence From ERA5 Reanalysis",
+    "doi": "10.1029/2025jd045484",
+    "url": "https://doi.org/10.1029/2025jd045484",
+    "abstract": "Abstract The interannual variability of the Southern Hemisphere polar vortex plays a key role in ozone depletion and recovery but this variability and its teleconnection patterns are less understood than in the Northern Hemisphere. Using ERA5 reanalysis data from 1980 to 2022 (43 years), we studied the variability of the Southern Hemisphere vortex by focusing on the location of the winter jet maximum in the upper stratosphere (1 hPa). We identify two dominant modes: In the first one, the core of the jet at 1 hPa remains at lower latitudes (40°S–50°S, LLJ) throughout austral winter (9 years, including 2022 following the Hunga eruption). In the second mode, the core of the jet shifts poleward (60°S–70°S, HLJ) in mid‐July and stays at high latitudes throughout August (15 years, including the …",
+    "authors": "Wandi Yu, Xinyue Wang, William J. Randel, Rolando R. Garcia et al.",
+    "published": "2026-10-23",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Water Vapor Transport Mechanisms During the Henan ‘7.20’ Extreme Rainfall Event Inferred From GNSS, ERA5, and GDAS1 Data",
+    "doi": "10.1029/2026jd047694",
+    "url": "https://doi.org/10.1029/2026jd047694",
+    "abstract": "Abstract The processes linking remote moisture supply to extreme inland rainfall remain insufficiently quantified. This study integrates high‐frequency Global Navigation Satellite System‐derived Precipitable water vapor (PWV) (GNSS‐derived PWV), radiosonde observations, ERA5 reanalysis, a four‐boundary moisture budget, HYSPLIT trajectories, and moist potential vorticity diagnostics for the July 2021 Henan extreme rainfall event. GNSS and ERA5 capture similar regional moisture evolution, while GNSS resolves sharper station‐scale variations. Absolute PWV has its strongest regional correlation with subsequent rainfall at a 7‐hr lead, whereas the 3‐hr PWV change identifies a 2–6 hr precursor window, with maximum correlation at 4 hr. Eastern transport contributes 85% of gross inflow during prec…",
+    "authors": "Liangke Huang, Jianeng Jiang, Peng Yuan, Ge Zhu et al.",
+    "published": "2026-10-23",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Tidal Variability in the Lower Thermosphere: Relative Importance of ENSO, QBO, PJO, MJO, and Ly\n                    <i>α</i>",
+    "doi": "10.1029/2026jd046796",
+    "url": "https://doi.org/10.1029/2026jd046796",
+    "abstract": "Abstract Atmospheric tides in the lower thermosphere play an important role in regulating upper‐atmospheric conditions relevant to space weather. However, their spatial and temporal variability remains poorly understood, apart from seasonal variations. Previous studies have shown that tides can be influenced by meteorological and solar conditions. This study clarifies the relative importance of the El Niño‐Southern Oscillation (ENSO), the Quasi‐Biennial Oscillation (QBO), the Northern and Southern Polar‐night Jet Oscillations (NPJO and SPJO), the Madden‐Julian Oscillation (MJO), and Lyman‐alpha (Ly) radiation to tidal variability in the lower thermosphere. Tides at 80–110 km are derived from hourly temperature and wind fields in the JAGUAR‐DAS Whole neutral Atmosphere Reanalysis (JAWARA) f…",
+    "authors": "Yosuke Yamazaki, Huixin Liu, Kaoru Sato, Dai Koshin et al.",
+    "published": "2026-10-23",
+    "keywords_matched": [
+      "tidal"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Stratospheric Circulation in the Southern Hemisphere: Links to Tropical Winds, Ozone and the Hunga Eruption—Part II: Evidence From a Global Chemistry‐Climate Model",
+    "doi": "10.1029/2025jd045483",
+    "url": "https://doi.org/10.1029/2025jd045483",
+    "abstract": "Abstract The Southern Hemisphere (SH) stratospheric circulation can be categorized based upon the development of a Low‐Latitude Jet (LLJ) in the upper stratosphere during winter months. We analyze the dynamics of the LLJ based on a large ensemble of chemistry‐climate model simulations, supported by reanalysis data. The LLJ is associated with westerly wind anomalies in the middle and upper stratosphere during mid‐winter, coupled with weak planetary wave activity and a slower Brewer‐Dobson circulation. Circulation effects extend into the tropical upper stratosphere, where the LLJ impacts the tropical semi‐annual oscillation (SAO). Additionally, the LLJ is linked to a persistent, strong polar vortex in the lower stratosphere during October–December. This cold, strong vortex is associated with…",
+    "authors": "Xinyue Wang, Wandi Yu, William Randel, Rolando Garcia et al.",
+    "published": "2026-10-23",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Weakened Variability of Afro‐Asian Monsoonal Precipitation in Response to a Past Warm‐Cold Transition",
     "doi": "10.1029/2026jd047222",
@@ -6039,142 +6173,6 @@
     "published": "2026-07-31",
     "keywords_matched": [
       "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Subseasonal Prediction of the Wintertime North Pacific Blocking in AI‐Based Weather Models",
-    "doi": "10.1029/2026jd046695",
-    "url": "https://doi.org/10.1029/2026jd046695",
-    "abstract": "Abstract Recent studies have demonstrated that AI‐based weather models exhibit reasonably encoded atmospheric dynamics and skill of short‐term forecasting comparable to physics‐based models. However, it remains unclear whether AI‐based weather models can simulate system‐oriented dynamics and provide skillful predictions across subseasonal timescales. Here, we assess the simulation of the North Pacific blocking and its subseasonal prediction skill in three weather models with a hierarchical implementation of AI: ECMWF IFS (full‐physics), NeuralGCM (hybrid), and Pangu‐Weather (data‐driven). While all models reproduce blocking frequency well at 1–2 week lead times, biases diverge when the lead time increases to 3–4 weeks. ECMWF IFS overpredicts blocking frequency, related to overestimations o…",
-    "authors": "Jaeyoung Hwang, Yi Deng, Simchan Yook, Zhenyu You",
-    "published": "2026-07-31",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Comparison of two Euler equation sets in a Discontinuous Galerkin solver for atmospheric modelling (BRIDGE v0.9)",
-    "doi": "10.5194/gmd-19-7013-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7013-2026",
-    "abstract": "Abstract. The implementation of a “classical” Discontinuous Galerkin (DG) solver for atmospheric flows is presented that is designed for efficient use in numerical weather prediction, climate simulations, and meteorological research both on the whole sphere and for limited area modeling. To this purpose the horizontally explicit, vertically implicit (HEVI) approach is used together with implicit-explicit (IMEX)-Runge-Kutta (RK) time integration schemes and a moderate spatial approximation order (order 4 or 5). Two Euler equation sets using mass, momentum and either density weighted potential temperature θ or total energy E as prognostic variables are compared by several idealised test cases. Details of the formulation of the Euler equations in covariant form using the Ricci tensor calculus…",
-    "authors": "Michael Baldauf, Florian Prill",
-    "published": "2026-07-31",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Latitude‐Dependent Sensitive Areas for Targeted Observations of Mesoscale Eddies Associated With Sea Surface Height Anomaly Forecasts",
-    "doi": "10.1029/2026ms005831",
-    "url": "https://doi.org/10.1029/2026ms005831",
-    "abstract": "Abstract By employing the conditional nonlinear optimal perturbation approach within a two‐layer quasigeostrophic (QG) model, we investigate the sensitive areas for targeted observations of mesoscale eddies relevant to sea surface height anomaly (SSHA) forecasting and reveal their pronounced latitude dependence. Our results show that the spatial characteristics of sensitive areas may differ markedly among eddies located in different latitudinal bands, although these areas are generally situated in regions characterized by clear high‐to low‐velocity gradients, with velocity decreasing spatially along the direction of eddy rotation. For eddies at high latitudes, sensitive areas are primarily located in regions exhibiting the most pronounced high‐to low‐velocity gradients within the vortex. H…",
-    "authors": "Lin Jiang, Wansuo Duan, Hui Wang",
-    "published": "2026-07-31",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Gradient‐Free Online Learning of Subgrid‐Scale Dynamics With Neural Emulators",
-    "doi": "10.1029/2023ms004140",
-    "url": "https://doi.org/10.1029/2023ms004140",
-    "abstract": "Abstract In this paper, we propose a generic algorithm to train machine learning‐based subgrid parametrizations online, that is, with a posteriori loss functions, but for non‐differentiable numerical solvers. The proposed approach leverages a neural emulator to approximate the reduced state‐space solver, which is then used to allow gradient propagation through temporal integration steps. We apply this methodology on a chaotic two‐timescales Lorenz‐96 system and a single layer quasi‐geostrophic system with zonal dynamics, known to be highly unstable with offline strategies. Using our algorithm, we are able to train a parametrization that recovers most of the benefits of online strategies without having to compute the gradient of the original solver. We found that training the neural emulato…",
-    "authors": "H. Frezat, R. Fablet, G. Balarac, J. Le Sommer",
-    "published": "2026-07-31",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Modelling droplet–particle interactions on solid surfaces by coupling the lattice Boltzmann and discrete element methods",
-    "doi": "10.1017/jfm.2026.11865",
-    "url": "https://doi.org/10.1017/jfm.2026.11865",
-    "abstract": "We develop a three-dimensional numerical scheme for investigating interfacial flows coupled with frictional solid particles. Our approach combines the lattice Boltzmann method (LBM) to model the dynamics of a two-component fluid, and the discrete element method (DEM) to model normal reaction, sliding friction and rolling friction between solid particles and between particles and solid surfaces. Key to the coupling between the fluid and particle dynamics are the momentum exchange method to transfer hydrodynamic forces between the fluids and particles, a geometric boundary condition to tune particle wettability, and a capillary force model describing surface tension forces between particles and liquid–fluid interfaces. We rigorously validate the contact forces by investigating the dynamics o…",
-    "authors": "Abhinav Naga, Xitong Zhang, Junyu Yang, Halim Kusumaatmaja",
-    "published": "2026-07-30",
-    "keywords_matched": [
-      "lattice boltzmann method",
-      "lattice boltzmann",
-      "LBM"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Steady shock reflection over the full range of geometric set-ups",
-    "doi": "10.1017/jfm.2026.11845",
-    "url": "https://doi.org/10.1017/jfm.2026.11845",
-    "abstract": "In steady supersonic flows over a symmetric wedge, the shock reflection pattern is fundamentally constrained by the relative trailing edge height g g $g$ , especially by the lower limit (for start flow), the upper limit (for interference-free incident shock) and the geometric transition limit. Using a recent calibrated model for the Mach stem height (Li &amp; Bai, 2026, J. Fluid Mech., vol. 1031, A27), we quantify the lower and upper limits of Mach reflection (MR) across the entire parameter space, which has been impossible due to lack of a suitable Mach stem height model. A maximum point of the dual-solution stability gap – i.e. the gap between the lower limits of MR and regular reflection (RR) – is found at Mach number almost equals 6.2 ≈ 6.2 $\\approx 6.2$ and wedge angle almost equals 2…",
-    "authors": "Xue-Ying Wang, Jie Peng, Zi-Niu Wu",
-    "published": "2026-07-30",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Robust reactive control of 3-D instabilities in a supersonic boundary layer",
-    "doi": "10.1017/jfm.2026.11856",
-    "url": "https://doi.org/10.1017/jfm.2026.11856",
-    "abstract": "We consider a three-dimensional (3-D) supersonic boundary layer at upper M Subscript normal infinity Baseline equals 4.5 M ∞ = 4.5 $M_{\\infty }=4.5$ and focus on obtaining a robust law by means of localized sensors and actuators to control finite-amplitude 3-D instabilities and delay transition to turbulence. This study extends the methodology developed for spanwise invariant flow in Nibourel et al. (2023 J. Fluid Mech . 954 , A20; Nibourel et al. 2024 AIAA J . 62 (3), 896–914), to the 3-D case: the control law is still built using linear tools, but the multiple-input–multiple-output centralized problem is transformed into several single-input–single-output decentralized problems in the transverse wavenumber space to simplify model identification and controller synthesis. Thanks to the fee…",
-    "authors": "Pierre Nibourel, Colin Leclercq, Fabrice Demourant, Eric Garnier et al.",
-    "published": "2026-07-30",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Optimal airfoils in the intermediate-Reynolds-number range",
-    "doi": "10.1017/jfm.2026.11852",
-    "url": "https://doi.org/10.1017/jfm.2026.11852",
-    "abstract": "We revisit a classical airfoil design problem: the search for shapes that maximise aerodynamic performance metrics, targeting the underexplored intermediate Reynolds-number regime between 1 and 3000, relevant to small animals and miniature vehicles. The problem is formally stated as the glide ratio or the endurance factor maximisation for Joukowski airfoil profiles and for more general airfoil shapes with adjustable position of the maximum camber, under steady inflow. It is solved numerically by a hybrid approach combining stochastic search and direct parameter sweep, and using a steady laminar Navier–Stokes solver based on conformal mapping and second-order finite-difference discretisation. Zero-thickness cambered airfoils are found to be globally optimal, within the Joukowski family, acr…",
-    "authors": "Gleb Zhdanko, Dmitry Kolomenskiy",
-    "published": "2026-07-30",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Validation and extension of an analytical momentum availability model for the two-scale momentum theory of wind farm flows",
-    "doi": "10.1017/jfm.2026.11817",
-    "url": "https://doi.org/10.1017/jfm.2026.11817",
-    "abstract": "A key parameter in the two-scale momentum theory of wind farm flows is the momentum availability, which quantifies the supply of momentum to a wind farm from various different momentum transport mechanisms (advection, pressure gradient, Coriolis, turbulence and unsteadiness). In this study, the contribution of each of these mechanisms to the momentum availability is evaluated directly from large-eddy simulation data in order to validate an analytical momentum availability model (Kirby, Dunstan &amp; Nishino 2023 J. Fluid Mech. , vol. 976 , A24). Analysis of six wind farm cases, three with different atmospheric boundary-layer (ABL) heights and three with different turbine layouts, reveals that advection, pressure gradient forcing and turbulence are the dominating mechanisms in all cases, as…",
-    "authors": "Mads Baungaard, Takafumi Nishino, Andrew Kirby",
-    "published": "2026-07-30",
-    "keywords_matched": [
-      "wind farm",
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Quantifying Methane Emissions From a Rich Fen With Uncrewed Aircraft Systems in Boreal Alaska",
-    "doi": "10.1029/2026jd046424",
-    "url": "https://doi.org/10.1029/2026jd046424",
-    "abstract": "Abstract Thawing of permafrost in northern latitudes is accelerating, potentially releasing substantial amounts of methane (CH 4 ) as forested permafrost plateaus transition into wetlands. This ecosystem shift alters the carbon exchange between the soil and atmosphere, influencing the permafrost‐carbon feedback. Monitoring these changes may require measurement platforms operating across varied spatial and temporal scales. Recent advancements in small uncrewed aircraft systems (sUAS) enable high resolution CH 4 flux quantification in remote, complex terrains; however, comparisons with established methods such as eddy covariance flux towers remain limited. We used a hexacopter sUAS to quantify CH 4 emissions from the Alaska Peatland Experiment, a wetland within the Bonanza Creek Experimental…",
-    "authors": "J. M. Tomlin, C. Edgar, E. Serocki, E. S. Euskirchen et al.",
-    "published": "2026-07-30",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Rapid Increase in Tropical Humid Heat Stress and Its Predictability in a Warming World",
-    "doi": "10.1029/2026jd046437",
-    "url": "https://doi.org/10.1029/2026jd046437",
-    "abstract": "Abstract Anthropogenic activities are pushing key Earth system components beyond safe thresholds, disrupting economies, ecosystems, and societies. Yet, climate action remains largely rhetorical, and sustainable development has stalled. Here, we show an abrupt increase in global potential productivity loss from humid heat stress since the mid‐1980s, with India contributing over half of the total increase. This coincides with Indo‐Pacific sea surface temperatures exceeding C and rapid population growth. The loss has continued and recently crossed a critical transition, suggesting a shift to a new state. On interannual timescales, strong correlation with ENSO indicates that such losses are predictable up to 6 months in advance, offering a window for adaptive planning. These findings reveal th…",
-    "authors": "Subodh Kumar Saha, Shivamurthy Yashas, B. N. Goswami",
-    "published": "2026-07-30",
-    "keywords_matched": [
       "ABL"
     ]
   }
