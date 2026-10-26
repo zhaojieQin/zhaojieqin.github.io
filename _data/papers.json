@@ -1,5 +1,17 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "The onset of Darcy–Forchheimer convection in an inclined porous medium with the temperature dependence of viscosity and anisotropic thermal diffusivity",
+    "doi": "10.1017/jfm.2026.12067",
+    "url": "https://doi.org/10.1017/jfm.2026.12067",
+    "abstract": "This study investigates how the impact of an internal heat source and anisotropic thermal diffusivity influences convective motion in a horizontally inclined porous medium saturated with fluid, assuming an adiabatic bottom boundary and an isothermal top boundary. Here, the momentum equation is formulated using the Darcy–Forchheimer model and assumes that the viscosity is a linear function of the temperature. Linear and nonlinear stability analyses have been conducted to determine the stability by calculating the critical Rayleigh number and the associated wavenumber. For nonlinear stability, conditional stability has been established for all initial data with higher-order norms, showing that the upper L squared L 2 $L^2$ theory is insufficient to achieve similar stability, where upper L sq…",
+    "authors": "Pallawi Bharti, Mritunjay Kumar Singh, Pappu Kumar Mourya",
+    "published": "2026-10-26",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Isotopic Compositions and Source Identification of Atmospheric Particulate Bound Cadmium in Chinese Megacities",
     "doi": "10.1029/2026jd046403",
@@ -6160,18 +6172,6 @@
     "keywords_matched": [
       "wake",
       "turbulence"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Experimental study of Mach-dependent combustion instabilities and associated performance variations in a combined-cycle scramjet",
-    "doi": "10.1063/5.0336363",
-    "url": "https://doi.org/10.1063/5.0336363",
-    "abstract": "Stable combustion across wide flight envelopes is required for robust wide-range scramjet development. However, current research is often limited to narrow Mach ranges. The coupling between flight attitudes and unsteady combustion modes is not yet fully understood. This study addresses these issues through an experiment of a 20 kg class combined-cycle scramjet across flight Mach numbers 3.0–7.0 and varying angles of attack. It establishes a physics-based experimental benchmark for interrogating Mach-dependent combustion instabilities, spectral mode transitions, and flow–combustion coupling mechanisms in the flow of combined-cycle scramjet. The results show that the equivalence ratio of flameout decreases monotonically with the increase in Mach number. It indicates enhanced autoignition pro…",
-    "authors": "Fei Qin, Mengcheng Yuan, Qianpeng Zhao, Dequan Xu et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
