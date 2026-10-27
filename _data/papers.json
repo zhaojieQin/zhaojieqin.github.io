@@ -12,6 +12,66 @@
     ]
   },
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Hydrodynamic forces in the drainage of an electrolyte confined between dielectric surfaces",
+    "doi": "10.1017/jfm.2026.12093",
+    "url": "https://doi.org/10.1017/jfm.2026.12093",
+    "abstract": "We present a theory for the hydrodynamic forces in the drainage of an electrolyte film confined between charged curved surfaces, which applies to small gaps under local equilibrium across the film thickness. We derive a local Onsager formalism describing the coupled flow rate, charge and solute fluxes, which accounts for all degrees of overlap of the electrical double layers (EDLs) and can be adapted to a variety of electrical, chemical or hydrodynamic boundary conditions. We explore in detail the case of a monovalent electrolyte with constant surface charge and no-slip boundary conditions. A complete phase diagram is established for the electro–kinetic damping, including non-overlapping EDLs at both high and low Dukhin numbers, as well as all degrees of EDLs overlap including the Gouy–Cha…",
+    "authors": "Caroline Cramail, Romain Lhermerout, Benjamin Cross, Elisabeth Charlaix",
+    "published": "2026-10-26",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Scalings of small-scale shear layers in temporally developing turbulent boundary layers",
+    "doi": "10.1017/jfm.2026.12179",
+    "url": "https://doi.org/10.1017/jfm.2026.12179",
+    "abstract": "Small-scale shear layers in temporally developing turbulent boundary layers are investigated using direct numerical simulations at momentum-thickness Reynolds numbers from 2000 to 13 000. Flow statistics are evaluated in a local coordinate system aligned with each shear layer identified by the shear intensity. Conditional mean fields show that shear layers are embedded in a biaxial strain. Near the wall, these conditional fields further reveal two distinct regions of intense rigid-body rotation beneath the shear layer, leading to momentum transfer through a mechanism consistent with counter-rotating vortex pairs. Two distinct scalings are found for the shear layers. In the logarithmic and outer layers, the mean shear-related velocity jump normal upper Delta u 3 Δ u 3 $\\Delta u_3$ and its w…",
+    "authors": "Yonggi Park, Tomoaki Watanabe, Koji Nagata",
+    "published": "2026-10-26",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Observation operator and detection limits for MODIS and VIIRS Fire Radiative Power products",
+    "doi": "10.5194/gmd-19-10123-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10123-2026",
+    "abstract": "We analyze the MODIS and VIIRS active-fire Fire Radiative Power (FRP) products, suggest an approximation for the FRP detection limit as a linear function of a pixel area, and develop analytical observation operators for both pixel-level and gridded FRP products. We have shown that the collection-6.1 of MODIS has the FRP detection limit at 3.7 MW in case of a nadir retrieval at a clear-sky night. For a daytime sideview, it reaches as high as 40 MW. For VIIRS, the smallest fire reliably detected at night is 0.5 MW. Application of the developed operators for the cross-mapping the MODIS and VIIRS datasets at the pixel/granule level confirmed their consistency. Applying the grid-level operators alongside satellite overpass and weather data, we generated global maps of fire detection probabiliti…",
+    "authors": "Mikhail Sofiev, Rostislav Kouznetsov",
+    "published": "2026-10-26",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Bypass transition beneath internal solitary waves in turbulent boundary layers",
+    "doi": "10.1017/jfm.2026.12196",
+    "url": "https://doi.org/10.1017/jfm.2026.12196",
+    "abstract": "Process-based studies of the transition to turbulence beneath internal solitary waves (ISWs) have typically assumed a laminar bottom boundary layer (BBL) and two-dimensional flow. In natural environments, however, ISWs often propagate over turbulent three-dimensional BBLs. Here, we perform three-dimensional high-resolution spectral numerical simulations of periodic ISWs of depression at momentum-thickness Reynolds numbers representative of laboratory ( upper R e Subscript upper I upper S upper W Baseline equals 300 R e I S W = 300 $Re_{ISW}=300$ ) and lake ( upper R e Subscript upper I upper S upper W Baseline equals 900 R e I S W = 900 $Re_{ISW}=900$ ) scale conditions to examine how ambient turbulence modifies the transition to turbulence beneath ISWs. When the ambient flow is laminar, t…",
+    "authors": "Andrés Posada-Bedoya, Jason Olsthoorn, Leon Boegman",
+    "published": "2026-10-25",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Interannual Changes in Springtime Near‐Surface Wind Speed Over Eastern China Associated With the Nonlinear Combined Effects of Large‐Scale Circulation Changes",
+    "doi": "10.1029/2026jd047467",
+    "url": "https://doi.org/10.1029/2026jd047467",
+    "abstract": "Abstract Near‐surface wind speed (NSWS) is a key meteorological variable regulating energy, water vapor, and momentum exchanges between the land surface and the planetary boundary layer. While long‐term trends and interdecadal variability of NSWS have been extensively investigated in China, the causes of its interannual variability remain insufficiently understood. This study conducts a analysis of springtime NSWS (NSWSspr) over eastern China during 1970–2020, identifies the underlying causes of its interannual change. Results indicate that NSWSspr exhibited a statistically robust quasi‐four‐year oscillation, and it was modulated by coordinated anomalies in large‐scale atmospheric circulations over the North Pacific, Northeast Asia, and the Northwest Pacific. Specifically, the simultaneous…",
+    "authors": "Jinlin Zha, Yu Zhang, Ting Chuan, Wenxuan Fan et al.",
+    "published": "2026-10-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Isotopic Compositions and Source Identification of Atmospheric Particulate Bound Cadmium in Chinese Megacities",
     "doi": "10.1029/2026jd046403",
@@ -6111,67 +6171,6 @@
     "published": "2026-08-01",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Study on aerodynamic characteristics and flow field mechanisms of two tandem rectangular columns with varying width-to-thickness ratios at\n                    <i>Re</i>\n                     \n                    <b>=</b>\n                     5.32\n                    <b>×</b>\n                    104",
-    "doi": "10.1063/5.0341091",
-    "url": "https://doi.org/10.1063/5.0341091",
-    "abstract": "This study investigates the aerodynamic characteristics and flow mechanisms of two tandem rectangular columns with varying width-to-thickness ratios using wind tunnel tests and large eddy simulations. The width-to-thickness ratio (B/D, streamwise width to transverse thickness) varied from 1/4 to 1/1, and the spacing ratio (L/B, spacing to width) ranged from 0.2 to 20. The Reynolds number (Re) was fixed at 5.32 × 104. Four distinct flow states, namely, single bluff body, reattachment, bistable, and co-shedding, were identified with increasing L/B. As B/D decreases, flow state transitions occur at larger L/B values, and the bistable range expands. Under the single bluff body state, a significant amplification effect is observed in both the mean drag coefficient of the upstream column and the…",
-    "authors": "Huimin Jiang, Tianwei Sun, Qingjuan Meng, Chaoyi Ma et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Experimental and numerical investigation of flow characteristics of a novel tubeless vortex reducer with integrated deswirl nozzles",
-    "doi": "10.1063/5.0342543",
-    "url": "https://doi.org/10.1063/5.0342543",
-    "abstract": "A novel tubeless vortex reducer with integrated deswirl nozzles is proposed to suppress the non-monotonic flow characteristics of the traditional vortex reducer. The flow characteristics of this vortex reducer are investigated through numerical simulations and experiments. The integrated nozzles consist of two types of nozzles: the main nozzles and the auxiliary nozzles, which have distinct geometric shapes. Utilizing the distinctions in flow characteristics between two varieties of nozzles, differing flow distribution ratios are achieved at varying flow rates. At low flow rates, the auxiliary nozzles are effectively “closed” due to the fact that virtually no fluid is passing through them. This enhances the deswirl effect, thereby reducing the pressure drop at the lower knee of the vortex …",
-    "authors": "Yang Xu, Peng liu, Yaokun Guan, Chuankai Liu et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "On the vortex ring dynamics in liquid films upon droplet impact",
-    "doi": "10.1063/5.0344274",
-    "url": "https://doi.org/10.1063/5.0344274",
-    "abstract": "We present a systematic experimental investigation of the formation, evolution, and breakdown of vortex rings confined in a liquid film generated by droplet impact, with particular emphasis on their emergence and role in governing momentum and mass transport under confinement. Using time-resolved particle image velocimetry and laser-induced fluorescence, we elucidate how film thickness and impact conditions control vortex ring dynamics. Three distinct phases are identified: (i) the formation and radial expansion of a primary vortex ring, (ii) the generation of additional vortex rings driven by boundary-layer separation at the substrate, and (iii) the onset of azimuthal instabilities leading to vortex ring breakdown. We demonstrate that confinement by the liquid film promotes early vortex–w…",
-    "authors": "Hatim Ennayar, Juan Camilo Dueñas Torres, Philipp Brockmann, Hyoungsoo Kim et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Phase behavior and flow mechanisms of CO2–hydrocarbon under nanoconfinement in shale nanopores",
-    "doi": "10.1063/5.0339430",
-    "url": "https://doi.org/10.1063/5.0339430",
-    "abstract": "With the large-scale deployment of carbon capture, utilization, and storage, CO2 has been widely applied for enhanced oil recovery in shale reservoirs. However, strong nanoconfinement in shale nanopores induces CO2–hydrocarbon phase behavior and transport mechanisms that cannot be adequately described by conventional theories or microscale experiments. To address this issue, an integrated framework combining theoretical development, experimental emulation, and numerical modeling is established to investigate phase behavior and transport in shale 15 nanopores. A gas–liquid–adsorbed three-phase equilibrium algorithm is developed based on thermodynamic principles and coupled with a simplified local density functional theory to characterize adsorption under confinement. Meanwhile, a customized…",
-    "authors": "Zhengdong Lei, Yuhan Wang, Yishan Liu, Dong Feng et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Flow reorganization and Curle-related source redistribution by a boxfish-inspired fairing in confined high-blockage elevator flow",
-    "doi": "10.1063/5.0344637",
-    "url": "https://doi.org/10.1063/5.0344637",
-    "abstract": "An ultra-high-speed elevator operating in a narrow hoistway generates a confined high-blockage flow, with windward compression, annular-gap acceleration, leeward separation, wake development, and wall-pressure fluctuations that govern aerodynamic forces and aeroacoustic radiation. In this study, the elevator car is treated as a confined bluff body, and a boxfish-inspired multi-curvature fairing (bionic configuration) is constructed from the leading-edge contour of a boxfish snout. Its performance is compared with a no-fairing baseline (none configuration) and an arc-shaped reference fairing (general configuration). A staged turbulence-modeling strategy combining the renormalization-group k−ε model and large-eddy simulation is used to resolve the unsteady flow field, and Curle's acoustic an…",
-    "authors": "Lulu Zhang, Xiang Liu, Wenqi Huang, Qin He",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "wake",
-      "turbulence"
     ]
   }
 ]
