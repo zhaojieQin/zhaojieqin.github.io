@@ -1,5 +1,53 @@
 [
   {
+    "journal": "Geoscientific Model Development",
+    "title": "OceanTracker 0.5: fast adaptable Lagrangian particle  tracking in structured and unstructured grids",
+    "doi": "10.5194/gmd-19-10223-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10223-2026",
+    "abstract": "Particle tracking is frequently used to compute particle movements within hydrodynamic ocean models; however, modelling millions of particles is computationally challenging. OceanTracker is designed to reduce the time required to obtain results from particle tracking. Firstly, OceanTracker is computationally efficient, allowing users to simulate large numbers of particles in complex coastal environments, enabling improved statistics and exploration of a wider range of cases within acceptable run times. Secondly, OceanTracker can calculate multiple particle statistics during the computational run, eliminating the need to record and post-process large volumes of particle trajectories. The adaptability of OceanTracker's modular computational pipeline allows users to add and modify components …",
+    "authors": "Ross Vennell, Laurin Steidle, Malcolm Smeaton, Romain Chaput et al.",
+    "published": "2026-10-28",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Observed Characteristics and Formation Mechanisms of Record‐Low Western North Pacific Tropical Cyclone Landfalls Over China in Summer 2024",
+    "doi": "10.1029/2026jd046316",
+    "url": "https://doi.org/10.1029/2026jd046316",
+    "abstract": "Abstract Summer 2024 observed a record‐low tropical cyclone (TC) landfall activity over China, with only two landfalls representing a 59.8% reduction from the 1979–2023 climatological mean. This study investigates the characteristics and underlying mechanisms of this extreme suppression, revealing distinct monthly variations driven by divergent genesis‐related factors. In June, no TCs formed, attributable to an anomalously strong and westward‐extended western Pacific subtropical high (WPSH) that suppressed monsoon trough‐associated convection. July recorded near‐normal landfall frequency despite moderately suppressed genesis, as westward‐displaced TC formations and southeasterly steering flows favored TC tracks toward southeastern China. In August, extreme landfall suppression (zero landfa…",
+    "authors": "Yulian Tang, Jingliang Huangfu, Qingtian Shi, Wen Chen et al.",
+    "published": "2026-10-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Mid‐to‐High‐Latitude Air‐Sea Interactions Facilitate the Synchronization of the East Asian Winter Monsoon System Components",
+    "doi": "10.1029/2026jd047736",
+    "url": "https://doi.org/10.1029/2026jd047736",
+    "abstract": "Abstract East Asian winter monsoon (EAWM) is a powerful circulation system that profoundly influences both regional and global climate. While extensive studies have explored the factors driving the EAWM variation, recent studies reveal that the EAWM is not always an integrated system, exhibiting a notable decoupling tendency in recent decades. This underscores the need to revisit the mechanisms changing the EAWM components' coherence from a hemispheric perspective. Focusing on the co‐variations between the two key EAWM components of East Asian trough (EAT) and Siberian High (SH), and combining the analyses on observations/reanalysis, atmospheric general circulation model simulations, and fully‐coupled climate model simulations, this study reveals that the in‐phase EAT‐SH variation primaril…",
+    "authors": "Shui Yu, Jianqi Sun",
+    "published": "2026-10-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Impact of Aerosol on Liquid‐Ice Phase Transition and Precipitation Formation in Mixed‐Phase Clouds: A Case Study",
+    "doi": "10.1029/2026jd047474",
+    "url": "https://doi.org/10.1029/2026jd047474",
+    "abstract": "Abstract This study investigates how aerosol perturbations influence precipitation formation in supercooled stratiform clouds with different supercooled liquid water content (SLWC). Numerical experiments are performed using the WRF‐SBM model with different concentrations of cloud condensation nuclei (CCN) and ice‐nucleating particle (IN) within the same cloud field. Two cloud systems with contrasting SLWC are identified under similar large‐scale environmental conditions. The results show that the two systems exhibit distinctly different responses to aerosol perturbations. In the low‐SLWC cloud system, precipitation is more sensitive to increased CCN. The enhancement of CCN leads to an increase in the concentration of cloud droplets and a suppression of collision‐coalescence processes. This…",
+    "authors": "Zeyong Zou, Yan Yin, Qian Chen, Chunsong Lu et al.",
+    "published": "2026-10-27",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "The onset of Darcy–Forchheimer convection in an inclined porous medium with the temperature dependence of viscosity and anisotropic thermal diffusivity",
     "doi": "10.1017/jfm.2026.12067",
@@ -69,6 +117,19 @@
     "published": "2026-10-25",
     "keywords_matched": [
       "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Effect of spanwise extension on the wake dynamics of flow around a wall-mounted prism",
+    "doi": "10.1017/jfm.2026.12187",
+    "url": "https://doi.org/10.1017/jfm.2026.12187",
+    "abstract": "The effect of spanwise extension on the wake dynamics of flow past a wall-mounted prism is investigated using direct numerical simulations at Reynolds numbers italic Re Subscript h Baseline equals 300 Re h = 300 $\\textit{Re}_h=300$ , 500 500 $500$ and 1000 1000 $1000$ and spanwise extents b divided by h equals 1 b / h = 1 $b/h=1$ , 3 3 $3$ and 5 5 $5$ . A horseshoe vortex (HsV) system forms upstream of the prism in all cases, while in most flows the leading-edge shear layer undergoes Kelvin–Helmholtz (KH) instability, generating KH vortices that evolve into arch-shaped vortices (ArcV) and subsequently hairpin vortices (HV). As italic Re Subscript h Re h $\\textit{Re}_h$ and b divided by h b / h $b/h$ increase, the wake exhibits increasingly complex vortex dynamics. At italic Re Subscript h …",
+    "authors": "Yu-Lu Liu, Qianxin Xu, Jianghua Li, Xiang Qiu et al.",
+    "published": "2026-10-25",
+    "keywords_matched": [
+      "wake",
+      "vortex"
     ]
   },
   {
@@ -6107,67 +6168,6 @@
     "url": "https://doi.org/10.1063/5.0344346",
     "abstract": "Detonation propagation in partially confined channels involves lateral expansion at the material interface, leading to energy loss and velocity deficits. We employ quasi-two-dimensional Euler equations to simulate this process and introduce the open-area ratio (α) to quantify the degree of lateral confinement. In the conventional partially confined channel (α = 1.0), the detonation ultimately fails. For α &amp;lt; 1.0, three propagation modes emerge as α decreases: intermittent transverse detonation, large-cellular detonation, and small-cellular detonation. For large α, combustion products can freely expand into the inert gas layer, resulting in energy loss and velocity deficit. With decreasing α, the narrowed lateral opening restricts expansion at the material interface, suppressing energ…",
     "authors": "Huangwei Chen, Yuejin Zhu, Minghao Zhao, Hua Qiu",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Predicting particle migration in helical microchannels via a lift-drag model incorporating secondary flow torsion effects",
-    "doi": "10.1063/5.0342743",
-    "url": "https://doi.org/10.1063/5.0342743",
-    "abstract": "Helical microchannels induce stable secondary flow for high-precision particle manipulation. However, current studies neglect the effect of flow torsion on particle migration, resulting in an unclear understanding of the particle evolution in helical microchannels. This study develops a helical channel-based microfluidic platform and establishes a lift-drag particle migration model in the helical orthogonal coordinate system to clarify the particle migration mechanism under torsion effect. This model combines inertial lift from direct numerical simulation results with secondary flow drag based on the velocity field and simplifies the particle force in the helical channel to a two-dimensional rotating coupled force field. Using the lift-drag model and microfluidic particle-tracking experime…",
-    "authors": "Yong Liu, Mingyi Liang, Ping Liu, Tingting Zheng et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Atomization and combustion characteristics of a coaxial direct-flow injector at subcritical pressure",
-    "doi": "10.1063/5.0344245",
-    "url": "https://doi.org/10.1063/5.0344245",
-    "abstract": "To investigate the atomization and combustion of a coaxial direct-flow injector at subcritical pressure, this paper develops a volume-of-fluid-based integrated method that uniformly solves liquid core breakup, droplet formation, evaporation, and gas-phase combustion. The results reveal three novel fluid-physics insights. First, the high-evaporation region appears as a thin layer wrapping droplet clusters, while the flame front consistently lags behind the clusters, establishing a transient evaporation–mixing–reaction three-stage structure contrary to the assumption of instantaneous mixing. Second, the combustion exhibits a dual-mode characteristic: a premixed flame anchors the root, whereas the main shear layer is dominated by diffusion combustion. Third, large-scale vortices intermittentl…",
-    "authors": "Xiao Yao, Jianwen Yang, Jiwu Liu, Lixin Zhou et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Learning Vertical Coordinates via Automatic Differentiation of a Dynamical Core",
-    "doi": "10.1029/2025ms005711",
-    "url": "https://doi.org/10.1029/2025ms005711",
-    "abstract": "Abstract Terrain‐following coordinates in atmospheric models often imprint their grid structure onto the solution, particularly over steep topography, where distorted coordinate layers can generate spurious horizontal and vertical motion. Standard formulations, such as hybrid or SLEVE coordinates, mitigate these errors by using analytic decay functions controlled by heuristic scale parameters that are typically tuned by hand and fixed a priori. In this work, we propose a framework that defines a parametric vertical coordinate system as a learnable component within a differentiable dynamical core. We develop an end‐to‐end differentiable numerical solver for the two‐dimensional non‐hydrostatic Euler equations on an Arakawa C‐grid, and introduce a NEUral Vertical Enhancement (NEUVE) terrain‐f…",
-    "authors": "Tim Whittaker, Seth Taylor, Elsa Cardoso‐Bihlo, Alejandro Di Luca et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Two-dimensional numerical simulation of R245fa flow boiling heat transfer in a horizontal microchannel",
-    "doi": "10.1063/5.0338156",
-    "url": "https://doi.org/10.1063/5.0338156",
-    "abstract": "A two-dimensional numerical simulation is conducted based on the volume of fluid model to investigate the bubble dynamics, flow pattern evolution, and heat transfer characteristics of dispersed bubbly/slug flow during flow boiling in a horizontal microchannel. The results indicate that the heat transfer coefficient (HTC) increases monotonically with flow velocity due to the thinning of the thermal boundary layer, whereas a higher saturation temperature reduces the HTC because of reduced latent heat and weaker bubble-induced turbulence. A significant non-monotonic gravity effect is revealed in microchannel flow boiling, with a pronounced risk of dry-out under high gravity conditions, which is closely related to bubble departure frequency, flow disturbance characteristics, and flow pattern t…",
-    "authors": "Chong Li, Quanquan Yang, Zhong Chen, Siliang Du et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "turbulence",
-      "heat transfer"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Direct-current electrospray dynamics in power-law non-Newtonian fluids",
-    "doi": "10.1063/5.0348689",
-    "url": "https://doi.org/10.1063/5.0348689",
-    "abstract": "To improve process control in microscale and nanoscale manufacturing of complex materials and precision regulation in emerging sustainable energy systems, this work numerically simulates the cone-jet electrospray formation process of power-law fluids. The results show that the power-law index has a monotonic effect on Taylor cone morphology, the internal flow field, charge transport, and droplet breakup. As the power-law index (n) increases, both the dimensionless cone length and the cone angle increase. In particular, shear-thinning fluids (n &amp;lt; 1) tend to form compact, short, and sharp menisci. The abrupt decrease in viscosity at the cone tip increases the cone-jet velocity and convective current, promoting multistage instability breakup with satellite droplets. By contrast, shear-…",
-    "authors": "Chengcheng Ao, Gaoji Huang, Xintao Wang",
     "published": "2026-08-01",
     "keywords_matched": [
       "ABL"
