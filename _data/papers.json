@@ -1,5 +1,30 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Wake transitions and scaling laws of a streamwise-rotating angular particle in an inertial flow",
+    "doi": "10.1017/jfm.2026.12195",
+    "url": "https://doi.org/10.1017/jfm.2026.12195",
+    "abstract": "The wake dynamics and regime transitions of a streamwise-rotating angular particle in an inertial flow at moderate Reynolds numbers are investigated by particle-resolved direct numerical simulations, with particular focus on a rotating cube. We first identify the mechanisms of vortex generation on the front edges and the rear face, showing that rotation-induced vortex merging governs several key regime transitions. A previously unreported spearhead regime is uncovered, characterised by a helical near-wake and a steady filamentary far-wake structure. We demonstrate that it originates from the partial merging of edge vortices and the central rotation-induced vortex. Streamwise rotation is found to moderately stabilise the wake, and to induce a quadratic scaling of both the drag coefficient u…",
+    "authors": "Guodong Gai, Olivier Simonin, Anthony Wachs",
+    "published": "2026-10-29",
+    "keywords_matched": [
+      "wake",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Linear-model-based estimation of turbulent fluctuations in compressible turbulent boundary layers",
+    "doi": "10.1017/jfm.2026.12205",
+    "url": "https://doi.org/10.1017/jfm.2026.12205",
+    "abstract": "Linear-model-based estimation provides an equation-based route to reconstruct turbulent fluctuations from limited measurements, but its performance in compressible turbulent boundary layers depends critically on both the inter-layer coherence and the modelling of nonlinear forcing. This study systematically extends and assesses linear-model-based estimation for velocity and temperature fluctuations in compressible turbulent boundary layers, using a logarithmic-region measurement plane at Mach numbers upper M equals 2 M = 2 $M=2$ , 4 and 6 under both adiabatic- and cold-wall conditions. With the direct numerical simulation databases, the linear coherence spectra are first analysed. Results show that the recoverable information is mainly confined to large scales especially when the estimatio…",
+    "authors": "Yitong Fan, Hong Liu, Weipeng Li",
+    "published": "2026-10-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "OceanTracker 0.5: fast adaptable Lagrangian particle  tracking in structured and unstructured grids",
     "doi": "10.5194/gmd-19-10223-2026",
@@ -8,6 +33,44 @@
     "authors": "Ross Vennell, Laurin Steidle, Malcolm Smeaton, Romain Chaput et al.",
     "published": "2026-10-28",
     "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Issue Information",
+    "doi": "10.1029/jgrd.71133",
+    "url": "https://doi.org/10.1029/jgrd.71133",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-10-28",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Calibration guidelines and a runoff-isotope module  for lake proxy system modeling (PRYSM v2.0)",
+    "doi": "10.5194/gmd-19-10243-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10243-2026",
+    "abstract": "Lake sediments preserve information about past air temperature and precipitation, providing critical, real-world targets to validate climate models. However, these paleoclimate data encode information about multiple climate signals as well as lake dynamics, which makes comparison of paleoclimate data and model output challenging. Proxy system models (PSMs), or forward models that translate climate variables into proxy units, are tools for mechanistically interpreting paleoclimate data. PRYSM v2.0 is a PSM for paleoclimate data archived in lake sediments. Foundational to the accuracy of the PSM is a comprehensive understanding of the modern lake system supported by observations and meteorological inputs. However, two obstacles exist. First, stable oxygen and hydrogen isotope values in lake …",
+    "authors": "Rebecca G. Topness, Elizabeth K. Thomas, Michaela Fendrock, Gerard A. Otiniano",
+    "published": "2026-10-28",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "GPU-accelerated three-dimensional variational data assimilation with automatic differentiation for WRF-Chem",
+    "doi": "10.5194/gmd-19-10263-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10263-2026",
+    "abstract": "This study developed a PyTorch-based three-dimensional variational (3DVar) data assimilation system (PY3DVar) for the Weather Research and Forecasting model coupled to Chemistry (WRF-Chem), which integrates automatic differentiation (AD) to replace traditional manual gradient derivation and adopts Graphics Processing Unit (GPU) acceleration for high computational efficiency. PY3DVar enables the simultaneous assimilation of gaseous pollutants (SO 2 , NO 2 , CO, O 3 ) and particulate matter (PM 2.5 , PM 10 ) and supports flexible deployment on both Central Processing Unit (CPU) and GPU computing platforms. Idealized tests were first conducted to verify the physical consistency of the assimilation system. Twenty consecutive real-case assimilation experiments, each followed by a 24 h forecast,…",
+    "authors": "Hancheng Ye, Zengliang Zang, Wei You, Yiwen Hu et al.",
+    "published": "2026-10-28",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting",
       "ABL"
     ]
   },
@@ -6110,67 +6173,6 @@
       "ABL",
       "vortex",
       "renewable energy"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Neural network-based prediction of actively controlled sweep events in a fully turbulent channel flow",
-    "doi": "10.1063/5.0341011",
-    "url": "https://doi.org/10.1063/5.0341011",
-    "abstract": "This study investigates the use of a feed-forward neural network (FNN) and a hybrid approach combining an FNN with proper orthogonal decomposition (POD) to estimate the effect of control on sweep events within an opposition control framework. Conditionally averaged sweep events (CASEs) were experimentally sampled in a fully turbulent channel flow at a friction Reynolds number of 350. The two architectures were then trained to reconstruct the controlled CASEs using the control parameters (frequency, voltage amplitude, and delay time) as input. The results indicate that both approaches are able to reproduce the control signature across different actuation parameters with comparable accuracy. At the same time, the hybrid POD–FNN architecture requires over two orders of magnitude fewer trainab…",
-    "authors": "E. Saccaggi, A. Nuvoloni, G. M. Di Cicca",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Fluid erosion characteristics of the metal valve in the inflow control devices",
-    "doi": "10.1063/5.0335859",
-    "url": "https://doi.org/10.1063/5.0335859",
-    "abstract": "Under high-water cut conditions, the surface erosion behavior of metal valves in horizontal well inflow control devices (ICDs) is strongly influenced by fluid type and the flow field structure. Low-velocity erosion experiments are conducted on ICD metal valves under both oil and water conditions to quantify surface damage and erosion depth. Computational fluid dynamics-discrete phase model simulations were performed to analyze internal flow characteristics and particle-wall interactions under varying flow velocities, particle sizes, and pulsating conditions. Results show that water forms pronounced vortex recirculation zones downstream of the metal valves, leading to erosion rates approximately six times higher than in oil. Erosion rates increase with flow velocity and particle size, while…",
-    "authors": "Yiqun Zhang, Youkeren An, Xu Cui, Yongsheng An et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Coupled rotational and supersonic effects on droplet impingement and icing of a transonic fan blade",
-    "doi": "10.1063/5.0343566",
-    "url": "https://doi.org/10.1063/5.0343566",
-    "abstract": "Research on droplet impingement and icing on rotating transonic fan blades of high-bypass ratio turbofan engines remains limited. An enhanced Eulerian method for simulating droplet dynamics and icing on transonic rotating fan blades within a rotating coordinate system is developed. The method incorporates droplet fragmentation, convective heat transfer, and evaporation and establishes a novel runback water model that explicitly accounts for centrifugal force, addressing the limitation of existing icing models developed for stationary blades. The approach is applied to simulate water droplet impingement and icing on the NASA Rotor 67 blade. Both local convective heat transfer and the persistent rise in airflow temperature contribute to the heating of droplets. Variations in droplet temperat…",
-    "authors": "Haoran Zheng, Zheyuan Dong, Hao Yan, Wei Dong",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL",
-      "heat transfer"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Wind pressure model of tornado-induced internal suction for super-large cooling towers",
-    "doi": "10.1063/5.0340899",
-    "url": "https://doi.org/10.1063/5.0340899",
-    "abstract": "Wind-induced internal suction plays a predominant role in structural stability of super-large cooling towers (SLCTs). Tornado-induced internal suction (TIIS) characteristics of representative super-large hyperbolic cooling towers are experimentally investigated using a tornado-like vortex simulator and an improved rigid pressure measurement model (RPMM). The influence of tornadic swirl ratios (S), the relative position between the SLCTs and the tornado vortex core (tower-vortex relative position), the draft ventilation rates of internal filling layers, and aerodynamic interference effects among grouped towers on the TIIS are comprehensively studied. The results indicate that the TIIS obtained using the conventional RPMM is underestimated due to the additional airflow interference caused by…",
-    "authors": "Xu Dong, Ashraf El Damatty, Lin Zhao, Genshen Fang et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Effects of variable-area compressible boundary on detonation propagation",
-    "doi": "10.1063/5.0344346",
-    "url": "https://doi.org/10.1063/5.0344346",
-    "abstract": "Detonation propagation in partially confined channels involves lateral expansion at the material interface, leading to energy loss and velocity deficits. We employ quasi-two-dimensional Euler equations to simulate this process and introduce the open-area ratio (α) to quantify the degree of lateral confinement. In the conventional partially confined channel (α = 1.0), the detonation ultimately fails. For α &amp;lt; 1.0, three propagation modes emerge as α decreases: intermittent transverse detonation, large-cellular detonation, and small-cellular detonation. For large α, combustion products can freely expand into the inert gas layer, resulting in energy loss and velocity deficit. With decreasing α, the narrowed lateral opening restricts expansion at the material interface, suppressing energ…",
-    "authors": "Huangwei Chen, Yuejin Zhu, Minghao Zhao, Hua Qiu",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
