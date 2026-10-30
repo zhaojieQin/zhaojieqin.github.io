@@ -1,6 +1,19 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "The balance between compactness and forecast accuracy of data-driven latent-space reduced-order models in controlled wake flows",
+    "doi": "10.1017/jfm.2026.12075",
+    "url": "https://doi.org/10.1017/jfm.2026.12075",
+    "abstract": "Model-based active flow control requires predictive models that are accurate, stable and fast enough for real-time optimisation. In controlled wake flows, this is often achieved through reduced-order models (ROMs) that first compress high-dimensional velocity snapshots into a latent space and then learn a time-stepping predictor for the dynamics in the latent space. Here, we study how the choice of the spatial encoder affects the predictability of the resulting latent coordinates for wake flows under control inputs. Using two actuated two-dimensional wake configurations, a simplified truck wake and the fluidic pinball, we compare proper orthogonal decomposition (POD) against nonlinear convolutional autoencoders (CAEs) and two types of variational autoencoders for compression, and evaluate …",
+    "authors": "Alberto Solera-Rico, Patricia García-Caspueñas, Carlos Sanmiguel Vila, Stefano Discetti",
+    "published": "2026-10-30",
+    "keywords_matched": [
+      "wake",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Wake transitions and scaling laws of a streamwise-rotating angular particle in an inertial flow",
     "doi": "10.1017/jfm.2026.12195",
     "url": "https://doi.org/10.1017/jfm.2026.12195",
@@ -22,6 +35,130 @@
     "published": "2026-10-29",
     "keywords_matched": [
       "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Aggregation, breakup and size-dependent transport in a turbulent channel flow with cohesive particles",
+    "doi": "10.1017/jfm.2026.12202",
+    "url": "https://doi.org/10.1017/jfm.2026.12202",
+    "abstract": "Due to attractive inter-particle forces, cohesive particles suspended in turbulence undergo a complex process of aggregation, breakup and restructuring. Despite a growing body of knowledge on the `flocculation’ of cohesive granular materials suspended in homogeneous isotropic turbulence, little focus has so far been placed on wall-bounded flows where turbulence and shear are inhomogeneous. This study presents a first investigation of a fully developed wall-bounded flow of resolved cohesive particles. Five direct numerical simulations of turbulent channel flows laden with finite-sized particles at successively increasing cohesive strength are performed. A population balance equation (PBE) framework is used to analyse aggregate dynamics. When integrated over the full domain, the PBE is close…",
+    "authors": "Alexandre Leonelli, Lukas Widmer, Eckart Heinz Meiburg",
+    "published": "2026-10-29",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "A body-forcing model for heat transfer in rough-wall turbulent channel flow",
+    "doi": "10.1017/jfm.2026.12020",
+    "url": "https://doi.org/10.1017/jfm.2026.12020",
+    "abstract": "A body-forcing strategy is proposed to model the effects of surface roughness on heat transfer in a turbulent flow. The model introduces a source term into the temperature transport equation that depends on a characteristic velocity scale, the local wall-relative temperature and the roughness density. We test it in direct numerical simulation (DNS) of a turbulent open channel at a constant Prandtl number of 0.71, and through extensive comparison with roughness-resolved DNS data, we show that the instantaneous local friction velocity is the appropriate velocity scale. Despite its simple formulation, it accurately captures the salient physics of rough-wall heat transfer, such as the breakdown of the Reynolds analogy, the characteristic plateau of the temperature roughness function and the fu…",
+    "authors": "Krishna Reddy Maryada, Stuart Edward Norris, Daniel Chung, Michael MacDonald",
+    "published": "2026-10-29",
+    "keywords_matched": [
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Turbulence generation and data assimilation in wall-bounded flows with a latent diffusion model",
+    "doi": "10.1017/jfm.2026.12069",
+    "url": "https://doi.org/10.1017/jfm.2026.12069",
+    "abstract": "Wall-bounded turbulent flows are chaotic and multiscale, rendering fast prediction at high Reynolds numbers computationally prohibitive in applications such as wind farms. Classical data assimilation is based on repeated solutions of the governing equations and, thus, inherits this cost. Generative models learn the probability distribution of flow states, enabling scalable probabilistic reconstruction. Our generative framework couples a variational autoencoder with a diffusion transformer to generate four-dimensional spatiotemporal samples. Bayesian conditioning enables data assimilation without retraining and allows statistical constraints to be imposed through sampling. The framework is applied to a subdomain of turbulent plane Couette flow, where the corresponding direct numerical simul…",
+    "authors": "Fabian Steinbrenner, Baris Turan, Hao Teng, Heng Xiao",
+    "published": "2026-10-29",
+    "keywords_matched": [
+      "wind farm",
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Bifurcation of laterally unconstrained flexible filaments in an inclined flow",
+    "doi": "10.1017/jfm.2026.12215",
+    "url": "https://doi.org/10.1017/jfm.2026.12215",
+    "abstract": "The dynamics of laterally unconstrained flexible filaments in an inclined uniform flow is investigated numerically, inspired by the self-propelled behaviour of droplets and filaments in a crosswind. It is found that in addition to conventional downwind drifting, the filament can also undergo counterintuitive upwind motion, arising from a supercritical pitchfork bifurcation. Depending on the Reynolds number, bending stiffness and inflow inclination angle, the filament exhibits multiple wake and motion states, including static, quasi-static, vibrational and translational modes. In the reference frame translating laterally with the incoming flow, the upwind and downwind drifting states induced by different initial perturbations form a pair of dynamically equivalent, symmetry-related branches.…",
+    "authors": "Kui Liu, Meng-Fan Xu, An-Kang Gao, Xi-Yun Lu",
+    "published": "2026-10-29",
+    "keywords_matched": [
+      "wake"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Scaling law for ventilated air layers modulated by superhydrophobic grooves",
+    "doi": "10.1017/jfm.2026.12219",
+    "url": "https://doi.org/10.1017/jfm.2026.12219",
+    "abstract": "An innovative air-layer establishment method is developed and experimentally investigated, where superhydrophobic transverse grooves are introduced to modulate localised minimal-flux ventilation. The results demonstrate that, owing to the modulation by the transverse grooves, the characteristics of multiphase flow undergo a fundamental transition from discrete bubbles to a continuous air layer. This modulation is strictly governed by both the free-stream velocity and the groove size, expressed as Reynolds number ( italic Re Subscript upper D Re D $\\textit{Re}_D$ ) and dimensionless groove size ( delta Superscript asterisk δ ∗ $\\delta ^*$ ), respectively. With a systematic variation in italic Re Subscript upper D Re D $\\textit{Re}_D$ and delta Superscript asterisk δ ∗ $\\delta ^*$ , the macr…",
+    "authors": "Wenzhi Cui, Chenxi You, Di Peng, Liang Hao et al.",
+    "published": "2026-10-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Mechanisms of the asymmetric-to-symmetric transition in the near wake of a wall-proximity sphere",
+    "doi": "10.1017/jfm.2026.12049",
+    "url": "https://doi.org/10.1017/jfm.2026.12049",
+    "abstract": "Symmetry-breaking in the near-wake of a wall-proximity sphere is a claussic problem. Yet a clear understanding of how the gap ratio ( upper G divided by upper D G / D $G/D$ ) governs the evolution and suppression of spanwise flow asymmetry across different Reynolds numbers ( upper R e R e $Re$ ) is still lacking. Here, direct numerical simulations combined with proper orthogonal decomposition and vorticity transport analysis are employed over 420 less than or slanted equals upper R e less than or slanted equals 600 420 ⩽ R e ⩽ 600 $420 \\leqslant Re \\leqslant 600$ and 0.1 less than or slanted equals upper G divided by upper D less than or slanted equals 1.5 0.1 ⩽ G / D ⩽ 1.5 $0.1 \\leqslant G/D \\leqslant 1.5$ to elucidate the wall-induced suppression of spanwise asymmetry. As upper G divided…",
+    "authors": "Shuang Zhang, Yulu Liu, Yuxian Xia, Xiaodong Wu et al.",
+    "published": "2026-10-29",
+    "keywords_matched": [
+      "wake"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Stability boundary prediction of nonlinear transonic buffet via a time-varying modelling method",
+    "doi": "10.1017/jfm.2026.12191",
+    "url": "https://doi.org/10.1017/jfm.2026.12191",
+    "abstract": "Transonic shock buffet is a typical flow instability induced by shock-wave/boundary-layer interaction. It exhibits sustained shock oscillations and lift fluctuations, thereby restricting the flight envelope of aircraft. Previous numerical studies have revealed that evident hysteresis envelopes exist between the onset and extinction boundaries of transonic buffet during angle-of-attack sweeps. Hence accurate characterisation of buffet boundaries under representative dynamic manoeuvres is critical for assessing flight safety and expanding the flight envelope. In this study, a time-varying autoregressive with exogenous input model is established by integrating reduced-order and time-varying modelling to predict the buffet boundary under nonlinear transonic dynamic conditions. Specifically, th…",
+    "authors": "Qiyue Ma, Xinyu Yang, Chuanqiang Gao",
+    "published": "2026-10-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Relationships Between Aerosols, Warm Clouds, and Meteorological Factors Associated With Environmental Conditions Derived From Multiyear ARM Observations",
+    "doi": "10.1029/2026jd047891",
+    "url": "https://doi.org/10.1029/2026jd047891",
+    "abstract": "Abstract We derive new aspects between clouds, aerosols, and meteorological factors using latest observations. We analyze multiyear measurements of atmospheric physical properties including warm clouds and aerosols collected at Atmospheric Radiation Measurement continental and maritime facilities during 2016–2020 and 2015–2021, respectively. Diurnal variation of the aerosol optical depth (AOD) collocated with a neighboring cloud results from adjacent low tropospheric vertical wind shear (VWS 725–925 hPa ) due to aerosols originating from soils stirred up by enhanced turbulence at Southern Great Plains (SGP). There are similarities between seasons (summer or winter) and surface wind directions (north or south) with respect to the relations between aerosol‐cloud, cloud‐cloud, and cloud‐meteo…",
+    "authors": "Yoshihide Takano, Yu Gu, Yun Lin, Rong Fu et al.",
+    "published": "2026-10-29",
+    "keywords_matched": [
+      "diurnal variation",
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Linear Versus Non‐linear Models in Predicting Low‐Cloud Regime Occurrences From Cloud‐Controlling Factors",
+    "doi": "10.1029/2026jd047557",
+    "url": "https://doi.org/10.1029/2026jd047557",
+    "abstract": "Abstract Accurately predicting low‐cloud occurrences from environmental conditions is essential for reducing uncertainties in cloud‐climate feedbacks. This study evaluates linear and non‐linear frameworks—specifically, anomaly‐based ridge regression and neural network (NNet) that predict raw target values—to predict cloud regime occurrence frequencies from low‐cloud‐amount‐indices (LCAIs) and other cloud‐controlling factors at monthly, 4° resolution, using data from selected subtropical study regions. While the combined use of multiple LCAIs notably enhances linear model performance within the training domains, these models exhibit poor geographic transferability due to the diversity of cloud‐environment relationships. In contrast, an NNet model trained using raw physical variables consist…",
+    "authors": "Daeho JIn, Lazaros Oreopoulos, Dongmin Lee, Kyu‐Myong Kim",
+    "published": "2026-10-29",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "How Does Terrain Relief of the Tibetan Plateau and the Yunnan–Guizhou Plateau Individually Modulate Summer Regional Hourly Extreme Precipitation in the Sichuan Basin, China?",
+    "doi": "10.1029/2026jd047900",
+    "url": "https://doi.org/10.1029/2026jd047900",
+    "abstract": "Abstract The influence of terrain relief over the Tibetan Plateau (TP) and the Yunnan–Guizhou Plateau on summer regional hourly extreme precipitation (RHEP) in the Sichuan Basin (SCB) under two dominant synoptic patterns remains poorly understood. Here, this study uses multi‐case Weather Research and Forecasting sensitivity experiments, in which the terrain relief of two plateaus is individually smoothed, to systematically investigate these modulation mechanisms. Terrain relief modulates low‐level flow and moisture, altering thermodynamic and dynamic processes of RHEP under different synoptic patterns. Under P1, featured by a westerly trough and a southwest vortex over western SCB, the terrain relief over the TP (Yunnan–Guizhou Plateau) prolongs the mean RHEP duration by 3.4 hr (0.6 hr) an…",
+    "authors": "Xiaoke Xu, Anning Huang, Chunlei Gu, Yan Zhang",
+    "published": "2026-10-29",
+    "keywords_matched": [
+      "weather research and forecasting",
+      "vortex"
     ]
   },
   {
@@ -6031,148 +6168,6 @@
     "published": "2026-08-01",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "A cell-based smoothed finite element method for three-dimensional laminar flow and convective heat transfer on mixed meshes",
-    "doi": "10.1063/5.0342015",
-    "url": "https://doi.org/10.1063/5.0342015",
-    "abstract": "The smoothed finite element method has demonstrated substantial potential in computational fluid dynamics, but its application to three-dimensional (3D) convective heat transfer remains limited, particularly for coupled flow and thermal transport on mixed meshes. In this work, the cell-based smoothed finite element method (CS-FEM) is extended to 3D incompressible laminar flow with convective heat transfer. A characteristic-based split scheme is incorporated into a fractional-step framework to improve numerical stability and suppress pressure oscillations. The proposed method is first assessed using a manufactured solution on tetrahedral, wedge, and hexahedral meshes, demonstrating accuracy and convergence across different element topologies. It is then validated using 3D natural convection…",
-    "authors": "Chen Hong, Chen Jiang, Jingyu Wang, Yichao Qiu et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "heat transfer"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Pore-scale effect on the non-equilibrium gas flow induced by evaporation from two-dimensional porous surfaces",
-    "doi": "10.1063/5.0337128",
-    "url": "https://doi.org/10.1063/5.0337128",
-    "abstract": "Evaporation from porous surfaces plays a fundamental role in natural phenomena and numerous engineering applications. The characteristic pore scale may range from values smaller than the molecular mean free path to values several orders of magnitude larger, leading to markedly different rarefaction and transport behaviors. Understanding how pore scale influences non-equilibrium gas flows above porous surfaces is therefore essential for predictive modeling of evaporation-driven systems. Non-equilibrium vapor flows above periodically structured porous surfaces are investigated over a wide range of pore spacings relative to the molecular mean free path using the low-variance deviational simulation Monte Carlo method, which enables efficient simulation of low-Mach-number rarefied flows. Two as…",
-    "authors": "Hiroki Imai, Ikuya Kinefuchi",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Capturing transient three-dimensional vorticity dynamics and multiscale wake structures of large-scale wind turbines via physics-augmented multimodal learning",
-    "doi": "10.1063/5.0339286",
-    "url": "https://doi.org/10.1063/5.0339286",
-    "abstract": "Accurate characterization of three-dimensional (3D) transient inflow and wake dynamics is essential for the structural reliability of wind turbines exceeding 10 MW capacities. This study develops a physics-augmented multimodal framework (3D-PAM) for high-fidelity flow-field reconstruction by integrating sparse induction snapshots with synchronized turbine operational states. The framework enforces local dynamical consistency through 3D vorticity-transport equations and preserves global energy-cascade characteristics using Kármán–Howarth-based statistics. Validation under International Electrotechnical Commission extreme operating gust and extreme direction change scenarios demonstrates that 3D-PAM achieves a global velocity correlation of 0.9519 and a root mean square error of 0.1020. Comp…",
-    "authors": "Wenyu Wang, Yang Hu, Jiheng Wang, Ziqiu Song et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "wind turbine",
-      "wind turbines",
-      "wake"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Multiphase separation characteristics of high-viscosity produced liquid in a cyclone pre-separator",
-    "doi": "10.1063/5.0342136",
-    "url": "https://doi.org/10.1063/5.0342136",
-    "abstract": "To overcome the limitations of gas–liquid–solid pre-separation of high-viscosity produced liquids, this paper proposes an efficient cyclone pre-separation scheme and investigates the underlying physical mechanisms of interphase migration, with particular attention to liquid carry-over (LCO) and gas carry-under (GCU). Numerical simulations are performed using the Mixture multiphase model and the Reynolds stress model to analyze the multiphase separation characteristics in the pre-separator. The effects of structural parameters on vortex core stability, phase distribution, and separation performance are revealed. A rational matching of structural parameters, guided by response surface methodology, improves separation efficiency while effectively suppressing LCO and GCU. This work elucidates …",
-    "authors": "Haonan Wu, Yan Xu, Yuejuan Yan, Sen Li et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Control mechanism of unsteady flow separation on vertical axis wind turbine blades via double-slotted flap",
-    "doi": "10.1063/5.0343821",
-    "url": "https://doi.org/10.1063/5.0343821",
-    "abstract": "Aiming at the core issue of flow separation on vertical-axis wind turbine (VAWT) blades under high angles of attack during periodic rotation—which degrades aerodynamic performance and energy capture efficiency—this paper proposes a VAWT blade configuration equipped with double-slotted flaps, drawing on mature high-lift technology from aircraft wings. Numerical simulations are conducted using the Unsteady Reynolds-Averaged Navier–Stokes method with the Shear Stress Transport k–ω turbulence model, covering static aerodynamic characteristics of a single airfoil as well as two-dimensional and three-dimensional full-turbine models. Optimal design parameters of the double-slotted flaps are identified via the control variable method, and the aerodynamic performance and flow-field characteristics …",
-    "authors": "Shuyan Jing, Huahao Ou, Zhou Ye, Jun Qu et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "wind turbine",
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Fracture-connected equipotential manifolds reconfigure source–sink forcing and modulate viscous fingering",
-    "doi": "10.1063/5.0346038",
-    "url": "https://doi.org/10.1063/5.0346038",
-    "abstract": "Immiscible displacement in fractured porous media involves the coupling of pore-scale capillary thresholds, viscosity contrast, and macroscopic source–sink boundary constraints. Here, we examine how boundary-connected fractures modify the leading-order source–sink constraint and affect viscous fingering in heterogeneous micromodels. Four boundary configurations are compared under the same low capillary number and viscosity-unstable condition: non-fractured point-source/point-sink displacement, injector-fractured inlet-manifold/point-sink displacement (FI), producer-fractured point-source/outlet-manifold displacement (FP), and dual-end fractured inlet-manifold/outlet-manifold displacement (FIP). High-resolution visualization, equipotential-boundary formulation, and convolutional neural netw…",
-    "authors": "Wenzhong Zhou, Shijun Huang, Fenglan Zhao, Xiaozhe Zheng et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Vortex-rope coherence and entropy-production localization in a swirling draft-tube flow: Influence of modeled turbulent diffusion",
-    "doi": "10.1063/5.0341341",
-    "url": "https://doi.org/10.1063/5.0341341",
-    "abstract": "The precessing vortex rope and associated energy dissipation in draft-tube flows arise from the interaction among residual swirl, adverse pressure gradients, and separated shear-layer dynamics. Their numerical prediction is sensitive to modeled turbulent momentum transfer, but the resulting influence on vortex-rope coherence and dissipation localization remains insufficiently understood. This study investigates this coupling in the Timisoara Swirl Generator at one part-load benchmark condition. The generalized k–ω (GEKO) turbulence model is employed within an unsteady Reynolds-averaged Navier–Stokes framework. The GEKO separation coefficient CSEP is constrained using laser Doppler velocimetry (LDV) profiles, while Liutex-based vortex identification and entropy-production analysis examine t…",
-    "authors": "Xu Han, Teng-jiao Guo, Ran Tao, Chao-yue Wang et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "turbulence",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Boundary-layer-informed surrogate modeling of airfoil trailing-edge noise: From wall-pressure excitation to far-field radiation",
-    "doi": "10.1063/5.0348245",
-    "url": "https://doi.org/10.1063/5.0348245",
-    "abstract": "When turbulent-boundary-layer wall-pressure fluctuations convect past an airfoil trailing edge, they are scattered and radiated to the far field as broadband trailing-edge noise. Predicting this process requires reliable near-trailing-edge boundary-layer quantities, whose repeated evaluation across airfoil geometries and inflow conditions is computationally costly. This study develops AcoustiFoil, a boundary-layer-informed surrogate model that maps class-shape transformation-parameterized airfoil geometry and inflow conditions to aerodynamic coefficients and local boundary-layer quantities required by empirical wall-pressure-spectrum models. Trained on millions of samples generated by XFOIL, a viscous-inviscid airfoil analysis code, AcoustiFoil is coupled with the Lee wall-pressure-spectru…",
-    "authors": "Ze Lu, Zihao Wang, Haocheng Zheng, Huakun Huang et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Pressure-based hydrodynamic disturbance inference",
-    "doi": "10.1063/5.0341308",
-    "url": "https://doi.org/10.1063/5.0341308",
-    "abstract": "Surface pressure measurements contain information about wake-induced flow disturbances and the motion of disturbance sources, yet this information is embedded in complex temporal pressure signals that are difficult to interpret. Extracting informative flow features from such measurements therefore remains challenging. Many existing approaches rely on task-specific mappings between pressure signals and target states, which limits their ability to learn transferable representations of hydrodynamic signals. In this study, we propose a self-supervised learning framework to learn compact temporal representations from sparse surface pressure measurements. Water-tunnel experiments are conducted using a National Advisory Committee for Aeronautics 0015 sensing model equipped with fourteen pressure …",
-    "authors": "Zhibin Song, Jin Zhang, Bochao Cao",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "wake",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Planar cone penetration resistance in granular matter under low gravity",
-    "doi": "10.1063/5.0329925",
-    "url": "https://doi.org/10.1063/5.0329925",
-    "abstract": "In situ penetration exploration of the Moon and asteroids requires understanding the mechanical properties of their surface granular matter, yet cone penetration tests (CPTs) under low-gravity conditions are scarce. We performed velocity-controlled planar CPTs in the Bremen (∼10−6 g) and Beijing (∼10−3–10−2 g) Drop Towers, intruding penetrometers at 15–140 mm/s into glass beads and comparing results with terrestrial (1 g) tests. Unlike the strong depth-dependent resistance observed on Earth, the penetration resistance under low gravity shows a dramatically reduced depth dependence. Remarkably, the decrease in resistance is far less than the reduction in gravity level. Under low gravity, penetration resistance shows complex rate dependence: positive between 40 and 100 mm/s, turning negative…",
-    "authors": "Sen Yang, Xiaohui Cheng, Meiying Hou, Linpei Fan et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Dynamic stall in floating wind turbine airfoils under pitch motion",
-    "doi": "10.1063/5.0336827",
-    "url": "https://doi.org/10.1063/5.0336827",
-    "abstract": "The six-degree-of-freedom motions of floating offshore wind turbines (FOWTs) complicate airfoil flow and promote dynamic stall relative to fixed-bottom wind turbines. This study investigates the effect of pitch motion on the flow field around airfoils of FOWTs. This study employs computational fluid dynamics and investigates the Delft University airfoils DU35 and DU21, and the National Advisory Committee for Aeronautics airfoil NACA64 at 25.2%, 57.7%, and 89.2% blade span of the National Renewable Energy Laboratory 5 MW wind turbine. First, the three-dimensional pitch motion of the wind turbine is transformed to the two-dimensional complex motion of the airfoil. Then, the aerodynamic coefficients, separation vortex development, and surface load variations of these airfoils are studied unde…",
-    "authors": "Jinan Wang, Zhenzhou Zhao, Bo Qu, Yige Liu et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "wind turbine",
-      "wind turbines",
-      "ABL",
-      "vortex",
-      "renewable energy"
     ]
   }
 ]
