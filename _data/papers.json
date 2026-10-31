@@ -14,6 +14,79 @@
   },
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Routes to turbulent Taylor vortices: Vortex splitting and merging in chaotic state and the role of particles",
+    "doi": "10.1017/jfm.2026.12184",
+    "url": "https://doi.org/10.1017/jfm.2026.12184",
+    "abstract": "A novel experimental finding of vortex splitting and merging (VSM) route to turbulence is reported in the counter-rotation regime of the Taylor–Couette flow of a Newtonian fluid, and the role of neutrally buoyant inertial particles on this transition pathway is analysed up to a particle volume fraction of phi equals 0.3 ϕ = 0.3 $\\phi = 0.3$ over a range of rotation ratios negative 0.35 less than or slanted equals upper Omega equals omega Subscript o Baseline divided by omega Subscript i Baseline less than 0 − 0.35 ⩽ Ω = ω o / ω i &lt; 0 $-0.35\\leqslant \\varOmega =\\omega _o/\\omega _i\\lt 0$ (where omega Subscript i ω i $\\omega _i$ and omega Subscript o ω o $\\omega _o$ are the angular speeds of the inner and outer cylinders, respectively). The onset of VSM is found to coincide with the transi…",
+    "authors": "Manojit Ghosh, Meheboob Alam",
+    "published": "2026-10-30",
+    "keywords_matched": [
+      "turbulence",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Particle-resolved simulation of sediment transport over vibrating beds",
+    "doi": "10.1017/jfm.2026.12228",
+    "url": "https://doi.org/10.1017/jfm.2026.12228",
+    "abstract": "Sediment transport caused by large earthquakes produces distinctive deposits that help extend our records of these events. To understand the underlying mechanisms of seismically induced sediment transport, we perform particle-resolved simulations of sediment transport over vibrating beds, with earthquake vibrations modelled as sinusoidal horizontal and vertical oscillations. The simulations fully resolve both the carrier flow and the motion of individual grains, and phase-averaged statistics are used to characterise how oscillations modulate turbulence, stress and sediment motion. Analysis of the sediment-transport rate and its phase-averaged decomposition shows a rhythmic response to oscillations, enhanced transport, changes in the thickness of the mobile layer and episodes of bidirection…",
+    "authors": "Yuanqing Liu, Chloé Seibert, Chris Paola, Cecilia McHugh et al.",
+    "published": "2026-10-30",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Strengthened SPV‐Annular Mode Coupling in the Southern Hemisphere Contrasts With Northern Hemisphere Trends",
+    "doi": "10.1029/2026jd047577",
+    "url": "https://doi.org/10.1029/2026jd047577",
+    "abstract": "Abstract While the decadal weakening in the coupling between the Northern Hemisphere (NH) stratospheric polar vortex (SPV) and the Arctic Oscillation (AO) has been well documented, a critical gap remains in our understanding of the corresponding decadal dynamics involving the Antarctic Oscillation (AAO) in the Southern Hemisphere (SH). Using reanalysis data sets spanning 1960 to 2025, we identify a contrasting weak‐to‐strong decadal transition in the SH winter SPV‐AAO coupling. This transition is characterized by a strengthened phase‐locking relationship, in which weak and strong SPV states become increasingly aligned with negative and positive AAO phases, respectively. Vertically, stratospheric anomalies become progressively more connected to the troposphere. Horizontally, the associated …",
+    "authors": "Yiting Liu, Wen Zhou, Xin Wang, Bo Tong",
+    "published": "2026-10-30",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Deploying machine learning components coupled to Earth  System Models with OASIS3-MCT (v6) and Eophis (v1.1)",
+    "doi": "10.5194/gmd-19-10345-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10345-2026",
+    "abstract": "The integration of machine learning (ML) components into Earth System Models (ESMs) holds significant potential for improving climate simulations, but it is often constrained by challenges related to interoperability, reproducibility, and computational efficiency. This paper presents a novel coupler-based approach that combines the OASIS3-MCT coupling library with Eophis, a high-performance Python library, to seamlessly deploy ML components in ESMs. By leveraging OASIS3-MCT’s robust communication infrastructure, Eophis abstracts the technical complexities of coupling, enabling users to integrate Python-based ML models or analytical parameterizations into geophysical simulations. Eophis provides a modular interface for defining data exchanges, synchronizing time steps, and supporting parall…",
+    "authors": "Alexis Barge, Julien Le Sommer, Andrea Storto, Sophie Valcke",
+    "published": "2026-10-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Towards high-fidelity simulations of coastal submesoscale baroclinic instabilities with MPAS-O (vE3SM3.0.0) – Part 1: Idealized experiments",
+    "doi": "10.5194/gmd-19-10321-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10321-2026",
+    "abstract": "Rapid advances in computational power over the past decade have enabled global, kilometer-scale simulations that realistically represent open-ocean submesoscale dynamics. However, the ability of global ocean models to represent coastal submesoscale dynamics – where flows are more heterogeneous and strongly shaped by coastlines, bathymetry, and buoyancy inputs – remains largely unexplored. This study is the first of two companion papers comparing coastal submesoscale processes representation in two models with very different numerical approaches: MPAS-O, an unstructured grid global ocean model, and ROMS, a structured grid regional model. This study is the first idealized evaluation of MPAS-O’s representation of coastal submesoscale dynamics using observed conditions in the Mississippi-Atcha…",
+    "authors": "Kyle E. Hinson, Dylan R. Schlichting, Robert D. Hetland, Darren Engwirda et al.",
+    "published": "2026-10-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Issue Information",
+    "doi": "10.1029/jame.70491",
+    "url": "https://doi.org/10.1029/jame.70491",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-10-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Wake transitions and scaling laws of a streamwise-rotating angular particle in an inertial flow",
     "doi": "10.1017/jfm.2026.12195",
     "url": "https://doi.org/10.1017/jfm.2026.12195",
@@ -6090,81 +6163,6 @@
     "url": "https://doi.org/10.1063/5.0344373",
     "abstract": "In heterogeneous and shock-transmitting compressible flows, acoustic identity is a full-state dynamical property and not a property of velocity alone. Acoustic, entropy, and vortical contents may share one snapshot, while hidden pressure, density, or entropy variables alter the component selected by the linearized dynamics. We develop a full-state acoustic mode-identification framework whose parent object is the projector induced by a closed linearized compressible operator in its natural energy space. Branch projectors, admissible acoustic model-class projectors, entropy–vorticity refinements, and reduced observable projectors are treated as distinct exact objects inherited from this parent structure; the density-weighted Hodge split is retained as the kinematic fallback available from ve…",
     "authors": "Chanho Park, Yeachan Kwak, Gyeongho Gong, Honggi Min et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Generalized Onsager-regularized lattice Boltzmann framework",
-    "doi": "10.1063/5.0327546",
-    "url": "https://doi.org/10.1063/5.0327546",
-    "abstract": "This work presents a novel strategy to address Navier–Stokes modeling errors arising in first-nearest neighbor lattice Boltzmann methods and introduces fully local corrections through Onsager-regularized (OReg) non-equilibrium populations. The proposed mechanism, which admits partially and completely corrected OReg models, is used to develop representative partially and completely corrected models for the six-moment-constrained guided equilibrium (GEq) representation on the D2Q9 lattice. The former realization only addresses compatibility condition violations and improves the accuracy by two/four orders of magnitude at reference/arbitrary lattice temperatures, respectively, while the latter additionally corrects stress tensor modeling errors, resulting in a fully corrected exact model. Num…",
-    "authors": "Anirudh Jonnalagadda, Walter Rocchia, Sauro Succi",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "lattice boltzmann method",
-      "lattice boltzmann"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "On the validity of Kolmogorov laws in bubbly flows: From bubble swarm to single bubble turbulence",
-    "doi": "10.1063/5.0333918",
-    "url": "https://doi.org/10.1063/5.0333918",
-    "abstract": "Kolmogorov's 4/5 and 2/3 laws are among the few results obtained directly from the Navier–Stokes equations through the Kármán–Howarth–Monin–Hill (KHMH) framework. They describe a constant downscale energy flux and the scaling of longitudinal velocity increments in homogeneous, isotropic, statistically stationary turbulence with vanishing mean velocity gradients. Their applicability to bubble-induced turbulence (BIT) remains largely unexplored. Here we present a comparative KHMH-based assessment of both laws in three representative direct numerical simulation configurations: one homogeneous isotropic turbulence (HIT) reference case, one BIT case, and one single-bubble turbulence (SBT) case. Using one-point statistics and two-point correlations, we assess, scale by scale, how well the assump…",
-    "authors": "Neelam Jehan Majeed, Ahmed Raafat Mostafa, Immanuvel Paul, Simon Ching Man Yu",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Unsteady load response and wake vortex dynamics of a semi-passive flapping foil under transverse discrete gusts",
-    "doi": "10.1063/5.0344575",
-    "url": "https://doi.org/10.1063/5.0344575",
-    "abstract": "The unsteady aerodynamic load responses of a semi-passive flapping foil under transverse discrete gusts are systematically investigated using an implicit large-eddy simulation-type numerical approach, with mechanisms elucidated via the integral momentum theorem. Gust duration and intensity exhibit a complementary relationship in modulating load deviation: a transition boundary curve in the parameter plane separates regimes of strong and weak response, and the residual deviation after gust cessation is more sensitive to intensity than to duration. Peak aerodynamic loads lag the gust velocity peak by approximately 0.5 pitching periods, and load recovery during the decay phase is markedly slower than the deviation during the enhancement phase. Term-by-term force decomposition identifies the v…",
-    "authors": "Feilin Wang, Bing Zhu, Wei Zhang",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "wake",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Collision dynamics and deformation behaviors of multi-core compound droplet pairs in confined shear flow",
-    "doi": "10.1063/5.0337015",
-    "url": "https://doi.org/10.1063/5.0337015",
-    "abstract": "In this study, we numerically investigate the collision dynamics and deformation behaviors of double-core compound droplet pairs in confined shear flows using a lattice Boltzmann method. Although droplet–pair interactions have been widely studied for simple droplets, the collision behavior of compound droplets, especially those containing one or more core droplets, remains largely unexplored. We address how the interplay between physical parameters (i.e., density ratio, viscosity ratio, and Capillary number) and geometric parameters (i.e., initial offset between droplets) influences the collision process and its outcomes. Our findings reveal that inner droplets strongly affect the deformation and stability of shell droplets, and the collision outcomes of both shell and core droplets. We id…",
-    "authors": "S. M. Abdullah Al Mamun, Samaneh Farokhirad",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "lattice boltzmann method",
-      "lattice boltzmann"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Reinforcement learning of fixed-budget moving-rod stirring for passive scalar mixing in Navier–Stokes–Brinkman flows",
-    "doi": "10.1063/5.0341722",
-    "url": "https://doi.org/10.1063/5.0341722",
-    "abstract": "Stirring-driven mixing is a fundamental mechanism for homogenizing passive scalars in fluids, but designing effective stirring trajectories remains challenging when the flow is generated by a constrained physical actuator rather than prescribed directly. We present a reinforcement-learning framework for passive scalar mixing in a two-dimensional circular container stirred by a moving rod. The fluid is modeled by the incompressible Navier–Stokes equations with Brinkman penalization for the moving rod and stationary wall, and the scalar evolves according to an advection–diffusion equation. The reinforcement-learning policy controls only the direction of rod motion, while the rod speed and total path length are fixed. This fixed-budget formulation enables a controlled comparison between learn…",
-    "authors": "Hosung Lee, Dasan Kim, Byeongoh Hwang, Myungjoo Kang",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Viscoelastic squeeze-film lubrication: A Giesekus-based perturbation expansion in λḣ/h",
-    "doi": "10.1063/5.0341266",
-    "url": "https://doi.org/10.1063/5.0341266",
-    "abstract": "Viscoelastic thin-film flows with time-varying geometry involve three independent dimensionless groups: the Weissenberg number Wi=λU/h, the Deborah number De=λU/L, and the group Desq=λ|ḣ|/h that governs the temporal lag of polymer stress behind a changing flow field. We develop a perturbation expansion in Desq for the Giesekus constitutive model, whose steady-shear material functions are available in the closed form at arbitrary Wi. The resulting viscoelastic Reynolds equation decomposes the volume flux into four contributions: steady-state viscometric flow, squeeze-film memory involving a derived memory viscosity M(α,Λ), a first normal stress gradient, and hoop stress; the Giesekus quadratic stress coupling enters at O(Desq) not as a separate flux but through the linearized constitutive …",
-    "authors": "Nigel C. Dhlamini, Wei Hua Ho",
     "published": "2026-08-01",
     "keywords_matched": [
       "ABL"
