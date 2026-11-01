@@ -86,6 +86,30 @@
     ]
   },
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Evaluating the Thermodynamic Structure of Saharan Air Layer Events Using the Galvez‐Davison Index",
+    "doi": "10.1029/2026jd047130",
+    "url": "https://doi.org/10.1029/2026jd047130",
+    "abstract": "Abstract The Saharan Air Layer (SAL) is a warm, dry, and stable air mass that carries millions of tons of dust annually, disrupting otherwise intense convection in the tropical North Atlantic Ocean. Because the SAL is a statically stable air mass, convective instability parameters can help identify the presence of a SAL event, though most convective indices are designed for forecasting mid‐latitude convection, and struggle when applied to more barotropic settings. The Galvez‐Davison Index (GDI) was developed to improve the skill of traditional instability metrics in tropical latitudes, accounting for thermodynamic factors that both enhance and inhibit tropical convection. This study uses a pre‐established data set of SAL events to evaluate their thermodynamic structure and evolution by lev…",
+    "authors": "C. H. Hank Dolce, Paul W. Miller",
+    "published": "2026-10-30",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Spatially Resolved Latent and Sensible Heat Fluxes of a Cold Air Outbreak Using Wavelet Analysis of Airborne Observations: A CAESAR Case Study",
+    "doi": "10.1029/2026jd047220",
+    "url": "https://doi.org/10.1029/2026jd047220",
+    "abstract": "Abstract The representation of turbulent vertical transport of heat and moisture in the marine atmospheric boundary layer (BL) remains a major source of uncertainty in weather and climate models, especially during extreme marine Cold Air Outbreaks (CAOs). This case study of In situ vertical velocity, water vapor, and temperature observations from the Cold‐Air‐outbreak Experiment in the Sub‐Arctic Region airborne campaign's “golden case” demonstrates the unique capability of wavelet analysis to provide spatially‐ and scale‐resolved flight‐level vertical turbulent transport estimates. During the CAO on 16 March 2024, over the Greenland and Norwegian Seas, leg‐averaged latent energy fluxes (LE) reached 170 W m −2 , maintained throughout development into cloud break‐up, whereas near‐ice sensib…",
+    "authors": "Flynn McGinnity, Zhien Wang, Guo Lin, Paquita Zuidema et al.",
+    "published": "2026-10-30",
+    "keywords_matched": [
+      "atmospheric boundary layer"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Wake transitions and scaling laws of a streamwise-rotating angular particle in an inertial flow",
     "doi": "10.1017/jfm.2026.12195",
@@ -6142,30 +6166,6 @@
     "keywords_matched": [
       "lattice boltzmann method",
       "lattice boltzmann"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Deformation-driven hemodynamics in a compliant coronary artery with serial stenosis: A layer-resolved fluid–structure interaction study",
-    "doi": "10.1063/5.0333866",
-    "url": "https://doi.org/10.1063/5.0333866",
-    "abstract": "Coronary artery disease manifests as serial stenosis in compliant vessels, where pulsatile flow, wall deformation, and plaque heterogeneity govern hemodynamic behavior. This study develops a two-way fluid–structure interaction framework to investigate blood flow through a compliant coronary artery with serial stenoses. The arterial wall uses a three-layer representation. The intima, media, adventitia, and fibrous cap are treated as hyperelastic solids, while the encapsulated lipid pool is modeled as a linear elastic inclusion. Blood is represented as a non-Newtonian Carreau fluid to capture shear-dependent rheology. By varying plaque stiffness and pulsatile inertia, quantified through the Womersley number (Wo), the analysis resolves lumen dynamics, pressure loss, vortex structure, and near…",
-    "authors": "Sayan Karmakar, Nandish Pai, Arnab Chakraborty, Supratim Saha",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Full-state acoustic mode identification and shock-ripple information closure in compressible flows",
-    "doi": "10.1063/5.0344373",
-    "url": "https://doi.org/10.1063/5.0344373",
-    "abstract": "In heterogeneous and shock-transmitting compressible flows, acoustic identity is a full-state dynamical property and not a property of velocity alone. Acoustic, entropy, and vortical contents may share one snapshot, while hidden pressure, density, or entropy variables alter the component selected by the linearized dynamics. We develop a full-state acoustic mode-identification framework whose parent object is the projector induced by a closed linearized compressible operator in its natural energy space. Branch projectors, admissible acoustic model-class projectors, entropy–vorticity refinements, and reduced observable projectors are treated as distinct exact objects inherited from this parent structure; the density-weighted Hodge split is retained as the kinematic fallback available from ve…",
-    "authors": "Chanho Park, Yeachan Kwak, Gyeongho Gong, Honggi Min et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
