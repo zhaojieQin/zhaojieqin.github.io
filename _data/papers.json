@@ -1,5 +1,42 @@
 [
   {
+    "journal": "Physics of Fluids",
+    "title": "Periodically undulating air–liquid interface on a patterned superhydrophobic surface for drag reduction",
+    "doi": "10.1063/5.0353523",
+    "url": "https://doi.org/10.1063/5.0353523",
+    "abstract": "Superhydrophobic surfaces have been widely applied to underwater drag reduction due to their capability of maintaining an air layer, which converts the solid–liquid interface into an air–liquid slip boundary. However, continuous air layers with millimeter-scale thickness are highly unstable and exist only temporarily due to the shear of the liquid flow. Here, a periodically undulating air–liquid interface was formed on a triangular-patterned superhydrophobic aluminum-alloy surface (TSS) fabricated by nanosecond-laser direct writing and hydrophobic treatment. The superhydrophobic and hydrophobic regions exhibited advancing contact angles of approximately 166° and 121°, respectively, while the rolling angle of the superhydrophobic region was approximately 0.8°. This wettability contrast prov…",
+    "authors": "Tongbin Zhang, Xuesong Shi, Jingting Tang, Jixing Wang et al.",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL",
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Flow mechanisms of lateral–directional control by an all-moving wingtip on a tailless configuration",
+    "doi": "10.1063/5.0352246",
+    "url": "https://doi.org/10.1063/5.0352246",
+    "abstract": "All-moving wingtips (AMTs) are attractive for tailless configurations as they provide yawing and rolling moments while preserving low-observable characteristics. However, previous studies have mainly focused on the overall aerodynamic forces and moments under AMT deflections, whereas the underlying flow mechanisms, especially the interaction between the AMT and the adjacent wing, remain insufficiently understood. To establish a fundamental understanding of AMT-induced lateral–directional control mechanisms, this study employs numerical simulations and wind tunnel tests to investigate unilateral AMT deflection, a basic control case in which only the left all-moving wingtip (LAMT) is deflected. The results reveal a distinct transition in the moment-generation mechanism with increasing angle …",
+    "authors": "Xiao Lin, Peizhen Wang, Wenchen Sun, Yankui Wang",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Unveiling Scale‐Dependent Precipitation Microphysics in Typhoon Doksuri (2023) Using Polarimetric Radar Observations",
+    "doi": "10.1029/2026jd046774",
+    "url": "https://doi.org/10.1029/2026jd046774",
+    "abstract": "Abstract Extending previous work focused on tropical cyclone (TC) rainband distinctions, this study employs polarimetric radar observations to examine the multiscale microphysical characteristics of Typhoon Doksuri (2023). The mean vertical profiles of polarimetric variables differ substantially between the inner‐core and outer‐rainband regions, owing to the different proportions and contributions of convection at various scales. However, a key finding is that convection at equivalent spatial scale (such as cyclonic, meso‐β, or meso‐γ scale) exhibits largely consistent microphysical signatures, including drop size, number concentration, and precipitation intensity. This scale‐dependent consistency arises from a systematic inverse relationship between convective spatial scale and both inten…",
+    "authors": "Hebin Huang, Xuwei Bao, Guanghua Chen, Xinyan Zhang",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "The balance between compactness and forecast accuracy of data-driven latent-space reduced-order models in controlled wake flows",
     "doi": "10.1017/jfm.2026.12075",
@@ -6129,43 +6166,6 @@
     "published": "2026-08-01",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Time-frequency characteristics of velocity fluctuations in particle-laden swirling flow",
-    "doi": "10.1063/5.0322657",
-    "url": "https://doi.org/10.1063/5.0322657",
-    "abstract": "Swirling flows are unsteady and exhibit complex dynamics. Industrial swirl devices often operate under gas–solid two-phase conditions, where particles modulate the swirl and complicate its unsteady behavior. However, quantitative understanding of particle-induced changes in fluctuation intensity, quasi-periodicity, and spatial coherence remains limited. Because vortex-core instantaneous velocities are difficult to access experimentally, coupled computational fluid dynamics-discrete element method simulations are used to obtain high-time-resolution velocity time series. Continuous wavelet transform and wavelet coherence then resolve time–frequency features and quantify coherence changes. The time-averaged results show a pronounced directional dependence in particle-induced swirl modulation,…",
-    "authors": "Miaomin Hong, Kunru Pei, Jinming Liang, Yumeng Zhang et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Numerical study on suppressing heat transfer deterioration of supercritical CO2 in tube with wire-mesh inserts",
-    "doi": "10.1063/5.0340149",
-    "url": "https://doi.org/10.1063/5.0340149",
-    "abstract": "A periodic wire-mesh inserted tube is proposed to mitigate heat transfer deterioration (HTD) of supercritical carbon dioxide in upward flow through a vertical tube. Its thermohydraulic performance is numerically investigated at p = 8 MPa, with mass flux G ranging from 400 to 3000 kg/m2 s and heat flux q ranging from 100 to 490 kW/m2. The results show that effective HTD suppression is achieved only when the wire-mesh insert is arranged upstream of the deterioration region, and increasing the number of inserts enlarges the suppression region where the wall temperature is reduced. For the periodic configuration, the peak wall temperature is reduced by 91 K, maximally. It owes to enhanced near-wall fluid renewal and radial mixing, which thin the near-wall vapor-like layer and suppress thermal-…",
-    "authors": "Qiuru Dong, Zhen Cao, Jian Xie, Jinliang Xu et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "heat transfer"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Bubble evolution in foamed asphalt: A multiple-relaxation-time free-surface lattice Boltzmann model for non-Newtonian fluids considering microscale diffusion effects",
-    "doi": "10.1063/5.0335601",
-    "url": "https://doi.org/10.1063/5.0335601",
-    "abstract": "The foaming and decay of asphalt involve multiple coupled physical mechanisms, including gas–liquid interactions, interfacial evolution, bubble interactions, and non-Newtonian rheology. To address the limitations of previous studies in characterizing the dynamic evolution behavior of bubbles during asphalt foaming and attenuation processes, this study proposes a non-Newtonian fluid multiple-relaxation-time (MRT) free-surface lattice Boltzmann method considering small-scale diffusion effects from the perspective of mesoscopic fluid mechanics. This model adopts an MRT scheme to improve numerical stability and incorporates the power-law constitutive relationship to describe the non-Newtonian rheological characteristics of asphalt under high-temperature conditions. Meanwhile, the Smagorinsky m…",
-    "authors": "Nanxi Li, Haiying Cheng, Jingwen Zheng, Xuebin Wang et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "lattice boltzmann method",
-      "lattice boltzmann"
     ]
   }
 ]
