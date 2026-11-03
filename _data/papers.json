@@ -1,5 +1,53 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Drag reduction regimes in air lubrication",
+    "doi": "10.1017/jfm.2026.12194",
+    "url": "https://doi.org/10.1017/jfm.2026.12194",
+    "abstract": "Air lubrication regimes were studied using simultaneous drag force measurements and multi-plane imaging to characterise the regimes and identify the governing mechanisms of drag reduction. Bubbly, transitional and air layer regimes are identified over a large range of free-stream velocities ( upper U Subscript normal infinity U ∞ $U_{\\infty }$ ), air flow rates ( upper Q Subscript italic air Q air $Q_{\\textit{air}}$ ) and Froude-depth numbers ( italic Fr Subscript d Fr d $\\textit{Fr}_d$ ). For the lowest upper U Subscript normal infinity U ∞ $U_{\\infty }$ , drag reduction lags significantly behind the non-wetted area coverage in all cases and no simple correlation exists. Within the bubbly regime, a drag increase is found for low upper U Subscript normal infinity U ∞ $U_{\\infty }$ with lar…",
+    "authors": "Lina Nikolaidou, Ali R. Khojasteh, Angeliki Laskari, Tom van Terwisga et al.",
+    "published": "2026-11-03",
+    "keywords_matched": [
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Slip boundary condition incorporating near-wall inertial effects in Taylor–Couette turbulence",
+    "doi": "10.1017/jfm.2026.12198",
+    "url": "https://doi.org/10.1017/jfm.2026.12198",
+    "abstract": "Effective slip boundary conditions have proven effective in mechanistic interpretation and predictive modelling over micro-textured drag-reducing surfaces at moderate Reynolds numbers, but their accuracy deteriorates as the texture size and flow rate increase. Torque measurements and direct numerical simulations of Taylor–Couette turbulence over patterned slip surfaces show that this breakdown occurs in a large-texture, high-turbulence regime in which near-wall inertial convection is no longer negligible. Decomposition of angular-momentum transport reveals a near-wall modulated layer where convection is dominated by surface-induced secondary vortices, in contrast to the outer region where turbulent mixing and Taylor rolls govern the transport. Spectral kinetic-energy analysis further shows…",
+    "authors": "Chenxi You, Xiaochao Liu, Pengyu Lv, Chao Sun et al.",
+    "published": "2026-11-03",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Opposing roles of shear-thinning on successive instabilities in Taylor–Couette flow",
+    "doi": "10.1017/jfm.2026.12226",
+    "url": "https://doi.org/10.1017/jfm.2026.12226",
+    "abstract": "The intrinsic effect of shear-thinning on successive instabilities in narrow-gap Taylor–Couette flow is investigated using direct numerical simulation (DNS) with axially periodic boundary conditions, thereby eliminating endwall effects. The Carreau model is employed with three shear-thinning indices ( n equals 0.52 n = 0.52 $n = 0.52$ , 0.62 0.62 $0.62$ , 0.68 0.68 $0.68$ ), matching the experimental parameters of Cagney and Balabani ( Phys. Fluids , 2019, vol. 31, p. 053102). Shear-thinning exerts opposing influences on the two instabilities. For the primary transition from circular Couette flow to Taylor vortex flow, enhanced shear-thinning (decreasing n n $n$ ) is destabilising, with the critical Reynolds number italic Re Subscript c comma 1 Re c , 1 $\\textit{Re}_{c,1}$ decreasing from …",
+    "authors": "Fan Xu, Zifeng Li, Ning Yang",
+    "published": "2026-11-03",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Leveraging leaf-level optimality processes with explicit  acclimation improves global GPP representation in  an individual-based DGVM (LPJ-GUESS v4.1.1)",
+    "doi": "10.5194/gmd-19-10365-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10365-2026",
+    "abstract": "Vegetation models are indispensable tools for investigating and projecting the terrestrial carbon cycle, both as standalone models and embedded in global climate models. However, current models vary widely in their representation of ecosystem processes and consequently in their projected future carbon dynamics. Eco-evolutionary optimality (EEO) approaches, which derive and test hypotheses about optimal plant behaviour under specific environmental conditions as a consequence of natural selection, have been proposed as a means to improve the reliability of vegetation models and the robustness of their future projections. Here we embed EEO-derived models for photosynthesis and leaf dark respiration, and their acclimation to changing conditions, into the widely used LPJ-GUESS vegetation model.…",
+    "authors": "Matthew Forrest, Mateus Dantas de Paula, Filipe Gomes de Almeida, Sandy P. Harrison et al.",
+    "published": "2026-11-03",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Physics of Fluids",
     "title": "Periodically undulating air–liquid interface on a patterned superhydrophobic surface for drag reduction",
     "doi": "10.1063/5.0353523",
@@ -34,6 +82,55 @@
     "published": "2026-11-01",
     "keywords_matched": [
       "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "The fraction of motile bacteria in a culture of\n                    <i>Escherichia coli</i>\n                    and its evolution along the growth curve",
+    "doi": "10.1063/5.0352614",
+    "url": "https://doi.org/10.1063/5.0352614",
+    "abstract": "Although the population growth kinetics of Escherichia coli are extensively documented, the quantitative and detailed characterization of motility evolution and cell morphology across distinct culture phases remains unavailable, despite its potential impact on active matter studies. In this work, we analyze the temporal evolution of bacterial activity and aspect ratio, demonstrating that motility distribution is not constant. A key finding is the existence of a non-negligible fraction of non-motile bacteria, the proportion of which varies depending on the growth stage of the population. This demographic evolution of the active and inactive fractions and the cell aspect ratio can have direct implications for collective behavior of bacterial suspensions.",
+    "authors": "Bryan Alexis Valenzuela, María Luisa Cordero",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Internal vortex flow energy dissipation and spatiotemporal pressure pulsation during partial load operation of pump-turbine under power generation conditions",
+    "doi": "10.1063/5.0356730",
+    "url": "https://doi.org/10.1063/5.0356730",
+    "abstract": "When the pump-turbine operates under partial-load generating conditions, the deviation between flow rate and blade design state can induce runner blade channel separation, rotating stall in the bladeless region, draft tube vortex, and complex non-uniform flow structures, resulting in increased energy loss, enhanced pressure pulsation, and reduced unit stability. Therefore, revealing the coupling mechanism among internal vortex flow, energy dissipation, and pressure pulsation is essential for improving the wide-load operation capability of pumped storage units. In this study, a reversible pump-turbine of a pumped storage power station is investigated, and a three-dimensional unsteady full-flow passage model including the volute, guide vane, stay vane, runner, draft tube, and leakage channel…",
+    "authors": "Yuan Tang, Jiahao Lu, Ruofu Xiao, Zhifeng Yao et al.",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Reduced-order physics-constrained deep learning for shock-dominated supersonic channel flows",
+    "doi": "10.1063/5.0351768",
+    "url": "https://doi.org/10.1063/5.0351768",
+    "abstract": "A reduced-order physics-constrained deep learning framework, SupersonicNet, is developed for the rapid prediction of two-dimensional supersonic flow fields (Ma 2.5–5.0) in confined channels with variable forward-facing step geometries. The framework is built upon a modified U-Net architecture. The continuity equation and the ideal gas equation of state are embedded as soft constraints in the loss function. The input matrices, consisting of a boundary identifier, a signed distance function for wall geometry, and a pressure boundary condition, mirror the conventional computational fluid dynamics (CFD) solver setup and enable feature learning across diverse geometric configurations. The model accurately predicts flow fields at unseen Mach numbers without additional CFD samples or retraining, …",
+    "authors": "Yude Yan, Jian Dai",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Vortex-induced vibration analysis of variable-diameter air-lift risers for deep-sea mining",
+    "doi": "10.1063/5.0353488",
+    "url": "https://doi.org/10.1063/5.0353488",
+    "abstract": "Air-lift lifting is a promising technology for deep-sea mining due to its simple structure, low maintenance, and good adaptability to mineral particles. This paper first develops a one-dimensional steady-state multiphase flow model for variable-diameter air-lift risers and validates it against experimental data. A time-domain vortex-induced vibration (VIV) analysis model is then established by coupling the multiphase flow solver with a phase synchronization-based hydrodynamic force model, and systematic numerical simulations are carried out for a 5000 m deep-sea mining riser. The results indicate that the stepped diameter geometry introduces significant axial non-uniformity in both structural and flow parameters. Compared with constant-diameter risers, variable-diameter designs produce mor…",
+    "authors": "Weixing Liang, Shuxin Yang, Zhuang Kang, Huanfeng Song et al.",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
     ]
   },
   {
@@ -6066,106 +6163,6 @@
     "published": "2026-08-01",
     "keywords_matched": [
       "heat transfer"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Dominant processes and characteristic timescales of intermodal coagulation for bimodal aerosols in decaying homogeneous isotropic turbulence",
-    "doi": "10.1063/5.0334145",
-    "url": "https://doi.org/10.1063/5.0334145",
-    "abstract": "Aerosol coagulation is a key process governing particle size distributions (PSDs) in engineering and environmental flows. Most traditional models are developed for unimodal aerosols and therefore struggle to capture intermodal coagulation in bimodal PSDs. In this study, an aerosol-turbulence modeling framework was established by coupling a bimodal population balance equation (PBE) with a decaying homogeneous isotropic turbulence field simulated in Open Field Operation and Manipulation (OpenFOAM). The PBE for Brownian and turbulent coagulation was solved using the Taylor-expansion method of moments (TEMOM), which was compared with the quadrature method of moments, the direct quadrature method of moments (DQMOM), and the inverse Gaussian distribution method of moments. The consistency of the…",
-    "authors": "Hong-Wei Li, Ming-Ze Sun, Ji-Ning Sun, Wen-Bo Duan",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Stability and nonlinear vibration control of an axially excited cantilevered fluid-conveying pipe using a track nonlinear energy sink",
-    "doi": "10.1063/5.0341234",
-    "url": "https://doi.org/10.1063/5.0341234",
-    "abstract": "This study investigates the stability and nonlinear vibration control of an axially excited vertical cantilevered fluid-conveying pipe equipped with a track nonlinear energy sink (TNES). A gravity-compensated TNES is considered to clarify how absorber friction and attachment location affect instability suppression in flow-excited piping systems. A coupled pipe TNES model is established and reduced by Galerkin discretization. Floquet analysis, alternating frequency–time harmonic balance method, and fourth-order Runge–Kutta methods are combined to determine stability boundaries and post-instability responses. The model equation is validated through critical-flow prediction, modal-truncation convergence over unstable excitation-frequency ranges, and verification of dry-friction TNES response …",
-    "authors": "Jiang Lan, LieDong Mi, Pihua Yang",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Tunnel cross-section study for 600 km/h high-speed maglev trains based on passenger pressure comfort and pressure load",
-    "doi": "10.1063/5.0343827",
-    "url": "https://doi.org/10.1063/5.0343827",
-    "abstract": "To determine a reasonable tunnel cross-sectional area for a 600 km/h high-speed maglev train passing through a tunnel, this study adopts the shear stress transport k–ω turbulence model and the overset grid method to investigate the effects of tunnel cross-sectional area, tunnel length, and train body dynamic airtightness index on the internal and external pressure variations. The numerical method's dependability is proven using a moving model test. When the eight-car high-speed maglev train passes through the tunnel at 600 km/h, the external peak-to-peak pressure is highest in the middle carriages, whereas the internal peak-to-peak pressure increases from the head carriage to the tail carriage. In contrast, the average peak-to-peak internal pressure increases gradually from the head carria…",
-    "authors": "Xiaohong Yuan, Yiming Tian, Junyan Wang, Yiping Wang et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Modeling the critical conditions for puffing and microexplosion of unstable emulsified fuel droplets",
-    "doi": "10.1063/5.0336839",
-    "url": "https://doi.org/10.1063/5.0336839",
-    "abstract": "Intense heating of emulsified fuel droplets injected into combustion chambers of aviation engines leads to their puffing and microexplosions. In this study, we develop a new heat and mass transfer model, accounting for phase separation in emulsified fuel droplets and the formation of a core–film structure, to predict critical puffing/microexplosion conditions. The dynamics of phase separation in emulsion droplets containing various surfactants is investigated using a transient phase-field model. The problem considers coupled heating, evaporation, and phase separation of an emulsified fuel droplet in a gas–air environment. Numerical simulations are performed in software COMSOL Multiphysics using the heat transfer in solids and fluids, laminar flow, deformed geometry, and phase field modules…",
-    "authors": "Dmitriy V. Antonov, Pavel A. Strizhak",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL",
-      "heat transfer"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Collaborative active control of the wake of an Ahmed body using multiple sweeping jets",
-    "doi": "10.1063/5.0342154",
-    "url": "https://doi.org/10.1063/5.0342154",
-    "abstract": "Sweeping jet (SWJ) collaborative actuation offers a promising approach for manipulating the wake of a slanted Ahmed body, yet its underlying mechanisms remain insufficiently explored. In the present study, numerical simulations are performed at a Reynolds number of Re=1.97×105 to investigate the mean wake response under SWJs deployed at different locations. The results show that single-point actuation primarily induces localized modifications to the wake, such as altering the upper and lower recirculation bubbles or the corner vortices. Owing to the strong coupling between these structures, the overall drag reduction remains limited. In contrast, collaborative actuation produces a more global modification of the mean wake, characterized by an elongated and more symmetric recirculation regi…",
-    "authors": "Zhenlin Xie, Yijia Peng, Yingzheng Liu, Xin Wen",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "wake",
-      "drag reduction"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Stability of micropolar fluid convection in a porous layer with local thermal non-equilibrium: Artificial neural network prediction",
-    "doi": "10.1063/5.0341732",
-    "url": "https://doi.org/10.1063/5.0341732",
-    "abstract": "This study investigates thermal convection in a micropolar fluid-saturated porous medium under local thermal non-equilibrium (LTNE) conditions. Linear stability thresholds are determined using a normal mode approach combined with the Chebyshev collocation method. In the nonlinear regime, the energy method demonstrates that the linear stationary threshold and the nonlinear stability threshold coincide exactly, thereby precluding the existence of a subcritical convection regime. Parametric analysis reveals that while the interphase heat transfer coefficient (H) and the micropolar coupling parameter (N1) exert a stabilizing effect on the system, the porosity (ε) and micropolar parameter (m1) significantly facilitate the onset of convection. To address the complex parameter coupling inherent i…",
-    "authors": "Xiayi Zhou, Tianyi Han, Qinghe Yao, Yuhui Chen",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "heat transfer"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Unsteady wake dynamics of a finite wall-mounted rectangular cylinder in a thick turbulent boundary layer: Effects of cross-sectional aspect ratio",
-    "doi": "10.1063/5.0335985",
-    "url": "https://doi.org/10.1063/5.0335985",
-    "abstract": "This study investigates the effects of cross-sectional aspect ratio (CR=l/d, where l is the streamwise length and d is the width) on the unsteady wake dynamics of rectangular finite wall-mounted cylinders fully submerged in a thick turbulent boundary layer (TBL). Five different cross-sectional aspect ratios, CR=1.0, 2.0, 2.5, 3.0, and 4.0, are simulated using improved delayed detached eddy simulation for cylinders with a fixed height aspect ratio (h/d=7.0), Reynolds number based on cylinder width (Re=5540), and submergence ratio (δ/h=1.2), where δ is the TBL thickness and h is the cylinder height. The results show that a thick TBL promotes earlier shear-layer reattachment and substantially reduces drag while increasing lift for CR≥2.5 compared to uniform or thin TBL. Over the free end, mea…",
-    "authors": "Manuel O. Sandoval, Ebenezer E. Essel",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "wake"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Synthetic jet control of the airfoil based on deep reinforcement learning",
-    "doi": "10.1063/5.0342459",
-    "url": "https://doi.org/10.1063/5.0342459",
-    "abstract": "This article proposes a closed-loop active flow control framework based on proximal policy optimization (PPO) algorithm and a synthetic jet to suppress severe flow separation of EH1590 airfoil at high angles of attack. Aerodynamic characteristics of airfoils under different jet parameters are obtained through computational fluid dynamics (CFD) simulation, and a deep neural network surrogate model is trained to achieve rapid prediction. Based on this alternative model, the PPO algorithm is used to train the agent, taking the pressure distribution of the flow field around the airfoil as the state, to optimize and improve the weighted objectives of lift-to-drag ratio and jet energy consumption. Finally, the agent is tested in both fixed and variable angle of attack tasks, and its adaptability…",
-    "authors": "Yuhang Su, Yanping Song, Fu Chen, Jianyang Yu",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
