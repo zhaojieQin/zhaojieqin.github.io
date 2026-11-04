@@ -1,6 +1,30 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Enhancement of inertial particle transport in rough-wall turbulence",
+    "doi": "10.1017/jfm.2026.12222",
+    "url": "https://doi.org/10.1017/jfm.2026.12222",
+    "abstract": "Direct numerical simulation is employed to investigate the transport of inertial particles in turbulent channel flows over spanwise rod-roughened walls. The study examines the effects of roughness geometry by varying the streamwise spacing-to-height ratio w divided by k w / k $w/k$ from 1 to 199. Results indicate that rod roughness elements significantly modulate near-wall turbulent structures and drag coefficients, as both form and total drag reach a maximum value at approximately w divided by k equals 9 w / k = 9 $w/k=9$ . For the dispersed phase, the presence of rough walls suppresses the near-wall accumulation of inertial particles typically observed in smooth-wall turbulence. This reduction in preferential concentration is attributed to the modification of near-wall flow structures, w…",
+    "authors": "Ze Wang, Jianda Huang, Zhiwen Cui, Chun-Xiao Xu et al.",
+    "published": "2026-11-04",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "GECKO-A v1.0: exploring VOC oxidation trajectories through comparison with the master chemical mechanism",
+    "doi": "10.5194/gmd-19-10395-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10395-2026",
+    "abstract": "Numerical models are crucial tools for understanding complex chemical systems such as the atmosphere, and their sensitivity across a range of conditions. In atmospheric chemistry models, reaction mechanisms are used to represent chemical transformations and define the underlying system of equations. Building highly explicit mechanisms that capture the full complexity of organic oxidation occurring in the atmosphere remains challenging owing to the large number of intermediates involved, the breadth of reaction pathways, and the limited availability of reliable kinetic and thermodynamic data. The Generator for Explicit Chemistry and Kinetics of Organics in the Atmosphere (GECKO-A) was developed to address these limitations by enabling the systematic construction of near-explicit mechanisms.…",
+    "authors": "Bernard Aumont, Richard Valorso, Andrew Rickard, Mike Jenkin et al.",
+    "published": "2026-11-04",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Drag reduction regimes in air lubrication",
     "doi": "10.1017/jfm.2026.12194",
     "url": "https://doi.org/10.1017/jfm.2026.12194",
@@ -42,6 +66,69 @@
     "url": "https://doi.org/10.5194/gmd-19-10365-2026",
     "abstract": "Vegetation models are indispensable tools for investigating and projecting the terrestrial carbon cycle, both as standalone models and embedded in global climate models. However, current models vary widely in their representation of ecosystem processes and consequently in their projected future carbon dynamics. Eco-evolutionary optimality (EEO) approaches, which derive and test hypotheses about optimal plant behaviour under specific environmental conditions as a consequence of natural selection, have been proposed as a means to improve the reliability of vegetation models and the robustness of their future projections. Here we embed EEO-derived models for photosynthesis and leaf dark respiration, and their acclimation to changing conditions, into the widely used LPJ-GUESS vegetation model.…",
     "authors": "Matthew Forrest, Mateus Dantas de Paula, Filipe Gomes de Almeida, Sandy P. Harrison et al.",
+    "published": "2026-11-03",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Flow features and jet formation in droplet–bubble collision",
+    "doi": "10.1017/jfm.2026.12200",
+    "url": "https://doi.org/10.1017/jfm.2026.12200",
+    "abstract": "We investigate head-on droplet–bubble collisions in a quiescent, surfactant-free viscous liquid using three-dimensional volume-of-fluid simulations. By systematically varying the bubble-to-droplet radius ratio ( 0.5 less than or equals upper Delta less than or equals 2 0.5 ≤ Δ ≤ 2 $0.5\\le \\varDelta \\le 2$ ) and Weber number ( 3 less than or equals italic We less than or equals 270 3 ≤ We ≤ 270 $3\\le \\textit{We}\\le 270$ ) at small Ohnesorge number ( italic Oh less than 1 Oh &lt; 1 $ \\textit{Oh}\\lt 1$ ), we identify the mechanisms governing interfacial deformation, attachment, jet formation and vortex evolution during an isolated collision. Four distinct collision regimes emerge, ranging from oscillatory attachment to jet-mediated penetration and coupled toroidal deformations. A transition f…",
+    "authors": "Arahata Senapati, Gaurav Singh, Arnab Atta, Gautam Biswas et al.",
+    "published": "2026-11-03",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Open-loop control of the flow past and forces on a two-dimensional elliptical-nosed body",
+    "doi": "10.1017/jfm.2026.12197",
+    "url": "https://doi.org/10.1017/jfm.2026.12197",
+    "abstract": "Simulations are conducted on an elliptical-nosed, square-backed cylinder in the presence of a moving ground plane. Open-loop active flow control is applied to the body in the form of zero-net-mass-flux combined injection and suction near the top trailing edge. Both steady and periodic control are used, and their effects on the aerodynamic forces on the body and wake flow are examined. Steady control is shown to deflect the separating shear layer and reduce the wake width, subsequently reducing the drag. The effect of periodic control is shown to be sensitive to the control frequency–different frequencies can either enhance or inhibit the formation of large-scale coherent structures in the wake. Notably, all five actuation cases tested resulted in a drag reduction over the natural flow case…",
+    "authors": "Gershom Easanesan, David Burton, Mark C. Thompson",
+    "published": "2026-11-03",
+    "keywords_matched": [
+      "wake",
+      "ABL",
+      "drag reduction"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Motion of a spherical particle in viscosity-stratified plane Couette flow",
+    "doi": "10.1017/jfm.2026.12238",
+    "url": "https://doi.org/10.1017/jfm.2026.12238",
+    "abstract": "We investigate the dynamics of a rigid spherical particle in plane Couette flow with a viscosity that varies linearly across the channel, from the Stokes limit to non-zero Reynolds numbers, using analytical theory and immersed-boundary lattice Boltzmann simulations. In the Stokes limit, we find that the particle develops a constant, viscosity-gradient-induced translational slip, defined as the difference between the particle velocity and the undisturbed fluid velocity at its centre. The particle leads the flow when the viscosity increases towards the moving wall and lags when it decreases. Its angular velocity equals half the local, viscosity-gradient-modified fluid vorticity, experiencing no additional rotational slip. Furthermore, we show that cross-stream particle migration is strictly …",
+    "authors": "Rupayan Jana, Shubhadeep Mandal",
+    "published": "2026-11-03",
+    "keywords_matched": [
+      "lattice boltzmann"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Investigation of internal wave wakes generated by a towed sphere in stratified flow using planar array measurements",
+    "doi": "10.1017/jfm.2026.12157",
+    "url": "https://doi.org/10.1017/jfm.2026.12157",
+    "abstract": "The stable thermohaline stratification of the ocean gives rise to complex generation, propagation and evolution characteristics of internal wave wakes produced by moving bodies. This study proposes a pycnocline injection approach to construct a stratified flow field representative of typical oceanic pycnoclines and develops a high-precision planar array conductivity measurement system to systematically capture the spatiotemporal evolution of internal wave amplitudes induced by a towed sphere. Using statistical analysis, spectral decomposition and filtering techniques, three distinct internal wave components with different generation mechanisms and propagation behaviours are identified. Their dominant Froude number ranges and spatial distribution characteristics are further clarified. Focus…",
+    "authors": "Zhechao Yang, YunXiang You, Linxin Lan, Benlong Wang",
+    "published": "2026-11-03",
+    "keywords_matched": [
+      "wake",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Moisture Aggregation and the Cloud Transition Zone Shape Mesoscale Aerosol Properties",
+    "doi": "10.1029/2026jd047500",
+    "url": "https://doi.org/10.1029/2026jd047500",
+    "abstract": "Abstract Mesoscale moisture aggregation and cloud organization in shallow convection have gained much attention regarding their role in Earth's energy budget and cloud feedbacks on climate. Because aerosol particles swell in humid air, mesoscale moisture patterns are expected to be accompanied by corresponding variations in aerosol optical depth (AOD). However, observing such patterns is challenging because space‐borne imagers cannot reliably retrieve AOD in the aerosol–cloud transition zone (CTZ), where radiative transfer is different from both clear‐sky and cloudy conditions. By linking the concepts of moisture aggregation and the CTZ, we ask whether mesoscale patterns organize AOD patterns on the mesoscale, and what are the structures and components of the CTZ in different cloud morphol…",
+    "authors": "Eshkol Eytan, Martin Wirth, Silke Groß, J. Christine Chiu et al.",
     "published": "2026-11-03",
     "keywords_matched": [
       "ABL"
@@ -131,6 +218,251 @@
     "keywords_matched": [
       "ABL",
       "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Effects of aftbody vortex shedding on forebody vortex oscillation over hemisphere–cylinder bodies",
+    "doi": "10.1063/5.0352022",
+    "url": "https://doi.org/10.1063/5.0352022",
+    "abstract": "Previous studies have revealed that the leeward vortices around a hemisphere–cylinder body exhibit low-frequency antisymmetric oscillations at angles of attack (AoAs). The oscillation frequency is around 0.11 at AoAs of 10°–40°, whereas at AoAs of 40°–80°, it drops to 0.06, accompanied by apparent vortex shedding from the aftbody. It remains unclear whether this abrupt frequency drop arises from the interference of the aftbody vortex shedding. In this study, large eddy simulations were employed to evaluate the effects of the vortex shedding on the vortex oscillations over the hemisphere–cylinder bodies at two typical AoAs of 30° and 50° with various fineness ratios. The fluctuation of the sectional side-force coefficient is quantified using the axial distributions of the root mean square (…",
+    "authors": "Hamdoon Ijaz, Bao-Feng Ma, Peixin Dong",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Multiscale modeling of shale-gas flow in nanopores with multiple transport mechanisms",
+    "doi": "10.1063/5.0357565",
+    "url": "https://doi.org/10.1063/5.0357565",
+    "abstract": "Methane transport in organic shale nanopores is jointly influenced by first adsorption-layer occupancy, surface diffusion, gas slip, and the Knudsen layer. We developed a regularized multiphysics multiple-relaxation-time lattice Boltzmann model that incorporates molecular-scale adsorption properties. The Peng–Robinson equation of state is employed to describe the non-ideality of high-pressure methane. The pore-size- and pressure-dependent adsorbed-phase density obtained from grand canonical Monte Carlo simulations is coupled into the combined bounce-back and full-diffusive boundary condition, while a local mean-free-path correction is introduced to capture the near-wall Knudsen layer. Second-order Hermite regularization is further employed to enhance numerical stability in complex pore geo…",
+    "authors": "Zijie He, Keliu Wu, Miaokang Zhang, Qingyuan Zhu et al.",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "lattice boltzmann"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Wide-operating-range propulsive performance and wake kinetic-energy transport of a ship propulsor incorporating a pre-duct and propeller boss cap fins",
+    "doi": "10.1063/5.0357096",
+    "url": "https://doi.org/10.1063/5.0357096",
+    "abstract": "Because the propeller advance coefficient varies widely during ship operation, this study numerically investigates the propulsive performance and wake kinetic-energy transport of an integrated propulsor combining a pre-duct with propeller boss cap fins (PBCF) over J = 0.30–1.10. The bare-propeller, PBCF, pre-duct, and integrated configurations were compared. Axial and circumferential resolved mean-flow kinetic-energy fluxes were evaluated over full-wake and near-hub regions, and the combined response was compared with an additive reference derived from the isolated-device responses. The integrated configuration increased the prescribed-inflow thrust–power ratio by 1.67%–6.29%, with the maximum at J = 0.745. Near the design condition, both flux responses remained close to the additive refer…",
+    "authors": "Xin Chang, Qiuying Chen, Yu Lu, Zhengyu Zhu et al.",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "wake"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Hydrodynamic synergy between undulating and caudal fins in a bionic underwater vehicle",
+    "doi": "10.1063/5.0348577",
+    "url": "https://doi.org/10.1063/5.0348577",
+    "abstract": "This study investigates the hydrodynamic synergy of a biomimetic underwater vehicle propelled by coordinated undulating fins (dorsal and anal) and a caudal fin. Numerical simulations are conducted to analyze the effects of key kinematic parameters and three propulsion modes on swimming and hydrodynamic performance. Results indicate that higher frequencies and larger amplitudes increase thrust but amplify unsteady hydrodynamic loading, whereas a larger wavelength reduces roll fluctuations, representing a beneficial exception. Phase difference has a negligible influence on mean thrust but strongly affects loading steadiness. The coordinated multi-fin mode (Mode 3) achieves the highest forward speed with a favorable balance of lateral and yaw loading. A positive interaction force of 1.25 N co…",
+    "authors": "Ou Xie, Yifeng He, Dawei Zhou, Jiping Luo",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Aerodynamic response characteristics of high-speed trains under turbulent crosswind using a train-adapted consistency-improved random flow generation inflow scheme",
+    "doi": "10.1063/5.0354318",
+    "url": "https://doi.org/10.1063/5.0354318",
+    "abstract": "Turbulent crosswind produces hazardous low-frequency aerodynamic loads that threaten the lateral stability of high-speed trains (HSTs). Nevertheless, the underlying eddy evolution physics and St-dependent load-amplification mechanisms remain insufficiently quantified under conventional steady uniform inflow conditions. This work establishes the HST-consistency-improved random flow generation (CIRFG) synthetic turbulence framework by coupling the CIRFG algorithm with velocity superposition for HST turbulent crosswind simulations. Unsteady improved delayed-detached-eddy simulations are performed under uniform inflow and 15% turbulence intensity turbulent inflow conditions. The synthetic turbulence undergoes a two-stage streamwise evolution and reaches statistical equilibrium at (x/H ≈ −4) up…",
+    "authors": "Ning Fu, Jianjun Meng, Shiyi Zhang, Shaopeng Yu",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Flow mechanisms of flying fish during free-surface taxiing",
+    "doi": "10.1063/5.0347662",
+    "url": "https://doi.org/10.1063/5.0347662",
+    "abstract": "This study numerically investigates the flow mechanisms of a four-winged flying fish during free-surface taxiing, the pivotal phase enabling long-distance aerial gliding. Under identical kinematic parameters, the caudal fin yields substantial thrust (C¯T,tail≈1.22) during free-surface taxiing, in contrast to the negative value obtained in deep-water swimming (C¯T,tail≈−3.79), indicating that the free surface fundamentally alters the thrust-generation mechanism. Wake analyses reveal that the undulating caudal fin generates periodic depression waves, which reshape the vortex structure and drive the formation of a unique staggered 2S* vortex mode in the water phase; within this mode, each vortex independently induces intense streamwise momentum jets, thereby contributing to thrust generation.…",
+    "authors": "Xinyang Chen, Wenrong Hu",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "wake",
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Effect of liquid viscosity on drop breakup in shock wave: Modeling and physical analysis",
+    "doi": "10.1063/5.0347924",
+    "url": "https://doi.org/10.1063/5.0347924",
+    "abstract": "This paper presents a computational study of droplet breakup behind a shock wave in the liquid viscosity range of 0.0003 ≤ μ ≤ 0.428 Pa s. Water, ethanol, hexane, and tridecane were used as low-viscosity liquids, while diesel fuels were used as viscous liquid samples. The calculations were performed using fixed gas parameters, as in the experiments with water at a Weber number of We = 400. The numerical methodology is based on the volume of fluid method; the large eddy simulation model was used to account for turbulence, and the technology of adapted grids with a secondary droplet size resolution of up to 20 μm was applied to describe the behavior of the interface on the main turbulent scales. An analysis of the calculations is performed based on the physical mechanisms of aerodynamic drop…",
+    "authors": "A. A. Shebeleva, S. V. Poplavski, A. V. Shebelev, A. V. Minakov et al.",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Turbidity current simulation with OpenFOAM: The role of drag forces in sediment transport",
+    "doi": "10.1063/5.0353818",
+    "url": "https://doi.org/10.1063/5.0353818",
+    "abstract": "Turbidity currents are gravity-driven flows that occur when dense, sediment-laden flows mix with a less dense fluid, which transports suspended particles. These currents are the primary reason for sediment deposition in reservoirs and lakes, and they often impact infrastructure, such as communication cables on the seafloor, while reducing the capacity of dams. The present work involves implementing various drag force models into a turbidity current solver for correctly predicting sediment transport and deposition. Several drag force models, including those of Stokes, Wen and Yu, and Tenneti et al., were applied to improve the accuracy of turbidity current simulations. To compare the performance of drag force models, the solver results were further compared with experimental data of continu…",
+    "authors": "Omar Shahbakhsh, Nariman Mehranfar, Morteza Kolahdoozan",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Study on an indirect measurement method for near-field shock waves in underwater explosions based on the principle of a constant cross section shock tube",
+    "doi": "10.1063/5.0352255",
+    "url": "https://doi.org/10.1063/5.0352255",
+    "abstract": "To address the technical challenge of directly measuring near-field shock waves from large-yield underwater explosions, this paper proposes an indirect measurement and inversion method based on the principle of one-dimensional controllable attenuation of shock waves inside a constant cross section shock tube. At the theoretical level, a theoretical model for the one-dimensional attenuation of shock waves inside a constant cross section tube was established based on the method of characteristics. On this basis, an explicit inversion algorithm was derived to calculate the original shock wave parameters at the tube inlet from the attenuated shock wave parameters measured inside the tube, providing a theoretical basis for data inversion. Proof-of-principle experiments were conducted to verify …",
+    "authors": "Xiongliang Yao, Yanpei Zhou, Zhibo Liu",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Effect of asymmetric swirl induction on swirl-center dynamics and turbulence in a confined swirl flow",
+    "doi": "10.1063/5.0348013",
+    "url": "https://doi.org/10.1063/5.0348013",
+    "abstract": "Two-dimensional, two-component particle image velocimetry has been used to investigate the effect of port configuration on bulk flow statistics and turbulence in a confined swirl flow. Three different port configurations were examined to assess the effects of port geometry and combinations on the evolution of swirl flow. The axial variation of the flow field was investigated by velocity measurements in different axial planes. A swirl center analysis was performed to understand the bulk flow fluctuations and orientation in the engine cylinder. The cycle-resolved ensemble flow field was extracted to study the cycle-to-cycle variations in the bulk flow. The in-plane turbulent kinetic energy was estimated using the conventional ensemble averaging method and the window averaging method, and the…",
+    "authors": "Ashutosh Jena, Saurabh Singh Chauhan, Avinash Kumar Agarwal",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Multi-partitioned computing quantum-particle approach: A hybrid quantum framework for fluid flow",
+    "doi": "10.1063/5.0335715",
+    "url": "https://doi.org/10.1063/5.0335715",
+    "abstract": "This study established a quantum-classical hybrid framework that integrates quantum computing paradigm with meshfree finite particle method (FPM). By harnessing quantum superposition and entanglement, it hybridized the critical computational kernels (termed as quantum FPM). A resource-efficient quantum computational strategy on multi-partitioned zones was proposed, which leverages a fixed small-scale quantum circuit as a fundamental processing unit to handle inner product for arbitrary sized arrays. This approach employs iterative nesting of the quantum-core operation to accommodate varying input dimensions while maintaining hardware feasibility throughout. Motivated with developed quantum framework, the novel numerical discretization for hybrid quantum computational particle dynamics can …",
+    "authors": "Yudong Li, Wenkui Shi, Zhihao Qian, Yan Li et al.",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Molten metal flow and crater evolution during cathode spot retrograde motion",
+    "doi": "10.1063/5.0353283",
+    "url": "https://doi.org/10.1063/5.0353283",
+    "abstract": "A three-dimensional hydrodynamic erosion model is established to analyze molten metal flow and cathode surface evolution along a prescribed cathode spot (CS) retrograde motion trajectory under a transverse magnetic field (TMF). The CS trajectory is determined using a statistical model based on the probability density of TMF-driven CS motion, while molten metal flow and crater evolution are simulated using the volume of fluid method with adaptive mesh refinement. The simulations show that pressure drives molten metal redistribution, whereas craters left by extinguished CS disrupt the axisymmetric evolution of newly ignited CS. This asymmetry promotes molten metal jetting and droplet formation on the previous spot side. For the prescribed CS motion trajectory, at 150 mT, cathode erosion rema…",
+    "authors": "Cong Wang, Lijun Wang, Xinyi Liu, Zhinan Chen et al.",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Size-dependent transport and adhesion of heat-activated resin droplets in geothermal fractures",
+    "doi": "10.1063/5.0354176",
+    "url": "https://doi.org/10.1063/5.0354176",
+    "abstract": "The presence of rapid flow pathways through large, well-connected fractures reduces heat-exchange efficiency and the economic viability of enhanced geothermal systems (EGSs). However, when high permeability fractures form during fracking or seismic activity, only a few methods are available to mitigate their impact on the performance of EGSs. We recently proposed a method that employs thermally activated epoxy resin droplets that are transported with the flow to hot regions where the resin droplets foam and adhere to the fracture walls, thus selectively reducing the local permeability. A proof of concept was reported; however, the transport dynamics and statistical behavior of droplet adhesion were not fully characterized. Here, we report a hydrodynamic model for the transport and adhesion…",
+    "authors": "Yutong Cui, Rishi Parashar, Ying Yang, Manish Bishwokarma et al.",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Bubble generation–release competition and low-defect process region in photoresist spray coating",
+    "doi": "10.1063/5.0353497",
+    "url": "https://doi.org/10.1063/5.0353497",
+    "abstract": "Bubble defects generated during photoresist spray coating compromise film continuity and surface integrity. Bubble retention is governed by the competition between impact-induced generation and subsequent release. A three-dimensional conservative Allen–Cahn phase-field lattice Boltzmann framework was developed using two stage-resolved configurations to quantify the generation- and release-side responses, supplemented by continuous-process calculations that followed impact-generated trapped bubbles without reinitializing the gas region, interfacial field, or velocity field. The numerical formulation was assessed using the Young–Laplace static-droplet and Miller–Scriven benchmarks, together with interface-thickness and grid-resolution sensitivity analyses. Higher Weber number intensified liq…",
+    "authors": "Shenghan Lu, Yadong Sun, Ruoyu Wang, Lei Zhang",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "lattice boltzmann"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Underwater explosion bubble evolution characteristics of the charge enveloped by a supercavitation layer",
+    "doi": "10.1063/5.0351522",
+    "url": "https://doi.org/10.1063/5.0351522",
+    "abstract": "The evolutionary characteristics of underwater explosion bubbles induced by blast-type supercavitating projectiles are markedly different from those associated with conventional bare-charge explosions. To capture the interactions among the supercavitation layer, the detonation products, and the surrounding water, a numerical model based on the multi-material Eulerian method is developed. Meanwhile, an underwater explosion experiment is carried out using a charge enveloped by a preset static supercavitation layer, which is realized by a hyperelastic thin membrane. The numerical results and the experimental results show reasonable agreement, which demonstrates the validity of the numerical model. The numerical model is then employed to investigate the influence of the supercavitation layer o…",
+    "authors": "Kun Liu, Liangtao Liu, Jinxiang Wang, Xiwen Chen et al.",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "A dissipative-signed subgrid-scale flux decomposition for local enstrophy transfer in two-dimensional decaying turbulence",
+    "doi": "10.1063/5.0357755",
+    "url": "https://doi.org/10.1063/5.0357755",
+    "abstract": "Filtered two-dimensional vorticity transport contains both forward and local reverse subgrid-scale (SGS) enstrophy transfer, which a positive scalar diffusivity cannot represent simultaneously. We develop a neural flux decomposition that retains an explicitly dissipative tensor-diffusive component and adds a bounded sign-indefinite correction supported by resolved gradients. The dissipative component has non-negative local enstrophy transfer, while the correction supplies signed and non-collinear transport. Physical SGS labels are constructed by applying a periodic Gaussian filter to a grid-refined numerical reference. A three-seed 2×2 factorial identifies the signed correction as the dominant reproducible contribution: for the isotropic model, mean a priori transfer correlation increases …",
+    "authors": "Zihao Li, Shuanghong Zhou, Bin Ge, Xiongbo Zheng et al.",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Mechanisms of wake evolution and aerodynamic interaction in a propeller–airframe system under hover and forward flight conditions",
+    "doi": "10.1063/5.0346665",
+    "url": "https://doi.org/10.1063/5.0346665",
+    "abstract": "Propeller–airframe interaction is a key source of unsteady aerodynamic loading and noise in urban air mobility, yet the role of blade number in this interaction remains unclear. This study numerically examined propeller-blade-number effects on aerodynamic and aeroacoustic interference in a propeller–airframe system. To resolve the complex wake dynamics and the resulting surface pressure fluctuations, a source–doublet panel method with a time-accurate vortex-particle method was employed. The aeroacoustic characteristics were evaluated using Farassat's Formulation 1A of the Ffowcs Williams–Hawkings equation. The analysis was performed for a Da Jiang Innovation 9443 propeller–airframe configuration with two, three, four, and five blades, under hover and forward-flight conditions. The results …",
+    "authors": "Sang Min Son, Da-bin Jung, Chan-Ho Song, Rho Shin Myong et al.",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "wake",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Vorticity-dynamics analysis of liquid-jet atomization in crossflow dominated by Kelvin–Helmholtz instability",
+    "doi": "10.1063/5.0347030",
+    "url": "https://doi.org/10.1063/5.0347030",
+    "abstract": "The liquid jet in crossflow (LJIC) refers to the atomization process resulting from injection of a liquid stream into a gaseous crossflow. This process is widely encountered in engineering applications, including fuel injection in internal combustion engines, gas turbines, ramjets, and scramjets. Instabilities along the liquid jet column induce ligament formation and subsequent breakup, processes strongly influenced by the viscosity and density of the surrounding gas. The Kelvin–Helmholtz (KH) instability plays a dominant role, particularly at low liquid-to-gas density ratios. Previous studies have demonstrated that such instabilities contribute to intensification of vortex cores, which are closely associated with interfacial deformation; however, experimental characterization of these cou…",
+    "authors": "Mohammad Hashemi, Mehdi Jadidi, Ali Dolatabadi",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Fluid structure interaction in wind-sensitive structures: Flow mechanisms, coupled modeling, and reduced-order prediction",
+    "doi": "10.1063/5.0354000",
+    "url": "https://doi.org/10.1063/5.0354000",
+    "abstract": "Fluid–structure interaction (FSI) in wind-sensitive structures arises from a closed exchange among separated flow, surface traction, structural motion, and wake reorganization. This review compares experiments, numerical methods, reduced-order models, and learned surrogates through the feedback and interface quantities they retain. Mono-directional analysis is distinguished from bi-directional FSI according to whether the computed structural motion is returned to the flow. That distinction determines which pressure phase, wake state, and aerodynamic work can be represented. The synthesis leads to two conclusions. First, agreement in force or response amplitude alone is insufficient near an instability boundary because an error in load–motion phase can reverse the inferred aerodynamic work.…",
+    "authors": "Yujie Wu, Zengshun Chen, Yemeng Xu, Likai Zhang et al.",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "wake",
+      "fluid structure interaction"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Numerical investigation of microroller separation in structured pillar arrays",
+    "doi": "10.1063/5.0354767",
+    "url": "https://doi.org/10.1063/5.0354767",
+    "abstract": "In this study, we investigate the migration of torque-driven microrollers within a structured deterministic lateral-displacement array using fully resolved simulations. We demonstrate that the external torque introduces both positive and negative zigzag modes in addition to the conventional zigzag and lateral-displacement modes. In particular, a counterclockwise torque biases the microroller toward negative zigzag migration, whereas a clockwise torque promotes positive zigzag migration and, for sufficiently large torque, can even trigger the lateral-displacement mode. Through rotation-induced near-wall translation, the applied torque continuously tunes the displacement angle and shifts the critical separation diameter, thereby enabling active regulation of microroller transport. These find…",
+    "authors": "Peifei Fan, Xiao Hu, Zhaowu Lin, Yan Xia et al.",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL"
     ]
   },
   {
@@ -5834,335 +6166,6 @@
       "WRF",
       "weather research and forecasting",
       "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "A continuous implicit neural representation framework  with gradient regularization for sea surface height  reconstruction from satellite altimetry",
-    "doi": "10.5194/gmd-19-7349-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7349-2026",
-    "abstract": "Abstract. Satellite altimetry provides valuable measurements of sea surface height (SSH) but is characterized by irregular spatiotemporal sampling and substantial data gaps arising from orbital configurations, sensor limitations, and environmental conditions. These sampling properties pose challenges for constructing continuous and dynamically consistent SSH fields. In this study, we develop a reconstruction framework based on implicit neural representations (INRs), in which SSH is represented as a continuous function of space and time. The framework uses a sinusoidal representation network (SIREN)-based coordinate network to learn a continuous space–time representation of SSH from sparse along-track observations, and includes total-variation (TV)-based spatial-gradient regularization to d…",
-    "authors": "Dongshuang Li, Liming Pan, Zhaoyuan Yu, Linwang Yuan",
-    "published": "2026-08-07",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Impacts of blade designs on wake dynamics in tandem wind turbine configurations",
-    "doi": "10.1017/jfm.2026.11891",
-    "url": "https://doi.org/10.1017/jfm.2026.11891",
-    "abstract": "This study investigates the impacts of blade aerodynamic design, specifically the spanwise distribution of axial force, on the wake dynamics in tandem turbine configurations. Using large-eddy simulations with actuator surface models, we analyse five tandem set-ups comprising three blade designs: a baseline (NREL-Ori), a root-loaded (NREL-Root) and a tip-loaded (NREL-Tip) variant. Two scenarios are examined: one varying the downstream design with a baseline upstream turbine (scenario I), and another varying the upstream design with a baseline downstream turbine (scenario II). Results show that blade designs significantly affect wake behaviours in both scenarios. In scenario I, the root-loaded design exhibits a larger near-wake velocity deficit but recovers faster due to intensified shear la…",
-    "authors": "Guodan Dong, Xiaolei Yang",
-    "published": "2026-08-06",
-    "keywords_matched": [
-      "wind turbine",
-      "wake"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Interfacial shear-layer dynamics in partially obstructed shallow flows",
-    "doi": "10.1017/jfm.2026.11901",
-    "url": "https://doi.org/10.1017/jfm.2026.11901",
-    "abstract": "Shallow flows partially obstructed by arrays of rigid elements develop a lateral shear layer that controls momentum exchange, turbulence production and scalar transport. We investigate this interfacial region through a tractable two-layer theoretical framework, laboratory measurements in an unusually wide (4 m) flume and graphics processing unit-accelerated weakly compressible smoothed particle hydrodynamics simulations. The depth-averaged velocity across the interface collapses onto a hyperbolic–tangent profile, enabling closed-form predictions for the mixing-layer thickness, outer-edge velocity and interfacial shear stress via a momentum balance that incorporates detrainment, pressure gradients and obstacle-induced dissipation. Coherent motions consist of quasi-periodic vortices that org…",
-    "authors": "Michele Mossa, Mouldi Ben Meftah, Diana De Padova",
-    "published": "2026-08-06",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Development of very-large-scale motions and secondary currents in rough-bed open-channel flow",
-    "doi": "10.1017/jfm.2026.11876",
-    "url": "https://doi.org/10.1017/jfm.2026.11876",
-    "abstract": "This study examines the streamwise development of secondary currents (SCs) and very-large-scale motions (VLSMs) in a rough-bed open-channel flume. We used long-duration stereoscopic particle image velocimetry at six cross-sections, extending up to 300 flow depths downstream from the flume entrance, to obtain detailed velocity fields, stress distributions and spectra. SCs were initially observed with a transverse spacing of approximately one flow depth, which increased downstream as adjacent cells merged. VLSMs became clearly identifiable by 100 flow depths from the flume entrance and continued to develop further downstream. The total transverse spectra of the streamwise velocity remained nearly constant downstream, as diminishing dispersive contributions from SCs were compensated by increa…",
-    "authors": "Stuart M. Cameron, Miriam Castagna, Vladimir I. Nikora",
-    "published": "2026-08-06",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "On the control of transients in mechanical displacement ventilation",
-    "doi": "10.1017/jfm.2026.11325",
-    "url": "https://doi.org/10.1017/jfm.2026.11325",
-    "abstract": "We investigate transient ventilation flows following variations in the heat load and ventilation rate in a building with upward mechanical displacement ventilation. In steady state, thermal plumes that rise from localised heat sources interact with the upward ventilation flow to produce a two-layer stratification. Through new laboratory experiments, we examine the transient responses to changes in the strength of the heat source or modifications to the ventilation volume flux. When only one of these variables is altered, the evolution of the system is similar to the behaviour observed in the experiments of Bower et al. (2008) J. fluid Mech. 614, 15–37, proceeding through either an intruding or a filling flow. The evolution pathway then depends on gamma equals g prime Subscript p Baseline d…",
-    "authors": "Daniel Toy, Andrew W. Woods",
-    "published": "2026-08-06",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Structure and Dynamics of the Boreal Late‐Summer East Asian Monsoon Interannual Variability",
-    "doi": "10.1029/2026jd047813",
-    "url": "https://doi.org/10.1029/2026jd047813",
-    "abstract": "Abstract Pronounced interannual variability of the late‐summer (July–August) East Asian summer monsoon exerts strong influences on flood and drought events across East Asia, yet the underlying processes governing this variability remain poorly understood. Using reanalysis data, we identify the dominant mode of circulation variability that captures the dominant interannual variability of the late‐summer East Asian monsoon system. The mode features a troposphere‐deep anticyclonic/cyclonic circulation, tilting northwestward with height, within the westerly jet exit region. This mode is dynamically maintained by extracting kinetic and potential energy from the background flow. The jet exit region enables the mode to gain eddy kinetic energy from the background field. Meanwhile, its northwestwa…",
-    "authors": "Ying Guo, Kaiming Hu, Gang Huang",
-    "published": "2026-08-06",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Impacts of Vegetation‐Driven BVOC Emissions on Ozone Pollution in the Beijing‐Tianjin‐Hebei Region Under a Carbon Neutrality Pathway",
-    "doi": "10.1029/2026jd046414",
-    "url": "https://doi.org/10.1029/2026jd046414",
-    "abstract": "Abstract To achieve air quality improvement and carbon neutrality, China is simultaneously implementing deep anthropogenic emission cuts and promoting large‐scale vegetation expansion. However, increased BVOC emissions from growing vegetation may counteract the air quality benefits of emission controls. Using the WRF‐Chem model for the Beijing‐Tianjin‐Hebei region, we find vegetation growth will increase July BVOC emissions by 13.8% in 2040 and 27.4% in 2060 from 2019 levels. Crucially, the impact on O 3 depends on the stage of anthropogenic emission reductions. In 2040, increased BVOCs raise urban MDA8 O 3 by 3.5 ppb, offsetting 47.0% of the benefit from emission controls. However, by 2060, deep emission reductions induce a transition to a NO x ‐limited regime; consequently, the O 3 penal…",
-    "authors": "Yongqi Zhao, Baojie Li, Lei Chen, Xueqing Wang et al.",
-    "published": "2026-08-06",
-    "keywords_matched": [
-      "WRF"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Global fully coupled climate-aerosol CMA-CPSv4 – Part 1:  Aerosol simulation performance",
-    "doi": "10.5194/gmd-19-7279-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7279-2026",
-    "abstract": "Abstract. This study provides a comprehensive description of the China Meteorological Administration Climate Prediction System version 4 (CMA-CPSv4), which is developed based on the fully coupled global climate-aerosol Beijing Climate Center Earth System Model (BCC-ESM1). It is updated from its previous version, CMA-CPSv3, which was based on the high-resolution Beijing Climate Center Climate System Model version 2 (BCC-CSM2-HR). In contrast to CMA-CPSv3, CMA-CPSv4 is capable of simulating the dynamic evolution of aerosols and their feedback on the climate system. This study aims to evaluate the reproducibility of atmospheric aerosols in CMA-CPSv4 under the forcing of observed atmospheric circulation. The 20-year simulations for the period 2001–2020 are conducted. The results show that CMA-…",
-    "authors": "Mengzhe Zheng, Tongwen Wu, Yixiong Lu, Weihua Jie et al.",
-    "published": "2026-08-06",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Rippled shock transmission through slow–fast interfaces",
-    "doi": "10.1017/jfm.2026.11844",
-    "url": "https://doi.org/10.1017/jfm.2026.11844",
-    "abstract": "The evolution of a rippled shock transmitted through slow–fast interfaces is investigated, considering the phase-dependent initial conditions generated during transmission. A matched solution is first constructed by mapping the transmitted-shock initial amplitude and growth rate to an equivalent isolated-shock evolution, but it provides accurate predictions only in the early stage because the subsequent shock–interface coupling is not retained. A generalised analytical model is derived by reducing the pressure perturbation dynamics to the Klein–Gordon equation. The resulting Bessel series solution retains the even-order terms that vanish in conventional initial-phase formulations, thereby enabling good prediction of transmitted shocks initiated at arbitrary phases with non-zero initial pre…",
-    "authors": "Jiaxuan Li, Zhigang Zhai, Xisheng Luo",
-    "published": "2026-08-05",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Mechanisms and control of sharp-edged roughness-induced transition in a supersonic boundary layer",
-    "doi": "10.1017/jfm.2026.11874",
-    "url": "https://doi.org/10.1017/jfm.2026.11874",
-    "abstract": "Active control of transition induced by an isolated sharp-edged roughness element in a supersonic boundary layer is investigated via direct numerical simulation and biglobal stability analysis. The blowing/suction strips and distributed blowing/suction configurations are employed for transition control, respectively. A parametric study of control amplitudes for the blowing/suction strip reveals that multiple distinct mechanisms govern the control efficacy. Specifically, small-amplitude blowing suppresses sharp-edged roughness-induced transition, while large-amplitude blowing promotes it. Analysis via the flow-freezing technique discloses an intrinsic competition mechanism: the blowing strip suppresses the wake mode while simultaneously inducing very-low-frequency unsteadiness related to th…",
-    "authors": "Guohui Zhuang, Peng-Jun-Yi Zhang, Zhen-Hua Wan, De-Jun Sun et al.",
-    "published": "2026-08-05",
-    "keywords_matched": [
-      "wake"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "A Deep Learning Model of Lightning Stroke Density",
-    "doi": "10.1029/2025jd045453",
-    "url": "https://doi.org/10.1029/2025jd045453",
-    "abstract": "Abstract Lightning plays a crucial role in the Earth's climate system; however, existing parameterizations for use in forecasting and earth system models show room for improvement in capturing spatial and temporal variations in its frequency. This study develops deep learning‐based parameterizations of lightning stroke density using meteorological variables from the ERA and IMERG data sets. Convolutional neural networks (CNNs) with U‐Net architectures are trained using World Wide Lightning Location Network (WWLLN) data from 2010 to 2021 and evaluated on WWLLN lightning observations from 2022 to 2023. Compared to the multiplicative product of CAPE and precipitation, the CNNs reduce the average domain mean bias by an order of magnitude and produce significantly higher Fractions Skill Score (…",
-    "authors": "Randall Jones, Joel A. Thornton, Chris J. Wright, Robert A. Holzworth",
-    "published": "2026-08-05",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Layer‐Dependent Diurnal Moist Static Energy Biases in the Unified Forecast System During the MJO Preconditioning Stage: A DYNAMO Case Study",
-    "doi": "10.1029/2026jd046470",
-    "url": "https://doi.org/10.1029/2026jd046470",
-    "abstract": "Abstract Accurate simulation of the Madden‐Julian Oscillation (MJO) requires realistic diurnal evolution and vertical distribution of moist static energy (MSE). While prior studies documented MSE bias in simulations, vertically dependent physical processes responsible for these biases remain insufficiently understood. This study applies a hierarchical modeling and evaluation approach, combining fully coupled Unified Forecast System (UFS) forecasts with observation‐constrained single‐column model (SCM) experiments, to enable vertically and diurnally resolved assessment of MSE during two MJO events from the DYNAMO field campaign. Results reveal a diurnal loop of layer‐dependent biases: daytime errors precondition nighttime residual energy, which in turn influences MSE and convection on the f…",
-    "authors": "Weiwei Li, Shan Sun, Lisa Bengtsson, Man Zhang et al.",
-    "published": "2026-08-05",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "DReaMIT: a dynamical reanalysis framework for modelling surface-based temperature inversions in cold environments",
-    "doi": "10.5194/gmd-19-7197-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7197-2026",
-    "abstract": "Abstract. Surface-based temperature inversions (SBIs) are critical to high-latitude mountain climatology, shaping permafrost stability and near-surface thermal regimes. This study develops and evaluates a new surface-based inversion model, DReaMIT (Dynamical Reanalysis Model for Inversions of Temperature), that extends the framework of Pozsgay and Gruber (2025) by spatializing the inversion strength parameter (α) using hypsometric position rather than absolute elevation. The reformulated approach enables a unified calibration across two contrasting Yukon valleys (WS01 and WS02), improving model transferability and reducing site-specific bias. The model also goes beyond the linear treatment of the hypsometric variable to capture the observed nonlinear decay of lapse rates within SBIs, consi…",
-    "authors": "Victor Pozsgay, Nick Noad, Philip Bonnaventure, Stephan Gruber",
-    "published": "2026-08-05",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Determining how nonlinearities in the equation of state affect diffusive interfaces in the ocean",
-    "doi": "10.1017/jfm.2026.11889",
-    "url": "https://doi.org/10.1017/jfm.2026.11889",
-    "abstract": "In the ocean, favourable vertical gradients and the differing molecular diffusivities of salinity and temperature cause double diffusive instabilities. At high latitudes, double diffusive instabilities are in the ‘diffusive’ convection regime due to the colder, fresher waters that form atop warmer, saltier waters. Cold conditions at high latitudes also enhance effects of the nonlinear equation of state. Modelling studies of diffusive convection typically use a linear equation of state, thereby not including processes such as cabbeling, the gain in density upon mixing, which arises from nonlinearities in the equation of state. Here, we use a fully nonlinear equation of state in direct numerical simulations (DNS) to investigate the impact of cabbeling on diffusive convection and the resultin…",
-    "authors": "Josef I. Bisits, Trevor J. McDougall, Jan D. Zika",
-    "published": "2026-08-04",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "The North Atlantic Tends to Amplify the Arctic Stratosphere‐Induced Eurasian Subseasonal Surface Air Temperature Anomalies During the Cold Season",
-    "doi": "10.1029/2026jd047001",
-    "url": "https://doi.org/10.1029/2026jd047001",
-    "abstract": "Abstract Based on atmospheric reanalysis data from 1979 to 2024 during the cold season, this study investigates the evolutionary mechanisms and predictability of the leading EOF mode of the Eurasian subseasonal surface air temperature (SAT). The results indicate that the early‐stage anomalous subseasonal signal appears to be associated with Arctic stratospheric potential vorticity (PV) anomalies and subsequently propagates southeastward toward Eurasia. The tripolar pattern of North Atlantic sea surface Net Turbulent Heat Flux (NTHF) anomalies relates to the secondary enhancement of the geopotential height anomalies over Eurasia by transmitting eastward wave activity flux. This enables the subseasonal signal to propagate downward into the lower‐tropospheric temperature field. To quantify th…",
-    "authors": "Shengyi Qian, Zhuojun Dai, Haibo Hu, Xiu‐Qun Yang et al.",
-    "published": "2026-08-04",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "The Outer‐Core Wind Structure Effects of Doksuri (2023) on the Heavy Rainfall Event in North China",
-    "doi": "10.1029/2026jd046658",
-    "url": "https://doi.org/10.1029/2026jd046658",
-    "abstract": "Abstract While considerable attention has been paid to factors that determine the inner‐core and remote structure of tropical cyclone (TC) rainfall, less attention has been paid to what modulates TC rainfall distribution at intermediate distances. This study investigates the sensitivity of TC rainfall post‐landfall to variations in the structure of the outer‐core wind, with a focus on the impact of these outer‐core wind variations on rainfall distributions at intermediate distances from the TC center, using TC Doksuri (2023) as a case study. Two sensitivity experiments are performed, where outer‐core wind speeds at landfall are increased by 25% (EXP1) and 50% (EXP2). Results have shown that stronger TC outer‐core wind has competing effects on the precipitation amounts both when the landfal…",
-    "authors": "Qijun Huang, Zifeng Yu, Robert Fulton Rogers",
-    "published": "2026-08-04",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Elastic fibres in shear flow: rotating and non-rotating states",
-    "doi": "10.1017/jfm.2026.11859",
-    "url": "https://doi.org/10.1017/jfm.2026.11859",
-    "abstract": "Solid particles immersed in a low-Reynolds-number shear flow generally tend to rotate. It is, however, possible to construct rigid particles that adopt a constant orientation relative to the flow while drifting across the streamlines. A recent study by Roggeveen &amp; Stone (2022 J. Fluid Mech . 939, A23), analysed the existence and stability of such orientations for ‘boomerang’-shaped rigid fibres formed by two straight arms of different lengths. Given that slender fibres are easily deformed by the fluid traction, we extend their study to the case of elastic fibres, allowing for arbitrary stress-free initial shapes. We establish the conditions under which such fibres adopt a constant shape and orientation while drifting steadily across the streamlines. Numerical simulations show that, in …",
-    "authors": "Hao Ye, Draga Pihler-Puzović, Matthias Heil",
-    "published": "2026-08-03",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "A suspension of heavy Kolmogorov-size spheres suppresses the inertial cascade in homogeneous and isotropic turbulence",
-    "doi": "10.1017/jfm.2026.11867",
-    "url": "https://doi.org/10.1017/jfm.2026.11867",
-    "abstract": "The effect of Kolmogorov-size spherical particles on homogeneous and isotropic turbulence is investigated using particle-resolved direct numerical simulations at an unladen Taylor-scale Reynolds number of 150 150 $150$ . Four monodisperse suspensions of particles with identical diameter and volume fraction 10 Superscript negative 3 10 − 3 $10^{-3}$ are considered, while the particle-to-fluid density ratio varies between 100 100 $100$ and 1500 1500 $1500$ and the mass fraction between 0.1 0.1 $0.1$ and 0.6 0.6 $0.6$ . As particle inertia increases, the energy spectrum departs from the canonical Kolmogorov kappa Superscript negative 5 divided by 3 κ − 5 / 3 $\\kappa ^{-5/3}$ scaling and approaches a peculiar regime with kappa Superscript negative 1 κ − 1 $\\kappa ^{-1}$ , with kappa κ $\\kappa$…",
-    "authors": "Ludovico Fossà, Marco Edoardo Rosti",
-    "published": "2026-08-03",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Kilometer‐Scale (1‐km) Convection‐Permitting Simulations Over the Hindu Kush‐Himalayan Region: Processes of Winter Precipitation",
-    "doi": "10.1029/2025jd046137",
-    "url": "https://doi.org/10.1029/2025jd046137",
-    "abstract": "Abstract Kilometer‐scale (k‐scale) simulations, with explicit treatment of convection at sub‐grid scales, are useful for understanding precipitation characteristics. Such simulations with their high spatiotemporal resolution can be particularly valuable in complex topographic regions, such as the Hindu Kush Himalayas (HKH), where sparse observations and uncertainties in coarse‐resolution data sets pose challenges. This study evaluates an AMIP style k‐scale (1 km) simulation, initialized from the ECMWF IFS analysis, for winter precipitation (December 2018–February 2019) over the HKH region, with a focus on mean and extreme characteristics, elevation‐dependent variability, and diurnal precipitation cycles. The kilometer‐scale simulations were validated using available station observations an…",
-    "authors": "S. Nischal, Raju Attada, Kieran M. R. Hunt, Chandrasekar Radhakrishnan et al.",
-    "published": "2026-08-03",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Sensitivity of Arctic mixed-phase cloud simulations to ice microphysical modifications in the WDM6 scheme of WRF (v4.3.1)",
-    "doi": "10.5194/gmd-19-7069-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7069-2026",
-    "abstract": "Abstract. Arctic mixed-phase clouds (MPCs) remain challenging to represent in atmospheric models, with bulk microphysics schemes typically biased toward either excessive glaciation or inadequate ice formation. This study evaluates the behavior of the Weather Research and Forecasting (WRF) Double-Moment 6-class (WDM6) scheme and its modified version (WDM6_ICE), which incorporates spherical ice shape, constrained nucleation, and prognostic cloud ice number concentration, under Arctic conditions using the Mixed-Phase Arctic Cloud Experiment (M-PACE) case (9–10 October 2004). WDM6 severely underestimates liquid water through efficient vapor deposition onto bullet-shaped ice. WDM6_ICE exhibits the opposite behavior, maintaining persistent liquid as cloud ice deposition is reduced by about 98 %.…",
-    "authors": "Hyun-Joon Sung, Kyo-Sun Lim, Song-You Hong, JiHoon Shin et al.",
-    "published": "2026-08-03",
-    "keywords_matched": [
-      "WRF",
-      "weather research and forecasting"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Evaluation of Clouds and Precipitation in the WRF Convection‐Permitting Model Over the Tibetan Plateau",
-    "doi": "10.1029/2025jd046099",
-    "url": "https://doi.org/10.1029/2025jd046099",
-    "abstract": "Abstract Simulations of the Weather Research and Forecasting (WRF) at convective permitting resolutions of less than 4 km have become increasingly common and show increasing realism in representing clouds and precipitation. However, accurately modeling these features over the Tibetan Plateau (TP) remains a significant challenge. In this study, we evaluate WRF convective permitting simulations from 1–31 July 2016 using CALIPSO and CloudSat satellite observations, together with the COSP cloud simulator, focusing on four widely used microphysics schemes. The results show that all schemes reproduce the general vertical structure of clouds but systematically overestimate high clouds near 13 km and underestimate mid–low clouds around 7–8 km. Using dense rain‐gauge observations, we further assess…",
-    "authors": "Dingchi Zhao, Keyan Miuqian, Wenhao Dong, Yanluan Lin et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "WRF",
-      "weather research and forecasting"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Global Modeling of Atmospheric Amines: Sources and Sinks",
-    "doi": "10.1029/2025jd045898",
-    "url": "https://doi.org/10.1029/2025jd045898",
-    "abstract": "Abstract Atmospheric amines (methylamine, MMA; dimethylamine, DMA; and trimethylamine, TMA) are critical to new particle formation, air quality, and climate, yet an integrated global cycling framework remains absent. This study develops a global emission inventory that integrates six source categories spanning anthropogenic sources (agriculture, chemical industry, transportation, residential, other industry, and biomass burning) and marine biological processes. We established a full atmospheric amine cycling framework within the Community Earth System Model by implementing four key sink mechanisms. Our estimated global annual emissions are 42.2, 26.9, and 394.9 GgN year −1 for MMA, DMA, and TMA, respectively. Agricultural activities dominate MMA (54%) and DMA (79%) emissions, while marine …",
-    "authors": "Bei Zhang, Qinghao Guo, Yiyang Sun, Lehui Cui et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Multi-resolution two-phase smoothed particle hydrodynamics method for simulating turbulent flows of breaking bow waves",
-    "doi": "10.1063/5.0342670",
-    "url": "https://doi.org/10.1063/5.0342670",
-    "abstract": "Breaking bow waves significantly affect ship resistance, energy dissipation, and air entrainment, yet the influence of draught on their dynamics remains underexplored. In this study, we numerically investigate the breaking bow waves of a Korea Research Institute of Ships and Ocean Engineering container ship model at a high Froude number (Fr = 0.471) under nine draught conditions ranging from T/T0 = 0.9 to 1.1, where T0 is the design draught. A multi-resolution two-phase smoothed particle hydrodynamics method coupled with the k–ω shear stress transport turbulence model is developed on a multi-graphics processing unit framework. The numerical model is validated against experimental data, showing good agreement in wave profiles and waterline positions. The results reveal that both the primary…",
-    "authors": "Wenhao Tang, Hua Liu",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "On the primary instability in the wake of polygonal cylinders",
-    "doi": "10.1063/5.0340202",
-    "url": "https://doi.org/10.1063/5.0340202",
-    "abstract": "A numerical study was undertaken to investigate the primary instability of the flow past polygonal cylinders, with the side number N∈Z[5,16], and at non-dimensional incidence angles (α*) from corner to face orientation. The primary instability is invariably the result of a Hopf bifurcation, with the bifurcation point determined using the linearized Landau equation. The critical Reynolds number, Recr, shows a nonlinear dependence on N and α*. Analysis of sensitivity to base flow modifications with respect to the circular cylinder revealed that the variation in Recr is related to the direction of backflow modifications, from which a negative correlation is established between Recr and the variation of eigenvalues calculated based on the direct and the adjoint eigenmodes of the perturbed fiel…",
-    "authors": "Adam Marshall, Lian Gan, David Sims-Williams, Esmaeel Masoudi",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "wake",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Physics-informed multi-scale spatiotemporal learning for transient incompressible flow prediction",
-    "doi": "10.1063/5.0342454",
-    "url": "https://doi.org/10.1063/5.0342454",
-    "abstract": "Data-driven learning provides a promising route for accelerating computational fluid dynamics, yet transient flow prediction remains challenging because models must simultaneously capture evolving temporal dynamics and cross-scale spatial structures while generalizing across geometries and operating conditions. In this work, we study one-step-ahead prediction of two-dimensional incompressible transient flows from historical snapshots and propose Multi-Scale Spatiotemporal Flow (MuST-Flow), a physics-informed multi-scale spatiotemporal network for recurrent forecasting of velocity and pressure fields. The central idea of MuST-Flow is to couple cross-scale feature extraction with physical regularization, enabling the model to better resolve localized high-gradient flow structures while maint…",
-    "authors": "Yan Liu, Jie Liu, Xinhai Chen, Qinglin Wang et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Dynamic evolution of displacement patterns during thickened supercritical carbon dioxide flooding in heavy-oil reservoirs",
-    "doi": "10.1063/5.0340130",
-    "url": "https://doi.org/10.1063/5.0340130",
-    "abstract": "During heavy-oil displacement by supercritical carbon dioxide (sc-CO2), the large viscosity contrast between sc-CO2 and heavy oil induces fingering instability and gas channeling. Thickened sc-CO2 improves mobility control and partly suppresses fingering; however, CO2 dissolution and diffusion still alter the oil-phase viscosity near the displacement front. Thus, the classical Lenormand phase diagram cannot fully describe displacement-pattern evolution in this variable-viscosity system. To address this gap, the present study incorporates the oil-viscosity-reduction effect induced by the dissolution of thickened sc-CO2 into a coupled flow–mass transfer–diffusion mathematical model. The model is solved using a phase-field method to investigate the evolution of displacement patterns in thicke…",
-    "authors": "Yu Zhang, Daigang Wang, Fangzhou Liu, Nanyu Ji et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Secondary-flow-controlled hydrocarbon fuel coking in curved regenerative cooling channels with evolving coke layers",
-    "doi": "10.1063/5.0344915",
-    "url": "https://doi.org/10.1063/5.0344915",
-    "abstract": "Reactive wall deposition in curved internal flows involves coupled secondary motion, heat transfer, chemical conversion, and moving-boundary evolution. In hydrocarbon-fuel regenerative cooling channels, curvature-induced secondary flow can enhance local heat transfer and suppress coke deposition, whereas the growing coke layer reshapes the flow passage, thermal resistance, and reaction. This study investigates the fluid-physical mechanisms governing coke deposition in a three-dimensional curved cooling channel. A novel critical vector method within a dynamic mesh framework is developed to directly track the evolving coke layer without prescribing its geometry. The results show that coke deposition is governed not only by wall temperature, but also by the redistribution of momentum, heat, a…",
-    "authors": "Chen Zhang, Jiajun Zhao, Guiping Lin, Hui Gao et al.",
-    "published": "2026-08-01",
-    "keywords_matched": [
-      "heat transfer"
     ]
   }
 ]
