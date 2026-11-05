@@ -1,6 +1,44 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Fluid–structure interaction in a square array of submerged flexible stems",
+    "doi": "10.1017/jfm.2026.12218",
+    "url": "https://doi.org/10.1017/jfm.2026.12218",
+    "abstract": "The evolution of flow structure is fundamental to establishing an accurate framework for predicting turbulent energy dissipation, momentum transfer, and sediment and nutrient transport within and above flexible stem arrays. The dynamics of flexible stems plays a crucial role in shaping these physical features. In this paper, direct numerical simulations are performed to examine flow through a three-dimensional square array of flexible stems, with explicit consideration of flexibility ( upper K K $K$ ) effects. The results provide a comprehensive characterisation of the coupled stem dynamics, flow distribution and vortex structures. Three distinct dynamical regimes are identified. For large upper K K $K$ , the stems behave as nearly rigid, causing the flow to accelerate through the gaps whi…",
+    "authors": "Weilin Chen, Yuzhu Pearl Li",
+    "published": "2026-11-05",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Influence of propeller boss cap fins on the wake of a marine propeller",
+    "doi": "10.1017/jfm.2026.12229",
+    "url": "https://doi.org/10.1017/jfm.2026.12229",
+    "abstract": "Large eddy simulation (LES) on a cylindrical grid consisting of approximately 7 billion points is used to analyse the wake flow of a marine propeller equipped with propeller boss cap fins (PBCFs). Computations of the same propeller without this energy saving device (ESD) were also conducted, for comparison purposes. The results of the simulations demonstrate almost an order of magnitude mitigation of the minima of pressure and the maxima of vorticity at the core of the hub vortex. Meanwhile, a significant recovery of both streamwise and azimuthal momentum is achieved, with beneficial effects on the efficiency of propulsion. Additional, smaller vortices are shed by the PBCFs, having a negligible impact on the wake flow, if compared with the benefits allowed by the mitigation of the hub vort…",
+    "authors": "Antonio Posa, Stefano Gaggero, Riccardo Broglia",
+    "published": "2026-11-05",
+    "keywords_matched": [
+      "wake",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "cSINGV v1.0: development and evaluation of a 1.5 km  coupled atmosphere–ocean–wave modelling  system for the Western Maritime Continent",
+    "doi": "10.5194/gmd-19-10479-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10479-2026",
+    "abstract": "This study presents cSINGV v1.0, a high-resolution (1.5 km) regional coupled atmosphere–ocean–wave modelling system developed for the Western Maritime Continent (WMC), a region characterised by complex coastlines, shallow seas, and strong air–sea interactions. The system integrates a convection-permitting atmospheric model (SINGV) with newly configured ocean (NEMO) and wave (WAVEWATCH III) components within a unified coupling framework based on the Regional Coupled Suite and OASIS3-MCT coupler. Its primary contribution is the development of a fully coupled system that enables two-way interactions between atmosphere, ocean, and waves at kilometre scale. Before coupling, the ocean and wave components are configured in standalone mode for the WMC. The model is evaluated using a six-month simu…",
+    "authors": "Rajesh Kumar, Claudio Sanchez, Juan Manuel Castillo, Jian-Guo Li et al.",
+    "published": "2026-11-05",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Enhancement of inertial particle transport in rough-wall turbulence",
     "doi": "10.1017/jfm.2026.12222",
     "url": "https://doi.org/10.1017/jfm.2026.12222",
@@ -18,6 +56,119 @@
     "url": "https://doi.org/10.5194/gmd-19-10395-2026",
     "abstract": "Numerical models are crucial tools for understanding complex chemical systems such as the atmosphere, and their sensitivity across a range of conditions. In atmospheric chemistry models, reaction mechanisms are used to represent chemical transformations and define the underlying system of equations. Building highly explicit mechanisms that capture the full complexity of organic oxidation occurring in the atmosphere remains challenging owing to the large number of intermediates involved, the breadth of reaction pathways, and the limited availability of reliable kinetic and thermodynamic data. The Generator for Explicit Chemistry and Kinetics of Organics in the Atmosphere (GECKO-A) was developed to address these limitations by enabling the systematic construction of near-explicit mechanisms.…",
     "authors": "Bernard Aumont, Richard Valorso, Andrew Rickard, Mike Jenkin et al.",
+    "published": "2026-11-04",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Role of baroclinic vorticity production on three-dimensional wake transition of a heated cylinder using a non-Boussinesq model",
+    "doi": "10.1017/jfm.2026.12227",
+    "url": "https://doi.org/10.1017/jfm.2026.12227",
+    "abstract": "This study examines the role of buoyancy-induced baroclinic vorticity production in the three-dimensional (3-D) wake transition behind an infinitely long heated square cylinder subjected to aiding and cross-flow buoyancy, using direct numerical simulation (DNS). A non-Oberbeck–Boussinesq (NOB) model is employed, requiring the solution of the full compressible Navier–Stokes equations to capture baroclinic effects under large-scale heating regimes. Simulations are carried out at a Reynolds number of italic Re equals 300 Re = 300 $\\textit{Re} = 300$ and a low Mach number ( upper M equals 0.1 M = 0.1 $M = 0.1$ ) to minimise compressibility effects, with air (Prandtl number italic probability equals 0.71 Pr = 0.71 $\\textit{Pr} = 0.71$ ) as the working fluid. Previous studies have demonstrated t…",
+    "authors": "Mohd Perwez Ali, Nadeem Hasan, Sanjeev Sanghi",
+    "published": "2026-11-04",
+    "keywords_matched": [
+      "wake"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "The minimal attached eddy in wall turbulence: statistical foundations, inverse identification and influence kernels",
+    "doi": "10.1017/jfm.2026.12182",
+    "url": "https://doi.org/10.1017/jfm.2026.12182",
+    "abstract": "Townsend’s attached-eddy hypothesis models the logarithmic region of high-Reynolds-number wall turbulence as a random superposition of wall-attached, self-similar eddies whose sizes obey a scale-invariant population law. Building on the statistical framework of Woodcock &amp; Marusic (2015 Phys. Fluids , vol. 27, no. 1, p. 015104), the present work (i) poses an inverse problem to infer the ideal single-eddy contribution (influence) functions for the mean velocity and Reynolds stresses from direct numerical simulations, (ii) uses these inferred kernels to guide a minimal Biot–Savart-consistent hairpin-type eddy built from Rankine vortex rods with an inviscid image system and (iii) introduces and infers a spectral influence kernel that maps a self-similar eddy footprint to its one-dimensiona…",
+    "authors": "Karthik Duraisamy",
+    "published": "2026-11-04",
+    "keywords_matched": [
+      "turbulence",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Inhibition of supersonic mixing layer growth rate via a micro vortex generator array",
+    "doi": "10.1017/jfm.2026.12224",
+    "url": "https://doi.org/10.1017/jfm.2026.12224",
+    "abstract": "In the past, various flow control methods have been used to enhance the growth rate of the supersonic mixing layer (SML), yet suppression strategies remain underexplored. The flow fields of the free SML (FSML) and the SML controlled by the micro vortex generator (MVG) array (CSML) were obtained via flow visualisation and large-eddy simulations, which show that the CSML’s growth rate is substantially lower. The upper Q Q $Q$ -criterion analysis confirms that under MVG control, the dominant vortical structures in the initial stage of SML transition from spanwise to streamwise vortices. Circulation analysis shows that streamwise circulation upper Gamma Subscript x Γ x $\\varGamma _x$ and transverse circulation upper Gamma Subscript y Γ y $\\varGamma _y$ are significantly enhanced in the CSML, t…",
+    "authors": "Zihao Xia, Haolin Ding, Shihe Yi",
+    "published": "2026-11-04",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Free surfaces in turbulence: A unified framework from water surfaces to elastic solids",
+    "doi": "10.1017/jfm.2026.12236",
+    "url": "https://doi.org/10.1017/jfm.2026.12236",
+    "abstract": "What do the ocean surface and a swaying flag have in common? Both are deformable surfaces exhibiting chaotic motion when exposed to turbulent flows. Whether such motion is primarily driven by flow turbulence or by nonlinear dynamics intrinsic to the surface remains debated. Surface waves can interact nonlinearly and transfer energy across scales through the cascade of wave turbulence, a behaviour observed at interfaces between otherwise quiescent fluids and in controlled laboratory experiments. They can as well induce turbulent motions in the neighbouring fluids (wave-induced-turbulence), provided the local Reynolds number is large enough. Realistic environments, however, are more complex and typically involve the simultaneous presence of wave turbulence and wave-induced turbulence with tu…",
+    "authors": "Giulio Foggi Rota, Andrea Mazzino, Marco Edoardo Rosti",
+    "published": "2026-11-04",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Theory of magneto-electrokinetics in unidirectional electrolyte flow: hydrodynamic potential and Hall effect",
+    "doi": "10.1017/jfm.2026.12230",
+    "url": "https://doi.org/10.1017/jfm.2026.12230",
+    "abstract": "We develop a theoretical framework for magneto-electrokinetic transport in dilute electrolytes under unidirectional flow and streaming current conditions. Unlike standard magnetohydrodynamics in liquid metals, where charge carriers are electrons and conductivity is typically uniform, electrolytes exhibit spatially varying ion densities and additional forces such as osmotic pressure. In steady state, the coupled Navier–Stokes, Nernst–Planck and Poisson equations become analytically tractable. We derive a Boltzmann-like expression for ion distributions that incorporates both the electrostatic potential and a novel hydrodynamic potential arising from the magnetic field. This potential depends explicitly on the flow profile and is not screened close to the bounding walls. Applying the theory t…",
+    "authors": "Yoav Tsori",
+    "published": "2026-11-04",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Category‐Based Composite Analysis of Arctic Tropopause and Tropopause Inversion Layer Responses to Sudden Stratospheric Warmings",
+    "doi": "10.1029/2026jd047726",
+    "url": "https://doi.org/10.1029/2026jd047726",
+    "abstract": "Abstract This study investigates the heterogeneous impacts of sudden stratospheric warming (SSW) events on the Arctic tropopause and tropopause inversion layer (TIL) using ERA5 reanalysis data from 1979/1980 to 2022/2023. According to the significance of their TIL and tropopause height responses, all 50 SSW events are classified into five categories: significant major, significant minor, non‐significant major, non‐significant minor, and anomalous minor. 65.4% of major SSWs and 12.5% of minor SSWs have significant impacts on the Arctic tropopause and TIL. Notably, anomalous minor SSWs do not strengthen but weaken the TIL, and do not lower but raise the tropopause height. Building upon the established coupling mechanism between the TIL/tropopause and SSW, we analyze the role of background fl…",
+    "authors": "Lingyun Yang, Shaodong Zhang, Chunming Huang, Kaiming Huang et al.",
+    "published": "2026-11-04",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Impact of Wildfire‐Emitted Black Carbon on Snowmelt Across Western North America",
+    "doi": "10.1029/2026jd046919",
+    "url": "https://doi.org/10.1029/2026jd046919",
+    "abstract": "Abstract Wildfires are a major source of black carbon (BC) and their increasing frequency and intensity have enhanced BC deposition onto snowpack across western North America, which accelerates snowmelt and triggers multiple feedbacks that can substantially alter atmospheric composition and regional hydrology. Using the Weather Research and Forecasting model coupled with Chemistry (WRF‐Chem) integrated with the Snow, Ice, and Aerosol Radiative (SNICAR) scheme, we investigate the impacts of fire‐emitted BC on snowmelt following the high‐emission 2021 fire season. Summertime wildfires generate elevated near‐surface BC concentrations, accounting for more than 80% of total near‐surface BC across Alaska, British Columbia, and the Pacific Northwest. During autumn and winter, fire‐emitted BC cont…",
+    "authors": "Nilkamal Jaisawal, Cenlin He, Rajesh Kumar, Mark Flanner et al.",
+    "published": "2026-11-04",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Slope-Constrained Orography (SCO v1.0) for explicit discrete-slope control in terrain preprocessing: a case study with WRF-ARW (v4.6.1)",
+    "doi": "10.5194/gmd-19-10433-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10433-2026",
+    "abstract": "Kilometre-scale Weather Research and Forecasting (WRF) simulations over terrain with steep slopes often require strong smoothing to prevent numerical instability, but conventional domain-wide filters alter terrain at every grid point, regardless of whether local slopes require reduction. Slope-Constrained Orography (SCO) is an offline terrain preprocessing method that prescribes a target slope angle θ and adjusts only those grid points whose eight-neighbour elevation differences exceed the implied bound, leaving the remaining terrain unchanged. By prescribing the slope constraint directly, SCO provides a geometrically interpretable primary user-facing parameter for terrain construction and stability testing. In a 1 km WRF case over the highly complex terrain of the southeastern Tibetan Pla…",
+    "authors": "Yulong Ma, Xingwen Jiang, Lin Mu, Zhiwei Heng",
+    "published": "2026-11-04",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Hybrid implicit–explicit XFEM simulation of injection-induced seismicity: resolving multi-scale rupture nucleation and dynamics",
+    "doi": "10.5194/gmd-19-10447-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10447-2026",
+    "abstract": "This study presents a novel hybrid implicit–explicit time-integration strategy for simulating injection-induced fault reactivation within a fully coupled poroelastodynamic extended finite element (XFEM) framework. Modeling these systems is inherently challenging due to the extreme separation of temporal scales – ranging from hours to days for fluid diffusion to milliseconds for dynamic rupture. Although the fully implicit formulation can provide enhanced numerical stability, stability alone does not guarantee sufficient temporal accuracy during nonlinear fault rupture. The results demonstrate close agreement between simulations with minimum time-step sizes of 10 −5 and 10 −6 s for the investigated slip and event-scale observables on the adopted spatial mesh, indicating temporal convergence…",
+    "authors": "Mohammad Sabah, Mauro Cacace, Inga Berre, Iman R. Kivi et al.",
     "published": "2026-11-04",
     "keywords_matched": [
       "ABL"
@@ -463,6 +614,67 @@
     "published": "2026-11-01",
     "keywords_matched": [
       "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Direct numerical simulation of turbulent shear layer in an open cavity and its aero-optical effects",
+    "doi": "10.1063/5.0345627",
+    "url": "https://doi.org/10.1063/5.0345627",
+    "abstract": "This study conducts direct numerical simulations (DNS) of the subsonic turbulent shear layer in an open cavity using a self-developed heterogeneous parallel solver to investigate its flow features and aero-optical effects. The DNS results show good agreement with the previous theoretical predictions and experimental data. Driven by Kelvin–Helmholtz instability, the shear layer rolls up into large-scale coherent vortices and induces primary and secondary recirculation zones within the cavity. Turbulence intensity is amplified along the shear layer and peaks near the trailing edge. Proper orthogonal decomposition reveals that the oscillatory energy of the shear layer is mainly concentrated in the low-order modes. Dynamic mode decomposition confirms that the unsteady dynamics follow the Rossi…",
+    "authors": "Ji Zhang, Xiang Ren, Xinliang Li, Huahua Yu",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Physics-closure neural surrogates for uncertainty-aware operating-window discovery in generalized-Newtonian slit-die extrusion",
+    "doi": "10.1063/5.0354834",
+    "url": "https://doi.org/10.1063/5.0354834",
+    "abstract": "Identifying feasible operating conditions in non-Newtonian extrusion requires repeated solution of nonlinear constitutive and flow rate relations across large design spaces, making exhaustive physics-based screening impractical for time-sensitive operating-window assessment. This study presents a physics-closure neural surrogate for uncertainty-aware operating-window discovery in generalized-Newtonian slit-die extrusion. A deterministic reduced-order solver with temperature-dependent Carreau–Yasuda rheology generates reference wall states. A heterogeneous multi-output neural ensemble predicts wall shear stress, wall viscosity, and wall shear rate from operating variables, material descriptors, and physics-guided features. Pressure drop is reconstructed through the slit momentum balance, an…",
+    "authors": "Mohsen Gorakifard, J. Enrique Sierra-García, Ehsan Kian Far",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Development and validation of an improved double-multiple streamtube model for predicting performance of H-type straight-bladed vertical axis wind turbines",
+    "doi": "10.1063/5.0360823",
+    "url": "https://doi.org/10.1063/5.0360823",
+    "abstract": "H-type straight-bladed vertical axis wind turbines (H-type SB-VAWTs) are a promising concept for deep-sea floating wind power, yet traditional Double-Multiple Streamtube (DMS) models severely overestimate their aerodynamic performance. Existing improved DMS models for SB-VAWTs disagree on the relative contribution of the individual correction terms and generally lack sufficient consideration of the critical three-dimensional (3D) effects. A systematically corrected DMS model is therefore developed by integrating tip/aspect ratio and strut parasitic drag corrections, which act directly on 3D effects, with dynamic stall and flow curvature corrections for unsteady aerodynamic effects. Three-dimensional unsteady Reynolds-averaged Navier–Stokes computational fluid dynamics simulations are condu…",
+    "authors": "Hao Wu, Liqin Huang, Yuan Li, Kai Wang",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "wind turbine",
+      "wind turbines"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Physics-constrained symbolic regression for reduced-order carinal pressure laws in transient endotracheal-tube airflow",
+    "doi": "10.1063/5.0345734",
+    "url": "https://doi.org/10.1063/5.0345734",
+    "abstract": "High-fidelity computational fluid dynamics (CFD) can resolve transient airway flow during mechanical ventilation, but its cost limits parametric exploration and rapid model evaluation. We present a physics-constrained symbolic regression framework that converts transient three-dimensional multiphysics CFD simulations of endotracheal-tube airflow into closed-form reduced-order laws for local carinal pressure. The database spans pressure-controlled ventilation (PCV), volume-controlled ventilation (VCV), oxygen mass fraction, tip-to-carina distance, Murphy-eye orientation, and the transient inlet-flow response. All regressors are expressed as dimensionless variables, so that the search is unit-invariant, and nonlinear operators act only on dimensionally admissible arguments. Separate symbolic…",
+    "authors": "Filippos Sofos, Talib Dbouk, Zoi D. Pana, Dimitris Drikakis",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Integration of Aerosol–Cloud Interactions With a Land‐Atmosphere Coupled Model in the Gray Zone",
+    "doi": "10.1029/2026ms006151",
+    "url": "https://doi.org/10.1029/2026ms006151",
+    "abstract": "Abstract Clouds strongly impact net surface radiation, creating differential heating patterns, and trigger land breezes that in turn organize cloud development. These dial processes determine the location of persistent ecohydrological regimes at local scales. Aerosol–cloud interactions (ACI) directly impact the diurnal cycle of cloud optical depth, and therefore the surface energy budget; yet they are generally not explicitly represented in studies of land‐atmosphere interactions. To address this gap, a 3D Large‐Eddy Simulation model was modified to describe ACI in the gray zone. The goal is to simulate realistic cumulus cloud dynamics consistent with the spatial dynamics of land surface moisture and temperature, and associated boundary layer processes. The model is tested and evaluated us…",
+    "authors": "Lihui Ji, Ana P. Barros",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "diurnal cycle"
     ]
   },
   {
@@ -5955,216 +6167,6 @@
     "published": "2026-08-10",
     "keywords_matched": [
       "lattice boltzmann",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Taylor dispersion in long straight channels of arbitrary and gradually changing size and shape",
-    "doi": "10.1017/jfm.2026.11864",
-    "url": "https://doi.org/10.1017/jfm.2026.11864",
-    "abstract": "Advective dispersion of neutral solutes in flow is pertinent to the design of a host of physical systems, including microfluidic devices and chemical separation systems. The cross-sectional shapes of the channels within these devices are often complex and may vary (in shape or area) in the flow direction. However, previous analyses of Taylor–Aris dispersion in channels of varying geometry typically focus on either periodic channels or channels with simple cross-sections. To our knowledge, no reduced-order theory exists to predict dispersion in channels of arbitrary cross-section whose shape or size may vary slowly in the axial direction. In the current study, we develop a theoretical framework for a reduced-order model applicable to the analysis of dispersion in channels with such shapes g…",
-    "authors": "Caleb Jonathan Samuel, Ray Chang, Kunlin Ma, Benjamin Milani Alessio et al.",
-    "published": "2026-08-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Diffusiophoresis of a non-polar fluid droplet laden with soluble ionic surfactants",
-    "doi": "10.1017/jfm.2026.11879",
-    "url": "https://doi.org/10.1017/jfm.2026.11879",
-    "abstract": "We investigate the diffusiophoresis of a non-polarizable droplet laden with soluble ionic surfactant, in which the surface charge arises from the adsorption of surfactant at the fluid–fluid interface. Unlike previous studies which assume either a fixed surface charge or instantaneous equilibrium between the interface and the adjacent electrolyte, we formulate the interfacial transport based on the mass-balance framework, incorporating Langmuir adsorption–desorption kinetics and finite surface diffusivity. The coupled electrokinetic problem is solved using a perturbation approach with imposed ionic concentration as a perturbation parameter. Analytical expressions for the droplet mobility and interfacial velocity are derived based on the Debye–Hückel approximation as well as the thin layer c…",
-    "authors": "Subrata Majhi, Somnath Bhattacharyya",
-    "published": "2026-08-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Interfacial dynamics and energy cascade in immiscible Rayleigh–Taylor turbulence",
-    "doi": "10.1017/jfm.2026.11905",
-    "url": "https://doi.org/10.1017/jfm.2026.11905",
-    "abstract": "We investigate interfacial dynamics and multiscale energy transfer in immiscible Rayleigh–Taylor turbulence using numerical simulations with varying surface-tension coefficients sigma σ $\\sigma$ . Capillarity is shown to control characteristic length scales, interfacial area, and global energy and enstrophy budgets. The flow exhibits self-similar evolution with respect to surface tension, with the maximum kinetic energy scaling as sigma Superscript 1 divided by 2 σ 1 / 2 $\\sigma ^{1/2}$ and the flow duration as sigma Superscript negative 1 divided by 4 σ − 1 / 4 $\\sigma ^{-1/4}$ . A scale-by-scale budget shows that surface tension removes kinetic energy at large scales while injecting it at small scales, with the crossover occurring near the Hinze scale. We further recast and verify a loca…",
-    "authors": "Dongxiao Zhao, Xiaoxue Huang, Gaojin Li",
-    "published": "2026-08-10",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Stochastic generation of velocity fields to reproduce the energy spectrum in wall turbulence",
-    "doi": "10.1017/jfm.2026.11886",
-    "url": "https://doi.org/10.1017/jfm.2026.11886",
-    "abstract": "Leveraging experimental measurements in rough-wall turbulent boundary layers that provided the spatial distribution and statistics of uniform momentum zones (UMZs), we previously introduced a stochastic model to generate two-dimensional modal velocity fields representative of the roughness sublayer and logarithmic region (Ehsani et al. 2024 a J. Fluid Mech. , vol. 979, p. A12; J. Fluid Mech. , 2024 b , vol. 999, p. A56). This synthetic flow comprises a streamwise concatenation of spatially correlated step-like velocity profiles, where each step corresponds to an internal shear layer separating UMZs, and the UMZs follow scaling consistent with wall-attached eddies. Here, we further develop the model to introduce small-scale swirling motions using vortex cores generated stochastically from p…",
-    "authors": "Roozbeh Ehsani, Michael Heisel, Michele Guala",
-    "published": "2026-08-10",
-    "keywords_matched": [
-      "turbulence",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Issue Information",
-    "doi": "10.1029/jgrd.70823",
-    "url": "https://doi.org/10.1029/jgrd.70823",
-    "abstract": "No abstract is available for this article.",
-    "authors": "",
-    "published": "2026-08-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Total Ozone Reactivity Measurements Reveal Knowledge Gap in Volatile Organic Compound Emissions and Their Reactions",
-    "doi": "10.1029/2026jd047054",
-    "url": "https://doi.org/10.1029/2026jd047054",
-    "abstract": "Abstract Total ozone (O 3 ) reactivity monitors (TORMs) were used to investigate biogenic volatile organic compound (BVOC) emissions from several ecosystems. Measurements were conducted in temperate deciduous North American forests, during the CABINEX and SOAS campaigns, on tundra vegetation emissions at Toolik lake field station (TFS) in Alaska, and in a boreal fen in Finland. Deciduous tree emissions produced up to six times higher O 3 loss than emissions from conifers. Emissions from the fen resulted in maximum O 3 loss values comparable to deciduous tree emissions, whereas emissions from Arctic tundra ground vegetation generated the smallest signals. Across all ecosystems, the O 3 loss expected from the reactions with identified BVOCs was consistently lower than the directly measured O…",
-    "authors": "Arnaud P. Praplan, Steven J. Thomas, Ryan W. Daly, Jeong‐Hoo Park et al.",
-    "published": "2026-08-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Modification Effect of Ozone on Current and Future Health Burden Associated With Short‐Term Heatwave Exposure in China",
-    "doi": "10.1029/2026jd046638",
-    "url": "https://doi.org/10.1029/2026jd046638",
-    "abstract": "Abstract The co‐occurrence of heatwave (HW) and ozone pollution in China has increased significantly. Epidemiological studies indicate that ozone can modify the association between heatwaves and premature mortalities but quantitative health impacts remain poorly understood. This study evaluates premature cardiovascular mortalities attributable to short‐term heatwave exposure during warm seasons across China during 2013–2022 by integrating a widely‐used health impact assessment model with high‐resolution ERA5 meteorological data and TAP ozone concentrations, and quantitatively assesses the modifying effect of ozone on HW‐related mortality for the first time at the national scale. Future ozone‐modified health burden under different scenarios is also quantified by using multi‐model simulation…",
-    "authors": "Zijia Feng, Jia Zhu, Xueqing Wang, Lei Chen et al.",
-    "published": "2026-08-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Planetary Boundary Layer Height on the Northern Mount Qomolangma Region Retrieved From Wind LiDAR Observations",
-    "doi": "10.1029/2026jd046994",
-    "url": "https://doi.org/10.1029/2026jd046994",
-    "abstract": "Abstract A coherent Doppler wind LiDAR (Wind3D 6000) has been operating in the northern Mount Qomolangma region since 2023. We retrieved planetary boundary layer height (PBLH) from LiDAR observations collected from October 2023 to September 2025 using a hybrid algorithm combining signal‐to‐noise ratio (SNR)‐based thresholding and wavelet covariance transform (WCT). The method agrees well with the available daytime radiosonde measurements, although these radiosonde observations are limited to a short monsoon‐season period and therefore cannot fully validate all seasons. Case studies of a clear‐sky day, a cloudy day, and a strong‐wind episode show that the LiDAR‐derived PBLH captures rapid convective growth under clear skies, abrupt collapse under cloud‐limited conditions, and mechanically s…",
-    "authors": "Xiaowen Zhou, Yaoming Ma, Fanglin Sun, Zhengling Cai et al.",
-    "published": "2026-08-10",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Implementation of a three-dimensional planetary boundary  layer parameterization in a coupled modeling system and  evaluation of “gray zone” simulations of a wind-wave  event off the US California Coast using observations",
-    "doi": "10.5194/gmd-19-7369-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7369-2026",
-    "abstract": "Abstract. A three-dimensional (3D) planetary boundary layer (PBL) parameterization was added to the Coupled Ocean Atmosphere Wave Sediment Transport (COAWST) model and the first coupled atmosphere/wave “gray zone” simulations were carried out using the 3D PBL parameterization. A case study of a significant wind-wave event from 4–8 November 2020 off the US west coast was examined, with a focus on the impacts of the event within an approximate 280×280 km central California coastal region covering the Bureau of Ocean Energy Management Morro Bay wind energy lease area. Simulations with both one-dimensional (1D; Yonsei University) and 3D PBL parameterizations were examined in this nest with Δx=400 m. Two-way coupling was active, with near-surface winds feeding back to the wave model and bulk wa…",
-    "authors": "Eric A. Hendricks, Timothy W. Juliano, Branko Kosović, Sue Ellen Haupt et al.",
-    "published": "2026-08-10",
-    "keywords_matched": [
-      "wind energy",
-      "ocean energy"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "The Impact of Volatile Organic Compounds and Oxides of Nitrogen on Ground‐Level Ozone and Secondary Organic Aerosols Formation Over the Triad Region in North Carolina",
-    "doi": "10.1029/2025jd045859",
-    "url": "https://doi.org/10.1029/2025jd045859",
-    "abstract": "Abstract Ground‐level ozone and secondary organic aerosol (SOA) formation in urban‐rural environments involves complex interactions between nitrogen oxides (NO x ) and volatile organic compounds (VOCs). This study employed WRF‐Chem version 4.2 with SAPRC99 chemistry to investigate ozone and SOA formation in the Triad region NC during peak photochemical conditions (1–15 June 2013). Sensitivity simulations examined the impacts of NO x (±20%), anthropogenic VOCs (±20%, −80%), and biogenic emission removal across urban centers (Greensboro, Winston‐Salem, High Point) and rural areas (Ellisboro) using nested domains at 12 and 4 km grid spacing. VOC/NO x ratios consistently exceeded 5:1 throughout the region, confirming NO x ‐limited ozone formation conditions. Ozone showed substantial sensitivit…",
-    "authors": "Laxmi Odari, Brian J. Gaudet, Samson Hagos, Marc N. Fiddler et al.",
-    "published": "2026-08-08",
-    "keywords_matched": [
-      "WRF"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "The Dependence of Moist Vortex Intensification on Convection‐Induced Moisture Distribution and Low‐Level Inflow: Insights for Tropical Cyclone Seed Genesis",
-    "doi": "10.1029/2025jd045526",
-    "url": "https://doi.org/10.1029/2025jd045526",
-    "abstract": "Abstract This study proposes a novel idealized experimental design to investigate the process by which convection clusters transition into tropical cyclone seeds (TC seeds), with a particular focus on the role of convection‐induced transverse circulation in the radial–vertical plane. We use cloud‐resolving simulations of convection self‐aggregation to represent various initial states of convective cloud clusters, ranging from scattered to aggregated to systematically quantify the dependence of moist vortex intensification to the coupled structure of moisture, convection, and circulation. We then introduce a uniform Coriolis force to these initial states to simulate and examine the short‐term variations in vortex intensity under the same background vorticity. The centroid of positive vortic…",
-    "authors": "Shao‐Yu Tseng, Kuan‐Yu Lu, Chien‐Ming Wu, Wei‐Ting Chen",
-    "published": "2026-08-08",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Wave interactions in a screeching jet",
-    "doi": "10.1017/jfm.2026.11818",
-    "url": "https://doi.org/10.1017/jfm.2026.11818",
-    "abstract": "We use a series of global models to investigate the linear and nonlinear interactions between shock cells, Kelvin–Helmholtz waves, guided jet modes and other fluctuations in a screeching jet. First, we identify a set of lightly damped global eigenmodes of the Navier–Stokes operator linearised about the mean flow and show that they result from interactions with different shock-cell wavenumbers. Second, we use resolvent analysis to study the linear input–output behaviour of the jet and obtain a time-periodic representation of the screech mode, which compares favourably with experimental data. Third, we use harmonic resolvent analysis to study triadic interactions, including inter-frequency energy transfer, between the screech mode determined from resolvent analysis and other fluctuations in …",
-    "authors": "Ali Farghadan, Jayson Beekman, Petronio Nogueira, Daniel Edgington-Mitchell et al.",
-    "published": "2026-08-07",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Evolution of spectra and convection velocities of a turbulent boundary layer over an axisymmetric body",
-    "doi": "10.1017/jfm.2026.11784",
-    "url": "https://doi.org/10.1017/jfm.2026.11784",
-    "abstract": "Time-resolved particle image velocimetry and hot-wire anemometry are employed to examine the spectral characteristics and frequency-dependent convection velocities of a turbulent boundary layer developing over an axisymmetric body of revolution subjected to varying pressure gradients and curvature. After a predominantly zero pressure-gradient (ZPG) cylindrical mid-body, the boundary layer contracts under a favourable pressure gradient (FPG), recovers under a mild adverse pressure gradient (APG) and thickens rapidly along the curved tail under a strong APG. Outer-scaled premultiplied spectra collapse well at high frequencies, whereas the low frequencies collapse only partially across the mid-body and into the tail, while the peak energy associated with the intermediate frequencies decreases…",
-    "authors": "Peter Manovski, Matteo Giacobello, Charitha de Silva, Nicholas Hutchins et al.",
-    "published": "2026-08-07",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Impulse-induced liquid jets from bubbles with arbitrary contact angles",
-    "doi": "10.1017/jfm.2026.11880",
-    "url": "https://doi.org/10.1017/jfm.2026.11880",
-    "abstract": "This paper investigates the relationship between the contact angle of a spherical bubble attached to a tube submerged in a container and the jet speed induced by an impulsive acceleration at its base. While it has been well established that bubble geometry strongly influences the ejection speeds of liquid jets, mathematical studies of liquid jets with arbitrary bubble shapes remain limited. In this work, we derive a pressure impulse in the small-cavity limit as a tractable integral of classical Legendre functions. It is shown that the jet speed can be divided into two components: (i) the velocity induced by the hydrostatic pressure impulse distribution created by the curvature of the bubble, and (ii) the velocity induced by the distribution of the submersion of the tube in a container. Thi…",
-    "authors": "Hiroyuki Miyoshi, Hiroya Watanabe, Ishin Kikuchi, Yoshiyuki Tagawa",
-    "published": "2026-08-07",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Structures of elastoinertial turbulence in pipe flow",
-    "doi": "10.1017/jfm.2026.11909",
-    "url": "https://doi.org/10.1017/jfm.2026.11909",
-    "abstract": "Elastoinertial turbulence (EIT) is a self-sustaining chaotic state resulting from the interplay between inertia and elasticity in the flow of dilute polymeric solutions, and its emergence is believed to limit the achievable drag reduction in turbulence flow using polymer additives. In the present study, we introduce a viscoelastic variant of spectral proper orthogonal decomposition (VESPOD) that decomposes velocity and polymeric stress fields of EIT together into well-defined orthogonal oscillating modes such that the decomposition is optimal in terms of the total mechanical energy of the flow. Using this technique, we investigate the dominant coherently evolving structures underlying the dynamics of EIT in axisymmetric pipe flow. By analysing distinct peaks in the leading eigenvalue of th…",
-    "authors": "Manish Kumar, Michael D. Graham",
-    "published": "2026-08-07",
-    "keywords_matched": [
-      "turbulence",
-      "ABL",
-      "drag reduction"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Theoretical study into a novel design of oscillating water column with high broadbanded efficiency",
-    "doi": "10.1017/jfm.2026.11906",
-    "url": "https://doi.org/10.1017/jfm.2026.11906",
-    "abstract": "This paper considers the theoretical operation of a novel wall-mounted oscillating water column wave energy device designed to be resonant over a broad range of frequencies. A curved duct with a submerged opening in a vertical wall is partitioned into a number of separate narrow channels of uniform width using thin annular baffles. Each channel connects the submerged opening to its own internal free surface whose rise and fall drives the air enclosed above through a Wells-type turbine through which energy is harvested. The different channel lengths within the duct encourages, when subjected to forcing from incident waves, resonance across a range of frequencies. The two-dimensional problem described in this work is analysed using classical linearised water wave theory and the geometric com…",
-    "authors": "Sasha Parry-Barnard, Richard Porter",
-    "published": "2026-08-07",
-    "keywords_matched": [
-      "wave energy"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Regional CO\n                    <sub>2</sub>\n                    and CH\n                    <sub>4</sub>\n                    inversion system using WRF-Chem (v4.4)/DART (v9.8.0) and continuous high-precision  observations over the Korean Peninsula",
-    "doi": "10.5194/gmd-19-7325-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7325-2026",
-    "abstract": "Abstract. Quantifying greenhouse gas (GHG) emissions over complex terrain remains a significant challenge for conventional inversion systems due to the high sensitivity of tracer transport to surface heterogeneity. We develop a high-resolution dual-species GHG top-down inversion framework by integrating the Weather Research and Forecasting model coupled with Chemistry (WRF-Chem v4.4) and the Data Assimilation Research Testbed (DART v9.8.0) in a cycling ensemble Kalman filter system. Built on community tools, the framework is designed to be portable and configurable, enabling applications to other regions, resolutions, and observing-system configurations (e.g., expanded surface networks and additional data streams). This framework jointly assimilates near-surface CO2 and CH4 concentrations …",
-    "authors": "Doyoon Kwon, Bonhoon Koo, Jooyeop Lee, Jeongwon Kim et al.",
-    "published": "2026-08-07",
-    "keywords_matched": [
-      "WRF",
-      "weather research and forecasting",
       "ABL"
     ]
   }
