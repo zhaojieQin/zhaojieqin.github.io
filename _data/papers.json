@@ -39,6 +39,95 @@
   },
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Low-order modelling of a leading-edge vortex growing from a feeding sheet",
+    "doi": "10.1017/jfm.2026.12255",
+    "url": "https://doi.org/10.1017/jfm.2026.12255",
+    "abstract": "Recent advances in the unsteady potential-flow model have shown promise in providing a low-order theoretical framework for studying insect aerodynamics. Although the assimilation of the discrete-vortex method enables accurate predictions of unsteady aerodynamic forces and wake structure evolution, it remains physically meaningful to seek a minimal representation of the coherent vortices while retaining the essential dynamical coupling between the concentrated vortex core, the feeding shear layer and the wing. The present study explores various reduction strategies in modelling the growth of a leading-edge vortex (LEV) on an accelerating flat plate. The results argue against the use of a single free point vortex, as it completely fails to capture the dynamical effect of vorticity feeding fr…",
+    "authors": "Xi Xia",
+    "published": "2026-11-05",
+    "keywords_matched": [
+      "wake",
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Generation of extreme waves with flexible features in fully nonlinear wave models",
+    "doi": "10.1017/jfm.2026.12235",
+    "url": "https://doi.org/10.1017/jfm.2026.12235",
+    "abstract": "We consider the generation of extreme waves of flexible features in deep-water surface gravity waves, in the context of the fully nonlinear wave model, i.e. Euler equations of the free surface. This is achieved through a recently developed GenWave approach, coupled with the high-order spectral method to solve the Euler equations. Through an iterative refinement procedure, GenWave progressively refines the initial phases associated with a given wave spectrum, which leads to extreme-wave generation at specified design time and location, with their probability of exceedance quantified. In this study, we consider two types of extreme waves, enabled by the flexibility of GenWave. The first type is a spatially and temporally localised rogue wave, and second is a spatially localised extreme-wave …",
+    "authors": "Ji Young Seo, Kevin John Maki, Yulin Pan, Bo Woo Nam et al.",
+    "published": "2026-11-05",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Rather than drafting, vortex capture dictates efficiency in three-hydrofoil schools",
+    "doi": "10.1017/jfm.2026.12210",
+    "url": "https://doi.org/10.1017/jfm.2026.12210",
+    "abstract": "Three-dimensional experiments are presented on a school of three pitching hydrofoils. Two side-by-side leader foils maintain the same relative positions while the location of a third follower foil is varied. Force and flow measurements detail the mechanisms leading to collective thrust and efficiency 58 % and 24 % higher than isolated foils, respectively. In traditional drafting, a follower is positioned in the wake of an upstream object. In wakes with a net momentum deficit, drafting reduces drag by lowering oncoming flow speed. By contrast, wakes from oscillatory swimmers feature strong momentum surplus regions, which increases drag by increasing oncoming flow. Despite that, our results show that the best performance benefits occur for compact schools where the follower is directly in th…",
+    "authors": "Pedro C. Ormonde, Yuanhang Zhu, Daniel B. Quinn, Keith W. Moored",
+    "published": "2026-11-05",
+    "keywords_matched": [
+      "wake",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Experimental visualisation of trapped waves in circular subsonic jets with and without chevrons",
+    "doi": "10.1017/jfm.2026.12155",
+    "url": "https://doi.org/10.1017/jfm.2026.12155",
+    "abstract": "In this work, we describe our experimental observations of trapped waves and guided jet waves in schlieren images of jets operating at jet Mach numbers upper M Subscript j Baseline equals 0.9 M j = 0.9 $M_{\\!j}=0.9$ and upper M Subscript j Baseline equals 0.983 M j = 0.983 $M_{\\!j}=0.983$ produced by circular nozzles. Results from a chevron nozzle are also included as a special case. We establish that: (i) several families of trapped waves are detectable in our experimental images, including higher order axisymmetric and helical modes; (ii) the dispersion relationship of these waves is in agreement with the vortex sheet model of Tam &amp; Hu ( J. Fluid Mech. , 1989, vol. 201, pp. 447–483) and (iii) the introduction of chevrons does not significantly affect the presence or intensity of the …",
+    "authors": "Fernando Zigunov, Puja Upadhyay, Mark P. Wernet, James Bridges",
+    "published": "2026-11-05",
+    "keywords_matched": [
+      "ABL",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Near-field pressure and wake dynamics in aerodynamic noise control of a forced rotating cylinder",
+    "doi": "10.1017/jfm.2026.12231",
+    "url": "https://doi.org/10.1017/jfm.2026.12231",
+    "abstract": "This study investigates the aerodynamic noise control mechanisms of a forced rotating circular cylinder at a subcritical Reynolds number ( upper R e equals 4.7 times 10 Superscript 4 R e = 4.7 × 10 4 $Re = 4.7 \\times 10^4$ ) using large-eddy simulation coupled with the Ffowcs Williams–Hawkings acoustic analogy, validated by wind tunnel experiments. Five representative rotation ratios, alpha equals 0 α = 0 $\\alpha =0$ , 0.5 0.5 $0.5$ , 1 1 $1$ , 2 2 $2$ and 4 4 $4$ , are analysed to relate wall-pressure fluctuations and wake organisation to the radiated noise. At alpha equals 0.5 α = 0.5 $\\alpha =0.5$ , the natural shedding tone separates into two components, upper S t 01 almost equals 0.18 S t 01 ≈ 0.18 $St_{01}\\approx 0.18$ and upper S t 02 almost equals 0.23 S t 02 ≈ 0.23 $St_{02}\\approx…",
+    "authors": "Chenghao Yang, Nvzi Bao, Reza Maryami, Yu Liu et al.",
+    "published": "2026-11-05",
+    "keywords_matched": [
+      "wake"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Thermodynamic Moistening and Decadal Circulation Modulation of the Recent Increase in Precipitation Extremes Over the Beijing‐Tianjin‐Hebei Region",
+    "doi": "10.1029/2026jd048228",
+    "url": "https://doi.org/10.1029/2026jd048228",
+    "abstract": "Abstract Extreme precipitation has intensified over North China during the early twenty‐first century, yet the interplay among thermodynamic moistening, atmospheric circulation, and decadal ocean variability remains insufficiently understood. Here we investigate summer precipitation extremes over the Beijing‐Tianjin‐Hebei (BTH) region using daily observations. Six precipitation‐extreme indices characterize changes in intensity, persistence, frequency, and accumulated extremes. Multiple extreme indices exhibit a coherent upward shift around 2015/2016, and extreme precipitation amount (R95p) increased by nearly 50% from 2001–2011(P1) to 2016–2025(P2). With regional and lower‐tropospheric warming, moisture content, saturation vapor pressure, and convective instability increased, establishing …",
+    "authors": "Haoyu Wang, Yujie Wang, Lianchun Song, Xin‐Zhong Liang",
+    "published": "2026-11-05",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Fine‐Scale Characteristics and Forming Mechanisms of the Summer Regional Precipitation Events in the Middle and Lower Yangtze River Basin Under Different Dominant Synoptic Patterns",
+    "doi": "10.1029/2026jd047389",
+    "url": "https://doi.org/10.1029/2026jd047389",
+    "abstract": "Abstract Based on the hourly rainfall gauge data from 1,503 stations and ERA5 reanalysis data in summers of 2014–2024, this study reveals the morphology, coverage area (CA), movement and diurnal variation of regional precipitation events (RPEs) in the middle and lower Yangtze River basin (MLYRB) and their forming mechanisms. Results show that RPEs mainly occur under three dominant synoptic patterns: northerly weak‐Meiyu pattern (P1), southerly strong‐Meiyu pattern (P2), and low‐vortex pattern (P3), leading to 52.20%, 37.57%, and 10.23% of total occurrences of RPEs with the rainfall center concentrated in central, southern, and coastal MLYRB, respectively. The RPEs under Meiyu patterns exhibit more elongated morphologies, larger areas and faster movements relative to low‐vortex pattern. The…",
+    "authors": "Shanshan Li, Anning Huang, Cuihong Wu, Xiaofang Wang et al.",
+    "published": "2026-11-05",
+    "keywords_matched": [
+      "diurnal variation",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Enhancement of inertial particle transport in rough-wall turbulence",
     "doi": "10.1017/jfm.2026.12222",
     "url": "https://doi.org/10.1017/jfm.2026.12222",
@@ -675,6 +764,55 @@
     "published": "2026-11-01",
     "keywords_matched": [
       "diurnal cycle"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Inlet pre-swirl regulation of flow separation in mixed-flow pump passages",
+    "doi": "10.1063/5.0348930",
+    "url": "https://doi.org/10.1063/5.0348930",
+    "abstract": "The effects of inlet pre-swirl generated by an adjustable inlet guide vane on flow separation in a mixed-flow pump are investigated numerically under representative off-design conditions. The circumferential velocity and relative flow angle at the impeller inlet are examined to relate changes in inlet-flow matching to the observed separation patterns. At 0.5Qd, positive pre-swirl reduces the incidence mismatch and suppresses flow separation near the impeller shroud, accompanied by a relative efficiency increase of 4.8%, reduced total entropy production, and lower dominant-frequency pressure amplitudes at most monitoring points. At 1.2Qd, negative pre-swirl improves inlet-flow matching near the impeller leading edge and increases the efficiency by 13.4%. However, the reduction in the volume…",
+    "authors": "Lingling Zhou, Yanjun Li, Sunsheng Yang, Jing Li et al.",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Unsteady loading mechanism of a pre-swirl stator pump-jet propulsor under grid-wake ingestion",
+    "doi": "10.1063/5.0352577",
+    "url": "https://doi.org/10.1063/5.0352577",
+    "abstract": "Pump-jet propulsors (PJPs) generally operate in complex inflow environments involving the combined effects of the hull boundary layer, appendage wakes, and ocean turbulence. The resulting fluctuating hydrodynamic loads play an important role in propulsion-system vibration and radiated noise. In this study, a pre-swirl stator PJP under the wake of a 6-in. grid is investigated numerically using large eddy simulation. A comparative investigation based on spectral and coherence analyses is conducted to reveal the distribution characteristics and generation mechanisms of the unsteady forces acting on the PJP subjected to grid-wake ingestion. The results show that grid-wake ingestion substantially enhances the broadband energy of the rotor axial force near the blade-passing frequency (BPF), with…",
+    "authors": "Xinming Li, Qiaogao Huang, Han Li, Jing Liu et al.",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "wake",
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "From crown splash to bell-shaped closure: Dynamics of laser-induced splashing on the liquid metal surface",
+    "doi": "10.1063/5.0351910",
+    "url": "https://doi.org/10.1063/5.0351910",
+    "abstract": "This study combines high-speed imaging and multi-physics coupled numerical simulations to investigate the dynamic evolution and topological transition of free-surface splashing of Galinstan induced by nanosecond pulsed lasers. Within laser energies of 0.15–0.45 mJ and pulse durations of 150–350 ns, three sequential splashing regimes are observed experimentally with increasing laser pulse energy: open crown, transitional state, and closed bell-shaped crown. The fully closed crown with a steady central liquid column is reported for the first time in laser-induced liquid metal splashing. A compressible volume of fluid model accounting for vapor recoil pressure is established and validated against experiments. Flow-field analysis reveals that gas-phase recirculation vortices originating from t…",
+    "authors": "Mingyu Yan, Xuerong Zhu, Yanzhen Zhang, Boce Xue et al.",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Physics of Fluids",
+    "title": "Experimental investigation of supersonic impinging jets across overexpanded and underexpanded regimes using schlieren and modal analysis",
+    "doi": "10.1063/5.0356931",
+    "url": "https://doi.org/10.1063/5.0356931",
+    "abstract": "This study examined the effects of nozzle geometry, nozzle pressure ratio (NPR), and nozzle-to-wall distance on the flow structure and unsteady dynamics of supersonic free and impinging jets. Jets issuing from convergent and convergent–divergent nozzles were studied using time-resolved Z-type schlieren visualization and snapshot proper orthogonal decomposition (POD). Free-jet measurements established the shock-cell structure, Mach disk, jet boundary, and shear layers, while impinging jets were examined at L/De=1, 2, and 3. The convergent nozzle remained underexpanded throughout the range, whereas the convergent–divergent nozzle transitioned from overexpanded below its design pressure ratio of approximately 7.9 to underexpanded above it. Decreasing L/De shifted the first normal shock upstre…",
+    "authors": "Grayson S. Hayes, Hadi Samsam-Khayani",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL"
     ]
   },
   {
@@ -6029,144 +6167,6 @@
     "authors": "Yung-Yao Lan, Huang-Hsiung Hsu, Wei-Liang Lee, Simon Chou",
     "published": "2026-08-13",
     "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "BinMod1D v1.0.10: a Python package for explicitly simulating 1D collisional coalescence/breakup processes with corresponding polarimetric radar signatures",
-    "doi": "10.5194/gmd-19-7503-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7503-2026",
-    "abstract": "Abstract. This paper details a computationally efficient and versatile Python package (BinMod1D v1.0.10) that explicitly evolves spectral bin distributions and corresponding polarimetric radar variables for rain or snow according to atmospheric collisional coalescence and breakup processes. BinMod1D can be executed as a box model, a 1D steady-state model in height, or a full (time and height) 1D column model utilizing multiple particle categories, each of which can have their own densities, aspect ratios, and fall speeds. Forward simulations of polarimetric radar variables are implemented using standard Rayleigh analytic scattering equations. Two-moment (mass and number) or one-moment (mass only) particle interaction calculations follow a source-based spectral bin method. Bin interaction c…",
-    "authors": "Edwin Lee Dunnavan",
-    "published": "2026-08-13",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "SDMBCv2 (v1.0): correcting systematic biases  in RCM inputs for future projection",
-    "doi": "10.5194/gmd-19-7457-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7457-2026",
-    "abstract": "Abstract. Regional Climate Models (RCMs) offer enhanced spatial resolution and a more realistic depiction of local climate processes. However, they often inherit systematic biases from their driving Global Climate Models (GCMs), which can compromise the accuracy of downscaled climate projections. To address this, bias correction techniques have been widely employed to adjust GCM and RCM outputs, particularly for climate impact and adaptation studies. Traditional methods, however, typically correct surface variables independently and lack physical and dynamical consistency. Bias correcting GCM boundary conditions prior to RCM simulation ensures a more coherent, physically and dynamically consistent, regional climate simulation with reduced errors. This study evaluates the effectiveness of s…",
-    "authors": "Youngil Kim, Jason P. Evans",
-    "published": "2026-08-13",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Reconnections of interacting hairpin vortices in axisymmetric free shear flows",
-    "doi": "10.1017/jfm.2026.11877",
-    "url": "https://doi.org/10.1017/jfm.2026.11877",
-    "abstract": "Direct numerical simulations (DNS) are used to study the evolution of hairpin vortices to understand the late-stage turbulent breakdown of vortex rings. Several hairpin initial configurations with Reynolds number italic Re equals 1500 Re = 1500 $\\textit{Re} = 1500$ were considered, both isolated and multiple. The isolated hairpins evolve in a quiescent flow, demonstrating reconnection events in stages (bridging, cut and reconnect, rapid separation of two parts, residual threads), similar to prior observations in antiparallel vortices. Next, multiple configurations of six hairpin vortices in a circular array are simulated, with the background flow extracted from the DNS of the near wake of a vortex ring undergoing azimuthal instability. Here, the alignment of vorticity at the tips with that…",
-    "authors": "Naveen Balakrishna, Joseph Mathew, Arnab Samanta",
-    "published": "2026-08-12",
-    "keywords_matched": [
-      "wake",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "On the joint estimation of flow fields and particle properties from Lagrangian data",
-    "doi": "10.1017/jfm.2026.11913",
-    "url": "https://doi.org/10.1017/jfm.2026.11913",
-    "abstract": "We numerically investigate the feasibility and limits of jointly estimating flow fields and unknown particle properties (e.g. position, size and density) from Lagrangian particle tracking data. Lagrangian particle tracking offers time-resolved, volumetric measurements of particle trajectories, which are markers of the carrier fluid motion. However, experimental tracks are spatially sparse and potentially noisy, and the problem of reconstructing flow fields may be further complicated by inertial particle transport, such that particle slip velocities must be determined to access the velocity field of the carrier fluid. To address this problem, we develop a data assimilation framework that couples an Eulerian representation of the flow with Lagrangian particle models, enabling the simultaneou…",
-    "authors": "Ke Zhou, Samuel Jacobi Grauer",
-    "published": "2026-08-12",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Third-order first-harmonic radiation by a semi-immersed sphere in forced heave motion",
-    "doi": "10.1017/jfm.2026.11904",
-    "url": "https://doi.org/10.1017/jfm.2026.11904",
-    "abstract": "Nonlinear hydrodynamic effects influence the power capture of resonant wave energy converters (WECs), particularly within the frequency band where these devices are designed to operate. In this study, wave flume experiments are conducted on a semi-immersed spherical model with prescribed heave motions, emulating the response to an incident broad-banded wave group. Several body motion amplitudes (up to a maximum displacement of greater than half the radius) are tested at different peak frequencies, revealing progressive reductions in both the first-harmonic radiation forces and radiated wave elevations, per unit motion amplitude, as the motion amplitude is increased. A simple partially nonlinear potential flow model incorporating instantaneous ‘volume flow’ corrections shows very good agree…",
-    "authors": "Bryan Tan, Hugh A. Wolgamot, Jana Orszaghova, Adi Kurniawan et al.",
-    "published": "2026-08-12",
-    "keywords_matched": [
-      "wave energy"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "The Critical Role of Moisture in the Record‐Breaking Warm Event Over East Antarctica in March 2022",
-    "doi": "10.1029/2026jd047167",
-    "url": "https://doi.org/10.1029/2026jd047167",
-    "abstract": "Abstract The warming of Antarctica has a significant impact on global weather and climate. An extreme warming event took place in East Antarctica in mid‐to‐late March 2022, peaking at 39°C above the climatological average. This was the largest temperature anomaly ever recorded and attracted global attention. In this work, we investigate and quantify the role of moisture through observational analysis and a series of numerical simulations using the Polar Weather Research and Forecasting (Polar WRF, version 4.1.1) model. Results show that water vapor plays a critical role in this warming event. The Polar WRF reproduces the temporal evolution reasonably well in the Control experiment (Exp‐CTRL). To validate the importance of water vapor, a sensitivity experiment (Exp‐0.0001) was conducted in …",
-    "authors": "Yige Cui, Jinfang Yin, Tingfeng Dou, Annette Rinke et al.",
-    "published": "2026-08-12",
-    "keywords_matched": [
-      "WRF",
-      "weather research and forecasting",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Development and Evaluation of an Urban Atmospheric Inverse Modeling Framework for the Washington, DC and Baltimore, MD Metropolitan Area: Initial Results From an Inert Tracer Case Study",
-    "doi": "10.1029/2025jd045557",
-    "url": "https://doi.org/10.1029/2025jd045557",
-    "abstract": "Abstract Accurate quantification of hazardous material releases in cities is critical for emergency managers aiming to mitigate health impacts and mortality in the population. Here, a study on the development and evaluation of a high‐resolution (1‐km, 1‐hr) urban‐scale atmospheric inverse modeling system for the Washington, DC, and Baltimore, MD, metropolitan area (DCBA) is presented to advance surface flux quantification in urban and industrial areas where the potential for a hazardous release is high. The system employs an inert tracer as a proof of concept for January 2019 and builds upon HYSPLIT atmospheric transport and dispersion simulations driven by high‐resolution Weather Research and Forecasting (WRF) model simulations that ingest urban meteorological observations, coupled with t…",
-    "authors": "Miguel Cahuich‐López, Christopher P. Loughner, Fong Ngan, Anna Karion et al.",
-    "published": "2026-08-12",
-    "keywords_matched": [
-      "WRF",
-      "weather research and forecasting"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Validation of ECMWF Ensemble Forecasts of Sea Surface Latent and Sensible Heat Fluxes in the Pacific Arctic Against Saildrone Observations",
-    "doi": "10.1029/2025jd044009",
-    "url": "https://doi.org/10.1029/2025jd044009",
-    "abstract": "Abstract Estimates of sea‐surface latent and sensible heat fluxes using in situ observations are very rare in the Arctic Ocean. Saildrone Explorer uncrewed surface vehicles (saildrones) were deployed in the Bering, Chukchi, and Beaufort Seas from May–October 2019. Sea‐surface fluxes are estimated using surface state variables (temperature, humidity, and wind) observed by the saildrones applied to a bulk algorithm. In this study, the observationally based estimates of sea‐surface fluxes and the surface state variables are compared with those in ECMWF ensemble forecasts. Errors in the forecasts are mostly random and within the observed standard deviation. There are, however, sporadic and large error spikes (&gt;3 standard deviations). Sea‐surface temperature and surface air temperature and h…",
-    "authors": "Tasha Lee, Brandon Troub, Isabella M. Dressel, Mark Yamane et al.",
-    "published": "2026-08-12",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Tropical Diurnal Cycle of Ocean Surface Winds From CYGNSS Observations",
-    "doi": "10.1029/2026jd047780",
-    "url": "https://doi.org/10.1029/2026jd047780",
-    "abstract": "Abstract The diurnal cycle of ocean surface wind reflects the daily response of air–sea thermal and dynamical processes. Using 1‐hr wind speed data from the Cyclone Global Navigation Satellite System (CYGNSS, 2018–2024), this study refines the characterization of tropical ocean diurnal winds and evaluates their consistency with ERA5 reanalysis. Compared with conventional 6‐hourly satellite records, the hourly sampling of CYGNSS provides sufficient temporal coverage for harmonic fitting, yielding diurnal phase estimates with sub‐hour precision and revealing coherent nighttime wind maxima between 23:00 and 06:00 local time. Both data sets show stronger amplitudes near coasts, straits, and bays, and weaker but detectable signals over open oceans. ERA5 amplitudes are approximately 1.4 times th…",
-    "authors": "Ning Guan, Baojian Liu",
-    "published": "2026-08-11",
-    "keywords_matched": [
-      "diurnal cycle",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "GLIDE-SOL: a GPU-accelerated global lightweight infrastructure for diagnostic environmental modeling with SOLWEIG",
-    "doi": "10.5194/gmd-19-7389-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7389-2026",
-    "abstract": "Abstract. GLIDE-SOL is a fully scripted and globally re-deployable Python workflow that operationalizes SOLWEIG for rapid and repeatable thermal-comfort mapping across diverse urban environments. GLIDE-SOL is built on the SOLWEIG radiative balance libraries, but rewrites the surrounding system – including automated input generation, the execution engine, and post-processing – so that the model can be driven by globally available datasets and executed efficiently on GPUs. All inputs (terrain, building morphology, canopy height, land cover, and meteorology) are automatically derived from global products, eliminating local preprocessing while enabling consistent applications from neighborhood-scale analyses to city-wide and multi-city experiments. In addition, GLIDE-SOL introduces lightweight…",
-    "authors": "Andrea Zonato, Harsh G. Kamath, Naveen Sudharsan, Luca Monaco et al.",
-    "published": "2026-08-11",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Falling dynamics of flexible plates with concentrated weight",
-    "doi": "10.1017/jfm.2026.11908",
-    "url": "https://doi.org/10.1017/jfm.2026.11908",
-    "abstract": "We investigate the free fall of a flexible plate with a concentrated central weight using numerical simulations to explore the coupling effects of structural flexibility and concentrated loading. Two-dimensional and three-dimensional (3-D) simulations, combining lattice Boltzmann and immersed boundary methods, identify four distinct falling modes: swing, stable falling, fluttering and tumbling. The swing and stable falling modes are reported for the first time in this context. By analysing the balance between bending stiffness upper K K $K$ and concentrated weight upper G G $G$ , we introduce a new dimensionless effective stiffness italic Kg equals upper K divided by upper G Kg = K / G $ \\textit{Kg} = K/G$ , which governs mode transitions and successfully collapses the kinematic data. A bi…",
-    "authors": "Junqi Xiong, Kui Liu, Zhi-Qiang Dong, Haibo Huang",
-    "published": "2026-08-10",
-    "keywords_matched": [
-      "lattice boltzmann",
       "ABL"
     ]
   }
