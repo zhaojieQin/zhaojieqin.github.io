@@ -1,5 +1,42 @@
 [
   {
+    "journal": "Advances in Atmospheric Sciences",
+    "title": "A Comprehensive Hourly Land–Atmosphere Interaction Dataset from a Coordinated 15-Station Network Spanning the Environmental Gradients of the Tibetan Plateau (2021–24)",
+    "doi": "10.1007/s00376-026-6282-3",
+    "url": "https://doi.org/10.1007/s00376-026-6282-3",
+    "abstract": "Abstract Accurate characterization of land–atmosphere interactions over the Tibetan Plateau (TP) is hindered by fragmented measurements, inconsistent data-processing standards, and a scarcity of integrated, multi-component observations. To address these limitations, we present an integrated dataset from 15 stations spanning monsoon-dominated, westerlies-dominated, and transitional regions of the TP. The dataset features hourly gradient meteorological variables, radiation components, soil temperature and moisture measurements, and turbulent fluxes, providing vertically resolved information on land surface processes. Processed under standardized protocols with harmonized temporal resolutions, consistent variable definitions, and rigorous quality control procedures, the data ensure high relia…",
+    "authors": "Zhipeng Xie, Weiqiang Ma, Binbin Wang, Cunbo Han et al.",
+    "published": "2026-11-07",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Transversely segregated longitudinal stripes in bidisperse granular flows",
+    "doi": "10.1017/jfm.2026.12176",
+    "url": "https://doi.org/10.1017/jfm.2026.12176",
+    "abstract": "Transversely segregated longitudinal flow bands, or stripes, can form in rapid thin dense granular flows due to the formation of a series of counter-rotating secondary vortices whose axes of rotation are aligned with the flow direction (Pearse et al. 2026 J. Fluid Mech. 1032 , A4). The formation of the secondary vortices is still a subject of active research, but it is likely due to a combination of dilatation and second-normal-stress differences. This paper assumes the existence of the secondary flow and investigates how large and small particles are able to segregate to form stable compositional stripes. In the absence of diffusion, the secondary flow rotates the sharp interface between large particles (above) and small particles (below), around to the vertical, where it breaks to form a…",
+    "authors": "Amber P. Pearse, Chris G. Johnson, J.M.N.T. Gray",
+    "published": "2026-11-06",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Efficacy of Ten Snow‐to‐Liquid Ratio Methods to Predict Snowfall for Impactful Winter Storms in the Northeast United States",
+    "doi": "10.1029/2026jd047255",
+    "url": "https://doi.org/10.1029/2026jd047255",
+    "abstract": "Abstract Forecasting snowfall accumulation is a challenging process that utilizes predicted variables usually from the microphysics parameterization of a numerical weather model, and evaluating these forecasts can be difficult with scarce quality observations. However, snowfall serves as a measure of the impact of a winter storm as larger accumulations are often tied to more significant socioeconomic impacts. Here, 10 different snow‐to‐liquid ratio (SLR) methods are applied to consistent precipitation output from the Weather Research and Forecasting model for 14 impactful Nor'easters in the Northeast United States (NE US). The applied SLR methods are evaluated against the event total snowfall accumulations from the gridded National Snowfall Analysis. SLR methods were evaluated with and wit…",
+    "authors": "Brian C. Filipiak, Ummul Khaira, Michael S. Walters, Marina Astitha",
+    "published": "2026-11-06",
+    "keywords_matched": [
+      "weather research and forecasting",
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Fluid–structure interaction in a square array of submerged flexible stems",
     "doi": "10.1017/jfm.2026.12218",
@@ -810,6 +847,31 @@
     "url": "https://doi.org/10.1063/5.0356931",
     "abstract": "This study examined the effects of nozzle geometry, nozzle pressure ratio (NPR), and nozzle-to-wall distance on the flow structure and unsteady dynamics of supersonic free and impinging jets. Jets issuing from convergent and convergent–divergent nozzles were studied using time-resolved Z-type schlieren visualization and snapshot proper orthogonal decomposition (POD). Free-jet measurements established the shock-cell structure, Mach disk, jet boundary, and shear layers, while impinging jets were examined at L/De=1, 2, and 3. The convergent nozzle remained underexpanded throughout the range, whereas the convergent–divergent nozzle transitioned from overexpanded below its design pressure ratio of approximately 7.9 to underexpanded above it. Decreasing L/De shifted the first normal shock upstre…",
     "authors": "Grayson S. Hayes, Hadi Samsam-Khayani",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Improvement of a Regional Multiscale NLS‐4DVar Assimilation System Based on the CWRF‐CoLM Coupled Model",
+    "doi": "10.1029/2026ms005797",
+    "url": "https://doi.org/10.1029/2026ms005797",
+    "abstract": "Abstract Ensemble perturbations in 4DEnVar‐type methods are pulled in two directions at once: estimating a reliable background‐error covariance (BEC) calls for perturbations large enough to sample real error structure, while a valid tangent‐linear (TL) approximation calls for perturbations small enough to stay near‐linear. This study resolves this conflict by introducing a shrinkage factor () into a multigrid NLS‐4DVar framework, decoupling the perturbation scale used for BEC estimation from that used for TL approximation. An independent finite‐difference test verifies this decoupling, showing that TL accuracy is governed by a trade‐off between nonlinear truncation error and numerical error. Based on this framework, an improved Regional Multiscale Nonlinear Least Squares (NLS) 4DVar Data A…",
+    "authors": "Hongqin Zhang, Xiangjun Tian, Yinhai Luo, Nan Wei",
+    "published": "2026-11-01",
+    "keywords_matched": [
+      "WRF",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Physics‐Informed Neural Networks as Differentiable Surrogates for 4D‐Variational Data Assimilation",
+    "doi": "10.1029/2025ms005619",
+    "url": "https://doi.org/10.1029/2025ms005619",
+    "abstract": "Abstract Biogeochemical forecasting requires state estimation methods that accommodate sparse observations, nonlinear dynamics, and discontinuous ecological processes. Four‐dimensional variational data assimilation addresses this challenge but depends on tangent‐linear and adjoint models that are costly to derive and maintain alongside evolving forward codes, and that are not defined where biogeochemical formulations are non‐differentiable. We propose a framework in which a physics‐informed neural network (PINN) replaces the traditional numerical model and its linearizations, remaining differentiable through automatic differentiation while embedding simplified governing equations as structural guardrails and computing the forward, tangent‐linear, and adjoint operators simultaneously from a…",
+    "authors": "Kevin Egan, Brian Powell",
     "published": "2026-11-01",
     "keywords_matched": [
       "ABL"
@@ -6106,66 +6168,6 @@
     "abstract": "Abstract. We extend the Dynamic Global Vegetation Model LPJmL to version 6.0 by explicitly representing methane (CH4) dynamics within the coupled carbon–nitrogen–water system. The implementation (i) prognoses water-table depth and wetland extent using a CTI–TOPMODEL framework, (ii) solves sub-daily, vertically explicit mass balances for CH4 and O2 including diffusion, ebullition, and plant-mediated transport, (iii) represents methanogenesis and methanotrophy with temperature- and moisture-dependent kinetics, and (iv) integrates land-use and rice management effects alongside inundation-tolerant plant functional types. This architecture enables consistent simulation of CH4, carbon dioxide (CO2) and nitrous oxide (N2) emissions from natural wetlands and managed systems together with the soil …",
     "authors": "Sibyll Schaphoff, David Hötten, Christoph Müller, Dieter Gerten et al.",
     "published": "2026-08-18",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Comprehensive inter-comparison of generative  AI models for super-resolution precipitation  downscaling across hydroclimatic regimes",
-    "doi": "10.5194/gmd-19-7545-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7545-2026",
-    "abstract": "Abstract. High-resolution precipitation information is essential for hydrologic modeling, flood forecasting, and climate-risk assessment, yet global weather and climate models operate at spatial resolutions too coarse to resolve storm structure, intermittency, and extremes. Deep-learning-based statistical downscaling provides a computationally efficient alternative to dynamical downscaling, but deterministic convolutional neural networks often yield overly smooth predictions and underestimate fine-scale variability and extreme events. Generative deep-learning models, including generative adversarial networks and diffusion models, offer a promising alternative by enabling stochastic downscaling and explicit representation of uncertainty. This study presents a systematic intercomparison of t…",
-    "authors": "Shivam Singh, Simon Michael Papalexiou, Hebatallah M. Abdelmoaty, Tom Hartvigsen et al.",
-    "published": "2026-08-17",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "The Evolution of Tropical Cyclone Intensity and Size in Observations and HighResMIP Models",
-    "doi": "10.1029/2026jd046560",
-    "url": "https://doi.org/10.1029/2026jd046560",
-    "abstract": "Abstract The destructive potential of a tropical cyclone (TC) depends on both its intensity and size, yet the coupled evolution of these properties remains insufficiently explored. This study investigates TC intensity–size relationships of TCs in observations and historical simulations from 12 HighResMIP models in the North Atlantic (NA) and western North Pacific (WNP). We apply the System for Classification of Low‐Pressure Systems (SyCLoPS) to track TC life cycle and a novel quadrant wind radii calculation mirroring the IBTrACS format to enable consistent model–observation comparisons. SyCLoPS effectively removes weak tropical and extratropical systems misidentified as TCs in a conventional tracker, leading to improved TC tracking performance in ERA5 and models. TC track types are classif…",
-    "authors": "Yushan Han, Paul A. Ullrich",
-    "published": "2026-08-16",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Regional and Seasonal Variability in Decreasing Contrail Cirrus Cloudiness Using Sustainable Aviation Fuel",
-    "doi": "10.1029/2026jd046500",
-    "url": "https://doi.org/10.1029/2026jd046500",
-    "abstract": "Abstract The impact of aviation induced contrail cirrus on Earth's radiation budget depends on the optical depth (OD) and the life time of these clouds. Their tendency to enhance global warming may be mitigated by replacing conventional kerosene with fuels that form fewer soot particles, such as sustainable aviation fuels (SAF). The resulting reduction in ice nucleation leads to lower contrail OD, shorter contrail life times and, hence, a lower radiative effect (RE). Here we investigate the regional and seasonal variability in the relationship between the reduction in soot number emissions and the associated reduction in the contrail cirrus RE. We use the atmospheric general circulation model ECHAM5‐CCMod to study the impact of replacing kerosene with SAF. The resulting reduction in contra…",
-    "authors": "Cornelius Weiß‐Rehm, Ulrike Burkhardt",
-    "published": "2026-08-14",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Trace Elements in Total Atmospheric Deposition Directly Measured Over the Caribbean Region: Natural Versus Anthropogenic Sources and Geographic Origin",
-    "doi": "10.1029/2026jd046770",
-    "url": "https://doi.org/10.1029/2026jd046770",
-    "abstract": "Abstract Dust, sea salt, and anthropogenic and biogenic particles in total atmospheric deposition are sources of essential elements that can significantly impact biogeochemical cycles in the Atlantic Ocean and in islands of the Caribbean region. This unique 41‐month data set records direct sampling of total atmospheric deposition from March 2015 to August 2018 in Guadeloupe (North Tropical Atlantic Ocean). It quantifies the total atmospheric deposition fluxes of 33 trace elements. Results on deposition samples for Sr and Nd isotopic signatures are consistent with previous studies conducted in the Caribbean region based on aerosol samples, confirming that trans‐Atlantic Saharan dust originated predominantly in the Libya‐Algeria‐Mali region of North Africa. The REE composition is stable for …",
-    "authors": "Yangjunjie Xu‐Yang, Rémi Losno, Céline Dessert, Fabrice Monna et al.",
-    "published": "2026-08-14",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Enhancing air–sea CO\n                    <sub>2</sub>\n                    exchange and modulating seawater carbonate–pH dynamics: the role of wave effect mechanisms in the POP2–waves coupled model",
-    "doi": "10.5194/gmd-19-7479-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7479-2026",
-    "abstract": "Abstract. In this study, a wave module is online-coupled into the Parallel Ocean Program version 2 (POP2) within the CESM1.2.2 framework (hereafter POP2–waves). Unlike empirical data analyses of observation-based products and offline-forced ocean models that treat wave-induced gas transfer velocity and the air–sea difference in partial pressure of CO2 (ΔpCO2) as decoupled variables, the online-coupled POP2–waves model captures their interactive, ΔpCO2-mediated negative feedbacks. This setup enables wave properties to dynamically modulate gas transfer velocity and physical mixing through sequential processes. POP2–waves is evaluated alongside a control simulation (B–CTL) against the National Oceanic and Atmospheric Administration (NOAA) CarbonTracker (CT2022) inversion product. The spatial …",
-    "authors": "Yung-Yao Lan, Huang-Hsiung Hsu, Wei-Liang Lee, Simon Chou",
-    "published": "2026-08-13",
     "keywords_matched": [
       "ABL"
     ]
