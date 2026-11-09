@@ -1,5 +1,17 @@
 [
   {
+    "journal": "Geoscientific Model Development",
+    "title": "Conservation of heat in the Coupled Arctic Prediction  System (CAPS v1.1): comprehensive model evaluation  based on the MOSAiC observations",
+    "doi": "10.5194/gmd-19-10595-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10595-2026",
+    "abstract": "Atmosphere–sea ice–ocean interactions are vital for understanding past and future changes in the Arctic climate system. Consistent heat-flux exchange across model-component interfaces is essential for investigating these interactions with coupled models on longer timescales. Here, we present the improved version of the Coupled Arctic Prediction System (CAPS), in which heat-flux exchange between the atmosphere (WRF) and ocean–sea ice (ROMS–CICE) components is made consistent across coupling interfaces. A set of pan-Arctic simulations covering the period of Multidisciplinary drifting Observatory for the Study of Arctic Climate (MOSAiC) were conducted with the revised CAPS. The revised coupling substantially reduces interfacial heat-flux residuals and improves the simulation of Arctic sea-ice…",
+    "authors": "Chao-Yuan Yang, Fengguan Gu, Jiping Liu, Annette Rinke et al.",
+    "published": "2026-11-09",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
     "journal": "Advances in Atmospheric Sciences",
     "title": "A Comprehensive Hourly Land–Atmosphere Interaction Dataset from a Coordinated 15-Station Network Spanning the Environmental Gradients of the Tibetan Plateau (2021–24)",
     "doi": "10.1007/s00376-026-6282-3",
@@ -6157,18 +6169,6 @@
     "published": "2026-08-19",
     "keywords_matched": [
       "atmospheric boundary layer",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Inferring Vertical Cloud Structure From Passive Top‐of‐Atmosphere Observations and Environmental Context With a Mixture Density Network",
-    "doi": "10.1029/2026jd047075",
-    "url": "https://doi.org/10.1029/2026jd047075",
-    "abstract": "Abstract Passive satellite observations provide global coverage of cloud‐top and column‐integrated properties but offer limited direct information about vertical cloud structure. Here, we evaluate the extent to which passive cloud‐top, optical, and microphysical retrievals, together with large‐scale environmental variables, constrain CloudSat radar reflectivity profiles. We first establish a cloud‐type‐based baseline using cloud‐top pressure and cloud optical depth, demonstrating that substantial vertical variability remains within fixed cloud types. We then introduce a probabilistic Mixture Density Network that predicts the full conditional distribution of reflectivity profiles from Moderate Resolution Imaging Spectroradiometer cloud‐top, optical, and microphysical properties and European…",
-    "authors": "Kevin M. Smalley, Emily de Jong, Nipun Gunawardena, Hassan Beydoun et al.",
-    "published": "2026-08-19",
-    "keywords_matched": [
       "ABL"
     ]
   }
