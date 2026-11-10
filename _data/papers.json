@@ -12,6 +12,43 @@
     ]
   },
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Shock-wave–boundary-layer interaction over an axisymmetric body",
+    "doi": "10.1017/jfm.2026.12248",
+    "url": "https://doi.org/10.1017/jfm.2026.12248",
+    "abstract": "This study investigates the flow topology and unsteadiness induced by the interaction of an oblique shock and a supersonic boundary layer developing over an axisymmetric body, using implicit large-eddy simulations. The interaction produces highly three-dimensional flow features, including an open separation region, multiple vortex pairs and strong cross-flow, influenced by the surface curvature and the strong adverse pressure gradient. Three major vortex systems are identified: a primary vortex that detaches from the surface, a secondary vortex near the surface that dominates unsteadiness and a weaker tertiary vortex that dissipates downstream. Turbulence generation mechanisms vary in the azimuthal direction, with production being the dominant source on the windward plane, while turbulent …",
+    "authors": "Anirudh Lakshmi Narasimha Prasad, Niyati Chokshi, S. Unnikrishnan",
+    "published": "2026-11-09",
+    "keywords_matched": [
+      "turbulence",
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Existence of three distinct scaling regimes in self-propelled airfoil",
+    "doi": "10.1017/jfm.2026.12170",
+    "url": "https://doi.org/10.1017/jfm.2026.12170",
+    "abstract": "We experimentally investigate the self-propulsion of the NACA0015 symmetric airfoil section subject to sinusoidal pitching. A power-spring-based crank–rocker mechanism actuates the airfoil. We employ a rotary apparatus capable of achieving self-propulsion. Self-propulsion across varying pitching frequency, amplitude and pitching-point location is characterised by three distinct scaling relations. These scaling relations relate the self-propulsion Reynolds number ( italic Re Subscript s Re s $\\textit{Re}_s$ ) to the frequency Reynolds number ( italic Re Subscript f Re f $\\textit{Re}_{\\!f}$ ), the pitching amplitude ( theta 0 θ 0 $\\theta _0$ ) and the pitching-point location ( p p $p$ ). For p less than 0.4 p &lt; 0.4 $p\\lt 0.4$ two scaling relations emerge depending on the pitching amplitud…",
+    "authors": "Rakshita Joshi, Jaywant H. Arakeri",
+    "published": "2026-11-09",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Issue Information",
+    "doi": "10.1029/jgrd.71134",
+    "url": "https://doi.org/10.1029/jgrd.71134",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-11-09",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Advances in Atmospheric Sciences",
     "title": "A Comprehensive Hourly Land–Atmosphere Interaction Dataset from a Coordinated 15-Station Network Spanning the Environmental Gradients of the Tibetan Plateau (2021–24)",
     "doi": "10.1007/s00376-026-6282-3",
@@ -6132,43 +6169,6 @@
     "authors": "Jon Sampedro, Russell Horowitz, Clàudia Rodés-Bachs, Konstantinos Koasidis et al.",
     "published": "2026-08-20",
     "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "AQUA v1.0.0: The Application for QUality Assessment for the Climate Change Adaptation Digital Twin – the core engine",
-    "doi": "10.5194/gmd-19-7725-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7725-2026",
-    "abstract": "Abstract. The increasing availability of kilometer-scale climate simulations presents major challenges for data access, processing, and analysis due to the unprecedented volume and heterogeneity of the outputs. Different data formats, structures, and metadata conventions, require dedicated solutions to ensure interoperability and usability. We introduce AQUA (Application for QUality Assessment), a Python-based framework developed within the Climate Change Adaptation Digital Twin of the Destination Earth (DestinE) initiative, designed to support the automated evaluation of high-resolution global climate simulations. Although several diagnostic suites for the analysis of global climate model data are already available, AQUA provides a flexible and modular infrastructure for accessing and pro…",
-    "authors": "Matteo Nurisso, Jost von Hardenberg, Marco Cadau, Silvia Caprioli et al.",
-    "published": "2026-08-20",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Code accessibility and code quality across phases of the models of the Coupled Model Intercomparison Project",
-    "doi": "10.5194/gmd-19-7687-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7687-2026",
-    "abstract": "Abstract. This study extends previous research on CMIP5 models to investigate the reproducibility of climate models within the Coupled Model Intercomparison Project (CMIP). It evaluates the accessibility to the source code of the CMIP models through all their phases, emphasizing the need for public repositories to ensure transparency regarding model input, output, and usage rights, along with an analysis of licenses for compliance with scientific standards. A central focus of the research is the assessment of code quality against best practices. In addition, the study examines the historical evolution of computational and code quality across various phases of CMIP, highlighting progress and improving traceability to support scientific reproducibility. We provide valuable insights for futur…",
-    "authors": "Michael García-Rodríguez, Javier Rodeiro-Iglesias, Juan A. Añel",
-    "published": "2026-08-20",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Impact of Assimilating Atmospheric Boundary Observations on the Rapid Intensification of Hurricane Idalia (2023) in CADRE Self‐Cycled HAFS‐JEDI System",
-    "doi": "10.1029/2026jd046411",
-    "url": "https://doi.org/10.1029/2026jd046411",
-    "abstract": "Abstract This study investigates the impact of assimilating dynamic and thermodynamic atmospheric boundary layer (ABL) observations on the simulation of tropical cyclone (TC) rapid intensification (RI) using the atmosphere–ocean coupled Hurricane Analysis and Forecast System (HAFS) with the Joint Effort for Data assimilation (DA) Integration (JEDI) framework. Despite the recognized importance of ABL processes for TC evolution, the influence of assimilating ABL observations on hurricane prediction remains insufficiently quantified. To address this gap, fully self‐cycled DA experiments were conducted for Hurricane Idalia (2023), which underwent RI from tropical storm to Category 4 TC under favorable oceanic but dry atmospheric conditions. The All ABL experiment assimilated all available obse…",
-    "authors": "Yu‐Shin Kim, Xuguang Wang",
-    "published": "2026-08-19",
-    "keywords_matched": [
-      "atmospheric boundary layer",
       "ABL"
     ]
   }
