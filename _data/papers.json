@@ -1,6 +1,42 @@
 [
   {
     "journal": "Geoscientific Model Development",
+    "title": "Evaluating extreme precipitation forecasts: a threshold-weighted, spatial verification approach for comparing an AI weather prediction model against a high-resolution NWP model",
+    "doi": "10.5194/gmd-19-10651-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10651-2026",
+    "abstract": "Recent advances in AI-based weather prediction have led to the development of artificial intelligence weather prediction (AIWP) models with competitive forecast skill compared to traditional NWP models, but with substantially reduced computational cost. There is a strong need for appropriate methods to evaluate their ability to predict extreme weather events, particularly when spatial coherence is important, and grid resolutions differ between models. We introduce a verification framework that combines spatial verification methods and weighted proper scoring rules. Specifically, the framework extends the High-Resolution Assessment (HiRA) approach with threshold-weighted scoring rules. It enables user-oriented evaluation consistent with how forecasts may be interpreted by operational meteor…",
+    "authors": "Nicholas Loveday, Tracy Hertneky",
+    "published": "2026-11-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Assessing cloud representation in two microphysics schemes of MPAS–Atmosphere model (version 8.2.2) over the Maritime Continent with Himawari-9 AHI observations",
+    "doi": "10.5194/gmd-19-10625-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10625-2026",
+    "abstract": "Tropical cloud prediction over the Maritime Continent remains challenging for numerical weather prediction models, largely due to uncertainties in cloud microphysics parameterizations under complex topography and multiscale convective conditions. Accurate cloud forecasts are essential for assimilating cloud-affected observations, particularly high-resolution radiances from geostationary satellites, which also provide a valuable basis for diagnosing model performance of clouds. In this study, tropical cloud characteristics simulated by the Model for Prediction Across Scales–Atmosphere (MPAS–A) with two cloud microphysics schemes – the single-moment WSM6 and the double-moment NSSL, are comprehensively evaluated using multi-band radiances from the Himawari-9 Advanced Himawari Imager (AHI) and…",
+    "authors": "Xuewei Zhang, Lipeng Jiang, Zhiquan Liu, Tao Sun et al.",
+    "published": "2026-11-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "New insights on the suitability of NetCDF/HDF5 as storage format for climate cloud repositories",
+    "doi": "10.5194/gmd-19-10687-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10687-2026",
+    "abstract": "Climate data analysis increasingly relies on cloud infrastructures to offer new and efficient methods of accessing the necessary climate data. Cloud repositories allow access to such data in a remote data access basis, which allows users to retrieve and manipulate their data without requiring file downloads, reducing storage costs resulting in more efficient systems. Together, climate cloud repositories and remote data access are evolving fast, due to the necessity of collaboration that brings together diverse communities to address challenges in climate science. In recent years, a prevailing discourse has emerged suggesting that traditional climate data storage formats are inherently unsuitable for remote data access. In this work, we present new insights that challenge this discourse and…",
+    "authors": "Ezequiel Cimadevilla, David Hassell, Bryan N. Lawrence",
+    "published": "2026-11-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
     "title": "Conservation of heat in the Coupled Arctic Prediction  System (CAPS v1.1): comprehensive model evaluation  based on the MOSAiC observations",
     "doi": "10.5194/gmd-19-10595-2026",
     "url": "https://doi.org/10.5194/gmd-19-10595-2026",
@@ -6132,42 +6168,6 @@
     "abstract": "Abstract. The efficient and accurate simulation of grounding line dynamics in marine ice-sheet models remains a challenge, largely due to restrictive time-step limitations. The restrictive time step size of ice-sheet simulations (∼Δt=0.01-0.5 years) is one of the reasons for the routine use of approximate models that compromise physical complexity compared to full Stokes models. To address the time-step restriction and enhance the applicability of full Stokes simulations, we implement a numerical stabilisation scheme at the ice–ocean interface, namely the Free-Surface Stabilisation Algorithm (FSSA). The FSSA acts by predicting the surface elevation at the next time step, resulting in a reduction in surface oscillations and an increase in the largest numerically stable time step. When appli…",
     "authors": "A. Clara J. Henry, Thomas Zwinger, Josefin Ahlkrona",
     "published": "2026-08-21",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Optimizing Gaussian process emulation and generalized additive model fitting for rapid, reproducible earth system model analysis",
-    "doi": "10.5194/gmd-19-7767-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7767-2026",
-    "abstract": "Abstract. Causes of model uncertainty in complex modeling systems can be identified using large perturbed-parameter ensembles (PPEs), combined with statistical emulators to increase sample size and enable variance-based sensitivity analyses and observational constraint. In global climate models such as the UK Earth System Model (UKESM), these approaches are typically applied at the global or regional mean scales for a limited set of variables. Accelerating progress in understanding the multi-faceted causes of climate model uncertainty, requires implementing such workflows at the model grid box scale, to enable analyses across variables that reveal how uncertainties propagate and interact spatially. However, this approach requires training millions of Gaussian process (GP) emulators and fit…",
-    "authors": "Kunal Ghosh, Leighton A. Regayre",
-    "published": "2026-08-21",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Hurricane Boundary Layer Turbulence Dynamics Over Complex Urban Canopies Using Large‐Eddy Simulations",
-    "doi": "10.1029/2025jd045860",
-    "url": "https://doi.org/10.1029/2025jd045860",
-    "abstract": "Abstract Hurricanes cause severe damage and destruction when striking densely populated urban areas. However, the impacts of buildings on hurricane turbulence dynamics remain poorly understood due to limited high‐resolution simulations. This study aims to address this gap by resolving turbulent flows around buildings using large‐eddy simulation (LES) with immersed boundary method. Eleven high‐resolution LESs were conducted across a range of urban layouts, spanning flat, sparse, and dense canopies as well as low‐rise, staggered, and high‐rise configurations. First, the code was validated in a realistic configuration against measurements in Houston. Then, idealized runs were performed to characterize hurricane boundary layer (HBL) dynamics and distinguish them from non‐cyclonic atmospheric b…",
-    "authors": "Fateme Sabet Sarvestani, Mostafa Momen",
-    "published": "2026-08-20",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "GCAM-Europe v7.2.0: enhancing policy-relevant climate modelling through spatial and sectoral detail",
-    "doi": "10.5194/gmd-19-7741-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7741-2026",
-    "abstract": "Abstract. Integrated Assessment Models (IAMs) serve as critical instruments for scenario-based analysis and have been instrumental in informing environmental policy at both global and regional scales. However, their limited geographical and sectoral scope constrains their ability to evaluate comprehensive policy packages such as the European Union's Fit-for-55. GCAM-Europe, an expansion of the well-stablished Global Change Analysis Model (GCAM) addresses this gap by explicitly representing energy, land use, agriculture, water, and emissions systems for European Member States and key non-EU countries. Operating within a global framework, the model enables integrated assessment of policy impacts both across and within European regions, while also capturing spillover effects in other regions …",
-    "authors": "Jon Sampedro, Russell Horowitz, Clàudia Rodés-Bachs, Konstantinos Koasidis et al.",
-    "published": "2026-08-20",
     "keywords_matched": [
       "ABL"
     ]
