@@ -1,5 +1,41 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Environmental Influences on the Distribution of Intense Lightning in Tropical Cyclones During Landfall in China",
+    "doi": "10.1029/2025jd046238",
+    "url": "https://doi.org/10.1029/2025jd046238",
+    "abstract": "Abstract Based on lightning data from 84 tropical cyclones (TCs) that made landfall in China from 2010 to 2022, this study investigates the spatial patterns of intense lightning in TCs and their associations with large‐scale environmental conditions. Individual time periods ranking in the top 10% of hourly lightning frequency within 0–100 km and 200–500 km radii from TC center were defined as intense inner‐core (IIC) and intense outer‐rainbands (IOR) samples, respectively. The differences in key environmental parameters—including relative humidity (RH), convective available potential energy (CAPE), convective inhibition, vertical wind shear (VWS), vorticity and divergence—of the above two sample‐sets were examined. The results show that IICs are concentrated over offshore waters, whereas I…",
+    "authors": "Ziyu Zhang, Wenjuan Zhang, Dajun Zhao, Yijun Zhang et al.",
+    "published": "2026-11-11",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Downward Flux of Wave Energy in the Lower Troposphere Within the North Pacific Storm Track",
+    "doi": "10.1029/2026jd046712",
+    "url": "https://doi.org/10.1029/2026jd046712",
+    "abstract": "Abstract Wave energy (WE) flux aligns with the direction of group velocity, in contrast to the conventional Eliassen‐Palm (EP) flux, which describes wave activity transfers. This study focuses on the climatological characteristics of WE flux within the North Pacific storm track using 6‐hourly output from the Japanese 55‐year Reanalysis (JRA‐55). In January, pronounced downward WE flux dominates the lower troposphere, while upward WE flux prevails in the upper troposphere, with a distinct divergence maximum around 500 hPa. The dynamical mechanism of this vertical structure is explained with the ascent‐descent configuration of air parcels in extratropical cyclones. Over the ocean, warm air plays a primary role in driving the WE flux, whereas over the continent, cold air motion becomes more i…",
+    "authors": "Kaiwen Ye, Hidenori Aiki",
+    "published": "2026-11-11",
+    "keywords_matched": [
+      "wave energy"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "A hybrid physics–ML framework for integrating groundwater dynamics into land surface modeling: a ParFlow-based demonstration in headwater watersheds of the Pearl River Basin, China",
+    "doi": "10.5194/gmd-19-10719-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10719-2026",
+    "abstract": "Three-dimensional groundwater dynamics play a critical role in regulating land–atmosphere interactions, yet resolving three-dimensional subsurface flow processes at large scales remains computationally prohibitive. Here we present a hybrid coupling framework that enables the integration of three-dimensional groundwater processes into land surface modeling at substantially reduced computational cost. The framework replaces the physics-based groundwater solver with a deep learning surrogate while preserving the original coupling interface, providing a practical pathway for incorporating groundwater dynamics into Earth system simulations. A key feature of the framework is an error-control strategy based on a free-drainage lower bound, which approximates the treatment of subsurface processes i…",
+    "authors": "Chen Yang, Hui Huang, Zeyu Tang, Yongjiu Dai et al.",
+    "published": "2026-11-11",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "Evaluating extreme precipitation forecasts: a threshold-weighted, spatial verification approach for comparing an AI weather prediction model against a high-resolution NWP model",
     "doi": "10.5194/gmd-19-10651-2026",
@@ -6130,43 +6166,6 @@
     "url": "https://doi.org/10.1029/2026jd046641",
     "abstract": "Abstract Arctic cyclones play a crucial role in shaping Arctic weather patterns and influencing sea ice concentrations. During the Multidisciplinary Drifting Observatory for the Study of Arctic Climate expedition in April 2020, an Arctic cyclone was observed at the leeside of Greenland, prompting our hypothesis that lee cyclogenesis contributed significantly to its development. To test this hypothesis, we conducted simulations with modified Greenland topography. The results confirm that lee cyclogenesis does occur and significantly enhances cyclone intensity. Notably, even when lee cyclogenesis is absent, the jet streak alone sustains cyclone development, suggesting that in this case, both mechanisms—lee cyclogenesis and the jet streak—collectively drive cyclogenesis. Further analysis reve…",
     "authors": "Cheng You",
-    "published": "2026-08-21",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Evaluating Tropical Cyclone Representation in ERA5‐Driven NARCliM2.0 WRF Simulations Over CORDEX‐Australasia Using Multiple Trackers",
-    "doi": "10.1029/2025jd045466",
-    "url": "https://doi.org/10.1029/2025jd045466",
-    "abstract": "Abstract We evaluate tropical cyclone (TC) representation in CORDEX ERA5‐driven simulations from the New South Wales and Australian Regional Climate Modelling Project (NARCliM2.0) over the Australian region at ∼20 km resolution for the period 1980–2020. The simulations are performed using the Weather Research and Forecasting (WRF) Model with two configurations that differ only in their planetary boundary layer (PBL) physics: R3 (MYNN2.5) and R5 (ACM2). TCs are identified using two independent tracking algorithms to assess the robustness of the results across detection methods (a) local minimum sea level pressure combined with a warm‐core criterion (UZ; physics‐based), and (b) Okubo‐Weiss‐Zeta parameter (OWZ; dynamics‐based). Both trackers were applied to ERA5 reanalysis and ERA5‐driven sim…",
-    "authors": "Jyothi Lingala, Jatin Kala, Giovanni Di Virgilio, Fei Ji et al.",
-    "published": "2026-08-21",
-    "keywords_matched": [
-      "WRF",
-      "weather research and forecasting"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Quantifying the Effects of Aerosol Size Distribution on Variations in Single Scattering Albedo",
-    "doi": "10.1029/2026jd046931",
-    "url": "https://doi.org/10.1029/2026jd046931",
-    "abstract": "Abstract Aerosol optical properties, closely linked to complex physicochemical processes, critically influence climate and environmental impacts. However, quantitative links between particle size and the changing of scattering and absorption remain insufficiently constrained. Using in‐situ aerosol observations in Beijing and global AERONET data, we quantified the respective influences of particle size distribution and chemical composition on variations in single scattering albedo (SSA). Observations indicate that variations in the particle size directly modulate SSA in most cases. Cross‐sensitivity experiments demonstrate that the size‐distribution term induces changes in SSA approximately eight times larger than those attributable to chemical composition term. We therefore introduce two n…",
-    "authors": "Chen Cui, Pengfei Tian, Wenfang Wang, Xinyuan Chang et al.",
-    "published": "2026-08-21",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Grounding-line dynamics in a Stokes ice-flow model (Elmer/Ice v9.0): improved numerical stability allows larger time steps",
-    "doi": "10.5194/gmd-19-7817-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7817-2026",
-    "abstract": "Abstract. The efficient and accurate simulation of grounding line dynamics in marine ice-sheet models remains a challenge, largely due to restrictive time-step limitations. The restrictive time step size of ice-sheet simulations (∼Δt=0.01-0.5 years) is one of the reasons for the routine use of approximate models that compromise physical complexity compared to full Stokes models. To address the time-step restriction and enhance the applicability of full Stokes simulations, we implement a numerical stabilisation scheme at the ice–ocean interface, namely the Free-Surface Stabilisation Algorithm (FSSA). The FSSA acts by predicting the surface elevation at the next time step, resulting in a reduction in surface oscillations and an increase in the largest numerically stable time step. When appli…",
-    "authors": "A. Clara J. Henry, Thomas Zwinger, Josefin Ahlkrona",
     "published": "2026-08-21",
     "keywords_matched": [
       "ABL"
