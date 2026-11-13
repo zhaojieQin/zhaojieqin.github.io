@@ -1,5 +1,17 @@
 [
   {
+    "journal": "Geoscientific Model Development",
+    "title": "aiLand v1: physics-based land surface emulator  with observational fine-tuning",
+    "doi": "10.5194/gmd-19-10763-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10763-2026",
+    "abstract": "A stand-alone emulator of ECMWF's land surface scheme (ecLand) has been developed. This emulator, aiLand, uses a multi-layer perceptron architecture, chosen for its balance of accuracy and efficiency and for its differentiability, which is crucial for integration into data assimilation and parameter estimation systems. In this study, we introduce a two-stage learning framework that leverages both synthetic land surface model simulations and real-world observations. We first pretrain the surrogate on extensive ecLand outputs to capture the core dynamical behaviour of key land surface states, evaluating its accuracy, long-term stability, and transferability across variables, depths, and climates. We then fine-tune the pretrained model on in situ eddy-covariance flux observations for selected…",
+    "authors": "Nina Raoult, Ewan Pinnington, Mario Santa Cruz, Florian Pinault et al.",
+    "published": "2026-11-12",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Environmental Influences on the Distribution of Intense Lightning in Tropical Cyclones During Landfall in China",
     "doi": "10.1029/2025jd046238",
@@ -6154,18 +6166,6 @@
     "url": "https://doi.org/10.1029/2026jd046447",
     "abstract": "Abstract In this study, we characterized cold air outbreak (CAO) snowfall over the Shandong Peninsula, East China, using gauge and weather radar observations from 2020 to 2024. We developed a gauge‐radar matched data set and determined the coefficients in Z = aS b every 30 min using a differential evolution algorithm. The results show that the exponent b is relatively stable at 1.72 whereas the prefactor a shows large variations. Then, we fixed b at 1.72 and classified a values into three groups. Our analysis suggests that a larger prefactor a is characterized by smaller peak reflectivity, larger differential reflectivity, larger specific differential phase, larger mean volume diameter, smaller number concentration and smaller snowfall rates and vice versa. We present two cases with contra…",
     "authors": "Yuxiang Wu, Haoran Li, Wenhua Gao, Zheng Ruan",
-    "published": "2026-08-21",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Greenland's Topography Triggers Cyclogenesis: Synergy Between Lee Cyclogenesis and Jet Streak",
-    "doi": "10.1029/2026jd046641",
-    "url": "https://doi.org/10.1029/2026jd046641",
-    "abstract": "Abstract Arctic cyclones play a crucial role in shaping Arctic weather patterns and influencing sea ice concentrations. During the Multidisciplinary Drifting Observatory for the Study of Arctic Climate expedition in April 2020, an Arctic cyclone was observed at the leeside of Greenland, prompting our hypothesis that lee cyclogenesis contributed significantly to its development. To test this hypothesis, we conducted simulations with modified Greenland topography. The results confirm that lee cyclogenesis does occur and significantly enhances cyclone intensity. Notably, even when lee cyclogenesis is absent, the jet streak alone sustains cyclone development, suggesting that in this case, both mechanisms—lee cyclogenesis and the jet streak—collectively drive cyclogenesis. Further analysis reve…",
-    "authors": "Cheng You",
     "published": "2026-08-21",
     "keywords_matched": [
       "ABL"
