@@ -1,6 +1,18 @@
 [
   {
     "journal": "Geoscientific Model Development",
+    "title": "Development and improvement of a nonhydrostatic spectral model using non-constant coefficient semi-implicit and vertically conservative semi-Lagrangian schemes",
+    "doi": "10.5194/gmd-19-10821-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10821-2026",
+    "abstract": "A two-dimensional x – z nonhydrostatic spectral model has been developed as a simpler framework for testing and improving numerical methods before they are applied to the corresponding global model. The model uses non-constant coefficient semi-implicit and vertically conservative semi-Lagrangian schemes and is computationally efficient by allowing for long timesteps in simulations. The model incorporates several improvements related to free-slip surface boundary conditions, prognostic variables in spectral space, and the semi-Lagrangian and semi-implicit schemes. These improvements enhance numerical stability, especially in cases with steep orography, and improve model results. The model was tested with various test cases (e.g., mountain wave test cases), confirming that a single recalcula…",
+    "authors": "Hiromasa Yoshimura",
+    "published": "2026-11-13",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
     "title": "aiLand v1: physics-based land surface emulator  with observational fine-tuning",
     "doi": "10.5194/gmd-19-10763-2026",
     "url": "https://doi.org/10.5194/gmd-19-10763-2026",
@@ -6155,18 +6167,6 @@
     "abstract": "Abstract Branching is a common feature in positive leader development, which changes the channel topology and significantly influences discharge behavior. However, the factors associated with its occurrence remain poorly understood. In this study, an event‐based analytical framework was established using synchronized optical observations and electrical measurements. Five physically motivated variables were constructed, including the injected charge Q , the rise rate of applied voltage dU / dt , the background field E , the background‐field direction angle θ 1 , and the prior‐channel deflection angle θ 2 . Their independent, nonlinear, and interaction effects were analyzed using multivariable logistic regression, restricted cubic splines, and random‐forest‐assisted interaction mining with r…",
     "authors": "Lili Guo, Xiangen Zhao, Xiankang Wang, Xiaopeng Liu et al.",
     "published": "2026-08-23",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Radar Observations of Cold Air Outbreak Snowfall in East China: Variations of\n                    <i>Z‐S</i>\n                    Parameterizations and Microphysical Impacts",
-    "doi": "10.1029/2026jd046447",
-    "url": "https://doi.org/10.1029/2026jd046447",
-    "abstract": "Abstract In this study, we characterized cold air outbreak (CAO) snowfall over the Shandong Peninsula, East China, using gauge and weather radar observations from 2020 to 2024. We developed a gauge‐radar matched data set and determined the coefficients in Z = aS b every 30 min using a differential evolution algorithm. The results show that the exponent b is relatively stable at 1.72 whereas the prefactor a shows large variations. Then, we fixed b at 1.72 and classified a values into three groups. Our analysis suggests that a larger prefactor a is characterized by smaller peak reflectivity, larger differential reflectivity, larger specific differential phase, larger mean volume diameter, smaller number concentration and smaller snowfall rates and vice versa. We present two cases with contra…",
-    "authors": "Yuxiang Wu, Haoran Li, Wenhua Gao, Zheng Ruan",
-    "published": "2026-08-21",
     "keywords_matched": [
       "ABL"
     ]
