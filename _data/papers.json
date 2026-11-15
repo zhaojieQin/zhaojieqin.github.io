@@ -1,5 +1,29 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Urban Fog Prediction Based on Aerosol Microphysics and Visibility Parameterization in a High‐Resolution Model",
+    "doi": "10.1029/2026jd046389",
+    "url": "https://doi.org/10.1029/2026jd046389",
+    "abstract": "Abstract Accurate prediction of winter fog over Delhi remains challenging because operational numerical models inadequately represent aerosol–fog interactions. To address this, a modified Thompson–Eidhammer (TE) aerosol‐aware microphysics scheme, coupled with a diagnostic visibility parameterization accounting for extinction by hydrometeors, aerosols, and gases, was implemented within the Weather Research and Forecasting model. The framework includes a dynamic aerosol activation mechanism linking cloud condensation nuclei responds to thermodynamic cooling rates and water vapor tendencies. Using Winter Fog EXperiment observations, the modified configuration (Experimental Run [EXP]) was evaluated against the default TE scheme (Control Run [CTRL]) for a cloud base lowering (CBL) and a radiati…",
+    "authors": "Sumit Kumar, Avinash N. Parde, András Peterka, István Geresdi et al.",
+    "published": "2026-11-14",
+    "keywords_matched": [
+      "weather research and forecasting"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Contrasting Large‐Scale and Mesoscale Mechanisms of Extreme Rainfall Events in Henan Province: The July 2021 and September 2024 Cases",
+    "doi": "10.1029/2026jd047491",
+    "url": "https://doi.org/10.1029/2026jd047491",
+    "abstract": "Abstract Two catastrophic rainfall events struck Henan Province, China, on 20 July 2021 and 18 September 2024, producing record‐breaking 24‐hr precipitation totals of 624.1 mm in Zhengzhou and 272.6 mm in Xiayi, respectively. Both events were initiated under a remarkably similar low‐level synoptic‐scale backdrop characterized by dual remote typhoons, a southeasterly low‐level jet (LLJ), and a westward‐extending low‐level ridge of the Western Pacific Subtropical High (WPSH). Despite these similarities, the two events diverged dramatically in their evolution, intensity, and spatial distribution. This study investigates the multiscale processes responsible for this divergence using surface observations and ERA5 reanalysis data. We identify two divergence points. First, moisture transport path…",
+    "authors": "Chen Yang, Zhen‐Qiang Zhou, Renhe Zhang, Yanke Tan et al.",
+    "published": "2026-11-14",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "Development and improvement of a nonhydrostatic spectral model using non-constant coefficient semi-implicit and vertically conservative semi-Lagrangian schemes",
     "doi": "10.5194/gmd-19-10821-2026",
@@ -6143,30 +6167,6 @@
     "abstract": "Abstract Under global warming, regional warming amplification has drawn considerable attention. The Yangtze River Basin (YRB), one of the most densely populated regions worldwide, experienced frequent and exceptional warm extremes in recent decades, but whether the region is experiencing a warming amplification remains unclear. This study detects the signature of seasonal warming amplification by comparing warming magnitudes between the YRB, global land and the same latitudinal zone. Moreover, we use dominance analysis to quantify the relative importance of explanatory factors for seasonal surface air temperature (SAT) variability between periods. Results reveal a sharp acceleration in warming over the YRB in the recent three decades (1993–2023) compared to the preceding three decades (196…",
     "authors": "Yawen Liu, Jianping Duan, Buwen Dong, Wei Chen et al.",
     "published": "2026-08-24",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Predicting forecast errors with diffusion model for uncertainty quantification in wind speed nowcasting",
-    "doi": "10.5194/gmd-19-7835-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7835-2026",
-    "abstract": "Abstract. Weather forecasts are inherently uncertain due to the chaotic nature of the atmosphere and unavoidable errors. Ensemble forecasting is the established approach for quantifying the uncertainty. However, it is both computationally expensive and inherently prone to under-dispersion, as it simulates multiple atmospheric trajectories with a finite number of members. In this study, we propose a novel paradigm that achieves uncertainty quantification by directly predicting forecast errors, thereby bypassing the need to simulate multiple trajectories. We employ a denoising diffusion probabilistic model for this task, as its generative capabilities are well-suited for learning high-dimensional distributions. By stochastically sampling from the learned distribution and adding the generated…",
-    "authors": "Yanwei Zhu, Aitor Atencia, Markus Dabernig, Yong Wang et al.",
-    "published": "2026-08-24",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Statistical Evidence for Factors Associated With Positive Leader Branching in Long Air‐Gap Discharges",
-    "doi": "10.1029/2026jd046897",
-    "url": "https://doi.org/10.1029/2026jd046897",
-    "abstract": "Abstract Branching is a common feature in positive leader development, which changes the channel topology and significantly influences discharge behavior. However, the factors associated with its occurrence remain poorly understood. In this study, an event‐based analytical framework was established using synchronized optical observations and electrical measurements. Five physically motivated variables were constructed, including the injected charge Q , the rise rate of applied voltage dU / dt , the background field E , the background‐field direction angle θ 1 , and the prior‐channel deflection angle θ 2 . Their independent, nonlinear, and interaction effects were analyzed using multivariable logistic regression, restricted cubic splines, and random‐forest‐assisted interaction mining with r…",
-    "authors": "Lili Guo, Xiangen Zhao, Xiankang Wang, Xiaopeng Liu et al.",
-    "published": "2026-08-23",
     "keywords_matched": [
       "ABL"
     ]
