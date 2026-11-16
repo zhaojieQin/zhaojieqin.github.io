@@ -1,5 +1,29 @@
 [
   {
+    "journal": "Geoscientific Model Development",
+    "title": "EGGS-WG: an open source global gridded stochastic  weather generator derived from ERA5-Land",
+    "doi": "10.5194/gmd-19-10863-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10863-2026",
+    "abstract": "A new open source and freely available stochastic weather generator, the ERA5-land Global Gridded Stochastic Weather Generator (EGGS-WG), is publicly available. This model offers several advancements over existing alternative stochastic weather generators, including the ability to simulate any terrestrial region of the planet, moving from simulating a single site to an entire gridded domain and increasing the temporal resolution of temperature simulation from daily to hourly. EGGS-WG is designed to be as low resource and portable as possible, ensuring ease of use for any potential end user. This paper describes in detail all of the principles that are used in the model design and code implementation. Preliminary tests are performed over five climatically distinct regions to confirm the abi…",
+    "authors": "Alex Schuddeboom, Christian Zammit, David Plew, Piet Verburg et al.",
+    "published": "2026-11-16",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Dispersion Modeling of the 2021 Eruptive Plumes at Mt. Etna by Coupling WRF‐Chem Model With Ground‐Based and Satellite Remote Sensing Observations",
+    "doi": "10.1029/2026jd046623",
+    "url": "https://doi.org/10.1029/2026jd046623",
+    "abstract": "Abstract From 20 December 2020 to 22 February 2022, 66 paroxysmal events occurred at Mt. Etna volcano. Among these, the paroxysms of 4 and 12 March 2021 were investigated by coupling a plume dispersion modeling approach with ground‐based flux measurements and satellite observations. Both paroxysms generated ash‐ and ‐rich plumes reaching heights of ∼11.8 and ∼10.8 km above sea level, respectively. In this work, we explored the spatial dispersion of volcanic ash and using the WRF‐Chem model. The modeling system was equipped with additional modules to read at each integration time‐step the plume injection height obtained from the MSG‐SEVIRI satellite, the ash Mass Eruption Rate inferred from the plume height and the bulk flux measured from ground by the FLAME‐DOAS network. To evaluate the pr…",
+    "authors": "A. Semprebello, G. G. Salerno, A. Gattuso, P. Sellitto et al.",
+    "published": "2026-11-15",
+    "keywords_matched": [
+      "WRF"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Urban Fog Prediction Based on Aerosol Microphysics and Visibility Parameterization in a High‐Resolution Model",
     "doi": "10.1029/2026jd046389",
@@ -6142,30 +6166,6 @@
     "url": "https://doi.org/10.1029/2026jd046723",
     "abstract": "Abstract With advances in global and regional circulation models, the high‐resolution simulation of atmospheric variables has become increasingly feasible. In this study, we use IsoRSM, an isotope‐enabled regional spectral model, to improve the simulation of precipitation and its isotopic composition over tropical Costa Rica, which is marked by a pronounced topography and is surrounded by two oceans. A 14‐year (2010–2023) simulation was performed at a relatively high spatial (5 km) and temporal (6‐hourly) resolution over a 6° × 6° domain covering Costa Rica and surrounding regions. Model outputs were evaluated using observations from 58 precipitation‐amount sites and 27 isotope‐monitoring sites and were compared with a 10 km IsoRSM simulation from a previous study over a larger spatial dom…",
     "authors": "Yan Yang, Christian Birkel, Chris Soulsby, Ana M. Durán‐Quesada et al.",
-    "published": "2026-08-24",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "A Physics‐Guided Feature Selection Machine Learning Approach for Cloud Probability Retrieval and Detection From TEMPO Imagery",
-    "doi": "10.1029/2026jd046434",
-    "url": "https://doi.org/10.1029/2026jd046434",
-    "abstract": "Abstract Accurate cloud detection is critical for reliable retrievals of aerosols and trace gases from remote‐sensing measurements. TEMPO provides unprecedented hourly observations over North America, but radiometric calibration biases, thousands of spectral channels, and limited spectral coverage make cloud detection challenging. Here, we develop a physics‐guided feature selection machine learning (PGML) framework that integrates radiative transfer simulations with a LightGBM architecture to detect clouds from TEMPO hyperspectral observations. Our approach starts with radiative transfer simulations to identify the spectral channels most sensitive to clouds among the 2,056 available. An explainable AI method is then applied to rank feature importance, further refining model inputs to 25 ul…",
-    "authors": "Xiaohang Shi, Yulong Fan, Kai Yang, Zhanqing Li et al.",
-    "published": "2026-08-24",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Recent Warming Amplification in the Yangtze River Basin Compared to the Global Land",
-    "doi": "10.1029/2026jd046491",
-    "url": "https://doi.org/10.1029/2026jd046491",
-    "abstract": "Abstract Under global warming, regional warming amplification has drawn considerable attention. The Yangtze River Basin (YRB), one of the most densely populated regions worldwide, experienced frequent and exceptional warm extremes in recent decades, but whether the region is experiencing a warming amplification remains unclear. This study detects the signature of seasonal warming amplification by comparing warming magnitudes between the YRB, global land and the same latitudinal zone. Moreover, we use dominance analysis to quantify the relative importance of explanatory factors for seasonal surface air temperature (SAT) variability between periods. Results reveal a sharp acceleration in warming over the YRB in the recent three decades (1993–2023) compared to the preceding three decades (196…",
-    "authors": "Yawen Liu, Jianping Duan, Buwen Dong, Wei Chen et al.",
     "published": "2026-08-24",
     "keywords_matched": [
       "ABL"
