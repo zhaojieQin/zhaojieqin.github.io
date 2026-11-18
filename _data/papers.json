@@ -12,6 +12,68 @@
     ]
   },
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Contrasting Roles of Chlorine, Bromine, and Iodine in Reshaping Atmospheric Oxidation Capacity Over China",
+    "doi": "10.1029/2026jd047748",
+    "url": "https://doi.org/10.1029/2026jd047748",
+    "abstract": "Abstract Reactive halogen radicals exert substantial impacts on atmospheric oxidation capacity (AOC) and the formation of secondary pollutants. While elevated reactive chlorine (Cl) and bromine (Br) species have been widely observed across China, the synergetic impacts of Cl, Br, and iodine (I) on air pollution remain unclear, especially for Br and I chemistry. Here, we established a national inventory of anthropogenic and oceanic halogen emissions, updated halogen chemical mechanisms, and integrated these improvements into the WRF‐CMAQ‐CRACMM model to quantify the overall halogen effect on air pollution. Results indicate that halogens increase annual average daytime AOC by 1.59% ± 2.35%, with maximum rise in winter (5.29% ± 6.16%). Cl dominates the enhancement of AOC (7.68% ± 13.80%) and …",
+    "authors": "Hanting Chen, Dihui Chen, Qinyi Li, William R. Stockwell et al.",
+    "published": "2026-11-17",
+    "keywords_matched": [
+      "WRF",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Mode‐Dependent Synergistic Impacts of Atlantic–Pacific Decadal Variability on Eurasian Summer Compound Hot–Dry Events",
+    "doi": "10.1029/2026jd047485",
+    "url": "https://doi.org/10.1029/2026jd047485",
+    "abstract": "Abstract Compound hot–dry events (CHDEs), characterized by concurrent heat and precipitation deficits, exert severe impacts on ecosystems, agriculture, and human society. However, the decadal‐scale modulation of Eurasian CHDEs, particularly by the joint influence of Atlantic–Pacific decadal variability, remains insufficiently understood. Here, we investigate how the Atlantic Multidecadal Variability (AMV) and Pacific Decadal Oscillation (PDO) modulate Eurasian summer CHDEs under different phase combinations using observational‐based data sets and atmospheric general circulation model (AGCM) experiments. Results show that the combined AMV + /PDO − phase provides the most favorable background for widespread and persistent CHDEs across Eurasia, with enhanced frequency and duration compared to…",
+    "authors": "Shujun Li, Yiting Wang, Chuan‐Yang Wang, Lixin Wu",
+    "published": "2026-11-17",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Tree‐Ring\n                    <i>δ</i>\n                    <sup>18</sup>\n                    O Indicates Moisture Variation and Water Vapor Sources on the Eastern Tibetan Plateau",
+    "doi": "10.1029/2026jd047046",
+    "url": "https://doi.org/10.1029/2026jd047046",
+    "abstract": "Abstract Under varying atmospheric circulation, the eastern Tibetan Plateau (ETP) exhibits spatiotemporally heterogeneous hydroclimatic changes, for which the tree‐ring cellulose δ 18 O ( δ 18 O tree ) is an ideal paleoclimate proxy. In this study, a newly established 210‐year δ 18 O tree chronology from the ETP revealed that the May‐to‐July relative humidity (RH MJJ ) was its key climatic control. After designing a transfer function, the RH MJJ history was reconstructed, which explained 43% ( R 2 adj = 42%) variance of the instrumental record (1959–2018; r = 0.65, p &lt; 0.001). Our reconstruction revealed progressive southward aridification across the ETP in the latter half of the 19th century and the mid‐20th century. A detailed analysis of spatial correlation, backward trajectory water…",
+    "authors": "Linlin Cui, Zeyu Zheng, Jinjian Li, Takeshi Nakatsuka et al.",
+    "published": "2026-11-17",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "The ocean–atmosphere turbulent flux algorithm in E3SMv2 does not always converge to unique and physical solutions:  analysis and potential remedy",
+    "doi": "10.5194/gmd-19-10957-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10957-2026",
+    "abstract": "The development of physics parameterizations in Earth system models typically emphasizes whether the intended physics is reasonably represented, while mathematical aspects such as solvability of the governing equations and convergence of the numerical algorithms used to approximate their solutions receive far less attention. In this work, we examine these mathematical issues for a widely used ocean–atmosphere turbulent flux parameterization and its implementation in the Energy Exascale Earth System Model version 2 (E3SMv2). We show that, under simulated meteorological conditions, the parameterization can yield no solution or multiple (including unintended) solutions. These problems arise primarily from (1) a discontinuity in the formulation of the neutral exchange coefficients and (2) the …",
+    "authors": "Justin Dong, Michael A. Brunke, Xubin Zeng, Carol S. Woodward et al.",
+    "published": "2026-11-17",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Evaluation of precipitation variability over complex terrain based on observations and high resolution WRF v4.2.2 modelling",
+    "doi": "10.5194/gmd-19-10933-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10933-2026",
+    "abstract": "Heterogeneity in the occurrence, amount and distribution of precipitation in mountainous areas is relevant for water resources and stresses the need for high-altitude observations and high-resolution modeling over complex terrain. This work focuses on the analysis of precipitation in the Sierra de Guadarrama, a mountain range at the center of the Iberian Plateau that provides water resources for several million citizens living within it and in nearby cities, mostly Madrid. The precipitation climatology is assessed from available observations and high resolution climate model simulations during the period 1991–2020. For this purpose, data from 37 stations located in the Sierra de Guadarrama and surrounding lowlands, with altitudes ranging from 600 to 2200 ma.s.l. have been analyzed and comp…",
+    "authors": "Emilio Greciano-Zamorano, J. Fidel González-Rouco, Jorge Navarro-Montesinos, Cristina Vegas-Cañas et al.",
+    "published": "2026-11-17",
+    "keywords_matched": [
+      "WRF",
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "EGGS-WG: an open source global gridded stochastic  weather generator derived from ERA5-Land",
     "doi": "10.5194/gmd-19-10863-2026",
@@ -6108,67 +6170,6 @@
     "keywords_matched": [
       "turbulence",
       "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Discrete inflow and drainage dynamics of a thin film over a stalagmite of variable shape",
-    "doi": "10.1017/jfm.2026.11915",
-    "url": "https://doi.org/10.1017/jfm.2026.11915",
-    "abstract": "Stalagmites in karstic caves preserve valuable palaeoclimate records through calcium-rich layered deposits, presenting curvature variations both across and within individual stalagmites. Stalagmites always remain covered by a thin water film fed by a discrete inflow of drops, which bring in new ions in solution for the stalagmites to grow. However, the gravity-induced drainage of this film and its response to the underlying stalagmite shape and the discrete drop inflow remain poorly characterised in existing growth models. To address these limitations, we develop a theoretical framework that captures the combined effects of shape curvature and discrete drop inflow on thin film drainage dynamics, starting from Reynolds lubrication theory expressed in curvilinear coordinates. From there, we …",
-    "authors": "Justine Parmentier, Vincent Emmanuel Terrapon, Tristan Gilet",
-    "published": "2026-08-25",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Weakly nonlinear development of shock cells in imperfectly expanded supersonic jets",
-    "doi": "10.1017/jfm.2026.11932",
-    "url": "https://doi.org/10.1017/jfm.2026.11932",
-    "abstract": "A weakly nonlinear theory is developed for shock cells in an imperfectly expanded axisymmetric supersonic jet. By adopting a jet profile with a finite-thickness shear layer and a high-Reynolds-number asymptotic formalism, the shock cells are treated at leading order as a superposition of a countable number of standing-wave modes. The initial amplitude of each mode at the nozzle exit is proportional to normal upper Delta p Δ p $\\Delta p$ , the difference between the nozzle exit pressure and the ambient pressure. Effects of viscosity and non-parallelism, associated with the slow streamwise variation of the base flow, are accounted for. The nonlinear quadratic interactions among the leading-order modes generate sum and difference modes, as well as the harmonics and mean-flow distortion. These…",
-    "authors": "Zhengxuan Song, Yihong Fang, Zhongyu Zhang, Xuesong Wu",
-    "published": "2026-08-25",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Swallowtail catastrophes in supercritical capillary-gravity wakes generated by unsteady motion",
-    "doi": "10.1017/jfm.2026.11888",
-    "url": "https://doi.org/10.1017/jfm.2026.11888",
-    "abstract": "Surface-swimming animals generate capillary-gravity waves whose patterns reflect the unsteady, sinuous nature of their trajectories. For uniform circular motion, cusp formation and wavefront folding have been observed at supercritical speeds. Here, we show that slaloming trajectories at supercritical speeds produce wavefront singularities of higher codimension than previously reported, namely a swallowtail catastrophe. Combining observations of surface-swimming snakes with numerical simulations of unsteady wakes, we identify a swallowtail catastrophe embedded in the wave envelope. This is explained by an integral formulation with a delay term accounting for the timing of wave emission along the trajectory, enabling a description of singularity formation and degeneracy within catastrophe th…",
-    "authors": "Johann Herault",
-    "published": "2026-08-25",
-    "keywords_matched": [
-      "wake",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Turbulence structure of volumetrically heated stratified open channel flows with\n                    <i>Pr</i>\n                    = 0.71 and\n                    <i>Pr</i>\n                    = 7",
-    "doi": "10.1017/jfm.2026.11910",
-    "url": "https://doi.org/10.1017/jfm.2026.11910",
-    "abstract": "Direct numerical simulations are performed to investigate the stratification effects on energy spectra and the spatial organisation of turbulence in stratified open-channel flow across a range of bulk stability parameters ( 0 less than or slanted equals gamma 0 less than or slanted equals 2 0 ⩽ γ 0 ⩽ 2 $0 \\leqslant \\gamma _{0} \\leqslant 2$ , where gamma 0 equals h divided by double struck upper L γ 0 = h / L $\\gamma _{0}=h/\\mathbb{L}$ denotes the ratio of domain height to a bulk Obukhov length, indicating stratification strength) for two Prandtl numbers ( italic probability equals 0.71 Pr = 0.71 $ \\textit{Pr}=0.71$ and 7). Stratification is induced by a radiative volumetric heat source, modelled using the Beer–Lambert law. Higher buoyancy sensitivity is observed at large spanwise wavelengt…",
-    "authors": "Bahare Jahani, Krishna Reddy Maryada, Michael MacDonald, Stuart Edward Norris",
-    "published": "2026-08-25",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "The Impact of Urbanization on Tropical Cyclone Rainfall Over Complex Coastal Terrain",
-    "doi": "10.1029/2026jd046493",
-    "url": "https://doi.org/10.1029/2026jd046493",
-    "abstract": "Abstract Rapid coastal urbanization alters land–atmosphere interactions and can modify tropical cyclone (TC) rainfall. This study examines urbanization effects on TC rainfall in the Yongjiang River basin, China, using the Weather Research and Forecasting model. Two TCs (Lekima 2019 and In‐fa 2021) with contrasting predominant wind directions are analyzed under historical and future land use scenarios derived from multiple Shared Socioeconomic Pathways–Representative Concentration Pathways. Results show that urbanization enhances TC precipitation downwind of urban areas and in the mountainous region. Urban‐induced warming and increased surface roughness strengthen low‐to mid‐level convergence and ascent, and enhance moisture and equivalent potential temperature. In complex terrain, converge…",
-    "authors": "Fanyu Xu, Huiling Yuan",
-    "published": "2026-08-24",
-    "keywords_matched": [
-      "weather research and forecasting"
     ]
   }
 ]
