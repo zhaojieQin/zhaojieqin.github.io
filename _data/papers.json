@@ -24,6 +24,118 @@
     ]
   },
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Scale-space analysis and cascade dynamics in a compressible turbulent boundary layer at bold italic upper M Subscript bold infinity Baseline bold equals bold 1.3\n                    <mml:math xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:mnf=\"http://cambridge.org/core/manifest\" xmlns:cup=\"http://contentservices.cambridge.org\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:m=\"http://cambridge.org/core/metadata\" xmlns:core=\"http://cambridge.org/core\" xmlns:c=\"http://cambridge.org/core/content\">\n                      <mml:msub>\n                        <mml:mi mathvariant=\"bold-italic\">M</mml:mi>\n                        <mml:mrow>\n                          <mml:mi mathvariant=\"bold\">∞</mml:mi>\n                        </mml:mrow>\n                      </mml:msub>\n                      <mml:mo mathvariant=\"bold\">=</mml:mo>\n                      <mml:mn mathvariant=\"bold\">1.3</mml:mn>\n                    </mml:math>\n                    $\\boldsymbol{M_{\\infty } = 1.3}$",
+    "doi": "10.1017/jfm.2026.12169",
+    "url": "https://doi.org/10.1017/jfm.2026.12169",
+    "abstract": "Compressible turbulent boundary layers arise in many high-speed aerodynamic applications and exhibit complex interactions between turbulence, compressibility effects and wall-shear dynamics. In this study, the scale-space velocity correlation density transport equation is employed to investigate a spatially developing compressible turbulent boundary layer at upper M Subscript normal infinity Baseline equals 1.3 M ∞ = 1.3 $M_{\\infty }=1.3$ and upper R e Subscript theta Sub Subscript italic in Baseline equals 1181 R e θ in = 1181 $Re_{\\theta _{\\textit{in}}}=1181$ . Production, dissipation, pressure dilatation, transport in physical space and interscale transport are analysed in three-dimensional scale space left parenthesis r Subscript x Baseline comma r Subscript y Baseline comma r Subscrip…",
+    "authors": "P. Aswin, Ritu Raj Kumar, Nagabhushana Rao Vadlamani, A. Sameen",
+    "published": "2026-11-20",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Reynolds-stress transport equations from a kinetic theory perspective",
+    "doi": "10.1017/jfm.2026.12283",
+    "url": "https://doi.org/10.1017/jfm.2026.12283",
+    "abstract": "Conventional turbulence closures are usually formulated in terms of mean quantities and low-order moments, which limits their ability to represent the broader statistical structure of turbulence. In this work, we elucidate the Reynolds-stress transport physics of the kinetic formulation for turbulence and its single-relaxation-time closure. The second-order moment of the exact ensemble-averaged one-point kinetic equation reveals that the unclosed collision contribution to Reynolds-stress transport comprises pressure diffusion, pressure–strain redistribution, viscous diffusion and dissipation. The single-relaxation-time model reduces these effects to a Rotta-type return-to-isotropy term together with isotropic dissipation, thereby establishing a direct link between the kinetic formulation a…",
+    "authors": "Ziyang Xin, Zhaoli Guo, Hudong Chen",
+    "published": "2026-11-20",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Cylindrical air-in-liquid bubble collapse driven by a strong planar blast wave",
+    "doi": "10.1017/jfm.2026.12256",
+    "url": "https://doi.org/10.1017/jfm.2026.12256",
+    "abstract": "Interactions of planar Mach 1.4 and Mach 1.5 blast waves in a water–gelatine solution, used as a water surrogate, with millimetre-scale cylindrical air bubbles in the high-Atwood-number limit ( upper A almost equals negative 1 A ≈ − 1 $A \\approx -1$ ) are investigated. Using copper-foil explosions to generate blast waves with gigapascal-scale peak overpressures, X-ray phase-contrast imaging and compressible two-phase simulations, we resolve the sequence of events from incident-wave impact through high-speed jet propagation, water-hammer-shock emission, generation of a second upstream pressure peak and late-time vortex-pair formation. The blast-wave overpressure persists for less than the bubble-collapse time scale, placing the interaction away from the step-like shock limit, where the post…",
+    "authors": "Sourabh Bhardwaj, Francesc Hernández Garcia, Nicholas Apazidis, Jergus Strucka et al.",
+    "published": "2026-11-20",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Beyond critical slowing down: slow modes, extreme tails and field decoherence in tipping transitions",
+    "doi": "10.1017/jfm.2026.12247",
+    "url": "https://doi.org/10.1017/jfm.2026.12247",
+    "abstract": "Tipping transitions are abrupt reorganisations in which a system leaves one statistical regime for another. Their anticipation is usually framed through critical slowing down: recovery becomes slower, autocorrelation rises, variance may increase and spectral power shifts towards low frequencies. For noisy, spatially extended systems, however, these scalar signatures do not by themselves reveal which part of the dynamics is losing resilience, whether rare excursions towards a competing state are becoming more likely, or whether the spatial field is reorganising before the transition. We examine these complementary questions in the stochastic Ghil–Sellers energy balance model, a latitudinally resolved climate model whose ice–albedo feedback supports warm and snowball metastable regimes. We f…",
+    "authors": "Mickaël David Chekroun, Valerio Lucarini",
+    "published": "2026-11-20",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Stages of turbulence generation and decay in a T-shaped mixer – ADDENDUM",
+    "doi": "10.1017/jfm.2026.12339",
+    "url": "https://doi.org/10.1017/jfm.2026.12339",
+    "abstract": "",
+    "authors": "Mohammad Mehdi Zamani Asl, Marc Avila",
+    "published": "2026-11-20",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Atmospheric Oxidative Capacity Over Heterogeneous Coastal Urban Surfaces in the Greater Houston Metropolitan Area",
+    "doi": "10.1029/2026jd047754",
+    "url": "https://doi.org/10.1029/2026jd047754",
+    "abstract": "Abstract Atmospheric oxidative capacity (AOC) is a key indicator of the atmosphere's ability to remove pollutants, yet its variability within coastal urban environments remains poorly understood due to complex interactions among emissions, photochemistry, and planetary boundary layer (PBL) dynamics. Limited oxidant observations also hinder understanding of atmospheric chemistry aloft and its influence on surface air quality. Here, we use a high‐resolution large‐eddy simulation configuration of the Weather Research and Forecasting model coupled with Chemistry (WRF‐LES‐Chem) to investigate AOC over the Greater Houston metropolitan region during the NASA TRACER‐AQ campaign. By explicitly resolving turbulence, the model captures interactions between vertical mixing and heterogeneous emissions …",
+    "authors": "Akinleye Folorunsho, Yang Li",
+    "published": "2026-11-20",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting",
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Divergent Atmospheric and Biophysical Drivers of Spring Drought Over the North China and Northeast China Plains",
+    "doi": "10.1029/2026jd048154",
+    "url": "https://doi.org/10.1029/2026jd048154",
+    "abstract": "Abstract The North China Plain (NCP) and Northeast China Plain (NECP), key agricultural regions, are vulnerable to spring climate anomalies—yet exhibit different drought regimes. Using multivariable diagnostics and statistical attribution, this study examines spring drought variability over NCP and NECP during 1980–2024. Locally, both share a thermodynamic feedback: subsidence reduces cloud cover and intensifies surface warming, increasing sensible heat flux and potential evapotranspiration, rapidly lowering relative humidity and exacerbating soil moisture deficits. At remote forcing, the two exhibit distinct drivers. NCP spring drought is primarily associated with winter SST anomalies in tropical Pacific and North Atlantic, exciting a teleconnection establishing upper‐tropospheric anomalo…",
+    "authors": "QianJia Xie, XiaoJing Jia, Wei Dong",
+    "published": "2026-11-20",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "FluidUrban v1.0: enhancing urban ventilation and pollutant dispersion modelling with three-dimensional dynamic adaptive meshes optimisation",
+    "doi": "10.5194/gmd-19-11125-2026",
+    "url": "https://doi.org/10.5194/gmd-19-11125-2026",
+    "abstract": "Simulating urban airflow and pollutant dispersion requires resolving multiscale physical processes, from large-scale meteorological forcing to highly localized building-induced turbulence. To accurately capture these multiscale urban flow fields, this study introduces FluidUrban v1.0, an advanced modelling system built upon the Fluidity solver and centred on a three-dimensional Dynamic Adaptive Mesh Optimization (DAMO) framework. By dynamically adapting mesh resolution in response to the evolution of flow physics and scalar gradients, DAMO concentrates computational resources on critical high-gradient regions such as building wakes, shear layers and scalar sharp plumes. The model's performance is systematically evaluated against high-fidelity “WOTAN” wind-tunnel experimental data under var…",
+    "authors": "Xiaofei Wu, Siyang Chen, Jinxi Li, Yu Zhang et al.",
+    "published": "2026-11-20",
+    "keywords_matched": [
+      "wake",
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "The 4-mode Modal Aerosol Module in C+ +  (MAM4xx) v1.0: representing prognostic aerosols in a global cloud-system resolving atmosphere model for GPU exascale computing",
+    "doi": "10.5194/gmd-19-11103-2026",
+    "url": "https://doi.org/10.5194/gmd-19-11103-2026",
+    "abstract": "Aerosols are a key component of Earth system models since they affect meteorology and the Earth's energy budget through complex cloud-aerosol-radiation interactions. Over the past decade, Earth system models have increased their spatial resolution to better resolve atmospheric processes; however, this advancement comes with significantly higher computational costs. To address this issue, some models now take advantage of high-performance Graphics Processing Unit (GPU) exascale computer clusters which offer faster processing capabilities with a higher level of parallelism than traditional Central Processing Unit (CPU) systems, but these models still lack detailed representations of aerosols. In this study, we describe the development of a new GPU-enabled prognostic aerosol model based on th…",
+    "authors": "Jerome D. Fast, Balwinder Singh, Oscar Diaz-Ibarra, Jeff Johnson et al.",
+    "published": "2026-11-20",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "Implementation of the reduced complexity model InMAP at  urban scale using a high-resolution WRF-Chem simulation",
     "doi": "10.5194/gmd-19-11019-2026",
@@ -6059,115 +6171,6 @@
     "published": "2026-08-28",
     "keywords_matched": [
       "WRF"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Dust and Primary Biological Aerosol Particles (PBAP) Effects on Sea Breeze Systems Over Houston",
-    "doi": "10.1029/2026jd047979",
-    "url": "https://doi.org/10.1029/2026jd047979",
-    "abstract": "Abstract Sea‐breeze‐induced convection plays a critical role in coastal weather but remains challenging to simulate due to complex aerosol–cloud interactions. Although mineral dust and primary biological aerosol particles (PBAPs) are known to act as cloud condensation nuclei and ice nucleating particles, their impacts on different convective cloud regimes and various cloud development stages are poorly understood. Here we examine the combined and individual impacts of dust and PBAPs on a representative convective case over Houston during the tracking aerosol convection interactions experiment campaign (17 June 2022) using WRF‐Chem with explicit emissions and rupture processes of PBAPs, and aerosol‐aware two‐moment microphysics. The results show that dust and PBAPs generally reduce precipit…",
-    "authors": "Qiuyan Du, Yingxiao Zhang, Claire Pettersen, Derek J. Posselt et al.",
-    "published": "2026-08-28",
-    "keywords_matched": [
-      "WRF"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Two Modes of Self‐Organizing Development of Extreme Rainfall‐Producing Storms in South China",
-    "doi": "10.1029/2026jd046438",
-    "url": "https://doi.org/10.1029/2026jd046438",
-    "abstract": "Abstract The convective‐scale dynamics of extreme rainstorms on monsoon coasts (South China) remain poorly understood. This study uses the advanced coupled model WRF‐Chem‐MOSAIC for a 90‐hr, 3‐km simulation, reasonably capturing the thermodynamic conditions, inhomogeneous near‐surface PM2.5, and the dynamical and microphysical features of two storms with contrasted convective intensities during the Guangzhou “May 7” record‐breaking rainfall event. Two modes of the storms' rapid self‐organizing development are unraveled via the vertical momentum equation. Storm1 (strong convective intensity) develops in an “effective buoyancy dominantly driving mode,” where a deep inflow layer with high convective available potential energy (CAPE) from the South China Sea is lifted by a convectively‐generat…",
-    "authors": "Zhenghui Li, Yali Luo, Jiwen Fan, Yuwei Zhang et al.",
-    "published": "2026-08-28",
-    "keywords_matched": [
-      "WRF",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Using Tower‐Based Observational Networks to Assess the Impact of COVID‐19 Lockdowns on Greenhouse Gas Emissions in Six North American Cities",
-    "doi": "10.1029/2025jd045115",
-    "url": "https://doi.org/10.1029/2025jd045115",
-    "abstract": "Abstract The onset of the COVID‐19 pandemic in North America and the lockdowns that followed in March 2020 brought forth a rapid change to societal functions disrupting many aspects of normal life, including the greenhouse gas emissions associated with them. In this work, we examine the capabilities of tower networks established in six North American cities in quantifying the change in these emissions. Influence functions, which relate tower‐based observational sites to their upwind source regions, were created for sites in Los Angeles, the D.C./Baltimore urban corridor, Indianapolis, Salt Lake City, Boston, and Toronto for the months of February–April of 2017–2020, and model CO 2 enhancements were generated by multiplying the influence functions by regional inventories. Scaling factors ar…",
-    "authors": "Z. R. Barkley, K. J. Davis, N. L. Miles, S. Baray et al.",
-    "published": "2026-08-28",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Advances in Atmospheric Sciences",
-    "title": "Simulating Martian Atmospheric Processes and Local Dust Events with a Global Variable-Resolution Model (iAMAS-Mars)",
-    "doi": "10.1007/s00376-026-5694-4",
-    "url": "https://doi.org/10.1007/s00376-026-5694-4",
-    "abstract": "",
-    "authors": "Yongxuan Zhao, Chun Zhao, Lulu Li, Li Dong et al.",
-    "published": "2026-08-27",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Turbulence-driven nutrient supply sustains ice-algal growth in the Arctic: a modeling approach with CICE 6.1 coupled to Icepack 1.2, and with SIMBA 2.0",
-    "doi": "10.5194/gmd-19-7939-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7939-2026",
-    "abstract": "Abstract. Fluxes of nutrients at the ice-ocean interface are affected by the smooth or turbulent nature of the flow under the ice. The nature of the flow depends on the friction velocity, which determines the thickness of the molecular sublayer, and on the roughness of the ice bottom. Based on in situ boundary layer studies, the range of variability of the thickness of the molecular sublayer and that of bottom roughness suggest that the flow under sea ice may easily shift from smooth to turbulent. This transition enhances nutrient exchanges at the ice-ocean interface. Despite the importance of such turbulent nutrient exchanges for sea-ice algae, no current biogeochemical model accounts for the dependence of fluxes on the nature of the flow, while different approaches were previously implem…",
-    "authors": "Giulia Castellani, Karley Campbell, Sebastien Moreau, Pedro Duarte",
-    "published": "2026-08-26",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "LFD (v1.0): latent-compression-free generative diffusion with geological priors and geophysical regularization for implicit structural modeling",
-    "doi": "10.5194/gmd-19-7961-2026",
-    "url": "https://doi.org/10.5194/gmd-19-7961-2026",
-    "abstract": "Abstract. Diffusion models provide a promising way to generate geologically consistent implicit structural models by learning data-driven priors from training examples, potentially improving generalization across surveys. However, existing diffusion transformer pipelines scale poorly to high-dimensional structural modeling data because noise- or velocity-prediction objectives are often unstable at large patch sizes, forcing the use of small patches that lead to long token sequences and high computational cost. To reduce computation, most approaches rely on variational autoencoders (VAEs) and latent diffusion, but robust pretrained VAEs are scarce in geophysics, and enforcing geological priors in latent space is difficult. To address these scalability bottlenecks and the difficulty of enfor…",
-    "authors": "Zhixiang Guo, Xinming Wu, Yimin Dou, Hui Gao et al.",
-    "published": "2026-08-26",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "More Frequent and Enhanced Extreme Events of Air–Sea CO\n                    <sub>2</sub>\n                    Fluxes",
-    "doi": "10.1029/2025jd044933",
-    "url": "https://doi.org/10.1029/2025jd044933",
-    "abstract": "Abstract The ocean is a crucial sink for anthropogenic CO 2 and experiences various biogeochemical extremes, yet it is not clear whether and to what extent such extreme events occur in air–sea CO 2 fluxes. Here, we established a framework to define oceanic carbon uptake extremes (CUXs) and release extremes (CRXs) using daily air–sea CO 2 flux from both an observational‐based product and a state‐of‐the‐art Earth system model. Globally, cumulative CUX and CRX intensity over 1982–2022 were −0.14 and 0.14 Pg C yr −1 , respectively, each accounting for ∼10% of the total oceanic CO 2 uptake. The number of annual days and the absolute mean intensity of CUXs (CRXs) increase at rates of 1.22 d dec −1 (2.23 d dec −1 ) and 0.08 mol C m 2 yr −1 dec −1 for both events. Under the high‐warming future sce…",
-    "authors": "Yangyan Cheng, Bo Han, Jerry Tjiputra, Hao Luo et al.",
-    "published": "2026-08-25",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "The Thermodynamic and Kinematic Structure of the Planetary Boundary Layer for a Summer Lake Breeze Day in Chicago",
-    "doi": "10.1029/2025jd046032",
-    "url": "https://doi.org/10.1029/2025jd046032",
-    "abstract": "Abstract The planetary boundary layer (PBL) over Chicago is strongly modulated by interactions between the lake breeze and the urban heat island (UHI). This study focuses on characterizing the thermodynamic and kinematic processes governing the Chicago UHI and its interaction with the cooler air from Lake Michigan. The study uses remote sensing and in situ measurements collected during the CROCUS Urban Canyons campaign that took place in July 2024. Regular rawinsonde launches, together with the University of Wisconsin–Madison University of Wisconsin–Madison Space Science and Engineering Center Portable Atmospheric Research Center (SPARC) trailer equipped with Doppler and high‐spectral‐resolution LiDARS, as well as a thermodynamic profiler, provided a detailed characterization of the PBL st…",
-    "authors": "Robert Jackson, Joseph O’Brien, Jiali Wang, Dimitrios K. Fytanidis et al.",
-    "published": "2026-08-25",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Hybrid Swin Transformer–U‐Net Improves Subseasonal Maritime Wind Forecasts in China's Coastal Waters",
-    "doi": "10.1029/2025jd045366",
-    "url": "https://doi.org/10.1029/2025jd045366",
-    "abstract": "Abstract Reliable subseasonal maritime wind forecasts are essential for navigation safety and disaster prevention, yet current forecasting systems show noticeable biases over China's coastal waters. Here, we introduce TDSwin‐UnetSS (Time‐embedded Downscaling Swin‐Transformer U‐Net for SubSeasonal forecasting), an asymmetric hybrid model that integrates the Swin Transformer with a U‐Net architecture. The model incorporates: (a) Weibull distribution constraints to preserve the wind‐speed probability density, (b) spatial downscaling from 1.5 to 0.25 resolution, (c) time embedding for simultaneous 3–6 week lead‐time corrections, and (d) spatially adaptive learning focused on extreme wind‐prone regions. Applied to ECMWF S2S forecasts, TDSwin‐UnetSS reduces root mean squared error (RMSE) by 13.4…",
-    "authors": "Dianhewen Liu, Wenyu Huang, Yongqian Liu, Deliang Chen et al.",
-    "published": "2026-08-25",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
