@@ -1,6 +1,18 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Cahn–Hilliard phase field modelling captures nanoscale contact line dynamics on high-friction surfaces",
+    "doi": "10.1017/jfm.2026.12239",
+    "url": "https://doi.org/10.1017/jfm.2026.12239",
+    "abstract": "Incorporating molecular-scale effects in the description of contact line motion is essential for accurately capturing all sources of energy dissipation in wetting dynamics. This holds particularly true in the cases where contact line friction dominates, and hydrodynamics models struggle to achieve regularisation due to the negligible Navier slip. We perform molecular dynamics simulations of water/hexane biphasic systems in a two-phase Couette flow configuration. Wetting occurs over a silica-like surface with controllable wettability. The simulation results are reproduced by a phase field model (Cahn–Hilliard Navier–Stokes equations), which includes localised contact line slip and contact angle dynamics. The continuous equations are directly parametrised from molecular dynamics simulation r…",
+    "authors": "Michele Pellegrino, Parvathy Kunchi Kannan, Gustav Amberg, Shervin Bagheri et al.",
+    "published": "2026-11-24",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Short-wave instabilities and secondary structures in tip vortices of wind-turbine-like axial-flow rotors",
     "doi": "10.1017/jfm.2026.12240",
     "url": "https://doi.org/10.1017/jfm.2026.12240",
@@ -36,6 +48,69 @@
     "published": "2026-11-23",
     "keywords_matched": [
       "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Dynamics of fast magnetosonic wave turbulence",
+    "doi": "10.1017/jfm.2026.12279",
+    "url": "https://doi.org/10.1017/jfm.2026.12279",
+    "abstract": "Fast magnetosonic waves are among the fundamental oscillation modes of astrophysical plasmas. To study their dynamics, we carry out numerical simulations of the wave turbulence kinetic equation, which describes the evolution of the energy spectrum of a set of weakly nonlinear fast magnetosonic waves. This kinetic equation, which involves three-wave interactions, has recently been derived from compressible magnetohydrodynamics in the low- beta β $\\beta$ limit (Galtier 2023 J. Plasma Phys. vol. 89 (2), 905890205). It has an exact stationary solution, the Kolmogorov–Zakharov spectrum, corresponding to a direct energy cascade. Here we perform free decay simulations of the kinetic equation for which we propose a Kolmogorov-type phenomenology to explain the temporal decay laws of energy and inte…",
+    "authors": "Nicolás Pablo Müller, Sébastien Galtier",
+    "published": "2026-11-23",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Vortex generators control for the separated flow past a backward–facing step",
+    "doi": "10.1017/jfm.2026.12254",
+    "url": "https://doi.org/10.1017/jfm.2026.12254",
+    "abstract": "We consider vortex generators (VGs) to control the dynamics of the recirculation region behind a backward-facing step in the transitional regime. We designed our VGs by replicating the parameters of the best performing VGs presented in the literature. We vary only one parameter, the distance between VG pairs, to study the effect of their crowding and find an optimal configuration. The streamwise vortices created by a pair of VGs generate a downwash, while the streamwise vortices of two adjacent VG pairs produce an upwash. The relative strength of the downwash versus the upwash plays a crucial role in controlling the dynamics of the recirculation region. We perform accurate and validated simulations using an enhanced delayed detached-eddy simulation approach. We first analyse the time-avera…",
+    "authors": "Francesco Libretti, Luca Cortelezzi",
+    "published": "2026-11-23",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Dynamic mixed turbulence modelling using a super-resolution generative adversarial approach",
+    "doi": "10.1017/jfm.2026.12245",
+    "url": "https://doi.org/10.1017/jfm.2026.12245",
+    "abstract": "A dynamic mixed super-resolution model (DMSRM) for large-eddy simulations (LES) is proposed, which combines the traditional dynamic mixed model (DMM) formulation with the generation of super-resolved velocity fields from which the subfilter-scale (SFS) stress tensor can be computed. A data-driven super-resolution generative adversarial network (SR-GAN) is employed to upsample the grid-filtered velocity fields by a factor of two, enabling the evaluation of both scale-similarity and the dynamic Smagorinsky contributions. A priori analyses of forced homogeneous isotropic turbulence (HIT) show that the SR-GAN accurately reconstructs flow features and generalises well across different filter sizes and higher Reynolds numbers within the same flow configuration, even for unseen input fields. The …",
+    "authors": "Ludovico Nista, Christoph David Karl Schumann, Temistocle Grenga, Jonathan F. MacArt et al.",
+    "published": "2026-11-23",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Effects of thermal forcing on turbulent heat transfer in pipe flow",
+    "doi": "10.1017/jfm.2026.12214",
+    "url": "https://doi.org/10.1017/jfm.2026.12214",
+    "abstract": "The effects of thermal forcing on forced convection in turbulent pipe flow are investigated by means of direct numerical simulations (DNSs). Three canonical configurations leading to thermally fully developed conditions are considered: constant wall heat flux, constant wall temperature and uniform internal heating. The simulations span a wide range of Reynolds and Prandtl numbers. In the near-wall region, the inferred eddy thermal diffusivity exhibits a nearly universal behaviour in wall units, largely independent of the forcing mechanism. This universality enables an explicit analytical representation of the inner-layer mean temperature profile, which accurately reproduces the DNS data except at very low Prandtl number. In contrast, the outer region retains a clear sensitivity to thermal …",
+    "authors": "Sergio Pirozzoli, Tie Wei",
+    "published": "2026-11-23",
+    "keywords_matched": [
+      "ABL",
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Spatiotemporal Variations in Local Precipitation Recycling Over the Qinghai‐Xizang Plateau and Responses to Underlying‐Surface and Initial‐Condition Updates",
+    "doi": "10.1029/2026jd046388",
+    "url": "https://doi.org/10.1029/2026jd046388",
+    "abstract": "Abstract Local precipitation recycling, defined as the fraction of precipitation within a specified region that originates from evapotranspiration within the same region, is an important indicator of regional land–atmosphere coupling. The Qinghai‐Xizang Plateau (QXP) is highly sensitive to climate change, but long‐term, high‐resolution assessments of local precipitation recycling remain limited by data scarcity and model uncertainty. We used the Weather Research and Forecasting model with an embedded Water Vapor Tracer (WRF‐WVT), incorporating HWSD soil texture, MODIS land cover, and AMSR‐E/2‐based soil moisture products to improve representations of the underlying surface and initial soil‐moisture conditions. Simulations for 2001–2020 at 5 km resolution show that the multi‐year mean local…",
+    "authors": "Hu Li, Xiaoduo Pan, Xiaowei Nie",
+    "published": "2026-11-23",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting"
     ]
   },
   {
@@ -6096,83 +6171,6 @@
     "authors": "Yufeng Ai, Qin Luo, Guangming Guo, Guosheng He",
     "published": "2026-09-01",
     "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Numerical investigation of propeller wake evolution and mud entrainment in a water–mud stratified environment",
-    "doi": "10.1063/5.0348582",
-    "url": "https://doi.org/10.1063/5.0348582",
-    "abstract": "The interaction between marine propellers and sediment-laden seabeds is of significant importance for navigation safety, environmental protection, and the hydrodynamic performance of marine vehicles operating in shallow waters. In this study, wake evolution and mud entrainment of the National Research Council of Italy-Institute of Marine Engineering (CNR-INM) E779A propeller in a water–mud stratified environment are studied via improved delayed detached eddy simulation combined with the volume of fluid. The numerical methodology is first validated against available experimental data for propeller open-water performance and wake flow characteristics. The effects of the water–mud interface on propeller hydrodynamic loads, vortex evolution, turbulence transition, and sediment transport are su…",
-    "authors": "Peng Hu, Tiecheng Wu, Jie Gong, Zhengren Wang et al.",
-    "published": "2026-09-01",
-    "keywords_matched": [
-      "wake",
-      "turbulence",
-      "ABL",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Numerical investigation of flow-induced noise for a fully appended underwater vehicle",
-    "doi": "10.1063/5.0339880",
-    "url": "https://doi.org/10.1063/5.0339880",
-    "abstract": "Flow-induced noise, as an acoustic phenomenon generated by fluid motion, mainly originates from unsteady pressure fluctuations exerted by turbulent flow on solid surfaces, with the resulting acoustic energy radiating outward through the fluid medium. For underwater vehicles, stealth is one of the most critical performance indicators. As the structural complexity of such vehicles increases, various appendages inevitably alter the local flow field during navigation, thereby intensifying the generation of flow-induced noise. Among these, protruding structures, such as the sail and stern rudders, as well as recessed structures, such as flood holes, are particularly significant contributors to flow-induced noise because of their pronounced effects on flow separation, vortex evolution, and press…",
-    "authors": "Yu Lu, Yilang Tu, Hui Chu, Jiafeng Wu et al.",
-    "published": "2026-09-01",
-    "keywords_matched": [
-      "ABL",
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Wave-induced frequency locking and coherent structures of a near-surface airfoil",
-    "doi": "10.1063/5.0346896",
-    "url": "https://doi.org/10.1063/5.0346896",
-    "abstract": "Free-surface waves strongly modify the near-airfoil flow field in close proximity to wavy surfaces. This paper investigates the aerodynamic, wake, and modal characteristics of the National Advisory Committee for Aeronautics 6412 airfoil near a wavy surface at different water-surface clearances and angles of attack using numerical simulations based on the volume of fluid method. The results show that larger angles of attack and smaller water-surface clearances lead to higher mean lift and stronger lift fluctuations, indicating more pronounced unsteady aerodynamic characteristics. Affected by the periodic motion of the wave free surface, the lift coefficient varies periodically with the wave phase. Moreover, the dominant frequency of the lift signal is nearly identical to the wave frequency,…",
-    "authors": "Xuzhan Xiao, Qingchi Zhu, Hongfu Zhang, Xuhui He et al.",
-    "published": "2026-09-01",
-    "keywords_matched": [
-      "wake"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "A regularized Rortex formulation for derivative-based vortex dynamics analysis",
-    "doi": "10.1063/5.0345979",
-    "url": "https://doi.org/10.1063/5.0345979",
-    "abstract": "The Rortex vector, also referred to as Liutex in part of the literature, provides a rotation-axis-based measure of local rigid-body rotation and supports Rortex–shear decomposition and derivative-based vortex dynamics analysis. However, the original Rortex field may exhibit non-smooth derivatives near vortex boundaries, leading to spurious spikes and oscillations in gradients, Laplacians, material derivatives, viscous terms, and Rortex–shear interaction terms. To improve derivative robustness, a regularized Rortex magnitude Rreg is introduced. The formulation preserves the rigid-body rotation limit and the principal vortical structures identified by the original Rortex while smoothing the transition near vortex boundaries. Its behavior is examined using the Lamb–Oseen vortex, two- and thre…",
-    "authors": "Yiqian Wang, Jiansong Zhu, Song Huang, Yuehong Qian",
-    "published": "2026-09-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Improved empirical model and numerical simulation of an impinging jet with application to steady-state flows of downbursts",
-    "doi": "10.1063/5.0348616",
-    "url": "https://doi.org/10.1063/5.0348616",
-    "abstract": "Downburst events generate extreme near-surface winds over a considerable area, posing significant threats to structures. The existing empirical models usually model the vertical and radial steady-state profiles of the downburst separately based on empirical equations. However, these models are difficult to consider the effects of the nonlinear growth of boundary layer thickness, and a spatial wind velocity field encompassing the core region has yet to be established. This study proposes a novel empirical model based on a generalized modal decomposition. It features an improved vertical shaping function for the radial velocity and a set of data-based characteristic functions for the model parameters. Furthermore, the integral expression for the vertical velocity field is derived based on th…",
-    "authors": "Congjie Shang, Yulong Bao, Yongle Li",
-    "published": "2026-09-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Separated wake prediction of reference bluff bodies based on a tensor basis neural network-based turbulence model",
-    "doi": "10.1063/5.0345237",
-    "url": "https://doi.org/10.1063/5.0345237",
-    "abstract": "Conventional turbulence models based on the linear eddy-viscosity hypothesis cannot adequately represent turbulence anisotropy, which limits their predictive accuracy for three-dimensional separated flows around the Ahmed body. Within the Reynolds-averaged Navier–Stokes framework, this study develops a nonlinear Reynolds-stress anisotropy correction model for Ahmed-body wakes based on a tensor-basis neural network (TBNN), with a newly introduced canonical-flow training dataset and a wall-distance-based blending treatment. A posteriori evaluations of the Ahmed body flow demonstrate that the enriched training dataset improves the predictive accuracy of the TBNN model. At the same time, the wall-distance-based blending enhances numerical convergence and robustness. Compared with the baseline …",
-    "authors": "Songyuan Hu, Qiming Xu, Mengdi Li, Jian Zhao et al.",
-    "published": "2026-09-01",
-    "keywords_matched": [
-      "wake",
       "turbulence"
     ]
   }
