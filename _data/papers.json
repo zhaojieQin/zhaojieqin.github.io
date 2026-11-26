@@ -1,5 +1,29 @@
 [
   {
+    "journal": "Geoscientific Model Development",
+    "title": "Interactive land in E3SM process-level models: impacts  of land–atmosphere coupling in SCM and DP-SCREAM",
+    "doi": "10.5194/gmd-19-11351-2026",
+    "url": "https://doi.org/10.5194/gmd-19-11351-2026",
+    "abstract": "Process-level modeling is central to diagnosing and improving atmospheric parameterizations in Earth system models, yet continental single-column and convection-permitting process configurations are often run with prescribed surface fluxes, limiting realism and consistency with fully coupled global simulations. Here we develop, document, and demonstrate a reproducible workflow to enable fully interactive land–atmosphere coupling in both the E3SM single-column model (E3SM SCM) and the doubly periodic configuration of SCREAM (DP-SCREAM). The approach leverages a multi-year offline-forced E3SM/ELM integration to provide spun-up land initial conditions and introduces an offline preprocessing method that generates DP-SCREAM–compatible land restart files by extracting and replicating the appropr…",
+    "authors": "Peter A. Bogenschutz, Yunyan Zhang, Hsi-Yen Ma, Cheng Tao et al.",
+    "published": "2026-11-26",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "LCS.jl v1.0: a high-performance, multi-platform computational model in Julia for turbulent particle-laden flows",
+    "doi": "10.5194/gmd-19-11373-2026",
+    "url": "https://doi.org/10.5194/gmd-19-11373-2026",
+    "abstract": "Multiphase turbulent flow phenomena are observed not only in industrial devices but also in environmental flows, and direct numerical simulation plays a key role in their investigation. Many numerical models have been developed; nevertheless, few models are highly optimized for GPU platforms, which represent the current mainstream in high-performance computing. In this study, we developed LCS.jl (Lagrangian Cloud Simulator in Julia), a single-source and multi-platform multiphase turbulence simulation model implemented in the Julia language and KernelAbstractions.jl. Validation results confirmed that the present fluid and particle statistics agree well with those obtained in prior studies. For GPU execution, the GPU-side prefix-scan implementation reduced the particle communication cost by …",
+    "authors": "Taketo Tominaga, Ryo Onishi",
+    "published": "2026-11-26",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Drag control in turbulent boundary layers via streamwise travelling waves of spanwise wall velocity",
     "doi": "10.1017/jfm.2026.12302",
@@ -130,6 +154,69 @@
     "published": "2026-11-25",
     "keywords_matched": [
       "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Ultrasound-controlled stream splitting in a microfluidic coflow",
+    "doi": "10.1017/jfm.2026.12032",
+    "url": "https://doi.org/10.1017/jfm.2026.12032",
+    "abstract": "Precise control of multiphase microfluidic flows underpins applications ranging from chemical processing to biomedical diagnostics. We investigate the response of a liquid–liquid coflow in a rectangular microchannel to an externally applied standing acoustic field. Acoustic excitation destabilises an otherwise stable interface, giving rise to a sequence of reversible interfacial regimes: waviness, splitting, relocation and stream–droplet breakup. Remarkably, a distinct splitting regime emerges, in which a continuous stream partially splits into droplets at tuneable locations while retaining a thin residual stream. Unlike conventional droplet breakup, this regime avoids complete disruption of the main flow, enables droplet generation at high capillary numbers and allows spatial control over…",
+    "authors": "Debasish Ghosh, Sazid Zamal Hoque, T. Sujith, Niladri S. Satpathi et al.",
+    "published": "2026-11-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Lagrangian inference of turbulent diffusivity in stratified shear flows",
+    "doi": "10.1017/jfm.2026.12115",
+    "url": "https://doi.org/10.1017/jfm.2026.12115",
+    "abstract": "We infer various measures of turbulent diffusivity using Lagrangian particles and tracers in direct numerical simulation (DNS) of stratified shear flows prone to Kelvin–Helmholtz instability and Holmboe wave instability. Irreversible mixing in density-stratified flows is often diagnosed in terms of a buoyancy-sorted coordinate using a model developed by Winters &amp; D’Asaro (1996 J. Fluid Mech. vol. 317, pp. 179–193). DNSs are typically not able to capture mixing of weakly diffusive tracers with high Schmidt numbers. We show that Lagrangian particles can be used to diagnose mixing in terms of a buoyancy-sorted coordinate and that this method can be used to diagnose mixing for tracers with large Schmidt numbers. We also investigate the degree to which the evolution of a passive tracer fiel…",
+    "authors": "Xingyu Zhou, John R. Taylor, Colm-cille P. Caulfield",
+    "published": "2026-11-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Assimilating SAR High‐Spatial‐Resolution Wind Data to Improve Tropical Cyclone Forecasts",
+    "doi": "10.1029/2026jd048125",
+    "url": "https://doi.org/10.1029/2026jd048125",
+    "abstract": "Abstract Accurate ocean surface wind observations are crucial for tropical cyclone (TC) forecasting. While most wind observing instruments exhibit limited availability during TC periods, the Synthetic Aperture Radar (SAR) can accurately measure ocean surface winds with high spatial resolution and accuracy. In this study, the SAR wind observations with thinning distances from 3 to 20 km are assimilated into the Weather Research and Forecasting (WRF) model. We investigate the assimilation impacts of SAR wind data for five TC cases, that is, Doksuri (2023), Gaemi (2024), Yagi (2024), Yinxing (2024), and Wipha (2025), that occurred in the Western Pacific Ocean. We find that the forecasting performance of TC track and horizontal wind structures is enhanced after assimilating SAR wind data. Spec…",
+    "authors": "Yangzhao Gong, Hui Su, Pak Wai Chan",
+    "published": "2026-11-25",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Issue Information",
+    "doi": "10.1029/jame.70520",
+    "url": "https://doi.org/10.1029/jame.70520",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-11-25",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Improving Turbulence Closure for Predicting Surface Signatures and Near‐Surface Mixing in Open Channel Flow",
+    "doi": "10.1029/2025ms005377",
+    "url": "https://doi.org/10.1029/2025ms005377",
+    "abstract": "Abstract Patterns at the water surface can indicate turbulent underwater dynamics and their properties. We seek to connect the statistical predictions of second moment closure (SMC) models for time and length scales of subsurface turbulent structures linked to these observable free surface signatures. To isolate and motivate changes to SMC assumptions that undermine relevance to surface flow, we focus on the unforced free surface of a tidally driven estuary, idealized as open channel flow (OCF) with bottom shear turbulence production. We modify the traditional “return‐to‐isotropy” closure assumption for turbulent kinetic energy (TKE) components so that, in the absence of local production, near‐surface TKE anisotropy decays to a non‐zero depth‐dependent profile. In a modified weak‐equilibri…",
+    "authors": "Boqi Tian, Ramsey R. Harcourt, C. Chris Chickadel",
+    "published": "2026-11-25",
+    "keywords_matched": [
+      "turbulence",
+      "ABL",
+      "tidal"
     ]
   },
   {
@@ -6084,90 +6171,6 @@
     "keywords_matched": [
       "turbulence",
       "drag reduction"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Scale effects on the evolution of embedded synthetic streamwise vortices in turbulent boundary layers",
-    "doi": "10.1017/jfm.2026.11935",
-    "url": "https://doi.org/10.1017/jfm.2026.11935",
-    "abstract": "Low-friction-Reynolds-number ( italic Re Subscript tau Baseline almost equals 235 minus 300 Re τ ≈ 235 − 300 $ \\textit{Re}_\\tau \\approx 235 {-} 300$ and italic Re Subscript tau Baseline almost equals 400 minus 480 Re τ ≈ 400 − 480 $ \\textit{Re}_\\tau \\approx 400 {-} 480$ ) turbulent boundary layers (TBLs) perturbed by small, mesoscale and relatively large synthetic streamwise vortices are investigated using planar particle image velocimetry (PIV) measurements and wall-resolved large-eddy simulation (LES). To better understand how these varying size streamwise vortices evolve in TBLs, synthetic streamwise vortex pairs are generated from a family of geometrically self-similar miniature vortex generators of viscous-scaled heights h Superscript plus Baseline almost equals 24 comma 48 comma 96 h…",
-    "authors": "Weiqi Sun, Jimmy Philip, Wolfgang Schröder, Joseph Klewicki",
-    "published": "2026-09-01",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Spatial Heterogeneity in the Concurrent Variations of the Boreal Summer Jet Streams and the Linkage to Temperature Anomalies",
-    "doi": "10.1029/2026jd047348",
-    "url": "https://doi.org/10.1029/2026jd047348",
-    "abstract": "Abstract During boreal summer, the polar front jet (PJ) and the subtropical jet (SJ) exhibit regional heterogenous variability that strongly influences climate. However, previous studies have mainly focused on specific regions, with limited attention to a hemispheric perspective. In this study, we investigate the concurrent variations of the two jets from a hemispheric viewpoint. Based on centers of maximum upper‐level zonal wind variability, we define indices for the two jets to quantify their meandering variations. Four configurations of concurrent variations of the two jets are identified by the combinations of the two indices, and these are closely linked to the anomalies in the meridional temperature gradient and eddy kinetic energy. Notably, as both jets are in their negative phases,…",
-    "authors": "Boyan Li, Wangchu Zhou, Daokai Xue, Danqing Huang",
-    "published": "2026-09-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "An Integrated Multi‐Component Error Verification Method for Numerical Weather Prediction",
-    "doi": "10.1029/2025jd044468",
-    "url": "https://doi.org/10.1029/2025jd044468",
-    "abstract": "Abstract Errors in weather forecasts remain a critical challenge for high‐resolution numerical weather prediction (NWP) and artificial intelligence forecast models. Traditional verification approaches, such as Threat Score (TS) and Equitable Threat Score (ETS), suffer from “double penalty” issues due to spatial‐temporal mismatches and lack of spatial distribution fidelity. In this study, we introduce an integrated multi‐component error verification approach (IMEV) that decomposes forecast errors into three physically interpretable components: accumulation error (systematic intensity discrepancy), area error (areal coverage and spatial extent mismatch), and pattern error (distributional dissimilarity and organization difference). Pattern error is evaluated by the similarity of intensity dis…",
-    "authors": "Xiyu Mu, Qi Xu, Guoqing Liu, Mingjian Zeng et al.",
-    "published": "2026-09-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Investigating Climate Change Impacts on the 2020 Extreme Meiyu Through Global Variable‐Resolution Ensemble Subseasonal Hindcasts",
-    "doi": "10.1029/2025jd045982",
-    "url": "https://doi.org/10.1029/2025jd045982",
-    "abstract": "Abstract This study investigates the impact of climate change on the extreme 2020 Meiyu over the middle and lower reaches of the Yangtze River (middle‐lower Yangtze River (MLYR)) through global variable‐resolution ensemble subseasonal hindcasts. Results reveal that post‐1980 climate change enhanced the 2020 extreme Meiyu rainfall over the MLYR region by approximately 14.67% at monthly scale, while simultaneously decreasing light and moderate precipitation frequency but intensifying heavy and extreme precipitation occurrences. Climate change intensified the low‐pressure over northern China and southern China while weakening the Western Pacific subtropical high and the low‐pressure over the Indian Peninsula. The circulation pattern results in significant shear between northeasterly and north…",
-    "authors": "Mingyue Xu, Chun Zhao, Jun Gu, Jiawang Feng et al.",
-    "published": "2026-09-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "CMIP7 Data Request: co-created guidance for the production of CMIP7 data [v1.2.2.5]",
-    "doi": "10.5194/gmd-19-8053-2026",
-    "url": "https://doi.org/10.5194/gmd-19-8053-2026",
-    "abstract": "Abstract. This paper outlines the scope, development and publication of data requirements for a set of reference climate simulations, and describes the methodology used to gather and synthesise them into a cohesive “Data Request” usable by data producers. The simulations supported by this Data Request comprise the initial phase of the next upgrade of research activities under the World Climate Research Programme (WCRP). Dunne et al. (2025) set out the scientific scope and objectives of the Assessment Fast Track and its role in initiating the current phase of the Coupled Model Intercomparison Project, CMIP7 – a key part of the next WCRP activity upgrade. Building on the successes of past CMIP phases which have supported an ever-expanding scope of work, the Data Request Task Team reached out…",
-    "authors": "Chloe Mackallah, Martin Juckes, James Anstey, Beth Dingley et al.",
-    "published": "2026-09-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Advances in Modeling Earth Systems",
-    "title": "Issue Information",
-    "doi": "10.1029/jame.70453",
-    "url": "https://doi.org/10.1029/jame.70453",
-    "abstract": "No abstract is available for this article.",
-    "authors": "",
-    "published": "2026-09-01",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Physics of Fluids",
-    "title": "Adsorption-induced wettability alteration in chemical enhanced oil recovery: Interfacial mechanisms, characterization methods, and flow-regulation effects",
-    "doi": "10.1063/5.0349026",
-    "url": "https://doi.org/10.1063/5.0349026",
-    "abstract": "Wettability alteration is a key mechanism in chemical enhanced oil recovery (C-EOR) because it controls capillary pressure, fluid distribution, residual-oil mobilization, and multiphase flow pathways in porous media. In most chemical-flooding designs, adsorption on reservoir rocks is treated as an unfavorable loss because it reduces the effective concentration of injected agents. However, increasing evidence shows that when adsorption occurs at appropriate interfacial locations and remains stable during flow, it can modify surface energy, adjust oil–water–rock contacts, and change how fluids occupy and transport through pore networks. This review explores adsorption-induced wettability alteration as an interfacial process that links chemical retention with displacement response. It begins …",
-    "authors": "Haitong Sun, Ming Qu, Jingge Zan, Jiawei He et al.",
-    "published": "2026-09-01",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
