@@ -1,6 +1,18 @@
 [
   {
     "journal": "Geoscientific Model Development",
+    "title": "Joint Bayesian calibration of frontal ablation and climatic mass balance in global glacier models (PyGEM-OGGM-SERMeQ v1.0)",
+    "doi": "10.5194/gmd-19-11389-2026",
+    "url": "https://doi.org/10.5194/gmd-19-11389-2026",
+    "abstract": "Modeling frontal ablation of marine-terminating glaciers is critical for accurately modeling mass change but remains challenging. We present a hybrid, physically consistent and numerically efficient modelling framework that integrates the Simple Estimator of Retreat Magnitude and ice flux (SERMeQ) into two coupled global glacier models (OGGM and PyGEM). The adaptive particle-batch smoother, a Bayesian data assimilation method, is used for joint calibration of all parameters. The coupled framework simulates monthly length changes along flowlines and mass-balance components of individual glaciers. Applied to 71 marine-terminating glaciers across Svalbard during the period of 2000–2019, the model simulates distinct seasonal variations and annual length changes of glacier calving fronts, while…",
+    "authors": "Ruitang Yang, Lizz Ultee, Kristoffer Aalstad, Matvey V. Debolskiy et al.",
+    "published": "2026-11-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
     "title": "Interactive land in E3SM process-level models: impacts  of land–atmosphere coupling in SCM and DP-SCREAM",
     "doi": "10.5194/gmd-19-11351-2026",
     "url": "https://doi.org/10.5194/gmd-19-11351-2026",
@@ -21,6 +33,20 @@
     "published": "2026-11-26",
     "keywords_matched": [
       "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "title": "Simulating Near‐Surface Environments in Neighborhoods Using WRF‐LES: Case Study of an Urban Atmospheric Boundary Layer During a Heatwave Event",
+    "doi": "10.1029/2026ms006027",
+    "url": "https://doi.org/10.1029/2026ms006027",
+    "abstract": "Abstract This study presents an in‐depth comparison of meteorological observations and simulations from a high‐resolution numerical weather model during an urban heatwave in Baltimore, MD. The simulations use a multi‐level nested approach to bridge the mesoscale and neighborhood‐scale environments and to incorporate high‐resolution static data sources to better represent the urban surface. The nested Weather Research and Forecasting (WRF) runs use a planetary boundary layer (PBL) or large‐eddy simulation (LES) closure, depending on the horizontal grid spacing of each domain. Comparing simulation results with observations demonstrates the successful replication of a daytime convective boundary layer (CBL). Meanwhile, the results reveal several model biases that static‐data updates cannot co…",
+    "authors": "J. P. Horne, Y. Pan, K. J. Davis, D. Waugh et al.",
+    "published": "2026-11-26",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting",
+      "atmospheric boundary layer"
     ]
   },
   {
@@ -6145,32 +6171,6 @@
     "keywords_matched": [
       "wake",
       "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Physics-constrained machine learning for generalisable turbulence modelling across flow regimes",
-    "doi": "10.1017/jfm.2026.11963",
-    "url": "https://doi.org/10.1017/jfm.2026.11963",
-    "abstract": "In this work we propose a physics-constrained machine learning approach to enhance the generalisability of neural-network-represented turbulence models across different flow regimes. Machine learning-augmented turbulence modelling has emerged to improve the predictive accuracy of the Reynolds-averaged Navier–Stokes method based on high-fidelity data. However, such data-driven models face difficulties in generalising well in different flow scenarios outside training datasets. Here we show that this issue can be alleviated by incorporating physical constraints of the Reynolds stress during the learning process. It is achieved with a physics-constrained learning approach based on the regularised ensemble Kalman method, which allows for model learning from limited velocity data and is flexible…",
-    "authors": "Qingyong Luo, Hao-Chen Liu, Xin-Lei Zhang, Guowei He",
-    "published": "2026-09-01",
-    "keywords_matched": [
-      "turbulence",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Turbulent flow and drag reduction over discontinuous slip boundaries",
-    "doi": "10.1017/jfm.2026.11954",
-    "url": "https://doi.org/10.1017/jfm.2026.11954",
-    "abstract": "Direct numerical simulations are performed to investigate the effects of discontinuous slip boundaries comprising alternating slip regions and transverse no-slip stripes on turbulent channel flow and drag reduction mechanisms. Compared with a continuous slip boundary with the same effective slip length, the discontinuous configuration yields a substantially lower net drag reduction. This degradation is attributed to a diminished slip contribution resulting from the triple effects of slip area deficit, localised flow-field re-equilibration and inter-stripe interference, coupled with variations in the turbulence-modulation contribution and an intensified dispersive penalty. The no-slip stripes generate local adverse pressure gradients and induce shear-layer instabilities, triggering the deve…",
-    "authors": "Haowen Song, Chengwang Xiong, Muyang Wang, Shiping Wang et al.",
-    "published": "2026-09-01",
-    "keywords_matched": [
-      "turbulence",
-      "drag reduction"
     ]
   }
 ]
