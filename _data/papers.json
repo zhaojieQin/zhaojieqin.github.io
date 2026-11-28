@@ -12,6 +12,18 @@
     ]
   },
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "A Global Photochemical Δ\n                    <sup>17</sup>\n                    O(O\n                    <sub>3</sub>\n                    ) Baseline for Identifying Non‐Local Ozone Influence at the Surface",
+    "doi": "10.1029/2026jd048323",
+    "url": "https://doi.org/10.1029/2026jd048323",
+    "abstract": "Abstract Atmospheric ozone exhibits a distinctive isotope anomaly, Δ 17 O, whose magnitude is controlled by ozone isotopologue formation under local temperature and pressure and is transferred to other oxidized species. Quantitative interpretation of ozone‐derived Δ 17 O in nitrate, sulfate, and environmental archives benefits from a reliable local Δ 17 O(O 3 ) reference, especially for site‐ or event‐scale oxidation rather than long‐term averages. This matters because surface ozone may contain locally photochemically reset ozone and ozone transported from high‐altitude or stratospheric reservoirs where Δ 17 O is formed under different thermodynamic conditions. However, atmospheric Δ 17 O(O 3 ) observations remain limited, and existing photochemical isotope box models do not fully reproduc…",
+    "authors": "Yichao Wu, Zhuang Jiang, Tao Zhou, Qianjie Chen et al.",
+    "published": "2026-11-27",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Geoscientific Model Development",
     "title": "Interactive land in E3SM process-level models: impacts  of land–atmosphere coupling in SCM and DP-SCREAM",
     "doi": "10.5194/gmd-19-11351-2026",
@@ -6158,19 +6170,6 @@
     "published": "2026-09-01",
     "keywords_matched": [
       "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Vortex-induced vibration forever of an extreme-light cylinder in an unsteady wake",
-    "doi": "10.1017/jfm.2026.11941",
-    "url": "https://doi.org/10.1017/jfm.2026.11941",
-    "abstract": "Vortex-induced vibration forever (VIVF) is classically associated with a single elastically mounted cylinder, for which oscillations persist at infinite reduced velocity when the mass ratio ( m Superscript asterisk m ∗ $m^*$ ) falls below a critical value ( m Subscript c r Superscript asterisk m c r ∗ $m_{cr}^*$ ). The existence and characteristics of such permanent vibration under unsteady wake conditions remain unclear. This study investigates the vibration response of an extreme-light cylinder placed in the wake of an upstream fixed cylinder without restoring forces, with particular emphasis on the existence and variation of a critical mass ratio m Subscript c r Superscript asterisk m c r ∗ $m_{cr}^*$ with the spacing ratio ( upper L divided by upper D L / D $L/D$ ). The Reynolds number…",
-    "authors": "Shenfang Li, Peng Han, Wei-Xi Huang, Junlei Wang",
-    "published": "2026-09-01",
-    "keywords_matched": [
-      "wake",
-      "vortex"
     ]
   }
 ]
